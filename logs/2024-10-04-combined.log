@@ -1,0 +1,33 @@
+2024-10-04 08:36:48 info: Agent Initialized
+2024-10-04 08:45:47 info: Agent Initialized
+2024-10-04 08:46:10 info: LLM Tool Call: {"toolCall":{"id":"call_jIi4u9FX4M3G1IQOxqEnNlTC","name":"index_Gaming","input":{"query":"Gaming PC under 25000 baht"}}}
+2024-10-04 08:47:36 info: Agent Initialized
+2024-10-04 08:47:53 info: Agent Initialized
+2024-10-04 08:48:55 info: Agent Initialized
+2024-10-04 08:50:03 info: Agent Initialized
+2024-10-04 08:50:41 info: Agent Initialized
+2024-10-04 08:51:03 info: LLM Tool Call: {"toolCall":{"id":"call_axa4HYCkWnjlYxLYLUo37APZ","name":"index_Gaming","input":{"query":"30000"}}}
+2024-10-04 08:53:32 info: Agent Initialized
+2024-10-04 08:53:46 info: LLM Tool Call: {"toolCall":{"id":"call_4YSDavvzHRTpHijTeQiNy5Nd","name":"index_Gaming","input":{"query":"30000"}}}
+2024-10-04 08:55:54 info: Agent Initialized
+2024-10-04 08:56:10 info: LLM Tool Call: {"toolCall":{"id":"call_W98NyXWLZ9ItPG0rA8mblELS","name":"index_Gaming","input":{"query":"Gaming PC under 30000 baht"}}}
+2024-10-04 08:56:22 info: LLM Tool Call: {"toolCall":{"id":"call_vJC1Uziwes4fQhF8W1u5WIfS","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-04 08:57:10 info: Agent Initialized
+2024-10-04 08:57:30 info: LLM Tool Call: {"toolCall":{"id":"call_exRvxchBAcwdFDtV7Zz8TAAB","name":"index_Gaming","input":{"query":"Gaming PC under 30000 baht"}}}
+2024-10-04 08:58:11 info: LLM Tool Call: {"toolCall":{"id":"call_XuTx3rZBjmQAtLLoLsYlYm8A","name":"index_Gaming","input":{"query":"SET Gaming 001"}}}
+2024-10-04 09:25:10 info: Agent Initialized
+2024-10-04 09:25:31 info: LLM Tool Call: {"toolCall":{"id":"call_sJfG5khUw8ghUcb9mSwE9MKW","name":"index_Gaming","input":{"query":"gaming pc under 30000 baht"}}}
+2024-10-04 09:25:47 info: LLM Tool Call: {"toolCall":{"id":"call_HXaOx7af9dSQhKCJaw2mzchn","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-04 09:29:47 info: LLM Tool Call: {"toolCall":{"id":"call_oSL3dt4brMnpCz2poSGC9WSw","name":"index_GPU_GIGABYTE","input":{"query":"gaming GPU"}}}
+2024-10-04 09:41:00 info: Agent Initialized
+2024-10-04 09:42:50 info: LLM Tool Call: {"toolCall":{"id":"call_YM8BJEWmxSLxTxnv3h90qHcg","name":"index_Gaming","input":{"query":"gaming pc under 30000 baht"}}}
+2024-10-04 09:43:32 info: LLM Tool Call: {"toolCall":{"id":"call_hL5pYJZS0W86huwcYctcEatT","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-04 20:58:05 info: Agent Initialized
+2024-10-04 20:58:27 info: LLM Tool Call: {"toolCall":{"id":"call_PXVhoqYHpLCwB9zE5uknAV9U","name":"index_Gaming","input":{"query":"30000"}}}
+2024-10-04 20:59:19 info: Agent Initialized
+2024-10-04 20:59:30 info: LLM Tool Call: {"toolCall":{"id":"call_Q8sy1xIhbqp4tw0HfLFhn5V0","name":"index_Gaming","input":{"query":"Gaming PC under 30000 baht"}}}
+2024-10-04 20:59:48 info: LLM Tool Call: {"toolCall":{"id":"call_UqxGA8nedlVsx5FiFzq1jpej","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-04 21:00:52 info: LLM Tool Call: {"toolCall":{"id":"call_IY2mdns48Fo0DJjwrLfnxy3v","name":"index_GPU_GIGABYTE","input":{"query":"Gaming GPU"}}}
+2024-10-04 21:08:12 info: Agent Initialized
+2024-10-04 21:08:55 info: LLM Tool Call: {"toolCall":{"id":"call_IY2mdns48Fo0DJjwrLfnxy3v","name":"index_Gaming","input":{"query":"Gaming PC under 30000 baht"}}}
+2024-10-04 21:09:28 info: LLM Tool Call: {"toolCall":{"id":"call_7lZrkFQTJfhxQ2kXKSz0ZtLk","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}

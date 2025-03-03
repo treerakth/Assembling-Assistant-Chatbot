@@ -1,0 +1,1391 @@
+2024-09-04 15:46:21 info: ----------------------------------------
+2024-09-04 15:46:21 info: Server started and listening on port 8000
+2024-09-04 15:46:21 info: ----------------------------------------
+2024-09-04 15:46:54 info: Events received: []
+2024-09-04 15:47:35 info: Events received: [{"type":"message","message":{"type":"text","id":"524469782896968192","quoteToken":"gjnEo9Fuq-QlJ6lR-ZhPg5IhgPtCeNh-n_Sr-wyn5PamsEENOyX-A94bPpAusAQRmFdbRhueMPE9Zjce4Vh7n8Eem2orv45YmHUU_vDdBHHRLn-bIwZOkFz_ht6YX991P_AJ9Q3yFE3jR5glR3D3Ag","text":"Hi"},"webhookEventId":"01J6Y3FFD66HSV4MFG084P3S2A","deliveryContext":{"isRedelivery":false},"timestamp":1725439655184,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"389ce74ff25b4073902b8733216992bb","mode":"active"}]
+2024-09-04 15:47:36 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:47:36 info: Agent initialized successfully
+2024-09-04 15:47:36 info: Check Agent : [object Object]
+2024-09-04 15:47:37 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: 400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'.
+2024-09-04 15:48:23 info: 
+2024-09-04 15:48:26 info: ----------------------------------------
+2024-09-04 15:48:26 info: Server started and listening on port 8000
+2024-09-04 15:48:26 info: ----------------------------------------
+2024-09-04 15:48:31 info: Events received: [{"type":"message","message":{"type":"text","id":"524469876648050950","quoteToken":"K7IIKoNdoj9-NFDBeXq4Fdu_cxcgVu6C3aJA_dH0sFjYpsdzI6gjC2g5FraZT50yMNSORxGyj20sYuepFQt6ZpIM1Wb7xo6OvVkkK4dl8EfjPXZbBnrO-eoE1DNYmJRtFM4W02j1uFXi4YeBOxO62Q","text":"Hi"},"webhookEventId":"01J6Y3H61F2PVHCD3XR4EFW2RH","deliveryContext":{"isRedelivery":false},"timestamp":1725439710959,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6259a104b92442b0924d7e2d14032882","mode":"active"}]
+2024-09-04 15:48:31 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:48:31 info: Agent initialized successfully
+2024-09-04 15:48:32 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: 400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'.
+2024-09-04 15:50:44 info: 
+2024-09-04 15:50:46 info: ----------------------------------------
+2024-09-04 15:50:46 info: Server started and listening on port 8000
+2024-09-04 15:50:46 info: ----------------------------------------
+2024-09-04 15:50:52 info: Events received: [{"type":"message","message":{"type":"text","id":"524470112485376348","quoteToken":"AcDupRKqc3PWE3eehULdgUFnliHKEG_T5TxEemsuae8fIBFHKAb0HCh1Diki604-erXzQnTvxSb5YBreGBgflGBTDBMAE2aYfGTFHfiwEmXDNRbp6Ugzo2qM9qwR5IwyuI7VPg3osC71ZQ5SXrEx5Q","text":"Hi"},"webhookEventId":"01J6Y3NFJGCKDXKP4XNR30Q8EB","deliveryContext":{"isRedelivery":false},"timestamp":1725439851610,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"76d306e60a3146fe84711a1e7372a1ac","mode":"active"}]
+2024-09-04 15:50:52 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:50:52 info: Agent initialized successfully
+2024-09-04 15:50:52 info: agent Sussess load.
+2024-09-04 15:50:53 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: 400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'.
+2024-09-04 15:51:57 info: 
+2024-09-04 15:51:59 info: ----------------------------------------
+2024-09-04 15:51:59 info: Server started and listening on port 8000
+2024-09-04 15:51:59 info: ----------------------------------------
+2024-09-04 15:52:02 info: Events received: [{"type":"message","message":{"type":"text","id":"524470230580199896","quoteToken":"yjbkduUsdvQjg9hwj57-AKy0VtCwrvTDlEzFali25d15wUm-Z1Btm_hapD2E_H3BLtRN7T3M0cI6yUkTKuQujWDmLYovjrHKVJHIFW7fWCfvZsYCFgXew0wHRfWCRH_W3bVrCzqHuqNFKgM4xxCUCw","text":"Hi"},"webhookEventId":"01J6Y3QM15V5NYJ8Z7AQ1GVE7T","deliveryContext":{"isRedelivery":false},"timestamp":1725439922054,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6391ac8d47934e6aaed4d9d6c0c721fb","mode":"active"}]
+2024-09-04 15:52:02 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:52:03 info: Agent initialized successfully
+2024-09-04 15:52:03 info: agent Sussess load.
+2024-09-04 15:52:03 error: Error in agent chat: QueryDetect is not defined
+2024-09-04 15:52:03 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: QueryDetect is not defined
+2024-09-04 15:52:23 info: 
+2024-09-04 15:52:27 info: ----------------------------------------
+2024-09-04 15:52:27 info: Server started and listening on port 8000
+2024-09-04 15:52:27 info: ----------------------------------------
+2024-09-04 15:52:29 info: Events received: [{"type":"message","message":{"type":"text","id":"524470276667998289","quoteToken":"G4cX9VujtzoJXWE-HcFIK3z0k00My0SA_pMuDmYPz6Vq0myoqBahxtnnnZpRryko00ANig5NxavzowuDJqBr1c0lr3uDgOn1mJn1lhAg_Z7AI71GXWdf-IE8IEyiOOdVhfPuBX-Skmek0ciyQAPBPg","text":"Hi"},"webhookEventId":"01J6Y3REKAQJWQP51B3KTEPSZM","deliveryContext":{"isRedelivery":false},"timestamp":1725439949370,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"746b2f93536e4ad7b60fd32ccd24fb1d","mode":"active"}]
+2024-09-04 15:52:29 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:52:30 info: Agent initialized successfully
+2024-09-04 15:52:30 info: agent Sussess load.
+2024-09-04 15:52:30 error: Error in agent chat: QueryDetect is not defined
+2024-09-04 15:52:30 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: QueryDetect is not defined
+2024-09-04 15:52:52 info: 
+2024-09-04 15:52:56 info: ----------------------------------------
+2024-09-04 15:52:56 info: Server started and listening on port 8000
+2024-09-04 15:52:56 info: ----------------------------------------
+2024-09-04 15:52:58 info: Events received: [{"type":"message","message":{"type":"text","id":"524470325656682658","quoteToken":"vPdqV5hEXFBX_mUu1A1cii9Wv4sIfoV5lVtmFQyrVNbZwkPMVjakKceTgKw9-0Cq69KnCu5UTWdbhEKx17MYLT0cwqTx3qEDunio-LVG5c2ouk3fjQHx-P32PV5_JmjT8xOAhPdFnMIHkmfX7kOpiA","text":"Hi"},"webhookEventId":"01J6Y3SB64NRVBKXTEEY07XT6S","deliveryContext":{"isRedelivery":false},"timestamp":1725439978642,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c1e8ae4464c3489684ed08b295204a52","mode":"active"}]
+2024-09-04 15:52:59 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:52:59 info: Agent initialized successfully
+2024-09-04 15:52:59 info: agent Sussess load.
+2024-09-04 15:52:59 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: userQuery is not defined
+2024-09-04 15:54:10 info: 
+2024-09-04 15:54:13 info: ----------------------------------------
+2024-09-04 15:54:13 info: Server started and listening on port 8000
+2024-09-04 15:54:13 info: ----------------------------------------
+2024-09-04 15:54:16 info: Events received: [{"type":"message","message":{"type":"text","id":"524470455194353987","quoteToken":"sRVFH9LeFOHRv2r7KWX2OlDK9uNSXRpgW-s3OIzyAwko_reXd-iplzVK6dqbFXHPyNHZ_ABEKf0EwD1civO4Y06AmUaQjE2gOZkEu3SN_bgnlBzn91Le_slwGN9u0VjgOOcFuZqAnVBypkbrlVlsqA","text":"Hello"},"webhookEventId":"01J6Y3VQ2PJ2GBT4VGW910H1F4","deliveryContext":{"isRedelivery":false},"timestamp":1725440055905,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"1682c08372384ac9ac72e0f352d3e02a","mode":"active"}]
+2024-09-04 15:54:17 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:54:17 info: Agent initialized successfully
+2024-09-04 15:54:17 info: agent Sussess load.
+2024-09-04 15:54:17 error: Error in agent chat: QueryDetect is not defined
+2024-09-04 15:54:17 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: QueryDetect is not defined
+2024-09-04 15:56:47 info: 
+2024-09-04 15:56:51 info: ----------------------------------------
+2024-09-04 15:56:51 info: Server started and listening on port 8000
+2024-09-04 15:56:51 info: ----------------------------------------
+2024-09-04 15:56:57 info: Events received: [{"type":"message","message":{"type":"text","id":"524470724686512276","quoteToken":"pXj8IENyrXtov2Fx2lyFmKbtKs8umfgCTkTCnfER7_fG3rOAklxpV1BhcZ33vq3PNJG4vxN-CgZVNMeCEjejzXscmNRwiw7v0NjgiZewNz33hVE75f5vPR9wypdbbuYl188tEJ0QegTLuFA1m5vWkQ","text":"Hi"},"webhookEventId":"01J6Y40KWSFF9E5HJ036Q2M1QK","deliveryContext":{"isRedelivery":false},"timestamp":1725440216604,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"fe8b900294e04bd4b91a575f1302a5cf","mode":"active"}]
+2024-09-04 15:56:57 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:56:57 info: Agent initialized successfully
+2024-09-04 15:56:57 info: agent Sussess load.
+2024-09-04 15:56:59 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 15:56:59 info: User input: Hi
+2024-09-04 15:56:59 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 15:56:59 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 15:56:59 info: responseText Sussess load.
+2024-09-04 15:57:00 info: ________________________________________
+2024-09-04 15:57:00 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 15:57:00 info: summaryResponse Sussess load.
+2024-09-04 15:57:14 info: Events received: [{"type":"message","message":{"type":"text","id":"524470755087089665","quoteToken":"usNYT8rRFQ5aX15b8DJiRyhV1LZgoFTPDFv5DJELa0aROrQDHksBNTR1mUa0e5_ydUTjJrC0z3ysj5VfrkDc1iiTruIDgGThu5KPdmk9pqNnhc_mlgryayzWkYlrOrt_kGLls5b4rIBDp0_qauToDA","text":"I want PC"},"webhookEventId":"01J6Y41585SPBD75TMPP5SSMZ0","deliveryContext":{"isRedelivery":false},"timestamp":1725440234530,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"df6b5209e8274d31935215fc38f6894e","mode":"active"}]
+2024-09-04 15:57:15 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 15:57:15 info: agent Sussess load.
+2024-09-04 15:57:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 15:57:17 info: User input: I want PC
+2024-09-04 15:57:17 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 15:57:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 15:57:17 info: responseText Sussess load.
+2024-09-04 15:57:18 info: ________________________________________
+2024-09-04 15:57:18 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 15:57:18 info: summaryResponse Sussess load.
+2024-09-04 16:00:40 info: Events received: [{"type":"message","message":{"type":"text","id":"524471099421884485","quoteToken":"vyfIq97ryXtM69IGbLSlteNbJe2jM7JR4sYDR5waYEEXWUU2KQyUF5RLri1H07TL0WeU1IyPNBtJz6fQ3iqd8VHdJE4k690YsQq84zrOD69H4FUO5Yik1eip5_zlTY_4IYHmTR-aGYXzRZhQ15K9tQ","text":"can recommend ?"},"webhookEventId":"01J6Y47DZA12DVXPNBV1YBVDCN","deliveryContext":{"isRedelivery":false},"timestamp":1725440439953,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9d892b94513b4264bdafe2338a8be63b","mode":"active"}]
+2024-09-04 16:00:40 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:00:40 info: agent Sussess load.
+2024-09-04 16:00:44 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:00:44 info: User input: can recommend ?
+2024-09-04 16:00:44 info: Response: Sure! Here are some recommendations based on different types of PCs:
+
+1. **Gaming PC**: Ideal for playing the latest games with high graphics settings.
+2. **General Use PC**: Suitable for everyday tasks like browsing, office work, and media consumption.
+3. **Work PC**: Designed for productivity, multitasking, and professional applications.
+4. **High-End PC**: For enthusiasts who want top performance for gaming, content creation, or heavy workloads.
+
+Please let me know which type you're interested in, or if you have specific requirements or budget in mind! kubpom!
+2024-09-04 16:00:44 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:00:44 info: responseText Sussess load.
+2024-09-04 16:00:46 info: ________________________________________
+2024-09-04 16:00:46 info: Response summarized: Sure! Here are some recommendations based on different types of PCs:
+
+1. **Gaming PC**: Ideal for playing the latest games with high graphics settings.
+2. **General Use PC**: Suitable for everyday tasks like browsing, office work, and media consumption.
+3. **Work PC**: Designed for productivity, multitasking, and professional applications.
+4. **High-End PC**: For enthusiasts who want top performance for gaming, content creation, or heavy workloads.
+
+Please let me know which type you're interested in, or if you have specific requirements or budget in mind! kubpom!
+2024-09-04 16:00:46 info: summaryResponse Sussess load.
+2024-09-04 16:05:44 info: 
+2024-09-04 16:05:48 info: ----------------------------------------
+2024-09-04 16:05:48 info: Server started and listening on port 8000
+2024-09-04 16:05:48 info: ----------------------------------------
+2024-09-04 16:05:52 info: Events received: [{"type":"message","message":{"type":"text","id":"524471623341310117","quoteToken":"ygPAlHDcVSqlwCcgf5Rwe4a4t_QnLtZ7UFYSQovaCpYS1-xxb71tysZjKQFbkbtrpor3mTzyI_zhIYImW4BrdZgJdUj0W7dFY4DuW4rAFUluAHoWh5L7V_V5j_3S_LIdUOzElFgYr57imQngFSWevw","text":"Hi"},"webhookEventId":"01J6Y4GZ1G2HVAMRVJA7A7DF9G","deliveryContext":{"isRedelivery":false},"timestamp":1725440752190,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5e84027ad0b742ff9540880be42aa72a","mode":"active"}]
+2024-09-04 16:05:53 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:05:53 info: Agent initialized successfully
+2024-09-04 16:05:53 info: agent Sussess load.
+2024-09-04 16:05:55 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:05:55 info: User input: Hi
+2024-09-04 16:05:55 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:05:55 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:05:55 info: responseText Sussess load.
+2024-09-04 16:05:56 info: ________________________________________
+2024-09-04 16:05:56 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 16:05:56 info: summaryResponse Sussess load.
+2024-09-04 16:06:03 info: Events received: [{"type":"message","message":{"type":"text","id":"524471641208783042","quoteToken":"31KQiUpZfdKbFYBls9oVcK0-LrxXqtlZX2S3-WfxLYjtcfHlIZi8Erf0Jc4EPBUMNQZY--l4zru4mG-SnVBW9bJuzwuLh8toTy-9fiZkb2zVeiHzJiZwRR05x9JmTZSXcWYKWlArPFlpPd1cZeTHiA","text":"I want PC"},"webhookEventId":"01J6Y4H9192XMYF9R5RTYTDRKA","deliveryContext":{"isRedelivery":false},"timestamp":1725440762742,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"911f7a5c3ab74f29b7a5afca25c59ed5","mode":"active"}]
+2024-09-04 16:06:03 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:06:03 info: agent Sussess load.
+2024-09-04 16:06:05 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:06:05 info: User input: I want PC
+2024-09-04 16:06:05 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 16:06:05 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:06:05 info: responseText Sussess load.
+2024-09-04 16:06:06 info: ________________________________________
+2024-09-04 16:06:06 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 16:06:06 info: summaryResponse Sussess load.
+2024-09-04 16:06:22 info: Events received: [{"type":"message","message":{"type":"text","id":"524471673488670913","quoteToken":"I4OQkHwRf1NcffFqzjTa7FDatyRV9xfjRRwDvgbhfGglXZs5KZP7m9VU-_Hh9J2MFEaTvnkjSws_BkN5NQQYQ1UEgcLCGqTsuEaJIjBpOHJd4MBmjy-TEMwFMNtPKr0VO02Q4Ub09JOzSJu_5oovnQ","text":"can recommend me"},"webhookEventId":"01J6Y4HVPDB1DGGYPQTHQVSG6M","deliveryContext":{"isRedelivery":false},"timestamp":1725440781944,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"1b727d1fd8bc45c296c9396a85dde6cf","mode":"active"}]
+2024-09-04 16:06:22 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:06:22 info: agent Sussess load.
+2024-09-04 16:06:25 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:06:25 info: User input: can recommend me
+2024-09-04 16:06:25 info: Response: Could you please specify what type of PC you would like recommendations for? Here are the options:
+
+1. Gaming PC
+2. General Use PC
+3. Work PC
+4. High-End PC
+
+Let me know your choice, and I'll provide you with suitable recommendations! kubpom!
+2024-09-04 16:06:25 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:06:25 info: responseText Sussess load.
+2024-09-04 16:06:26 info: ________________________________________
+2024-09-04 16:06:26 info: Response summarized: Could you please specify what type of PC you would like recommendations for? Here are the options:
+
+1. Gaming PC
+2. General Use PC
+3. Work PC
+4. High-End PC
+
+Let me know your choice, and I'll provide you with suitable recommendations! kubpom!
+2024-09-04 16:06:26 info: summaryResponse Sussess load.
+2024-09-04 16:07:14 info: Events received: [{"type":"message","message":{"type":"text","id":"524471760931258899","quoteToken":"I1TwVQIqWKNXSQSnWNM-f2mzq8mxos0JP8HheZIwE7jp0Kf9AnHLVaaFTVZPWTlxwKIUBrn4wpZV6M1Xo0uDOgOUNslDxEcim1lXH6EbYT4aooEZBwLvKiLhefxD-D_qYYUqWROBziiE3W3jY4JqFg","text":"4"},"webhookEventId":"01J6Y4KEYYY05GA4M4N1ES4WQB","deliveryContext":{"isRedelivery":false},"timestamp":1725440834184,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f1b65b97ae1641a09bc4ad4f0a10f0d0","mode":"active"}]
+2024-09-04 16:07:15 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:07:15 info: agent Sussess load.
+2024-09-04 16:07:16 info: ****************************************
+2024-09-04 16:07:16 info: Query Detection: recommend hi-end PC
+2024-09-04 16:07:16 info: Tool Call: {
+  "id": "call_fbRanPgx4zVwYg5cfxqpvY4k",
+  "name": "vector_index_Type_PC_-_Type_Hi-End_-_Computer_Set",
+  "input": {
+    "query": "recommend hi-end PC"
+  }
+}
+2024-09-04 16:07:16 info: ****************************************
+2024-09-04 16:07:31 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:07:31 info: User input: 4
+2024-09-04 16:07:31 info: Response: Here are three high-end PC configurations that you can consider:
+
+1. **COMPUTERSET JIB MARU-2408102**
+   - **CPU**: INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard**: GIGABYTE Z790 AORUS PRO X
+   - **GPU**: GIGABYTE GEFORCE RTX 4090 GAMING OC 24G
+   - **RAM**: CORSAIR DOMINATOR PLATINUM RGB DDR5 64GB
+   - **SSD**: WD BLACK SN770 2 TB SSD
+   - **PSU**: THERMALTAKE TOUGHPOWER GF A3 GOLD 1200W
+   - **CASE**: MONTECH KING 95 PRO
+   - **Cooler**: ASUS ROG RYUJIN III 360 ARGB
+   - **Total Price**: 160,450 THB
+
+2. **COMPUTERSET JIB MARU-2408100**
+   - **CPU**: INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 FORMULA
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090 24GB
+   - **RAM**: CORSAIR VENGEANCE RGB DDR5 96GB
+   - **SSD**: WD BLACK SN770 2 TB SSD
+   - **PSU**: ASUS ROG-THOR-1200P2-GAMING 1200W
+   - **CASE**: NZXT H9 ELITE
+   - **Cooler**: ASUS ROG RYUJIN III 360 ARGB WHITE
+   - **Total Price**: 203,270 THB
+
+3. **COMPUTERSET JIB MARU-2408101**
+   - **CPU**: INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 DARK HERO
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090 OC EDITION
+   - **RAM**: CORSAIR VENGEANCE RGB DDR5 96GB
+   - **SSD**: WD BLACK SN770 2 TB SSD
+   - **PSU**: ASUS ROG-THOR-1200P2-GAMING 1200W
+   - **CASE**: NZXT H7 ELITE
+   - **Cooler**: ASUS ROG RYUJIN III 360 ARGB
+   - **Total Price**: 199,070 THB
+
+All three configurations feature top-tier components suitable for high-performance tasks such as gaming, content creation, and more. The choice between them can depend on your specific preferences for aesthetics, brand loyalty, and budget. Let me know if you need more information or assistance! kubpom!
+2024-09-04 16:07:31 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:07:31 info: responseText Sussess load.
+2024-09-04 16:07:39 info: ________________________________________
+2024-09-04 16:07:39 info: Response summarized: Here are three high-end PC configurations you can consider:
+
+1. **COMPUTERSET JIB MARU-2408102**
+   - **CPU**: INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard**: GIGABYTE Z790 AORUS PRO X
+   - **GPU**: GIGABYTE GEFORCE RTX 4090 GAMING OC 24G
+   - **RAM**: CORSAIR DOMINATOR PLATINUM RGB DDR5 64GB
+   - **SSD**: WD BLACK SN770 2 TB SSD
+   - **PSU**: THERMALTAKE TOUGHPOWER GF A3 GOLD 1200W
+   - **CASE**: MONTECH KING 95 PRO
+   - **Cooler**: ASUS ROG RYUJIN III 360 ARGB
+   - **Total Price**: 160,450 THB
+
+2. **COMPUTERSET JIB MARU-2408100**
+   - **CPU**: INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 FORMULA
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090 24GB
+   - **RAM**: CORSAIR VENGEANCE RGB DDR5 96GB
+   - **SSD**: WD BLACK SN770 2 TB SSD
+   - **PSU**: ASUS ROG-THOR-1200P2-GAMING 1200W
+   - **CASE**: NZXT H9 ELITE
+   - **Cooler**: ASUS ROG RYUJIN III 360 ARGB WHITE
+   - **Total Price**: 203,270 THB
+
+3. **COMPUTERSET JIB MARU-2408101**
+   - **CPU**: INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 DARK HERO
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090 OC EDITION
+   - **RAM**: CORSAIR VENGEANCE RGB DDR5 96GB
+   - **SSD**: WD BLACK SN770 2 TB SSD
+   - **PSU**: ASUS ROG-THOR-1200P2-GAMING 1200W
+   - **CASE**: NZXT H7 ELITE
+   - **Cooler**: ASUS ROG RYUJIN III 360 ARGB
+   - **Total Price**: 199,070 THB
+
+All configurations feature top-tier components suitable for high-performance tasks. Let me know if you need more information or assistance! kubpom!
+2024-09-04 16:07:39 info: summaryResponse Sussess load.
+2024-09-04 16:08:50 info: 
+2024-09-04 16:08:52 info: ----------------------------------------
+2024-09-04 16:08:52 info: Server started and listening on port 8000
+2024-09-04 16:08:52 info: ----------------------------------------
+2024-09-04 16:08:57 info: Events received: [{"type":"message","message":{"type":"text","id":"524471934440964782","quoteToken":"rQjYJj4IuvnG7qG9usDCS1VfO8DcZCe8VWGhr9Os4v6ifKphls1JitVmfheDw1CHaejlteoURnZBZsG0mtkRp0EtiKeHGUzgVLck2M_Q1ITl6gMtJVDtAYK0oQtMwWwL1NYycAl6FkEM4YuQX3pWyg","text":"Hi"},"webhookEventId":"01J6Y4PKRSG2GMX9ESHSZPKZFV","deliveryContext":{"isRedelivery":false},"timestamp":1725440937521,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"aaeef03b6d674ab59097d475f9207523","mode":"active"}]
+2024-09-04 16:08:58 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:08:58 info: Agent initialized successfully
+2024-09-04 16:08:58 info: agent Sussess load.
+2024-09-04 16:09:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:09:00 info: User input: Hi
+2024-09-04 16:09:00 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:09:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:09:00 info: responseText Sussess load.
+2024-09-04 16:09:01 info: ________________________________________
+2024-09-04 16:09:01 info: Response summarized: Hello! How can I assist you today? kubpom! 😊🤗💻
+2024-09-04 16:09:01 info: summaryResponse Sussess load.
+2024-09-04 16:19:14 info: 
+2024-09-04 16:19:17 info: ----------------------------------------
+2024-09-04 16:19:17 info: Server started and listening on port 8000
+2024-09-04 16:19:17 info: ----------------------------------------
+2024-09-04 16:19:25 info: Events received: [{"type":"message","message":{"type":"text","id":"524472986205159942","quoteToken":"FbYRhBPN8vt-S2N1Iz9axRoQzKxlsaujq3Iu6oEk4txp_FFrjVeIrDkUZVAoJoardUuLRmdLUavBQv2j55DBex5h71F1F5M1_GAco0EjF02HM2gCZphjTY5HjWe80Qyc5JthwecrPlch9bJXpSIp3g","text":"Hi"},"webhookEventId":"01J6Y59R7SEXE8EEPK3M0MGH9V","deliveryContext":{"isRedelivery":false},"timestamp":1725441564496,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5da9692807a64551be23af3315b0bb31","mode":"active"}]
+2024-09-04 16:19:25 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:19:25 info: Agent initialized successfully
+2024-09-04 16:19:25 info: agent Sussess load.
+2024-09-04 16:19:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:19:27 info: User input: Hi
+2024-09-04 16:19:27 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:19:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:19:27 info: responseText Sussess load.
+2024-09-04 16:19:28 info: ________________________________________
+2024-09-04 16:19:28 info: Response summarized: Hello! How can I assist you today? kubpom! 😊
+2024-09-04 16:19:28 info: summaryResponse Sussess load.
+2024-09-04 16:19:39 info: Events received: [{"type":"message","message":{"type":"text","id":"524473010616008801","quoteToken":"7a2EyAqg2pNvtbTx5lscAHk-AWC1HVCqP9_BN4ltPU5-DjfiTMkqnKMXT7yBGdnXjzECOejr7kdfoRsO4jWKSC3VmrjaLcSTl10doWyixgCJh2XrUs62a9gk27I_3YkePDzAEvt0_ZTtWpu_xDmkPA","text":"I want PC"},"webhookEventId":"01J6Y5A6CV3H9ADND2F942ZGJY","deliveryContext":{"isRedelivery":false},"timestamp":1725441578932,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"42a3233085d340c1b76ce9e014e0d6d0","mode":"active"}]
+2024-09-04 16:19:40 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:19:40 info: agent Sussess load.
+2024-09-04 16:19:42 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:19:42 info: User input: I want PC
+2024-09-04 16:19:42 info: Response: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-04 16:19:42 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:19:42 info: responseText Sussess load.
+2024-09-04 16:19:42 info: ________________________________________
+2024-09-04 16:19:42 info: Response summarized: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom! 😊
+2024-09-04 16:19:42 info: summaryResponse Sussess load.
+2024-09-04 16:20:31 info: 
+2024-09-04 16:20:33 info: ----------------------------------------
+2024-09-04 16:20:33 info: Server started and listening on port 8000
+2024-09-04 16:20:33 info: ----------------------------------------
+2024-09-04 16:20:37 info: Events received: [{"type":"message","message":{"type":"text","id":"524473107201917048","quoteToken":"PufLHi3KgceKMrj25zqCdS5E8NrgbxVtAFbQr902_VqPqbbnTnc1eII68eeeGy8MV56nt8ZHKQw9oL_Q5aeJDmyTKq3GE9wMGbD8PIo5OJyArsU6X858qKCYkowDB2apiSLUV1MKsWfjY8HPnOjqow","text":"Hi"},"webhookEventId":"01J6Y5BYJHEXTCCFJGY8PDGC99","deliveryContext":{"isRedelivery":false},"timestamp":1725441636576,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"fe72e69e19f3436581ed58c84770d46f","mode":"active"}]
+2024-09-04 16:20:37 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:20:37 info: Agent initialized successfully
+2024-09-04 16:20:37 info: agent Sussess load.
+2024-09-04 16:20:39 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:20:39 info: User input: Hi
+2024-09-04 16:20:39 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:20:39 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:20:39 info: responseText Sussess load.
+2024-09-04 16:20:40 info: ________________________________________
+2024-09-04 16:20:40 info: Response summarized: Hello! How can I assist you today?
+2024-09-04 16:20:40 info: summaryResponse Sussess load.
+2024-09-04 16:21:30 info: 
+2024-09-04 16:21:33 info: ----------------------------------------
+2024-09-04 16:21:33 info: Server started and listening on port 8000
+2024-09-04 16:21:33 info: ----------------------------------------
+2024-09-04 16:21:35 info: Events received: [{"type":"message","message":{"type":"text","id":"524473205835432121","quoteToken":"_FnzPp7lESdjflcInYXcaDw68Uj9U0MM785GSeZljeABeHvuc6cqTL1i_-Njb_hWtZ8rdeaZynQzCXT9QqpRtNcJJTxFcI6n6pNj_oM8AmsNAF-y62vElXJyVZ6eQgfe6ZqGBob2lurQkGmYsZFoaw","text":"Hi"},"webhookEventId":"01J6Y5DQT41X89HABRY8HHQXX6","deliveryContext":{"isRedelivery":false},"timestamp":1725441695423,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"67b856bbc5cc4e06bf7cdbffe708ecf7","mode":"active"}]
+2024-09-04 16:21:36 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:21:36 info: Agent initialized successfully
+2024-09-04 16:21:36 info: agent Sussess load.
+2024-09-04 16:21:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:21:38 info: User input: Hi
+2024-09-04 16:21:38 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:21:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:21:38 info: responseText Sussess load.
+2024-09-04 16:21:39 info: ________________________________________
+2024-09-04 16:21:39 info: Response summarized: Hello! How can I assist you today? kubpom! 😊
+2024-09-04 16:21:39 info: summaryResponse Sussess load.
+2024-09-04 16:21:44 info: Events received: [{"type":"message","message":{"type":"text","id":"524473220599644482","quoteToken":"upUPL24BgRr35KCmnpE7F5NJElb9btOtFEHb2_HNkzkhyjZep5s7vK1qdQ2d8g5qoMMUmWZ8wfZh802nKsDpBh-IvHMjbPu7j3knH4qFMOwiH81MEfDG-oLhRWAtdSgpT5b8BsLYaI6OnPzd3VqVig","text":"I want PC"},"webhookEventId":"01J6Y5E0E9TS0CEH93W5AT33J3","deliveryContext":{"isRedelivery":false},"timestamp":1725441704182,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a04186c269d84baba66107d3c0787cf6","mode":"active"}]
+2024-09-04 16:21:44 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:21:44 info: agent Sussess load.
+2024-09-04 16:21:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:21:47 info: User input: I want PC
+2024-09-04 16:21:47 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 16:21:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:21:47 info: responseText Sussess load.
+2024-09-04 16:21:48 info: ________________________________________
+2024-09-04 16:21:48 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! 😊
+2024-09-04 16:21:48 info: summaryResponse Sussess load.
+2024-09-04 16:21:55 info: Events received: [{"type":"message","message":{"type":"text","id":"524473238936617282","quoteToken":"XigsQkuTpY9soSux5mEKEg300b6m1ANaP4TwoI839WU9KGx1FQqHN9qit09i1xZylTtXiut1PF7Sv0NmBROo4sUunnWyieeDB_eKIeXcveUKKSLL_ezzbcaj9h9ZKkE3clSbKwMMkLDNN0gtWowebQ","text":"can recommend to me?"},"webhookEventId":"01J6Y5EB57EXHS3CBPEM1EQ8V6","deliveryContext":{"isRedelivery":false},"timestamp":1725441715028,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"11748db9950246e69d7dd611fe991bf7","mode":"active"}]
+2024-09-04 16:21:56 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:21:56 info: agent Sussess load.
+2024-09-04 16:21:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:21:58 info: User input: can recommend to me?
+2024-09-04 16:21:58 info: Response: Sure! Here are some recommendations based on different types of PCs:
+
+1. **Gaming PC**: Ideal for playing the latest games with high graphics settings.
+2. **General Use PC**: Suitable for everyday tasks like browsing, office work, and media consumption.
+3. **Work PC**: Designed for productivity tasks, such as programming, graphic design, or video editing.
+4. **High-End PC**: For enthusiasts who want top-tier performance for gaming, content creation, or heavy multitasking.
+
+Please let me know which type you're interested in, or if you have specific requirements or budget in mind! kubpom!
+2024-09-04 16:21:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:21:58 info: responseText Sussess load.
+2024-09-04 16:22:00 info: ________________________________________
+2024-09-04 16:22:00 info: Response summarized: Sure! Here are some recommendations based on different types of PCs:
+
+1. **Gaming PC**: Ideal for playing the latest games with high graphics settings.
+2. **General Use PC**: Suitable for everyday tasks like browsing, office work, and media consumption.
+3. **Work PC**: Designed for productivity tasks, such as programming, graphic design, or video editing.
+4. **High-End PC**: For enthusiasts who want top-tier performance for gaming, content creation, or heavy multitasking.
+
+Please let me know which type you're interested in, or if you have specific requirements or budget in mind! 😊
+2024-09-04 16:22:00 info: summaryResponse Sussess load.
+2024-09-04 16:22:57 info: 
+2024-09-04 16:23:00 info: ----------------------------------------
+2024-09-04 16:23:00 info: Server started and listening on port 8000
+2024-09-04 16:23:00 info: ----------------------------------------
+2024-09-04 16:23:14 info: Events received: [{"type":"message","message":{"type":"text","id":"524473372483780627","quoteToken":"TSdCU3HpbNZ_V3chk8z5_4DnXs59l5A_7gjDChM_2lnvxPQU3Iko_580-naFtSXq9hz50wEUgaKmNwMS7lA5gvtJSmoynTjHUBzK_xa1sbrUxh2l1FMGzNesH6ZhcF6pVInqhMDHw1LmmkErZ3Rh7A","text":"Hi"},"webhookEventId":"01J6Y5GRM11149SCPCWGT5D9WH","deliveryContext":{"isRedelivery":false},"timestamp":1725441794643,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"03f80d0732394930a856f1b927987edd","mode":"active"}]
+2024-09-04 16:23:15 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:23:15 info: Agent initialized successfully
+2024-09-04 16:23:15 info: agent Sussess load.
+2024-09-04 16:23:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:23:17 info: User input: Hi
+2024-09-04 16:23:17 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:23:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:23:17 info: responseText Sussess load.
+2024-09-04 16:23:18 info: ________________________________________
+2024-09-04 16:23:18 info: Response summarized: Hello! How can I assist you today? kubpom! 😊
+2024-09-04 16:23:18 info: summaryResponse Sussess load.
+2024-09-04 16:23:22 info: Events received: [{"type":"message","message":{"type":"text","id":"524473384076050774","quoteToken":"OlptCif4482QvpIfXqYCBJxG7H8RNy4jrlUZdzVtwh9yuIo9MnRgZa8B3lu4A8mBa74KLM8NpM7t73RgOZ9lOZgE7qiCxywYc2A9RGX5qc8TVdQQvNn2Rl-ywHXuc13U6oJ6DfvZttxQOrynSn3wZw","text":"I want PC"},"webhookEventId":"01J6Y5GZPN7A97JXDTQS620R8J","deliveryContext":{"isRedelivery":false},"timestamp":1725441801677,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"0145daebcadb46cbbd76b43af05968c4","mode":"active"}]
+2024-09-04 16:23:22 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:23:22 info: agent Sussess load.
+2024-09-04 16:23:24 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:23:24 info: User input: I want PC
+2024-09-04 16:23:24 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 16:23:24 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:23:24 info: responseText Sussess load.
+2024-09-04 16:23:25 info: ________________________________________
+2024-09-04 16:23:25 info: Response summarized: - Please specify the type of PC you need:
+  - Gaming PC
+  - General-use PC
+  - Work PC
+  - High-end PC
+- Let me know your preferences for tailored specifications! 😊
+2024-09-04 16:23:25 info: summaryResponse Sussess load.
+2024-09-04 16:25:13 info: 
+2024-09-04 16:25:26 info: ----------------------------------------
+2024-09-04 16:25:26 info: Server started and listening on port 8000
+2024-09-04 16:25:26 info: ----------------------------------------
+2024-09-04 16:25:34 info: Events received: [{"type":"message","message":{"type":"text","id":"524473605837554300","quoteToken":"xpUfT9MPChfcaycsc7tHrS5W4Lfk_MZ63MhEecHICoVSfr6iFM6c5CSSyQX9-PFHkLc7ONoQJASNujXN1SVv0MT6xE9VT81HIvOHh7nKhiac6piLGS2UrGe5Q3Hx4FeE8RATkw0b_D9UqNWGwtKLiQ","text":"hi"},"webhookEventId":"01J6Y5N0NGTW7KKY5YV91RXJA7","deliveryContext":{"isRedelivery":false},"timestamp":1725441933806,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"aeb669dd9f564fa9ac46366c36cee178","mode":"active"}]
+2024-09-04 16:25:34 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:25:35 info: Agent initialized successfully
+2024-09-04 16:25:35 info: agent Sussess load.
+2024-09-04 16:25:36 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:25:36 info: User input: hi
+2024-09-04 16:25:36 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:25:36 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:25:36 info: responseText Sussess load.
+2024-09-04 16:25:37 info: ________________________________________
+2024-09-04 16:25:37 info: Response summarized: Hello! How can I assist you today? kubpom! 😊
+2024-09-04 16:25:37 info: summaryResponse Sussess load.
+2024-09-04 16:26:07 info: 
+2024-09-04 16:26:15 info: ----------------------------------------
+2024-09-04 16:26:15 info: Server started and listening on port 8000
+2024-09-04 16:26:15 info: ----------------------------------------
+2024-09-04 16:26:19 info: Events received: [{"type":"message","message":{"type":"text","id":"524473680630907234","quoteToken":"uNajfQjEYiX6fHaN16zhsjQ_pouGN_X5JKCFjvvHp-F-LuW6tfRoYHB07ayHYkJgcu4uQ0uVDknT7zJzK23dD5O8CYwni3dJgRlbzyAUQi1BC2tL8PQwR5d1PgQTSVyzOA_Z7e_lbV4VV9xeYYH0zw","text":"Hi"},"webhookEventId":"01J6Y5PC93ZZZZ4647Z76K1SSR","deliveryContext":{"isRedelivery":false},"timestamp":1725441978294,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"55fa9899cf094fd98484cc604d624438","mode":"active"}]
+2024-09-04 16:26:19 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:26:19 info: Agent initialized successfully
+2024-09-04 16:26:19 info: agent Sussess load.
+2024-09-04 16:26:20 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:26:20 info: User input: Hi
+2024-09-04 16:26:20 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:26:20 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:26:20 info: responseText Sussess load.
+2024-09-04 16:26:21 info: ________________________________________
+2024-09-04 16:26:21 info: Response summarized: Hello! How can I assist you today? kubpom! 💻🖥️🔧
+2024-09-04 16:26:21 info: summaryResponse Sussess load.
+2024-09-04 16:26:25 info: Events received: [{"type":"message","message":{"type":"text","id":"524473692541943844","quoteToken":"T4SxdBSRfoL_Bw5h53hF-gx3ipe0AJ9gFgtvQmzoZvnJCV-KuqrqjH-uO0oJEr4teNIUmedBmbLP0QK4xhDClAL3WAtlyWGYkHwcN5GDJd12SbOdf4wiVb1knvhXYk1X-yUH9NH0O3B90A0PRqEFpQ","text":"I want PC"},"webhookEventId":"01J6Y5PK2JK46A8XK0C59MF9N6","deliveryContext":{"isRedelivery":false},"timestamp":1725441985470,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"02e427d758344912a37b7a2ac9dbdcc6","mode":"active"}]
+2024-09-04 16:26:26 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:26:26 info: agent Sussess load.
+2024-09-04 16:26:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:26:28 info: User input: I want PC
+2024-09-04 16:26:28 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 16:26:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:26:28 info: responseText Sussess load.
+2024-09-04 16:26:29 info: ________________________________________
+2024-09-04 16:26:29 info: Response summarized: What type of PC are you looking for? • Gaming PC • General Use PC • Work PC • High-End PC Let me know your preferences, and I'll help you assemble the specs! 💻🖥️⚙️
+2024-09-04 16:26:29 info: summaryResponse Sussess load.
+2024-09-04 16:44:49 info: 
+2024-09-04 16:44:52 info: ----------------------------------------
+2024-09-04 16:44:52 info: Server started and listening on port 8000
+2024-09-04 16:44:52 info: ----------------------------------------
+2024-09-04 16:44:58 info: Events received: [{"type":"message","message":{"type":"text","id":"524475558588318326","quoteToken":"HU7HhSZ8-aa2Yuz-qMlH1ja6fxymonjv8nOYFSoOy3JgWDnzPiQeyIJbInRb2-BU9tIfGGyiygSFNWJ3qrB1JFqgENxlyctp1fxZ7w9VnGsncZSZELHoGM3n9Mg5O1zToGjT63UHGne79nt1cu64Xw","text":"Hi"},"webhookEventId":"01J6Y6RHKCG8H2AF6884B7YYHG","deliveryContext":{"isRedelivery":false},"timestamp":1725443097810,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"26c173dfed9345749885f993efe85d54","mode":"active"}]
+2024-09-04 16:44:59 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:44:59 info: Agent initialized successfully
+2024-09-04 16:44:59 info: agent Sussess load.
+2024-09-04 16:45:01 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:45:01 info: User input: Hi
+2024-09-04 16:45:01 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:45:01 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:45:01 info: responseText Sussess load.
+2024-09-04 16:45:01 info: ________________________________________
+2024-09-04 16:45:01 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻🔧
+2024-09-04 16:45:01 info: summaryResponse Sussess load.
+2024-09-04 16:45:06 info: Events received: [{"type":"message","message":{"type":"text","id":"524475571892125879","quoteToken":"-3511SqD-k0uEuab9QH1wTx0M1vxlkeLzwQLiuL1aHPVSII5KQF9AoICwjSxZgiT4O4BuPPz4oXit5O_6bQ3JP7A1ZhM9Hb3tFefUDmsv5YYu_2ybkCv98TCK0eQDWe44XTNbtkn4YVq0TwG4z4uXg","text":"I want PC"},"webhookEventId":"01J6Y6RS8687DPTHA976TZ36HF","deliveryContext":{"isRedelivery":false},"timestamp":1725443105703,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5ace33aa0af24760bd797e7b9561dbff","mode":"active"}]
+2024-09-04 16:45:06 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:45:06 info: agent Sussess load.
+2024-09-04 16:45:08 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:45:08 info: User input: I want PC
+2024-09-04 16:45:08 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 16:45:08 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:45:08 info: responseText Sussess load.
+2024-09-04 16:45:09 info: ________________________________________
+2024-09-04 16:45:09 info: Response summarized: What type of PC are you looking for? Please choose one of the following options: • Gaming PC • General-use PC • Work PC • High-end PC. Let me know your preferences, and I'll help you assemble the specs! 💻🖥️⚙️
+2024-09-04 16:45:09 info: summaryResponse Sussess load.
+2024-09-04 16:45:57 info: 
+2024-09-04 16:45:59 info: ----------------------------------------
+2024-09-04 16:45:59 info: Server started and listening on port 8000
+2024-09-04 16:45:59 info: ----------------------------------------
+2024-09-04 16:46:07 info: Events received: [{"type":"message","message":{"type":"text","id":"524475674217152769","quoteToken":"Yr8i8PLQWAypq8Si_BRbepF79ilXipf8neyXLaSaVKrD_1q7YG-ZQBg1I4tSMJUrYxQsEKCY2p1Fq5xS3jwk0iWiOhzc1vSsa3lMwa2bwe5TRquycc8dPq81JBfg_rJ8W8c4StlygUMwD-AdM0bplw","text":"Hi"},"webhookEventId":"01J6Y6TMNJ1DJRFC335TZ3Q9FF","deliveryContext":{"isRedelivery":false},"timestamp":1725443166562,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"004edd7eccdb4f33a95c446093c036b5","mode":"active"}]
+2024-09-04 16:46:07 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:46:08 info: Agent initialized successfully
+2024-09-04 16:46:08 info: agent Sussess load.
+2024-09-04 16:46:09 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:46:09 info: User input: Hi
+2024-09-04 16:46:09 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 16:46:09 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:46:09 info: responseText Sussess load.
+2024-09-04 16:46:10 info: ________________________________________
+2024-09-04 16:46:10 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻🔧
+2024-09-04 16:46:10 info: summaryResponse Sussess load.
+2024-09-04 16:46:14 info: Events received: [{"type":"message","message":{"type":"text","id":"524475685423809029","quoteToken":"tAkZmJhK6evs8BdnFTo1NoHLPm0Xf8maDgvjYdOiMbz71ifRaG5WI8gP1xAmF5Ij7Vk7Yml8fKWPj7AirJ7x48jT9rGch-whVcprd1TuDfI3OyuwF9ir73RJmrkaWToLPo8Oqppz4ZduBmtHxTlWBA","text":"I want PC"},"webhookEventId":"01J6Y6TVDKTCT27EEBKY3FW6M5","deliveryContext":{"isRedelivery":false},"timestamp":1725443173303,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d37ad9afd77847b88a64adbd57a3997f","mode":"active"}]
+2024-09-04 16:46:14 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 16:46:14 info: agent Sussess load.
+2024-09-04 16:46:15 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:46:15 info: User input: I want PC
+2024-09-04 16:46:15 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I can help you assemble the specs! kubpom!
+2024-09-04 16:46:15 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 16:46:15 info: responseText Sussess load.
+2024-09-04 16:46:17 info: ________________________________________
+2024-09-04 16:46:17 info: Response summarized: What type of PC are you looking for? Please choose one of the following options:
+• Gaming PC
+• General-use PC
+• Work PC
+• High-end PC
+Let me know your preferences, and I can help you assemble the specs! 💻🖥️🔧
+2024-09-04 16:46:17 info: summaryResponse Sussess load.
+2024-09-04 17:57:00 info: ----------------------------------------
+2024-09-04 17:57:00 info: Server started and listening on port 8000
+2024-09-04 17:57:00 info: ----------------------------------------
+2024-09-04 17:57:50 info: Events received: []
+2024-09-04 17:58:38 info: Events received: [{"type":"message","message":{"type":"text","id":"524482976063946930","quoteToken":"9IJhvQW-9bqnlc6Z69G3KgPdi1NLT_Tq6Ui5PGIvJel8SNWhH56UoOWa5e4TutqaDJzKsY3CGI-PrCBgBtkMO07KsWFyaNY1rTjjOC_VEdVon27MU07e3dm_jiwjn-Y6WLyHV5NmogspmtBHwkAMQg","text":"Hi"},"webhookEventId":"01J6YAZEKPF49A0GJ9CP2MGKA8","deliveryContext":{"isRedelivery":false},"timestamp":1725447518799,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"0a2ca73658bf4386bdf14e9adf0025e7","mode":"active"}]
+2024-09-04 17:58:39 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 17:58:39 info: Agent initialized successfully
+2024-09-04 17:58:39 info: agent Sussess load.
+2024-09-04 17:58:41 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 17:58:41 info: User input: Hi
+2024-09-04 17:58:41 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 17:58:41 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 17:58:41 info: responseText Sussess load.
+2024-09-04 17:58:42 info: ________________________________________
+2024-09-04 17:58:42 info: Response summarized: Hello! How can I assist you today? What kind of specifications are you looking for? 
+• Select all components or all hardware. 
+• Let the system recommend a build. 
+🤖💻🖥️
+2024-09-04 17:58:42 info: summaryResponse Sussess load.
+2024-09-04 17:59:57 info: Events received: [{"type":"message","message":{"type":"text","id":"524483107211182198","quoteToken":"p3QBJ4kyG8dfvvNJDPC7d5MmTU5DDeVNimmc2z5jB8nAcB890BMOxrbfNffK3b-bR9FnAHVuybnH1CzW8LYhKyrUHcDGLbTOgeWJJ4oSv_Bbmh3Uj49FCBIpGGL4vxeNX76-vkXhG-JVDx0IzPxCIA","text":"first choice."},"webhookEventId":"01J6YB1V8RKSHBNZ71KJ48R04T","deliveryContext":{"isRedelivery":false},"timestamp":1725447597029,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"4f0c2ff3697a4ea1b6f58d9e32b666cb","mode":"active"}]
+2024-09-04 17:59:57 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 17:59:57 info: agent Sussess load.
+2024-09-04 17:59:59 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 17:59:59 info: User input: first choice.
+2024-09-04 17:59:59 info: Response: Could you please provide more details about what you're looking for? Are you interested in assembling a PC, selecting components, or something else? kubpom!
+2024-09-04 17:59:59 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 17:59:59 info: responseText Sussess load.
+2024-09-04 18:00:00 info: ________________________________________
+2024-09-04 18:00:00 info: Response summarized: Could you please provide more details about what you're looking for? Are you interested in assembling a PC, selecting components, or something else? kubpom! 💻🖥️🔧
+2024-09-04 18:00:00 info: summaryResponse Sussess load.
+2024-09-04 18:00:47 info: Events received: [{"type":"message","message":{"type":"text","id":"524483191886315729","quoteToken":"rKNSu6SC2BpPaVN8ZD3mguAiDGQzIQ8QsFUm31sBXm_Th4Cky02zsrTOn2G2HsNOrNOnIeXk39sfniK7tnx7oLVHBiJ__iUtmKfliXHjD3-CWwbdmCnouK3Mv17INExXsdesRH6YavFGXvqpe4GJGQ","text":"selecting components"},"webhookEventId":"01J6YB3C84EEG0K5XACS2EZ6EP","deliveryContext":{"isRedelivery":false},"timestamp":1725447647443,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a2f7ee260870499ca0410904be4539bc","mode":"active"}]
+2024-09-04 18:00:47 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:00:47 info: agent Sussess load.
+2024-09-04 18:00:49 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:00:49 info: User input: selecting components
+2024-09-04 18:00:49 info: Response: Great! Let's start with selecting components for your PC. 
+
+1. **Purpose**: What will you primarily use the PC for? (e.g., gaming, general use, work, etc.)
+2. **Budget**: Do you have a specific budget in mind?
+3. **Preferences**: Any specific brands or components you prefer?
+
+Let me know, and we can proceed from there! kubpom!
+2024-09-04 18:00:49 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:00:49 info: responseText Sussess load.
+2024-09-04 18:00:51 info: ________________________________________
+2024-09-04 18:00:51 info: Response summarized: Great! Let's start with selecting components for your PC. 
+
+1. **Purpose**: What will you primarily use the PC for? 
+   • Gaming 
+   • General use 
+   • Work 
+   • Hi-end 
+
+2. **Budget**: Do you have a specific budget in mind? 
+
+3. **Preferences**: Any specific brands or components you prefer? 
+
+Let me know, and we can proceed from there! 💻🖥️🔧
+2024-09-04 18:00:51 info: summaryResponse Sussess load.
+2024-09-04 18:02:37 info: Events received: [{"type":"message","message":{"type":"text","id":"524483376335028241","quoteToken":"dkRSjau8aEJLmQhQGbqqHcAsN1-EOLNOLwwBo7EKKM4kyC1vZPYSftceedkHQGWiwZEy5Jy9W7C5EwC-Ic56QWFEWNUMFQH0Z41jry5_7bMEXW4z0JLP9m2JP9ZAIUfC2xuLvu1scpM8vSCExENrSw","text":"Gaming 30000"},"webhookEventId":"01J6YB6QZ84CVQWY5Z767SHPV8","deliveryContext":{"isRedelivery":false},"timestamp":1725447757380,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"60595b07230e4e37973b676d58b00c3e","mode":"active"}]
+2024-09-04 18:02:37 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:02:37 info: agent Sussess load.
+2024-09-04 18:02:40 info: ****************************************
+2024-09-04 18:02:40 info: Query Detection: Gaming PC 30000
+2024-09-04 18:02:40 info: Tool Call: {
+  "id": "call_NDrhtQMSlHKlHHSxkIVI7pHq",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "Gaming PC 30000"
+  }
+}
+2024-09-04 18:02:40 info: ****************************************
+2024-09-04 18:02:50 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:02:50 info: User input: Gaming 30000
+2024-09-04 18:02:50 info: Response: Here's a gaming PC option that fits your budget of 30,000 THB:
+
+### **COMPUTERSET JIB MARU-2407008**
+- **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700)
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX) (CP-9020278-NA)
+- **CASE**: ANTEC NX292 (BLACK) (E-ATX)
+- **Total Price**: 29,700 THB
+
+This configuration is well-suited for gaming and is just under your budget. Would you like to proceed with this option, or do you want to explore more alternatives? kubpom!
+2024-09-04 18:02:50 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:02:50 info: responseText Sussess load.
+2024-09-04 18:02:53 info: ________________________________________
+2024-09-04 18:02:53 info: Response summarized: Here's a gaming PC option that fits your budget of 30,000 THB:
+
+### **COMPUTERSET JIB MARU-2407008**
+- **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700)
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX) (CP-9020278-NA)
+- **CASE**: ANTEC NX292 (BLACK) (E-ATX)
+- **Total Price**: 29,700 THB
+
+This configuration is well-suited for gaming and is just under your budget. Would you like to proceed with this option, or do you want to explore more alternatives? 💻🎮🖥️
+2024-09-04 18:02:53 info: summaryResponse Sussess load.
+2024-09-04 18:03:15 info: Events received: [{"type":"message","message":{"type":"text","id":"524483439534801011","quoteToken":"DRMhy_BjRzRaSBKml0VWPIWUXeGtx825-ed-4dJCfSCoVYMhjfdtW5KFLQ4mGFSv0N0uTLwRSZpyv5yaiVDIZ4N3n9-cR7tlhHgpqIIoho5j-PPKdgxX8SBCcZVGlAfCRL6-heZAxM_Ch_FbFxo2VQ","text":"more detail?"},"webhookEventId":"01J6YB7WPPY4WQ23T48QHY6M27","deliveryContext":{"isRedelivery":false},"timestamp":1725447795063,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ae06d597b80744b68da35f4366f75aee","mode":"active"}]
+2024-09-04 18:03:15 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:03:15 info: agent Sussess load.
+2024-09-04 18:03:22 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:03:22 info: User input: more detail?
+2024-09-04 18:03:22 info: Response: Sure! Here are the detailed specifications for each component in the gaming PC configuration:
+
+### **1. CPU: INTEL CORE I5-13400F**
+- **Cores/Threads**: 10 cores (6 performance cores + 4 efficiency cores) / 16 threads
+- **Base Clock Speed**: 2.5 GHz
+- **Max Turbo Frequency**: Up to 4.6 GHz
+- **Socket Type**: LGA 1700
+- **Integrated Graphics**: No (requires a dedicated GPU)
+
+### **2. Motherboard: MSI B760M GAMING PLUS WIFI**
+- **Form Factor**: Micro-ATX
+- **Socket Type**: LGA 1700
+- **Memory Support**: DDR5
+- **Expansion Slots**: PCIe 4.0 slots for graphics cards and other expansions
+- **Connectivity**: Built-in Wi-Fi, USB 3.2 Gen 2 ports, and multiple SATA ports for storage
+
+### **3. GPU: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC**
+- **Memory**: 8GB GDDR6
+- **CUDA Cores**: 3072
+- **Ray Tracing**: Supports real-time ray tracing for enhanced graphics
+- **DLSS**: NVIDIA's Deep Learning Super Sampling technology for improved performance
+- **Cooling**: Dual-fan design for efficient cooling
+
+### **4. RAM: CORSAIR VENGEANCE DDR5 (16GB)**
+- **Capacity**: 16GB (2 x 8GB modules)
+- **Speed**: 5200 MHz
+- **Type**: DDR5
+- **Features**: Intel XMP support for easy overclocking
+
+### **5. SSD: WD BLACK SN770 (500 GB)**
+- **Type**: NVMe M.2 2280
+- **Interface**: PCIe 4.0 x4
+- **Read Speed**: Up to 5,150 MB/s
+- **Write Speed**: Up to 4,500 MB/s
+- **Form Factor**: Compact M.2 design for easy installation
+
+### **6. PSU: CORSAIR CX650 (650W)**
+- **Wattage**: 650W
+- **Efficiency Rating**: 80 PLUS Bronze
+- **Modular**: Non-modular (cables are fixed)
+- **Protection Features**: Over-voltage, under-voltage, short-circuit protection
+
+### **7. CASE: ANTEC NX292**
+- **Type**: E-ATX Mid Tower
+- **Cooling Support**: Supports multiple fans and radiators for cooling
+- **Front Panel**: Tempered glass side panel for showcasing components
+- **Drive Bays**: Multiple drive bays for HDDs and SSDs
+
+### **Total Price**: 29,700 THB
+
+This configuration provides a balanced performance for gaming, allowing you to play modern titles at high settings. If you have any specific questions about any component or if you want to make adjustments, let me know! kubpom!
+2024-09-04 18:03:22 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:03:22 info: responseText Sussess load.
+2024-09-04 18:03:30 info: ________________________________________
+2024-09-04 18:03:30 info: Response summarized: Sure! Here are the detailed specifications for each component in the gaming PC configuration:
+
+### **1. CPU: INTEL CORE I5-13400F**
+- **Cores/Threads**: 10 cores (6 performance cores + 4 efficiency cores) / 16 threads
+- **Base Clock Speed**: 2.5 GHz
+- **Max Turbo Frequency**: Up to 4.6 GHz
+- **Socket Type**: LGA 1700
+- **Integrated Graphics**: No (requires a dedicated GPU)
+
+### **2. Motherboard: MSI B760M GAMING PLUS WIFI**
+- **Form Factor**: Micro-ATX
+- **Socket Type**: LGA 1700
+- **Memory Support**: DDR5
+- **Expansion Slots**: PCIe 4.0 slots for graphics cards and other expansions
+- **Connectivity**: Built-in Wi-Fi, USB 3.2 Gen 2 ports, and multiple SATA ports for storage
+
+### **3. GPU: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC**
+- **Memory**: 8GB GDDR6
+- **CUDA Cores**: 3072
+- **Ray Tracing**: Supports real-time ray tracing for enhanced graphics
+- **DLSS**: NVIDIA's Deep Learning Super Sampling technology for improved performance
+- **Cooling**: Dual-fan design for efficient cooling
+
+### **4. RAM: CORSAIR VENGEANCE DDR5 (16GB)**
+- **Capacity**: 16GB (2 x 8GB modules)
+- **Speed**: 5200 MHz
+- **Type**: DDR5
+- **Features**: Intel XMP support for easy overclocking
+
+### **5. SSD: WD BLACK SN770 (500 GB)**
+- **Type**: NVMe M.2 2280
+- **Interface**: PCIe 4.0 x4
+- **Read Speed**: Up to 5,150 MB/s
+- **Write Speed**: Up to 4,500 MB/s
+- **Form Factor**: Compact M.2 design for easy installation
+
+### **6. PSU: CORSAIR CX650 (650W)**
+- **Wattage**: 650W
+- **Efficiency Rating**: 80 PLUS Bronze
+- **Modular**: Non-modular (cables are fixed)
+- **Protection Features**: Over-voltage, under-voltage, short-circuit protection
+
+### **7. CASE: ANTEC NX292**
+- **Type**: E-ATX Mid Tower
+- **Cooling Support**: Supports multiple fans and radiators for cooling
+- **Front Panel**: Tempered glass side panel for showcasing components
+- **Drive Bays**: Multiple drive bays for HDDs and SSDs
+
+### **Total Price**: 29,700 THB
+
+This configuration provides a balanced performance for gaming, allowing you to play modern titles at high settings. If you have any specific questions about any component or if you want to make adjustments, let me know! 💻🎮🖥️
+2024-09-04 18:03:30 info: summaryResponse Sussess load.
+2024-09-04 18:04:51 info: 
+2024-09-04 18:04:54 info: ----------------------------------------
+2024-09-04 18:04:54 info: Server started and listening on port 8000
+2024-09-04 18:04:54 info: ----------------------------------------
+2024-09-04 18:05:00 info: Events received: [{"type":"message","message":{"type":"text","id":"524483615829786737","quoteToken":"92qmEU1lgxi9MQGgyL21dTjD7CXTCUoNH25EIGZY7qAdr7yO89Y_fzHo_NUZKTjm0r8zGqQOffkXdvgSxmVGzirouyJcZpBZNV_aOeflcMB2Ai4oL6iXFymCEiSqCsj8RwUBsEjW4SZomdE8Ai9fRw","text":"Hi"},"webhookEventId":"01J6YBB3EY28DXZD3BR6PC0FKF","deliveryContext":{"isRedelivery":false},"timestamp":1725447900130,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"00d69bc9145440d1bc421cfe5276a88c","mode":"active"}]
+2024-09-04 18:05:00 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:05:01 info: Agent initialized successfully
+2024-09-04 18:05:01 info: agent Sussess load.
+2024-09-04 18:05:02 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:05:02 info: User input: Hi
+2024-09-04 18:05:02 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 18:05:02 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:05:02 info: responseText Sussess load.
+2024-09-04 18:05:03 info: ________________________________________
+2024-09-04 18:05:03 info: Response summarized: Hello! How can I assist you today? What kind of specifications are you looking for? 
+• Select all components or all hardware. 
+• Let the system recommend a build. 
+🤖💻🖥️
+2024-09-04 18:05:03 info: summaryResponse Sussess load.
+2024-09-04 18:08:47 info: 
+2024-09-04 18:08:50 info: ----------------------------------------
+2024-09-04 18:08:50 info: Server started and listening on port 8000
+2024-09-04 18:08:50 info: ----------------------------------------
+2024-09-04 18:08:59 info: Events received: [{"type":"message","message":{"type":"text","id":"524484016033235490","quoteToken":"AVWfLh3wMpOxFAiiVI-3Pu5lRGvOah_8TWj9Bhi2A4MVBa0HHoUpV4HpJELPCt440IVqEVkGgQKErH5prnW9KE6lslpUFAUN-rLaT2Dq1lzIGOJrG5c0C57h9h02ZydMolPHwSQNZxKlurHBMZA5tg","text":"Hi"},"webhookEventId":"01J6YBJCGH7SAHGF9CNKD6CBEM","deliveryContext":{"isRedelivery":false},"timestamp":1725448138774,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9514a8f0aed740e78da30dc81fb54692","mode":"active"}]
+2024-09-04 18:08:59 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:08:59 info: Agent initialized successfully
+2024-09-04 18:08:59 info: agent Sussess load.
+2024-09-04 18:09:02 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:09:02 info: User input: Hi
+2024-09-04 18:09:02 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 18:09:02 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:09:02 info: responseText Sussess load.
+2024-09-04 18:09:02 info: ________________________________________
+2024-09-04 18:09:02 info: Response summarized: Hello! How can I assist you today? kubpom! Please select all components or all hardware for your PC build.
+2024-09-04 18:09:02 info: summaryResponse Sussess load.
+2024-09-04 18:15:08 info: 
+2024-09-04 18:15:11 info: ----------------------------------------
+2024-09-04 18:15:11 info: Server started and listening on port 8000
+2024-09-04 18:15:11 info: ----------------------------------------
+2024-09-04 18:16:00 info: 
+2024-09-04 18:16:02 info: ----------------------------------------
+2024-09-04 18:16:02 info: Server started and listening on port 8000
+2024-09-04 18:16:02 info: ----------------------------------------
+2024-09-04 18:16:05 info: Events received: [{"type":"message","message":{"type":"text","id":"524484731917041731","quoteToken":"ZgpmnEctcHN1s9LqdasWLxogBsSaL07rJ-XKEI_UAG6mXL7-rCWyUPSKYyD-DjDkLNR3B67EjfBUGRlZ53rRfq1JCePTOnBv5SZbSw-z2uUanazNYO8X-klp7Yf9YiY6y68cdtES8JtaOc0QAxKphw","text":"Hi"},"webhookEventId":"01J6YBZCYMH67GPEBFECH3KSV3","deliveryContext":{"isRedelivery":false},"timestamp":1725448565422,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"91a037cf6f2c49199efdbff74b06a9c8","mode":"active"}]
+2024-09-04 18:16:05 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:16:06 info: Agent initialized successfully
+2024-09-04 18:16:06 info: agent Sussess load.
+2024-09-04 18:16:08 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:16:08 info: User input: Hi
+2024-09-04 18:16:08 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 18:16:08 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:16:08 info: responseText Sussess load.
+2024-09-04 18:16:08 info: ________________________________________
+2024-09-04 18:16:08 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 18:16:08 info: summaryResponse Sussess load.
+2024-09-04 18:16:16 info: Events received: [{"type":"message","message":{"type":"text","id":"524484749918470343","quoteToken":"WBa5KTnWW4OP1HHQTNiVs_M7KK5_X3BeeazK7X-l-QRV1v5itlXNy8UCknF7a4HuxFI7usRrpYTzIznzP7hoUoTJzD87nTBGRZh5OxTcYv9H-EqAfGxH2UKzlv1D3-MP4ls5icLYpp3QcyjtsEqaow","text":"I want PC"},"webhookEventId":"01J6YBZQN132KE1KSB6YYQEWW4","deliveryContext":{"isRedelivery":false},"timestamp":1725448576164,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f0f9454be3b44f3582375aab7dd4f7a7","mode":"active"}]
+2024-09-04 18:16:16 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:16:16 info: agent Sussess load.
+2024-09-04 18:16:19 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:16:19 info: User input: I want PC
+2024-09-04 18:16:19 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 18:16:19 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:16:19 info: responseText Sussess load.
+2024-09-04 18:16:20 info: ________________________________________
+2024-09-04 18:16:20 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom! 💻🖥️🔧
+2024-09-04 18:16:20 info: summaryResponse Sussess load.
+2024-09-04 18:17:16 info: 
+2024-09-04 18:17:18 info: ----------------------------------------
+2024-09-04 18:17:18 info: Server started and listening on port 8000
+2024-09-04 18:17:18 info: ----------------------------------------
+2024-09-04 18:17:24 info: Events received: [{"type":"message","message":{"type":"text","id":"524484863450677699","quoteToken":"O7i7fp4cD-h0vj3cvrOps-1pDJqUsnH_uJf5AFtsKIu7murfPesnl2YySdvWASXF8EqLpTMXo65-RUww_8wAwHvwv2EYIf9SZQukiZqVYi5U32EhtAzLvnrGVegrzsiSvnRSAzPuDm30vvPUQs11YQ","text":"Hi"},"webhookEventId":"01J6YC1SPX2YR42CH51RZ3PAR9","deliveryContext":{"isRedelivery":false},"timestamp":1725448643809,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"061ad286f42e438d8b5915ac3c7a613e","mode":"active"}]
+2024-09-04 18:17:24 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:17:24 info: Agent initialized successfully
+2024-09-04 18:17:24 info: agent Sussess load.
+2024-09-04 18:17:26 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:17:26 info: User input: Hi
+2024-09-04 18:17:26 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 18:17:26 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:17:26 info: responseText Sussess load.
+2024-09-04 18:17:26 info: ________________________________________
+2024-09-04 18:17:26 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 18:17:26 info: summaryResponse Sussess load.
+2024-09-04 18:17:35 info: Events received: [{"type":"message","message":{"type":"text","id":"524484881737056468","quoteToken":"0gX9BIdyXxQnNGus4vEu5u3ofVnyk7dvYp4GYrR1f9SlG-tcS41pEueENvyDBKazuMo4TMwu6ITchLpZ_Gjc3MRJ2iRlAovgmRXUyFPvWLShg2r1Cd4eUZccx3b7KR5xDDv5kHKib_5EWcp086IfBg","text":"I want PC"},"webhookEventId":"01J6YC2497E80CJ924FDAB7ZAT","deliveryContext":{"isRedelivery":false},"timestamp":1725448654836,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"cbdede87ecfb4935a42c6d37d809db0b","mode":"active"}]
+2024-09-04 18:17:35 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:17:35 info: agent Sussess load.
+2024-09-04 18:17:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:17:37 info: User input: I want PC
+2024-09-04 18:17:37 info: Response: Could you please provide more details about the type of PC you want? For example, are you looking for a gaming PC, a general-use PC, or a workstation? Also, if you have any specific requirements or budget in mind, please let me know! kubpom!
+2024-09-04 18:17:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:17:37 info: responseText Sussess load.
+2024-09-04 18:17:38 info: ________________________________________
+2024-09-04 18:17:38 info: Response summarized: Could you please provide more details about the type of PC you want? For example, are you looking for a gaming PC, a general-use PC, or a workstation? Also, if you have any specific requirements or budget in mind, please let me know! kubpom! 💻🖥️🔧
+2024-09-04 18:17:38 info: summaryResponse Sussess load.
+2024-09-04 18:18:40 info: 
+2024-09-04 18:18:42 info: ----------------------------------------
+2024-09-04 18:18:42 info: Server started and listening on port 8000
+2024-09-04 18:18:42 info: ----------------------------------------
+2024-09-04 18:18:55 info: Events received: [{"type":"message","message":{"type":"text","id":"524485017163530433","quoteToken":"mqtG3pxegykRuZn3TBYacv9e5Y_bzU6Bv0JoAdvEj3Lw80fklOiYtqf9ozDBHyDSzm8PEIcxlxE5gtikiDWlRwHW17RVCZHjZJXiZ4Jy-R2ElrHPqcDYZ2PlRjDricFZsiTltcqlqXdW3j3dGbLyvA","text":"Hi"},"webhookEventId":"01J6YC4K4XR1KENJHVHZ01RVWX","deliveryContext":{"isRedelivery":false},"timestamp":1725448735393,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b73581c8a0e241c2acb55cac8e312266","mode":"active"}]
+2024-09-04 18:18:56 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:18:56 info: Agent initialized successfully
+2024-09-04 18:18:56 info: agent Sussess load.
+2024-09-04 18:18:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:18:58 info: User input: Hi
+2024-09-04 18:18:58 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 18:18:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:18:58 info: responseText Sussess load.
+2024-09-04 18:18:58 info: ________________________________________
+2024-09-04 18:18:58 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 18:18:58 info: summaryResponse Sussess load.
+2024-09-04 18:19:06 info: Events received: [{"type":"message","message":{"type":"text","id":"524485034896785635","quoteToken":"Kn_o_Zbk1YH95aNKZJ5LaO_GyJjdDKOWmidgCae-eo6tYARgV66j5BfYuvNE9xzHg9yuEcfz0wySiuVZZlPyPcY7ZGdjW0mklzuPbk6bESHN_u7HWI3OvYsqf6tKu7533cN6Uf9iMvKospCZ13OMPw","text":"I want PC"},"webhookEventId":"01J6YC4XEPJG5PBZHQ804YSP1H","deliveryContext":{"isRedelivery":false},"timestamp":1725448746123,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"1112864b1ea74466ac9fb8728c583d0f","mode":"active"}]
+2024-09-04 18:19:06 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:19:06 info: agent Sussess load.
+2024-09-04 18:19:09 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:19:09 info: User input: I want PC
+2024-09-04 18:19:09 info: Response: Could you please provide more details about the type of PC you want? For example, are you looking for a gaming PC, a general-use PC, or a workstation for work? Additionally, any specific requirements or budget in mind would be helpful! kubpom!
+2024-09-04 18:19:09 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:19:09 info: responseText Sussess load.
+2024-09-04 18:19:10 info: ________________________________________
+2024-09-04 18:19:10 info: Response summarized: Could you please provide more details about the type of PC you want? For example, are you looking for a gaming PC, a general-use PC, or a workstation for work? Additionally, any specific requirements or budget in mind would be helpful! kubpom! 💻🖥️🔧
+2024-09-04 18:19:10 info: summaryResponse Sussess load.
+2024-09-04 18:24:18 info: Events received: [{"type":"message","message":{"type":"text","id":"524485559235379329","quoteToken":"ONI6K2J7k6Bb4kehamCBnmHqbPLEvqXrPvfdvtkBQY9-5Mxaw4_bPDKGVf3vXobqUfb9O906TZAN9fT5zR7AWFe0-H13-cxnBwI1KGKsNB7q_b5YlCIObdMyhsTDbrzF1J27goCcVEULgBRvej_hOQ","text":"can recommend to me"},"webhookEventId":"01J6YCEEF8FWBS7M99H71XXB3E","deliveryContext":{"isRedelivery":false},"timestamp":1725449058491,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"988c216a6250416d9c7a719f024a29fc","mode":"active"}]
+2024-09-04 18:24:18 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:24:18 info: agent Sussess load.
+2024-09-04 18:24:22 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:24:22 info: User input: can recommend to me
+2024-09-04 18:24:22 info: Response: Could you please specify what type of PC you are interested in? Here are some options:
+
+1. **Gaming PC**: For high-performance gaming.
+2. **General Use PC**: For everyday tasks like browsing, office work, etc.
+3. **Workstation**: For professional tasks like video editing, graphic design, etc.
+4. **Hi-End PC**: For top-tier performance and gaming.
+
+Let me know your preference, and if you have any specific requirements or budget! kubpom!
+2024-09-04 18:24:22 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:24:22 info: responseText Sussess load.
+2024-09-04 18:24:24 info: ________________________________________
+2024-09-04 18:24:24 info: Response summarized: Could you please specify what type of PC you are interested in? Here are some options:
+
+1. **Gaming PC**: For high-performance gaming.
+2. **General Use PC**: For everyday tasks like browsing, office work, etc.
+3. **Workstation**: For professional tasks like video editing, graphic design, etc.
+4. **Hi-End PC**: For top-tier performance and gaming.
+
+Let me know your preference, and if you have any specific requirements or budget! kubpom! 💻🖥️⚙️
+2024-09-04 18:24:24 info: summaryResponse Sussess load.
+2024-09-04 18:30:02 info: 
+2024-09-04 18:30:04 info: ----------------------------------------
+2024-09-04 18:30:04 info: Server started and listening on port 8000
+2024-09-04 18:30:04 info: ----------------------------------------
+2024-09-04 18:30:07 info: Events received: [{"type":"message","message":{"type":"text","id":"524486143317377041","quoteToken":"WSdhrTAhH8amXsH24SmX6JnodGMasQ46ohxkUrWS9_2EuGrs1VvLkvTmMweizqYHkZcmgcJe1_d0EvOObEAqtDUJkxDcVoSe7X26swcE8cqm4yUCjLytlibSy1RRxwsKx3qdp1sqT6M6Ao6519ZgWw","text":"Hi"},"webhookEventId":"01J6YCS2N10QA9WAHQSGSECN1E","deliveryContext":{"isRedelivery":false},"timestamp":1725449406629,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"25ddf6190a984961883ce919851fa265","mode":"active"}]
+2024-09-04 18:30:07 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:30:07 info: Agent initialized successfully
+2024-09-04 18:30:07 info: agent Sussess load.
+2024-09-04 18:30:12 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:30:12 info: User input: Hi
+2024-09-04 18:30:12 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 18:30:12 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:30:12 info: responseText Sussess load.
+2024-09-04 18:30:13 info: ________________________________________
+2024-09-04 18:30:13 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 18:30:13 info: summaryResponse Sussess load.
+2024-09-04 18:30:18 info: Events received: [{"type":"message","message":{"type":"text","id":"524486162208522481","quoteToken":"wvtv6_O-HHsSUVTrich_9k-NtWobiIa3FJgdtZ9uAMxtUbkhFGFtw6oLAxEO2VkTOahKBl7OgaAWO8RsRkGty37j-RyzfaERaQgTEn8dDl5QB-PBKslLfIdm25KrvHR8nyKWsiC5yb-oxnIBXCVYbw","text":"I want PC"},"webhookEventId":"01J6YCSDFSCH7WFXHAZEY84G4W","deliveryContext":{"isRedelivery":false},"timestamp":1725449417896,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"78fe9380d3474989be7a2e9edc7ed4ae","mode":"active"}]
+2024-09-04 18:30:18 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:30:18 info: agent Sussess load.
+2024-09-04 18:30:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:30:21 info: User input: I want PC
+2024-09-04 18:30:21 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-04 18:30:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:30:21 info: responseText Sussess load.
+2024-09-04 18:30:22 info: ________________________________________
+2024-09-04 18:30:22 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom! 💻🖥️🔧
+2024-09-04 18:30:22 info: summaryResponse Sussess load.
+2024-09-04 18:30:45 info: Events received: [{"type":"message","message":{"type":"text","id":"524486208882213508","quoteToken":"tpR0MNEtc1cVUBj2GmAc6wMqPDk2p-e2jGBBhndneM15cZ7I6cSYZjZ5v5XAecihEGtYMrHZ4vXHHIYVys6IwDJwPZZxm7icGW3NtUMQS5FIa-98thstIyxy-fh4jmj1OQwoQb4ToSdcSvUC1iNU5w","text":"I want to know choice "},"webhookEventId":"01J6YCT8F1BV2CGDCEG7CVX31A","deliveryContext":{"isRedelivery":false},"timestamp":1725449445767,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"afa7433b23444116884d1f01ee978752","mode":"active"}]
+2024-09-04 18:30:46 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:30:46 info: agent Sussess load.
+2024-09-04 18:30:49 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:30:49 info: User input: I want to know choice 
+2024-09-04 18:30:49 info: Response: Could you please specify what type of PC you're interested in? Here are some options:
+
+1. **Gaming PC**: Designed for high-performance gaming with powerful graphics and processing capabilities.
+2. **General Use PC**: Suitable for everyday tasks like browsing, office work, and media consumption.
+3. **Work PC**: Optimized for productivity tasks, such as programming, graphic design, or data analysis.
+4. **High-End PC**: For enthusiasts who want top-tier performance for gaming, content creation, or heavy multitasking.
+
+Let me know which one interests you, and I can provide more details and options! kubpom!
+2024-09-04 18:30:49 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:30:49 info: responseText Sussess load.
+2024-09-04 18:30:51 info: ________________________________________
+2024-09-04 18:30:51 info: Response summarized: Could you please specify what type of PC you're interested in? Here are some options:
+
+1. **Gaming PC**: Designed for high-performance gaming with powerful graphics and processing capabilities.
+2. **General Use PC**: Suitable for everyday tasks like browsing, office work, and media consumption.
+3. **Work PC**: Optimized for productivity tasks, such as programming, graphic design, or data analysis.
+4. **High-End PC**: For enthusiasts who want top-tier performance for gaming, content creation, or heavy multitasking.
+
+Let me know which one interests you, and I can provide more details and options! kubpom! 💻🎮🖥️
+2024-09-04 18:30:51 info: summaryResponse Sussess load.
+2024-09-04 18:30:59 info: Events received: [{"type":"message","message":{"type":"text","id":"524486230407643669","quoteToken":"sJBHGi9b4lrlJeYuOFZyKrubJBmPFO4NKQePdjjTwrXXVHV5Ovpk1EDNFrKxXpQAmucZ68f16eCQhIPnM1NGVhvHoRK-HAslbf2wfkKSq04TTRdG-ultlyoy2gGvZ2hpaB9SoJyHSsb63yR6TnWEdA","text":"this is recommend?"},"webhookEventId":"01J6YCTNG97ZYXYPK716GSRC9P","deliveryContext":{"isRedelivery":false},"timestamp":1725449458700,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d0b0bb7addc1456eb2def85d6d9559bc","mode":"active"}]
+2024-09-04 18:30:59 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:30:59 info: agent Sussess load.
+2024-09-04 18:31:01 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:31:01 info: User input: this is recommend?
+2024-09-04 18:31:01 info: Response: Yes, those are general categories of PCs that I recommend based on different usage scenarios. Each category has specific components and specifications tailored to meet the needs of users in that category. 
+
+If you let me know your primary use case or preferences (like gaming, work, or general use), I can provide specific recommendations for components and configurations within that category. 
+
+Would you like to proceed with one of those categories? kubpom!
+2024-09-04 18:31:01 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:31:01 info: responseText Sussess load.
+2024-09-04 18:31:03 info: ________________________________________
+2024-09-04 18:31:03 info: Response summarized: Yes, those are general categories of PCs that I recommend based on different usage scenarios. Each category has specific components and specifications tailored to meet the needs of users in that category. 
+
+If you let me know your primary use case or preferences (like gaming, work, or general use), I can provide specific recommendations for components and configurations within that category. 
+
+Would you like to proceed with one of those categories? kubpom! 💻🖥️🔧
+2024-09-04 18:31:03 info: summaryResponse Sussess load.
+2024-09-04 18:31:18 info: Events received: [{"type":"message","message":{"type":"text","id":"524486262888333891","quoteToken":"kek4mh3cZLiydC6k_4rlwSr1ctCSeOtxUj9hz2VgW5-iUe3G1UxCyqeZl5bXwcYRV0d-qzfM7E2vXvBeTdiAohEQ45uxSF0ktkW5kUZZ7H1cwQCkdfCd_jgEfaMPCTHDZ-3a7YxGf20CW0AqIAFu-Q","text":"but i want select all hardware "},"webhookEventId":"01J6YCV8BQHJE8N3BS2WDFWVJV","deliveryContext":{"isRedelivery":false},"timestamp":1725449477925,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"55cf7e94bccc4af99a6dff21352ce297","mode":"active"}]
+2024-09-04 18:31:18 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:31:18 info: agent Sussess load.
+2024-09-04 18:31:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:31:21 info: User input: but i want select all hardware 
+2024-09-04 18:31:21 info: Response: Got it! Let's go through the selection of all the hardware components for your PC. We'll start with the essential components:
+
+1. **CPU (Processor)**: The brain of your PC.
+2. **Motherboard**: The main circuit board that connects all components.
+3. **RAM (Memory)**: Temporary storage for data being used by the CPU.
+4. **Storage**: SSD (Solid State Drive) or HDD (Hard Disk Drive) for data storage.
+5. **Graphics Card (GPU)**: Essential for gaming and graphic-intensive tasks.
+6. **Power Supply (PSU)**: Provides power to all components.
+7. **Case**: The enclosure that houses all the components.
+8. **Cooling**: CPU cooler and case fans to keep everything cool.
+
+Let's start with the CPU. Do you have a preference for Intel or AMD? Or would you like me to suggest options? kubpom!
+2024-09-04 18:31:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:31:21 info: responseText Sussess load.
+2024-09-04 18:31:24 info: ________________________________________
+2024-09-04 18:31:24 info: Response summarized: Got it! Let's go through the selection of all the hardware components for your PC. We'll start with the essential components:
+
+1. **CPU (Processor)**: The brain of your PC.
+2. **Motherboard**: The main circuit board that connects all components.
+3. **RAM (Memory)**: Temporary storage for data being used by the CPU.
+4. **Storage**: SSD (Solid State Drive) or HDD (Hard Disk Drive) for data storage.
+5. **Graphics Card (GPU)**: Essential for gaming and graphic-intensive tasks.
+6. **Power Supply (PSU)**: Provides power to all components.
+7. **Case**: The enclosure that houses all the components.
+8. **Cooling**: CPU cooler and case fans to keep everything cool.
+
+Let's start with the CPU. Do you have a preference for Intel or AMD? Or would you like me to suggest options? kubpom! 💻🔧⚙️
+2024-09-04 18:31:24 info: summaryResponse Sussess load.
+2024-09-04 18:31:47 info: Events received: [{"type":"message","message":{"type":"text","id":"524486312448491857","quoteToken":"F6voV66XqLlVwWHnyGSHwkNJYVeJdoaMU3O01H8_gNjsLTArSbzLUd5sr1hOrrG_tkroTjE0moCUUR41xkEgeB-Hkr68zeN5cU7MX2wXmp2FbBv2qcCLQKXJ2puKZQ1j_vSyUZRZZpXhpA8gKTJH_A","text":"CPU i want AMD Ryzen 5 3000 Series."},"webhookEventId":"01J6YCW4ZTB3CYTMMY0JTT2N22","deliveryContext":{"isRedelivery":false},"timestamp":1725449507447,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f0dc4a051ca940ffab1d09a3ad7d70e3","mode":"active"}]
+2024-09-04 18:31:48 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:31:48 info: agent Sussess load.
+2024-09-04 18:31:49 info: ****************************************
+2024-09-04 18:31:49 info: Query Detection: AMD Ryzen 5 3000 Series
+2024-09-04 18:31:49 info: Tool Call: {
+  "id": "call_yRBSoeDs6Cjt1dv7sLmZbrti",
+  "name": "vector_index_Hardware_-_CPU_-_CPU",
+  "input": {
+    "query": "AMD Ryzen 5 3000 Series"
+  }
+}
+2024-09-04 18:31:49 info: ****************************************
+2024-09-04 18:31:54 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:31:54 info: User input: CPU i want AMD Ryzen 5 3000 Series.
+2024-09-04 18:31:54 info: Response: It seems that the AMD Ryzen 5 3000 Series is not available in the current data. However, I can suggest the latest AMD Ryzen 5 processors from the 4000 Series or 5000 Series, which offer excellent performance.
+
+Would you like to consider one of the following options instead?
+
+1. **AMD Ryzen 5 4600G** (4th Gen)
+2. **AMD Ryzen 5 5600X** (5th Gen)
+
+Please let me know your preference, or if you want to explore other options! kubpom!
+2024-09-04 18:31:54 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:31:54 info: responseText Sussess load.
+2024-09-04 18:31:57 info: ________________________________________
+2024-09-04 18:31:57 info: Response summarized: It seems that the AMD Ryzen 5 3000 Series is not available in the current data. However, I can suggest the latest AMD Ryzen 5 processors from the 4000 Series or 5000 Series, which offer excellent performance.
+
+Would you like to consider one of the following options instead?
+
+1. **AMD Ryzen 5 4600G** (4th Gen)
+2. **AMD Ryzen 5 5600X** (5th Gen)
+
+Please let me know your preference, or if you want to explore other options! kubpom! 💻🔧🚀
+2024-09-04 18:31:57 info: summaryResponse Sussess load.
+2024-09-04 18:32:09 info: Events received: [{"type":"message","message":{"type":"text","id":"524486349308035217","quoteToken":"AgBMLxXSn3adTh9SjIvynv1WCuMjAe7I1BBC3CPsL6JkvBhK3i9v3YENuhwoufr2tReMeLLbsGWvudQfOBLS4mS74NwN2HNji9hxdyp2Ve3DSt6YwZIIwKn96M8puOJiRSaggtmluMio6DPTgIyt9Q","text":"ok list 4000 series for me"},"webhookEventId":"01J6YCWTFDH3D57RYZ9X3J4DZP","deliveryContext":{"isRedelivery":false},"timestamp":1725449529411,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ce945e704e3042ffa4a67ec566a15278","mode":"active"}]
+2024-09-04 18:32:10 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:32:10 info: agent Sussess load.
+2024-09-04 18:32:11 info: ****************************************
+2024-09-04 18:32:11 info: Query Detection: AMD Ryzen 4000 Series
+2024-09-04 18:32:11 info: Tool Call: {
+  "id": "call_c3RIER5RCxi8BoFjjbj0Gr41",
+  "name": "vector_index_Hardware_-_CPU_-_CPU",
+  "input": {
+    "query": "AMD Ryzen 4000 Series"
+  }
+}
+2024-09-04 18:32:11 info: ****************************************
+2024-09-04 18:32:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:32:18 info: User input: ok list 4000 series for me
+2024-09-04 18:32:18 info: Response: Here are the available AMD Ryzen processors from the 4000 Series:
+
+1. **AMD RYZEN 3 4100** 
+   - **Clock Speed**: 3.8 GHz
+   - **Socket**: AM4
+   - **Price**: 2,590 THB
+   - **Integrated Graphics**: No
+   - **TDP**: 65 W
+   - **CPU Cooler**: Yes
+
+2. **AMD RYZEN 5 4600G**
+   - **Clock Speed**: 3.7 GHz
+   - **Socket**: AM4
+   - **Price**: 3,590 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+   - **CPU Cooler**: Yes
+
+Would you like to go with the **AMD Ryzen 5 4600G** for its integrated graphics, or do you prefer the **AMD Ryzen 3 4100**? Let me know your choice, and we can move on to the next component! kubpom!
+2024-09-04 18:32:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:32:18 info: responseText Sussess load.
+2024-09-04 18:32:21 info: ________________________________________
+2024-09-04 18:32:21 info: Response summarized: Here are the available AMD Ryzen processors from the 4000 Series:
+
+1. **AMD RYZEN 3 4100** 
+   - **Clock Speed**: 3.8 GHz
+   - **Socket**: AM4
+   - **Price**: 2,590 THB
+   - **Integrated Graphics**: No
+   - **TDP**: 65 W
+   - **CPU Cooler**: Yes
+
+2. **AMD RYZEN 5 4600G**
+   - **Clock Speed**: 3.7 GHz
+   - **Socket**: AM4
+   - **Price**: 3,590 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+   - **CPU Cooler**: Yes
+
+Would you like to go with the **AMD Ryzen 5 4600G** for its integrated graphics, or do you prefer the **AMD Ryzen 3 4100**? Let me know your choice, and we can move on to the next component! kubpom! 💻🔧⚙️
+2024-09-04 18:32:21 info: summaryResponse Sussess load.
+2024-09-04 18:36:26 info: 
+2024-09-04 18:36:28 info: ----------------------------------------
+2024-09-04 18:36:28 info: Server started and listening on port 8000
+2024-09-04 18:36:28 info: ----------------------------------------
+2024-09-04 18:36:39 info: Events received: [{"type":"message","message":{"type":"text","id":"524486801487036900","quoteToken":"nQuEXbVqBLqbB2ebfaHnsVP1N6j697IPL08Cd80HMRwtbhi2SAmC9Z71cU5bP5ALx_hEPyTHrxcETTU4HCyi7qa-m41R1bUPefgjtg2NM6OkjwoLZnyX8pbJYD1pvKkPBbngdARfiShooyZYB0JrpA","text":"Hi"},"webhookEventId":"01J6YD51F6J3N6PS2SQD0EBYCV","deliveryContext":{"isRedelivery":false},"timestamp":1725449799122,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"beebef68f4e94977a894d95cbed6bebd","mode":"active"}]
+2024-09-04 18:36:39 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:36:39 info: Agent initialized successfully
+2024-09-04 18:36:39 info: agent Sussess load.
+2024-09-04 18:36:41 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:36:41 info: User input: Hi
+2024-09-04 18:36:41 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 18:36:41 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:36:41 info: responseText Sussess load.
+2024-09-04 18:36:42 info: ________________________________________
+2024-09-04 18:36:42 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 18:36:42 info: summaryResponse Sussess load.
+2024-09-04 18:36:58 info: Events received: [{"type":"message","message":{"type":"text","id":"524486833766924724","quoteToken":"k_Hc3ihk60bakbfgJbEEPsgyo_9DPNLlWu16aQMwjZzCX5oyxYdhTkeXCe3rTyq6h_rN6_gB2H4AgGQrYmz3zjbxa6Trct9FymyydvgoeArTFszbB0nUVVAD5UlXsbUA_2FT5kV3YZYWzmj92nHzEQ","text":"Sushi"},"webhookEventId":"01J6YD5MDEYN7DNBZ0D5J0GY18","deliveryContext":{"isRedelivery":false},"timestamp":1725449818229,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5f4fd57023194c0390830e68bff850e9","mode":"active"}]
+2024-09-04 18:36:58 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:36:58 info: agent Sussess load.
+2024-09-04 18:37:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:37:00 info: User input: Sushi
+2024-09-04 18:37:00 info: Response: Are you looking for sushi recommendations, recipes, or something else related to sushi? Let me know how I can help! kubpom!
+2024-09-04 18:37:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 18:37:00 info: responseText Sussess load.
+2024-09-04 18:37:01 info: ________________________________________
+2024-09-04 18:37:01 info: Response summarized: Are you looking for sushi recommendations, recipes, or something else related to sushi? Let me know how I can help! kubpom! 🍣🍱🥢
+2024-09-04 18:37:01 info: summaryResponse Sussess load.
+2024-09-04 18:58:37 info: 
+2024-09-04 18:58:39 info: ----------------------------------------
+2024-09-04 18:58:39 info: Server started and listening on port 8000
+2024-09-04 18:58:39 info: ----------------------------------------
+2024-09-04 18:58:44 info: Events received: [{"type":"message","message":{"type":"text","id":"524489024032473186","quoteToken":"mVrLPRhdF_vqkn8ZoGlGRQvExvzBCVBCqusK60p7iaDN6jmGuMhNTgT4SeLj_nRZjZlYmm2S__8v4miT8fR54TKY6yQMZi2A1SImJ2QP5AhcuJ7Sr8P833kuKeLSdlIaTz16185lwsR_o-7xTYCYgQ","text":"Hi"},"webhookEventId":"01J6YEDFJQCK3W7NM8KE310CCA","deliveryContext":{"isRedelivery":false},"timestamp":1725451123855,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"4066b2a51cdc48cc9937348baa022ddf","mode":"active"}]
+2024-09-04 18:58:44 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 18:58:44 error: Error processing events: lastToolCall is not defined
+2024-09-04 19:00:55 info: 
+2024-09-04 19:00:57 info: ----------------------------------------
+2024-09-04 19:00:57 info: Server started and listening on port 8000
+2024-09-04 19:00:57 info: ----------------------------------------
+2024-09-04 19:01:01 info: Events received: [{"type":"message","message":{"type":"text","id":"524489253477155239","quoteToken":"aysaeHs2vJxnBq85rj8WmK5EfUaDDVjU4iKF_-JrhE1ihKfKzr-kb_3AvazbIB5e8TPJx6-AFqHZT-bajPKkrwkr4l-nqxdpccXIUA_sq5Ht4JWdjcrsbcU5YLaeH34IU8Tp-z_QdkGnpmrDaxJKXA","text":"Hi"},"webhookEventId":"01J6YEHN3WGP203PVHVYRMK5W3","deliveryContext":{"isRedelivery":false},"timestamp":1725451260544,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"976bbcdbfa4b4cf995e5db1856899bf8","mode":"active"}]
+2024-09-04 19:01:01 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:01:01 error: Error processing events: lastToolCall is not defined
+2024-09-04 19:02:36 info: 
+2024-09-04 19:02:38 info: ----------------------------------------
+2024-09-04 19:02:38 info: Server started and listening on port 8000
+2024-09-04 19:02:38 info: ----------------------------------------
+2024-09-04 19:02:43 info: Events received: [{"type":"message","message":{"type":"text","id":"524489425494475201","quoteToken":"aWUwKHWI3LC0cbwQbC-5zWfGykmL0CAgNa87Dt6bwWGfQogdXu929-Ya31CQQf448kg6BdMMmanxmttsk1zLqyzsYed8paoNfWMBjN6nSRD3-F5trYxA0mwep7diBZlXX53pdZcCcoix02u8F7c7zQ","text":"Hi"},"webhookEventId":"01J6YEMRWRF3JTQFB0RZCAJ7FS","deliveryContext":{"isRedelivery":false},"timestamp":1725451362968,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b633a5e819e34567b492c40cda4e58e2","mode":"active"}]
+2024-09-04 19:02:43 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:02:43 info: Agent initialized successfully
+2024-09-04 19:02:43 info: Agent loaded successfully.
+2024-09-04 19:02:43 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: lastToolCall is not defined
+2024-09-04 19:18:16 info: 
+2024-09-04 19:18:19 info: ----------------------------------------
+2024-09-04 19:18:19 info: Server started and listening on port 8000
+2024-09-04 19:18:19 info: ----------------------------------------
+2024-09-04 19:18:24 info: Events received: [{"type":"message","message":{"type":"text","id":"524491003408417410","quoteToken":"ZmiqHhjRLhgJ-9P--_g32A6RIdY-asnFlwSH_S_V_drlgmICXrypBggxHgnBDDcDbvFpzMT6wVwfM0yFlTlfpt5R_QR3kw3DX-BkN8UJdTKQzBZ0GflNzlVNQxu7G7cU67NTkAdNzdcvtKOI9XI5LA","text":"Hi"},"webhookEventId":"01J6YFHFP9VGJXQZPY50WZE6VB","deliveryContext":{"isRedelivery":false},"timestamp":1725452303594,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6ebbe9abcd85488ba55324a23247e051","mode":"active"}]
+2024-09-04 19:18:24 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:18:24 error: Error processing events: lastToolCall is not defined
+2024-09-04 19:20:32 info: 
+2024-09-04 19:20:35 info: ----------------------------------------
+2024-09-04 19:20:35 info: Server started and listening on port 8000
+2024-09-04 19:20:35 info: ----------------------------------------
+2024-09-04 19:20:37 info: Events received: [{"type":"message","message":{"type":"text","id":"524491227568537603","quoteToken":"aLxSnH5tgBRMHMkX-MZhNg4pUdQyuu27N2oXYPQHp2f1KoBUszQn11y2nsrrQgN_Fs4kzYrCDnld-9SUf5jg-5v3TX-yLlG9ZMpkx4A0fsL6humleycdvPYOwuc9gdFotw7vaZ4I23CF5g_oYV5srQ","text":"Hi"},"webhookEventId":"01J6YFNJ4ET46SN6E5547FFAXW","deliveryContext":{"isRedelivery":false},"timestamp":1725452437138,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7f920bb5e7bc4b38ac5804bca5c50283","mode":"active"}]
+2024-09-04 19:20:37 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:20:38 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:20:38 error: Error processing events: ToolCall is not defined
+2024-09-04 19:20:52 info: 
+2024-09-04 19:20:54 info: ----------------------------------------
+2024-09-04 19:20:54 info: Server started and listening on port 8000
+2024-09-04 19:20:54 info: ----------------------------------------
+2024-09-04 19:20:56 info: Events received: [{"type":"message","message":{"type":"text","id":"524491259428733346","quoteToken":"EGAZF6Ob-lQ6878SEoQsncCZLiCVBnN5texPzaJK3AbC55xdjVUIv2pUNufjhWhHM27Z3TuSa-228PR-1HsXNS0G-vY6VKQrz7OnPwhEGwgjIxTV_ZLCXXms3uRhG4rvUPFb9tdykyXYyXrp_ir-Fw","text":"Hi"},"webhookEventId":"01J6YFP4RN0D3QTCWZDP9HX3E9","deliveryContext":{"isRedelivery":false},"timestamp":1725452456219,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"555f9fccc8f94822b5e2c094777c2f4b","mode":"active"}]
+2024-09-04 19:20:56 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:20:57 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:20:57 error: Error processing events: ToolCall is not defined
+2024-09-04 19:28:29 info: 
+2024-09-04 19:28:31 info: ----------------------------------------
+2024-09-04 19:28:31 info: Server started and listening on port 8000
+2024-09-04 19:28:31 info: ----------------------------------------
+2024-09-04 19:28:35 info: Events received: [{"type":"message","message":{"type":"text","id":"524492029419061603","quoteToken":"52zyuXkmts-HOgrY_Y5irS9VDUcftoU7DhEsROdb2JvuDqvzq68Df6B2oLqCYtiFRUbQlUbR9PVm1p5rk9CCzpfeNpHJEi0sFb4aD4hTLgpYkc2aL6Enu6WWy4ZhTTh7VXO5Buxy-p37S60iZwTBSA","text":"Hi"},"webhookEventId":"01J6YG44GMX33QVYHFBQ7THB3Q","deliveryContext":{"isRedelivery":false},"timestamp":1725452915028,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"8d997c4869f547bbaa7c24f02ead4c45","mode":"active"}]
+2024-09-04 19:28:35 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:28:35 info: Agent initialized successfully
+2024-09-04 19:28:35 info: agent Sussess load.
+2024-09-04 19:28:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:28:37 info: User input: Hi
+2024-09-04 19:28:37 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 19:28:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:28:37 info: responseText Sussess load.
+2024-09-04 19:28:38 info: ________________________________________
+2024-09-04 19:28:38 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 19:28:38 info: summaryResponse Sussess load.
+2024-09-04 19:29:37 info: 
+2024-09-04 19:29:39 info: ----------------------------------------
+2024-09-04 19:29:39 info: Server started and listening on port 8000
+2024-09-04 19:29:39 info: ----------------------------------------
+2024-09-04 19:29:41 info: Events received: [{"type":"message","message":{"type":"text","id":"524492140819513668","quoteToken":"xWzoPrwUs8mXyKPmOft5nzUiJWa5xwp8A9wY0Cpl1b1jUXv5yp1aBTV8uKTF1lU7W4wrmx-nm8ola17d1wb59ej1CTdZ9i7FXMrZgyBLjDIpYAYXf31w7xwhz1wV1dWfoKB9bY3lS7KRfOKvi4H99w","text":"Hi"},"webhookEventId":"01J6YG65GPKTDNDGK20BA22J5R","deliveryContext":{"isRedelivery":false},"timestamp":1725452981608,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"257ea42cf9704f86a72499447e799942","mode":"active"}]
+2024-09-04 19:29:42 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:29:42 info: Agent initialized successfully
+2024-09-04 19:29:42 info: agent Sussess load.
+2024-09-04 19:29:44 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:29:44 info: User input: Hi
+2024-09-04 19:29:44 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 19:29:44 info: Check ToolCall : null
+2024-09-04 19:29:44 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:29:44 info: responseText Sussess load.
+2024-09-04 19:29:45 info: ________________________________________
+2024-09-04 19:29:45 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 19:29:45 info: summaryResponse Sussess load.
+2024-09-04 19:30:22 info: 
+2024-09-04 19:30:24 info: ----------------------------------------
+2024-09-04 19:30:24 info: Server started and listening on port 8000
+2024-09-04 19:30:24 info: ----------------------------------------
+2024-09-04 19:30:27 info: Events received: [{"type":"message","message":{"type":"text","id":"524492217374212274","quoteToken":"bTKezaoZf0tJK5ZFJiKZLGEbxGCINhD8OPHhUgIab2shemhBoKIdb90sBKjsrY66XgViNgjI8ecgY_YcCMvbAynT3bfjGvJvNh4VbMsez4kYNMD8wThpgpzhQdWZH6qmsF7UKD6UXT76E-RAojO4fw","text":"Hi"},"webhookEventId":"01J6YG7J9FKDC1EK02DKAN6R9T","deliveryContext":{"isRedelivery":false},"timestamp":1725453027153,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"e8a7c671e20f4e839d7eb1d7b8af1d12","mode":"active"}]
+2024-09-04 19:30:27 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:30:28 info: Agent initialized successfully
+2024-09-04 19:30:28 info: agent Sussess load.
+2024-09-04 19:30:29 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:30:29 info: User input: Hi
+2024-09-04 19:30:29 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 19:30:29 info: Check ToolCall : null
+2024-09-04 19:30:29 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:30:29 info: responseText Sussess load.
+2024-09-04 19:30:30 info: ________________________________________
+2024-09-04 19:30:30 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 19:30:30 info: summaryResponse Sussess load.
+2024-09-04 19:32:38 info: 
+2024-09-04 19:32:40 info: ----------------------------------------
+2024-09-04 19:32:40 info: Server started and listening on port 8000
+2024-09-04 19:32:40 info: ----------------------------------------
+2024-09-04 19:32:43 info: Events received: [{"type":"message","message":{"type":"text","id":"524492446634607139","quoteToken":"adegrHTzM8M6ud9Vc6Mw92J9iKXi2WH_QD0pXcY_-s-IYZozbPkxiph4EDolyNdZtkbT2IqP773ofqsrbr7C-bw7d6VlpJL7L46LTD6XcsgcVo4sd5BgVs-yPR8NcUCeZGFuoUKfkIPmJ9C5lDz3Fg","text":"Hi"},"webhookEventId":"01J6YGBQ7XGV4WZ58YESYDPQG6","deliveryContext":{"isRedelivery":false},"timestamp":1725453163725,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5f5b3b185c1f446b91eb2c02684be4e4","mode":"active"}]
+2024-09-04 19:32:44 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:32:44 info: Agent initialized successfully
+2024-09-04 19:32:44 info: agent Sussess load.
+2024-09-04 19:32:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:32:47 info: User input: Hi
+2024-09-04 19:32:47 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-04 19:32:47 info: Check ToolCall : null
+2024-09-04 19:32:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:32:47 info: responseText Sussess load.
+2024-09-04 19:32:47 info: ________________________________________
+2024-09-04 19:32:47 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-04 19:32:47 info: summaryResponse Sussess load.
+2024-09-04 19:32:58 info: Events received: [{"type":"message","message":{"type":"text","id":"524492470206595410","quoteToken":"qQnyqUl4E2aoE-iUXtCjEe3vOxHHLe0_Cit2jZJ92J0aG6I4N3V1Scb7fg-3hoH1BPWATVvXNvOOGxE9y1OaICkWMZUDc8Y8nzWHCCffmEsMBc14dPYDz55B9_I2_cBf5S5k2iwRLgYuv-YkighBgw","text":"I want PC"},"webhookEventId":"01J6YGC5J3TPY6Z146XKT7DYND","deliveryContext":{"isRedelivery":false},"timestamp":1725453177927,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d6f0deea6c94462d96c79438e4367262","mode":"active"}]
+2024-09-04 19:32:58 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:32:58 info: agent Sussess load.
+2024-09-04 19:33:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:33:00 info: User input: I want PC
+2024-09-04 19:33:00 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I can help you assemble the specs! kubpom!
+2024-09-04 19:33:00 info: Check ToolCall : null
+2024-09-04 19:33:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:33:00 info: responseText Sussess load.
+2024-09-04 19:33:02 info: ________________________________________
+2024-09-04 19:33:02 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I can help you assemble the specs! kubpom! 💻🖥️🔧
+2024-09-04 19:33:02 info: summaryResponse Sussess load.
+2024-09-04 19:33:06 info: Events received: [{"type":"message","message":{"type":"text","id":"524492483964174721","quoteToken":"DdaeTbRn47UpZ1qJ1bo3EXbgob3YtQZNDDqiEHOjTzFuDIgGIsUIuwv5KEh0P8uVf7BupOPDH72CJgDNJmlDMnkBivYiMeAhpGWqvKwTsbnO4ex8U3zxS0SXq8f_sNoOfQzBc-aLcIOh_eg5RsHY3Q","text":"can recommend"},"webhookEventId":"01J6YGCD29VAFN9SZK6KVWKNDP","deliveryContext":{"isRedelivery":false},"timestamp":1725453185957,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"361ad65c89484bd69f1077a752375170","mode":"active"}]
+2024-09-04 19:33:06 info: Loading animation request accepted. Waiting for processing.
+2024-09-04 19:33:06 info: agent Sussess load.
+2024-09-04 19:33:10 info: ****************************************
+2024-09-04 19:33:10 info: Query Detection: recommend gaming PC
+2024-09-04 19:33:10 info: Tool Call: {
+  "id": "call_3cBHJG7Iqq6y5H7wADLRGrZt",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "recommend gaming PC"
+  }
+}
+2024-09-04 19:33:10 info: ****************************************
+2024-09-04 19:33:17 info: ****************************************
+2024-09-04 19:33:17 info: Query Detection: recommend general use PC
+2024-09-04 19:33:17 info: Tool Call: {
+  "id": "call_l0UO5lgtk80dsLDUzpmcWbls",
+  "name": "vector_index_Type_PC_-_Type_General_Use_-_Computer_Set",
+  "input": {
+    "query": "recommend general use PC"
+  }
+}
+2024-09-04 19:33:17 info: ****************************************
+2024-09-04 19:33:20 info: ****************************************
+2024-09-04 19:33:20 info: Query Detection: recommend work PC
+2024-09-04 19:33:20 info: Tool Call: {
+  "id": "call_gSEb3lXhEjZYWDef9LD7gOzK",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "recommend work PC"
+  }
+}
+2024-09-04 19:33:20 info: ****************************************
+2024-09-04 19:33:24 info: ****************************************
+2024-09-04 19:33:24 info: Query Detection: recommend high-end PC
+2024-09-04 19:33:24 info: Tool Call: {
+  "id": "call_DriY1v4w5o8PoD0YHKMSOgOI",
+  "name": "vector_index_Type_PC_-_Type_Hi-End_-_Computer_Set",
+  "input": {
+    "query": "recommend high-end PC"
+  }
+}
+2024-09-04 19:33:24 info: ****************************************
+2024-09-04 19:33:43 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:33:43 info: User input: can recommend
+2024-09-04 19:33:43 info: Response: Here are some recommended PC setups based on different needs:
+
+### Gaming PC Recommendations:
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU:** Intel Core i5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard:** MSI B760M GAMING PLUS WIFI (DDR5)
+   - **GPU:** Galax GeForce RTX 4060 Ti 8GB
+   - **RAM:** Corsair Vengeance DDR5 16GB (2x8GB) 5200MHz
+   - **SSD:** HIKSEMI FUTURE 512GB NVMe
+   - **PSU:** Thermaltake Smart BX1 650W
+   - **CASE:** Galax Revolution 06 (Black)
+   - **Total Price:** 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU:** Intel Core i5-12400F 2.5 GHz
+   - **Motherboard:** ASUS PRIME H610M-K D4 (DDR4)
+   - **GPU:** ASUS DUAL GeForce RTX 4060 EVO OC 8GB
+   - **RAM:** Corsair Vengeance LPX 16GB (2x8GB) 3200MHz
+   - **SSD:** WD Blue SN580 500GB NVMe
+   - **PSU:** Thermaltake Smart BX1 650W
+   - **CASE:** Thermaltake S100 Tempered Glass (Black)
+   - **Total Price:** 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU:** Intel Core i5-13400F 2.5 GHz
+   - **Motherboard:** MSI B760M GAMING PLUS WIFI (DDR5)
+   - **GPU:** MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC
+   - **RAM:** Corsair Vengeance DDR5 16GB (2x8GB) 5200MHz
+   - **SSD:** WD BLACK SN770 500GB NVMe
+   - **PSU:** Corsair CX650 - 650W
+   - **CASE:** Antec NX292 (Black)
+   - **Total Price:** 29,700 THB
+
+### General Use PC Recommendation:
+- **COMPUTERSET JIB MARU-2408001**
+   - **CPU:** AMD RYZEN 5 4600G 3.7 GHz (SOCKET AM4)
+   - **Motherboard:** ASROCK A520M-HVS (DDR4) (SOCKET AM4) (MICRO-ATX)
+   - **RAM:** KINGSTON FURY BEAST DDR4 16GB (8GBx2) 3200MHz
+   - **SSD:** WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 250 GB
+   - **PSU:** GAMDIAS AURA GP550 - 550W (BLACK) (ATX)
+   - **CASE:** AEROCOOL CS-111 (BLACK) (MICRO-ATX)
+   - **Total Price:** 10,200 THB
+
+### Work PC Recommendation:
+- **COMPUTERSET JIB MARU-2408066**
+   - **CPU:** Intel Core i5-14500
+   - **RAM:** 32GB DDR5
+   - **SSD:** 500GB NVMe SSD
+   - **GPU:** GALAX GeForce RTX 4060
+   - **Total Price:** 33,590 THB
+
+### High-End PC Recommendation:
+- **COMPUTERSET JIB MARU-2408100**
+   - **CPU:** INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard:** ASUS ROG MAXIMUS Z790 FORMULA (DDR5)
+   - **GPU:** ASUS ROG STRIX GEFORCE RTX 4090 24GB GDDR6X WHITE OC EDITION
+   - **RAM:** CORSAIR VENGEANCE RGB DDR5 96GB (48GBx2) 5600MHz
+   - **SSD:** WD BLACK SN770 2 TB NVMe SSD
+   - **PSU:** ASUS ROG-THOR-1200P2-GAMING 1200W 80 PLUS PLATINUM
+   - **CASE:** NZXT H9 ELITE (WHITE)
+   - **Cooler:** ASUS ROG RYUJIN III 360 ARGB WHITE
+   - **Total Price:** 203,270 THB
+
+Let me know if you need more information or assistance with any specific setup! kubpom!
+2024-09-04 19:33:43 info: Check ToolCall : recommend high-end PC
+2024-09-04 19:33:43 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-04 19:33:43 info: responseText Sussess load.
+2024-09-04 19:33:57 info: ________________________________________
+2024-09-04 19:33:57 info: Response summarized: Here are some recommended PC setups based on different needs:
+
+### Gaming PC Recommendations:
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU:** Intel Core i5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard:** MSI B760M GAMING PLUS WIFI (DDR5)
+   - **GPU:** Galax GeForce RTX 4060 Ti 8GB
+   - **RAM:** Corsair Vengeance DDR5 16GB (2x8GB) 5200MHz
+   - **SSD:** HIKSEMI FUTURE 512GB NVMe
+   - **PSU:** Thermaltake Smart BX1 650W
+   - **CASE:** Galax Revolution 06 (Black)
+   - **Total Price:** 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU:** Intel Core i5-12400F 2.5 GHz
+   - **Motherboard:** ASUS PRIME H610M-K D4 (DDR4)
+   - **GPU:** ASUS DUAL GeForce RTX 4060 EVO OC 8GB
+   - **RAM:** Corsair Vengeance LPX 16GB (2x8GB) 3200MHz
+   - **SSD:** WD Blue SN580 500GB NVMe
+   - **PSU:** Thermaltake Smart BX1 650W
+   - **CASE:** Thermaltake S100 Tempered Glass (Black)
+   - **Total Price:** 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU:** Intel Core i5-13400F 2.5 GHz
+   - **Motherboard:** MSI B760M GAMING PLUS WIFI (DDR5)
+   - **GPU:** MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC
+   - **RAM:** Corsair Vengeance DDR5 16GB (2x8GB) 5200MHz
+   - **SSD:** WD BLACK SN770 500GB NVMe
+   - **PSU:** Corsair CX650 - 650W
+   - **CASE:** Antec NX292 (Black)
+   - **Total Price:** 29,700 THB
+
+### General Use PC Recommendation:
+- **COMPUTERSET JIB MARU-2408001**
+   - **CPU:** AMD RYZEN 5 4600G 3.7 GHz (SOCKET AM4)
+   - **Motherboard:** ASROCK A520M-HVS (DDR4) (SOCKET AM4) (MICRO-ATX)
+   - **RAM:** KINGSTON FURY BEAST DDR4 16GB (8GBx2) 3200MHz
+   - **SSD:** WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 250 GB
+   - **PSU:** GAMDIAS AURA GP550 - 550W (BLACK) (ATX)
+   - **CASE:** AEROCOOL CS-111 (BLACK) (MICRO-ATX)
+   - **Total Price:** 10,200 THB
+
+### Work PC Recommendation:
+- **COMPUTERSET JIB MARU-2408066**
+   - **CPU:** Intel Core i5-14500
+   - **RAM:** 32GB DDR5
+   - **SSD:** 500GB NVMe SSD
+   - **GPU:** GALAX GeForce RTX 4060
+   - **Total Price:** 33,590 THB
+
+### High-End PC Recommendation:
+- **COMPUTERSET JIB MARU-2408100**
+   - **CPU:** INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard:** ASUS ROG MAXIMUS Z790 FORMULA (DDR5)
+   - **GPU:** ASUS ROG STRIX GEFORCE RTX 4090 24GB GDDR6X WHITE OC EDITION
+   - **RAM:** CORSAIR VENGEANCE RGB DDR5 96GB (48GBx2) 5600MHz
+   - **SSD:** WD BLACK SN770 2 TB NVMe SSD
+   - **PSU:** ASUS ROG-THOR-1200P2-GAMING 1200W 80 PLUS PLATINUM
+   - **CASE:** NZXT H9 ELITE (WHITE)
+   - **Cooler:** ASUS ROG RYUJIN III 360 ARGB WHITE
+   - **Total Price:** 203,270 THB
+
+Let me know if you need more information or assistance with any specific setup! kubpom! 💻🖥️🎮
+2024-09-04 19:33:57 info: summaryResponse Sussess load.

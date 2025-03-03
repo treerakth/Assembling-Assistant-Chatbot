@@ -1,0 +1,1094 @@
+2024-10-12 12:20:06 info: ----------------------------------------
+2024-10-12 12:20:06 info: Server started and listening on port 8000
+2024-10-12 12:20:06 info: ----------------------------------------
+2024-10-12 12:20:09 info: Events received: []
+2024-10-12 17:09:56 info: Events received: [{"type":"message","message":{"type":"text","id":"529986366768414757","quoteToken":"r_b2PkTlZnzFMJWjrLNCdfBS1Dm8SNy0EK0qVjBakOKL3y7m2u7uy4Esfe4chU4T3NA2l4XuFW4dPC2-OkxXNUTtHG3rfJzGJYcw6bH63MVxUE1lVGEJ8Pt6tCL8fIIA49iDl0l3wZpotqt1G1jrYg","text":"Hi"},"webhookEventId":"01JA039HTK00FAWTS775MP9NH3","deliveryContext":{"isRedelivery":false},"timestamp":1728727795400,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"54d635a72b0548b282b5b636c0de6bd8","mode":"active"}]
+2024-10-12 17:09:56 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:09:56 info: Agent Initialized
+2024-10-12 17:09:56 info: User Agent Success load.
+2024-10-12 17:10:00 info: ------------------------------------------------------
+2024-10-12 17:10:00 info: Response Agent: Hello! How can I assist you today?
+2024-10-12 17:10:00 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:10:00 info: ------------------------------------------------------
+2024-10-12 17:10:00 info: responseText Success load.
+2024-10-12 17:10:01 info: This is Total price found : 0
+2024-10-12 17:10:02 info: ________________________________________
+2024-10-12 17:10:02 info: Response summarized: Hello! How can I assist you today?
+2024-10-12 17:10:02 info: summaryResponse Success load.
+2024-10-12 17:11:04 info: Events received: [{"type":"message","message":{"type":"text","id":"529986481759453741","quoteToken":"uTucFqVoHa1EktUMJAO7HZEjRHqjrh6fv7fyU1FmPE7jFigFEyxZ2AZyHYlI08XWGyZulu5dZubIFVVnfKZLWDBHxTAhvnt3QkkR2tqMZzDSQ4S0KJaE5NK1e_jh06FG9vFTe817FAMAexjWTQ8OXQ","text":"I want computer "},"webhookEventId":"01JA03BMXSN4N2T0VJDPNHXVX3","deliveryContext":{"isRedelivery":false},"timestamp":1728727863968,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"f457d5c861914bea97d52347fee60872","mode":"active"}]
+2024-10-12 17:11:04 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:11:04 info: User Agent Success load.
+2024-10-12 17:11:09 info: ------------------------------------------------------
+2024-10-12 17:11:09 info: Response Agent: Could you please specify what type of computer you're looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Works PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, let me know your budget range!
+2024-10-12 17:11:09 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:11:09 info: ------------------------------------------------------
+2024-10-12 17:11:09 info: responseText Success load.
+2024-10-12 17:11:10 info: This is Total price found : 0
+2024-10-12 17:11:12 info: ________________________________________
+2024-10-12 17:11:12 info: Response summarized: Could you please specify what type of computer you're looking for? Here are some options:
+
+1. Gaming PC: Optimized for gaming with a focus on powerful GPUs.
+
+2. Premium PC: High-spec computers designed for advanced tasks.
+
+3. Standard PC: Suitable for general tasks, balancing performance and cost.
+
+4. Works PC: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, let me know your budget range! 🎮💻✨
+2024-10-12 17:11:12 info: summaryResponse Success load.
+2024-10-12 17:11:36 info: Events received: [{"type":"message","message":{"type":"text","id":"529986535043629122","quoteToken":"mYalAkvHAPrDZhOd6ypZ1glktFj7Dp6xp9otYjxVaw8UXYdrSq-G8dl1GkQdzSqcLg08ViszkhT_qxE8vSVYnKMDGCmPKVyxXJGUpIG7pCdO47qhpymneKPLg7q8QPGe1d5kwxyidv47xLF7G4rnbg","text":"I want computer for playing games "},"webhookEventId":"01JA03CKK35N61KJT4A9AJB0CZ","deliveryContext":{"isRedelivery":false},"timestamp":1728727895601,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"b6f86088af5847b9b482a9a530bce1a4","mode":"active"}]
+2024-10-12 17:11:36 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:11:36 info: User Agent Success load.
+2024-10-12 17:11:38 info: ------------------------------------------------------
+2024-10-12 17:11:38 info: Response Agent: Great choice! Could you please provide your budget range for the gaming PC? This will help me find the best options for you.
+2024-10-12 17:11:38 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:11:38 info: ------------------------------------------------------
+2024-10-12 17:11:38 info: responseText Success load.
+2024-10-12 17:11:39 info: This is Total price found : 0
+2024-10-12 17:11:41 info: ________________________________________
+2024-10-12 17:11:41 info: Response summarized: Great choice! Could you please provide your budget range for the gaming PC? This will help me find the best options for you. 😊🎮💻
+2024-10-12 17:11:41 info: summaryResponse Success load.
+2024-10-12 17:12:07 info: Events received: [{"type":"message","message":{"type":"text","id":"529986587438874851","quoteToken":"PtOdwkLbe2sF0thYHv1LZtWZbj9HMsLk6d6AkxZAxvnBENlRsMAGXVy_1dK6SX2_U6xd5Wb4E6JbtX0AA5AUPLtVgVRwmdHFwP0zYme_QYdSsHXejJz8jeKjtXMBKiRSXGe9TecdVfQXyxMjn0B9Ag","text":"20,000"},"webhookEventId":"01JA03DJ4RB0N3Y6P7EVC0QV5B","deliveryContext":{"isRedelivery":false},"timestamp":1728727926842,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"f4291bbec1654ad8906bfae2a29a846d","mode":"active"}]
+2024-10-12 17:12:07 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:12:07 info: User Agent Success load.
+2024-10-12 17:12:10 info: LLM Tool Call: {"toolCall":{"id":"call_A1b94sigox3we0cHPyvvXUWH","name":"index_Gaming","input":{"query":"gaming PC under 20000 baht"}}}
+2024-10-12 17:12:17 info: ------------------------------------------------------
+2024-10-12 17:12:17 info: Response Agent: It looks like there are no gaming PC sets available under 20,000 baht. The lowest priced gaming PC set is **SET Gaming 002**, which costs 24,110 baht.
+
+Would you like to consider increasing your budget, or are you interested in a different type of PC?
+2024-10-12 17:12:17 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:12:17 info: ------------------------------------------------------
+2024-10-12 17:12:17 info: responseText Success load.
+2024-10-12 17:12:18 info: This is Total price found : 0
+2024-10-12 17:12:20 info: ________________________________________
+2024-10-12 17:12:20 info: Response summarized: It looks like there are no gaming PC sets available under 20,000 baht. The lowest priced gaming PC set is SET Gaming 002, which costs ฿24,110.
+
+Would you like to consider increasing your budget, or are you interested in a different type of PC? 🎮💻✨
+2024-10-12 17:12:20 info: summaryResponse Success load.
+2024-10-12 17:18:06 info: 
+2024-10-12 17:18:09 info: ----------------------------------------
+2024-10-12 17:18:09 info: Server started and listening on port 8000
+2024-10-12 17:18:09 info: ----------------------------------------
+2024-10-12 17:19:12 info: Events received: [{"type":"message","message":{"type":"text","id":"529987300387192897","quoteToken":"r4YYUBfQCSVLpzcPhXUDeZyEJhBt51_FK9BcS_gnABknPQB8iy4Mo_kticiXhuaquNcdMOwon5uuX4ofiYwZNtWnJGT2I5n7_Usm1S6OgTHsJKKTBVvBP1gBD0kdB8PBUrmcK6Q3V7PqTmHas6bSVw","text":"I want computer for playing games"},"webhookEventId":"01JA03TH4SDNHWFA8YG61BSK71","deliveryContext":{"isRedelivery":false},"timestamp":1728728351760,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"51c3bf56b55a4394aab85c088391d0bb","mode":"active"}]
+2024-10-12 17:19:12 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:19:12 info: Agent Initialized
+2024-10-12 17:19:12 info: User Agent Success load.
+2024-10-12 17:19:16 info: ------------------------------------------------------
+2024-10-12 17:19:16 info: Response Agent: Could you please provide your budget range for the gaming PC? This will help me find the best options for you.
+2024-10-12 17:19:16 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:19:16 info: ------------------------------------------------------
+2024-10-12 17:19:16 info: responseText Success load.
+2024-10-12 17:19:17 info: This is Total price found : 0
+2024-10-12 17:19:18 info: ________________________________________
+2024-10-12 17:19:18 info: Response summarized: Could you please provide your budget range for the gaming PC? This will help me find the best options for you. 😊🎮💻
+2024-10-12 17:19:18 info: summaryResponse Success load.
+2024-10-12 17:19:24 info: Events received: [{"type":"message","message":{"type":"text","id":"529987321241272465","quoteToken":"SvwzgMDVFM7qDjlxKVsdkIS8SheWi1TOYjcb9Buytha_hJSiYPYHk3BqJaniYlPekMIEgofkR3oZN-d4FU0MyxVIINJ614FF1WjiUiVXjVW6rb1H4xYQRomb5BkTbin8I0SdHVxLZzaK7k4-ezeXSg","text":"20,000 "},"webhookEventId":"01JA03TX74CPJJXN7X339FDXWM","deliveryContext":{"isRedelivery":false},"timestamp":1728728364192,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"0ab3868aaebb4f1a844fe13224c0561c","mode":"active"}]
+2024-10-12 17:19:25 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:19:25 info: User Agent Success load.
+2024-10-12 17:19:28 info: LLM Tool Call: {"toolCall":{"id":"call_l7pBnD1OKN2GcKSjlRcYBV9T","name":"index_Gaming","input":{"query":"20,000"}}}
+2024-10-12 17:19:36 info: ------------------------------------------------------
+2024-10-12 17:19:36 info: Response Agent: It seems that there are no complete gaming PC sets available for a budget of 20,000 baht. The lowest options start from around 24,000 baht.
+
+Would you like to consider increasing your budget, or would you prefer to look into individual components to build a custom gaming PC?
+2024-10-12 17:19:36 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:19:36 info: ------------------------------------------------------
+2024-10-12 17:19:36 info: responseText Success load.
+2024-10-12 17:19:38 info: This is Total price found : 0
+2024-10-12 17:19:40 info: ________________________________________
+2024-10-12 17:19:40 info: Response summarized: It seems that there are no complete gaming PC sets available for a budget of 20,000 baht. The lowest options start from around 24,000 baht.
+
+Would you like to consider increasing your budget, or would you prefer to look into individual components to build a custom gaming PC? 🎮💻🛠️
+2024-10-12 17:19:40 info: summaryResponse Success load.
+2024-10-12 17:19:51 info: Events received: [{"type":"message","message":{"type":"text","id":"529987365868405106","quoteToken":"AzdRHotONdPh1zs7tHLDJbDA-PbcdAoDsUxG9pyn3A_LmTgxPtanEvASm4C8pf8LrpQseiNugtTV5W71EgvK2nIYkfBDitKbB-R9nj2Seds32Lx3rLRIY_owv0nsp7szwbMlDnnlflfbXogwI5sxWg","text":"show all you find "},"webhookEventId":"01JA03VQDA78AADFYT8S5VY1FV","deliveryContext":{"isRedelivery":false},"timestamp":1728728390950,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f04fcfd4f2ca46369ed2ebc60aba14f2","mode":"active"}]
+2024-10-12 17:19:51 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:19:51 info: User Agent Success load.
+2024-10-12 17:19:57 info: ------------------------------------------------------
+2024-10-12 17:19:57 info: Response Agent: Here are the gaming PC sets I found, although they exceed your budget of 20,000 baht:
+
+1. **SET Gaming 001**
+   - **Price**: 24,650 baht
+   - **Brand**: Not specified
+   - **Etc.**: Important details not provided
+
+2. **SET Gaming 002**
+   - **Price**: 24,110 baht
+   - **Brand**: Not specified
+   - **Etc.**: Important details not provided
+
+3. **SET Gaming 003**
+   - **Price**: 29,700 baht
+   - **Brand**: Not specified
+   - **Etc.**: Important details not provided
+
+4. **SET Gaming 004**
+   - **Price**: Not fully provided
+   - **Brand**: Not specified
+   - **Etc.**: Important details not provided
+
+Unfortunately, none of these options fit within your budget. If you're open to it, I can help you explore individual components to build a custom gaming PC or look for options in a different price range. Let me know how you'd like to proceed!
+2024-10-12 17:19:57 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:19:57 info: ------------------------------------------------------
+2024-10-12 17:19:57 info: responseText Success load.
+2024-10-12 17:19:59 info: This is Total price found : 0
+2024-10-12 17:20:03 info: ________________________________________
+2024-10-12 17:20:03 info: Response summarized: Here are the gaming PC sets I found, although they exceed your budget of 20,000 baht:
+
+1. SET Gaming 001
+   - Price: ฿24,650
+   - Brand: Not specified
+   - Etc.: Important details not provided
+
+2. SET Gaming 002
+   - Price: ฿24,110
+   - Brand: Not specified
+   - Etc.: Important details not provided
+
+3. SET Gaming 003
+   - Price: ฿29,700
+   - Brand: Not specified
+   - Etc.: Important details not provided
+
+Unfortunately, none of these options fit within your budget. If you're open to it, I can help you explore individual components to build a custom gaming PC or look for options in a different price range. Let me know how you'd like to proceed! 🎮💻🛠️
+2024-10-12 17:20:03 info: summaryResponse Success load.
+2024-10-12 17:20:11 info: Events received: [{"type":"message","message":{"type":"text","id":"529987400311505414","quoteToken":"kWRBxkJsBoJZzfCS5IuVrZCUsRGz9Zt_DgQootq1HRT46NsG7LYGwJSdz2dTkMkJ1lwAA0Ghjm1t7TJQ23XkbC9S6Hg8u9lz-XtXwKfoNyvUTG7kOsWk5EmhH25l2HhoszC5lhzf-nKHGFAYstK7gg","text":"SET Gaming 001"},"webhookEventId":"01JA03WBC2ACW8DQPXBMYWQQY1","deliveryContext":{"isRedelivery":false},"timestamp":1728728411373,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"42df1fa916174cb7911973d54a9cdf85","mode":"active"}]
+2024-10-12 17:20:12 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:20:12 info: User Agent Success load.
+2024-10-12 17:20:14 info: LLM Tool Call: {"toolCall":{"id":"call_zPe1U5ewf2DKSYg7g0OnTzlA","name":"index_Gaming","input":{"query":"SET Gaming 001"}}}
+2024-10-12 17:20:40 info: ------------------------------------------------------
+2024-10-12 17:20:40 info: Response Agent: Here are the details for **SET Gaming 001**:
+
+- **Total Price**: 24,650 baht
+
+### Components:
+
+1. **CPU**: 
+   - **Model**: INTEL CORE I5-12400F 2.5 GHz
+   - **Price**: 4,350 baht
+   - **Brand**: Intel
+   - **Socket**: LGA 1700
+
+2. **Motherboard**: 
+   - **Model**: ASUS PRIME H610M-K D4 (DDR4)
+   - **Price**: 2,290 baht
+   - **Brand**: Asus
+   - **Form Factor**: Micro-ATX
+   - **Chipset**: LGA 1700
+   - **Interface Storage**: M.2 Slot, PCIe, SATA, SSD Port
+
+3. **GPU**: 
+   - **Model**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **Price**: 11,200 baht
+   - **Brand**: Asus
+   - **Chipset**: NVIDIA
+   - **Interface**: PCIe
+
+4. **RAM**: 
+   - **Model**: CORSAIR VENGEANCE LPX (BLACK) (CMK16GX4M2E3200C16) 16GB (8GBx2) DDR4 3200MHz
+   - **Price**: 1,540 baht
+   - **Brand**: Corsair
+
+5. **SSD**: 
+   - **Model**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 (WDS500G3B0E) 500 GB
+   - **Price**: 1,690 baht
+   - **Brand**: WD
+   - **Interface**: PCIe 4.0
+
+6. **PSU**: 
+   - **Model**: THERMALTAKE SMART BX1 650W (DC TO DC VERSION)
+   - **Price**: 1,990 baht
+   - **Brand**: Thermaltake
+
+7. **CASE**: 
+   - **Model**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Price**: 1,590 baht
+   - **Brand**: Thermaltake
+   - **Support Motherboard**: MICRO-ATX
+
+### Summary
+This configuration provides a solid balance of performance and value for gaming, utilizing a capable CPU and GPU, along with sufficient RAM and storage for modern gaming needs.
+
+If you're interested in this set or need further assistance, please let me know!
+2024-10-12 17:20:40 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:20:40 info: ------------------------------------------------------
+2024-10-12 17:20:40 info: responseText Success load.
+2024-10-12 17:20:42 info: This is Total price found : 24650
+2024-10-12 17:20:52 info: ________________________________________
+2024-10-12 17:20:52 info: Response summarized: Here are the details for SET Gaming 001:
+
+- Total Price: ฿24,650
+
+### Components:
+
+1. CPU: 
+   - Model: INTEL CORE I5-12400F 2.5 GHz
+   - Price: ฿4,350
+   - Brand: Intel
+   - Socket: LGA 1700
+
+2. Motherboard: 
+   - Model: ASUS PRIME H610M-K D4 (DDR4)
+   - Price: ฿2,290
+   - Brand: Asus
+   - Form Factor: Micro-ATX
+   - Chipset: LGA 1700
+   - Interface Storage: M.2 Slot, PCIe, SATA, SSD Port
+
+3. GPU: 
+   - Model: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - Price: ฿11,200
+   - Brand: Asus
+   - Chipset: NVIDIA
+   - Interface: PCIe
+
+4. RAM: 
+   - Model: CORSAIR VENGEANCE LPX (BLACK) (CMK16GX4M2E3200C16) 16GB (8GBx2) DDR4 3200MHz
+   - Price: ฿1,540
+   - Brand: Corsair
+
+5. SSD: 
+   - Model: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 (WDS500G3B0E) 500 GB
+   - Price: ฿1,690
+   - Brand: WD
+   - Interface: PCIe 4.0
+
+6. PSU: 
+   - Model: THERMALTAKE SMART BX1 650W (DC TO DC VERSION)
+   - Price: ฿1,990
+   - Brand: Thermaltake
+
+7. CASE: 
+   - Model: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - Price: ฿1,590
+   - Brand: Thermaltake
+   - Support Motherboard: MICRO-ATX
+
+### Summary
+This configuration provides a solid balance of performance and value for gaming, utilizing a capable CPU and GPU, along with sufficient RAM and storage for modern gaming needs.
+
+If you're interested in this set or need further assistance, please let me know! 🎮💻✨
+2024-10-12 17:20:52 info: summaryResponse Success load.
+2024-10-12 17:21:00 info: Events received: [{"type":"message","message":{"type":"text","id":"529987480775557620","quoteToken":"LNvj-S5MmNn8hUiki90u1KgdqS4yE9TMfCAi5CAGF_RPr0KUk2uKMhKhuDp1Ta-7P1aj8Ts54GGBtbhBd9cJ7SiA40zglTEFPVFZoWZxC7q4hyjnaYLQwXqGsJglBZDxtvLJKuHdcf1eMFPx_i_ULA","text":"Hi"},"webhookEventId":"01JA03XTEHPGEAYRYPKX585DBZ","deliveryContext":{"isRedelivery":false},"timestamp":1728728459367,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"e638b30155d84405a5d6cfb10b9beed5","mode":"active"}]
+2024-10-12 17:21:00 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:21:00 info: Agent Initialized
+2024-10-12 17:21:00 info: User Agent Success load.
+2024-10-12 17:21:03 info: ------------------------------------------------------
+2024-10-12 17:21:03 info: Response Agent: Hello! How can I assist you today?
+2024-10-12 17:21:03 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:21:03 info: ------------------------------------------------------
+2024-10-12 17:21:03 info: responseText Success load.
+2024-10-12 17:21:04 info: This is Total price found : 0
+2024-10-12 17:21:05 info: ________________________________________
+2024-10-12 17:21:05 info: Response summarized: Hello! How can I assist you today?
+2024-10-12 17:21:05 info: summaryResponse Success load.
+2024-10-12 17:21:12 info: Events received: [{"type":"message","message":{"type":"text","id":"529987501109543473","quoteToken":"mmG3ik8nmIc2_Ff7vL_db8kbjVWM6X8IM2jnE0Cv-5xDxCUT0rW7FYlWbY_pjp86hHwHjSLGSUT0jp3EjLy7eogp5afYjWiVlZFfhftde8-YqQ0VMCQo1ssKAQE3ahdcN_2tLAbXuEqbNHemBDbI7w","text":"I want pc"},"webhookEventId":"01JA03Y65P2TMHKCYS8B3VFA8N","deliveryContext":{"isRedelivery":false},"timestamp":1728728471404,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"b720f24d36b941fdb69ac6b393d7b7bc","mode":"active"}]
+2024-10-12 17:21:12 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:21:12 info: User Agent Success load.
+2024-10-12 17:21:16 info: ------------------------------------------------------
+2024-10-12 17:21:16 info: Response Agent: Could you please specify what type of PC you're looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Works PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, let me know your budget range!
+2024-10-12 17:21:16 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:21:16 info: ------------------------------------------------------
+2024-10-12 17:21:16 info: responseText Success load.
+2024-10-12 17:21:17 info: This is Total price found : 0
+2024-10-12 17:21:19 info: Events received: [{"type":"message","message":{"type":"text","id":"529987513541722545","quoteToken":"OAkaa29XjIsXw2AVZYkCyr7j2q6kB9NZiy1d3QA8aZHrQ_CjPlkoSgrqCDvuuTnEU4k-oDkYLzt5-aqeteAXLkM-F9N2iCJLJgzbM83URwVR6JXEietn6lf5u45flm0Pii5ndwdllrGqny9tNmJalA","text":"SET Gaming 002"},"webhookEventId":"01JA03YD5AECEW8MENQPPPGGTM","deliveryContext":{"isRedelivery":false},"timestamp":1728728478815,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"24e0cfce853f496eaee5f4f6f0b983f3","mode":"active"}]
+2024-10-12 17:21:19 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:21:19 info: User Agent Success load.
+2024-10-12 17:21:19 info: ________________________________________
+2024-10-12 17:21:19 info: Response summarized: Could you please specify what type of PC you're looking for? Here are some options:
+
+1. Gaming PC: Optimized for gaming with a focus on powerful GPUs.
+
+2. Premium PC: High-spec computers designed for advanced tasks.
+
+3. Standard PC: Suitable for general tasks, balancing performance and cost.
+
+4. Works PC: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, let me know your budget range! 🎮💻✨
+2024-10-12 17:21:19 info: summaryResponse Success load.
+2024-10-12 17:21:21 info: LLM Tool Call: {"toolCall":{"id":"call_WiYctHdb4t2Rm6zeaYQG30Xs","name":"index_Gaming","input":{"query":"SET Gaming 002"}}}
+2024-10-12 17:21:21 info: LLM Tool Call: {"toolCall":{"id":"call_WiYctHdb4t2Rm6zeaYQG30Xs","name":"index_Gaming","input":{"query":"SET Gaming 002"}}}
+2024-10-12 17:21:29 info: Events received: [{"type":"message","message":{"type":"text","id":"529987530587373651","quoteToken":"UmREBocFPOA65J5WKk8llDiUs1WxP_8xAHhNKZtsYK2-Ui1MJ0b06uauxYuvcZ4CwEuQyT3fHMu84r6LkC2UtP-DpDlo9uBn_hjJw3IvFs4CCjry7x_nQbV8J-DYZThR8g-I-lbSLgTtSqkFaDgM8Q","text":"For playing game"},"webhookEventId":"01JA03YQHAM3NNVKA22Z4ME96H","deliveryContext":{"isRedelivery":false},"timestamp":1728728489008,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"2d6cbd2e97904df4a337ef5dbc364c79","mode":"active"}]
+2024-10-12 17:21:30 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:21:30 info: User Agent Success load.
+2024-10-12 17:21:32 info: ------------------------------------------------------
+2024-10-12 17:21:32 info: Response Agent: Great! You're looking for a Gaming PC. Could you please provide your budget range? This will help me find the best options for you.
+2024-10-12 17:21:32 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:21:32 info: ------------------------------------------------------
+2024-10-12 17:21:32 info: responseText Success load.
+2024-10-12 17:21:33 info: This is Total price found : 0
+2024-10-12 17:21:34 info: ________________________________________
+2024-10-12 17:21:34 info: Response summarized: Great! You're looking for a Gaming PC. Could you please provide your budget range? This will help me find the best options for you. 🎮💻✨
+2024-10-12 17:21:34 info: summaryResponse Success load.
+2024-10-12 17:21:49 info: ------------------------------------------------------
+2024-10-12 17:21:49 info: Response Agent: Here are the details for **SET Gaming 002**:
+
+- **Total Price**: 24,110 baht
+
+### Components:
+
+1. **CPU**: 
+   - **Model**: INTEL CORE I5-12400F 2.5 GHz
+   - **Price**: 4,350 baht
+   - **Brand**: Intel
+   - **Socket**: LGA 1700
+
+2. **Motherboard**: 
+   - **Model**: MSI PRO H610M-E DDR4 (SOCKET LGA 1700)
+   - **Price**: 2,150 baht
+   - **Brand**: MSI
+   - **Form Factor**: Micro-ATX
+   - **Chipset**: LGA 1700
+   - **Interface Storage**: M.2 Slot, PCIe 3.0, SATA, SSD Port
+
+3. **GPU**: 
+   - **Model**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+   - **Price**: 10,900 baht
+   - **Brand**: Galax
+   - **Chipset**: NVIDIA
+   - **Interface**: PCIe 4.0
+
+4. **RAM**: 
+   - **Model**: CORSAIR VENGEANCE LPX (BLACK) (CMK16GX4M2E3200C16) 16GB (8GBx2) DDR4 3200MHz
+   - **Price**: 1,540 baht
+   - **Brand**: Corsair
+
+5. **SSD**: 
+   - **Model**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB
+   - **Price**: 1,890 baht
+   - **Brand**: WD
+   - **Interface**: PCIe 4.0
+
+6. **PSU**: 
+   - **Model**: THERMALTAKE SMART BX1 650W (DC TO DC VERSION)
+   - **Price**: 1,990 baht
+   - **Brand**: Thermaltake
+
+7. **CASE**: 
+   - **Model**: MONTECH X2 MESH (BLACK)
+   - **Price**: 1,290 baht
+   - **Brand**: Montech
+   - **Support Motherboard**: ATX
+
+### Summary
+This configuration offers a strong performance for gaming, featuring a capable CPU and GPU, along with sufficient RAM and storage for modern gaming needs.
+
+If you're interested in this set or need further assistance, please let me know!
+2024-10-12 17:21:49 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:21:49 info: ------------------------------------------------------
+2024-10-12 17:21:49 info: responseText Success load.
+2024-10-12 17:21:51 info: This is Total price found : 24110
+2024-10-12 17:21:52 info: Events received: [{"type":"message","message":{"type":"text","id":"529987568754753895","quoteToken":"rbo9dXbAsSLN_odn-CfLY3WsLS5BrgL3PpN0BnwGqJvJo2pDeQLqLPFjTachVfAoIvo9Vpwj-WM8pYugfGoWFOjQVb4blg5eh2sA2No-gun2UZ57EQGJQq69_--5LMWgd3TosUhuvHYpa2SeV11FsQ","text":"I have 20,000"},"webhookEventId":"01JA03ZDHC9FAN7FX68RRFX7AD","deliveryContext":{"isRedelivery":false},"timestamp":1728728511768,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"db741252a0334d6eaeb03fde6652ad85","mode":"active"}]
+2024-10-12 17:21:53 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:21:53 info: User Agent Success load.
+2024-10-12 17:21:56 info: LLM Tool Call: {"toolCall":{"id":"call_cyMWdH0mrH0IVytbebJFB2M9","name":"index_Gaming","input":{"query":"20,000 baht"}}}
+2024-10-12 17:21:56 info: LLM Tool Call: {"toolCall":{"id":"call_cyMWdH0mrH0IVytbebJFB2M9","name":"index_Gaming","input":{"query":"20,000 baht"}}}
+2024-10-12 17:22:01 info: ________________________________________
+2024-10-12 17:22:01 info: Response summarized: Here are the details for SET Gaming 002:
+
+- Total Price: ฿24,110
+
+### Components:
+
+1. CPU: 
+   - Model: INTEL CORE I5-12400F 2.5 GHz
+   - Price: 4,350 baht
+   - Brand: Intel
+   - Socket: LGA 1700
+
+2. Motherboard: 
+   - Model: MSI PRO H610M-E DDR4 (SOCKET LGA 1700)
+   - Price: 2,150 baht
+   - Brand: MSI
+   - Form Factor: Micro-ATX
+   - Chipset: LGA 1700
+   - Interface Storage: M.2 Slot, PCIe 3.0, SATA, SSD Port
+
+3. GPU: 
+   - Model: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+   - Price: 10,900 baht
+   - Brand: Galax
+   - Chipset: NVIDIA
+   - Interface: PCIe 4.0
+
+4. RAM: 
+   - Model: CORSAIR VENGEANCE LPX (BLACK) (CMK16GX4M2E3200C16) 16GB (8GBx2) DDR4 3200MHz
+   - Price: 1,540 baht
+   - Brand: Corsair
+
+5. SSD: 
+   - Model: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB
+   - Price: 1,890 baht
+   - Brand: WD
+   - Interface: PCIe 4.0
+
+6. PSU: 
+   - Model: THERMALTAKE SMART BX1 650W (DC TO DC VERSION)
+   - Price: 1,990 baht
+   - Brand: Thermaltake
+
+7. CASE: 
+   - Model: MONTECH X2 MESH (BLACK)
+   - Price: 1,290 baht
+   - Brand: Montech
+   - Support Motherboard: ATX
+
+### Summary
+This configuration offers a strong performance for gaming, featuring a capable CPU and GPU, along with sufficient RAM and storage for modern gaming needs.
+
+If you're interested in this set or need further assistance, please let me know! 🎮💻✨
+2024-10-12 17:22:01 info: summaryResponse Success load.
+2024-10-12 17:22:04 info: ------------------------------------------------------
+2024-10-12 17:22:04 info: Response Agent: It seems that the available Gaming PC sets are priced above your budget of 20,000 baht. Here are the options I found:
+
+1. **SET Gaming 001**: 24,650 baht
+2. **SET Gaming 002**: 24,110 baht
+3. **SET Gaming 003**: 29,700 baht
+
+Unfortunately, there are no complete Gaming PC sets available within your budget. Would you like to consider a Standard PC or explore options for upgrading your budget?
+2024-10-12 17:22:04 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:22:04 info: ------------------------------------------------------
+2024-10-12 17:22:04 info: responseText Success load.
+2024-10-12 17:22:06 info: This is Total price found : 0
+2024-10-12 17:22:07 info: ________________________________________
+2024-10-12 17:22:07 info: Response summarized: It seems that the available Gaming PC sets are priced above your budget of 20,000 baht. Here are the options I found:
+
+1. SET Gaming 001: ฿24,650
+2. SET Gaming 002: ฿24,110
+3. SET Gaming 003: ฿29,700
+
+Unfortunately, there are no complete Gaming PC sets available within your budget. Would you like to consider a Standard PC or explore options for upgrading your budget? 🎮💻💰
+2024-10-12 17:22:07 info: summaryResponse Success load.
+2024-10-12 17:22:42 info: Events received: [{"type":"message","message":{"type":"text","id":"529987652976378469","quoteToken":"-6MPQ9Q_8KIJpRmPQtVeUA9RX1iEOReRgqKTxItDr9Q8BqTywjSvG_IRuUKBPfAWeeOPacBw1Miyd6WNB683uugsHgPZFoQjCQLrxafHzhho3tSBScQ-wpHebJ7-VThfjYsiLOcxNQGcXBPz9JeM_Q","text":"Change 10,000฿"},"webhookEventId":"01JA040YK8J93S9P1J9MBFDWM5","deliveryContext":{"isRedelivery":false},"timestamp":1728728562040,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"fdfe95d2da11415ea26ed8b757dbd325","mode":"active"}]
+2024-10-12 17:22:43 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:22:43 info: User Agent Success load.
+2024-10-12 17:22:45 info: LLM Tool Call: {"toolCall":{"id":"call_3D1kdDQb20FJsgBEap6b1tAH","name":"index_Gaming","input":{"query":"10,000 baht"}}}
+2024-10-12 17:22:45 info: LLM Tool Call: {"toolCall":{"id":"call_3D1kdDQb20FJsgBEap6b1tAH","name":"index_Gaming","input":{"query":"10,000 baht"}}}
+2024-10-12 17:22:51 info: ------------------------------------------------------
+2024-10-12 17:22:51 info: Response Agent: Unfortunately, there are no Gaming PC sets available within your budget of 10,000 baht. The lowest priced complete gaming set starts at 24,110 baht.
+
+Would you like to consider a Standard PC or explore other options? Let me know how you'd like to proceed!
+2024-10-12 17:22:51 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:22:51 info: ------------------------------------------------------
+2024-10-12 17:22:51 info: responseText Success load.
+2024-10-12 17:22:52 info: This is Total price found : 0
+2024-10-12 17:22:54 info: ________________________________________
+2024-10-12 17:22:54 info: Response summarized: Unfortunately, there are no Gaming PC sets available within your budget of 10,000 baht. The lowest priced complete gaming set starts at 24,110 baht.
+
+Would you like to consider a Standard PC or explore other options? Let me know how you'd like to proceed! 😊💻🎮
+2024-10-12 17:22:54 info: summaryResponse Success load.
+2024-10-12 17:29:20 info: 
+2024-10-12 17:29:22 info: ----------------------------------------
+2024-10-12 17:29:22 info: Server started and listening on port 8000
+2024-10-12 17:29:22 info: ----------------------------------------
+2024-10-12 17:29:38 info: Events received: [{"type":"message","message":{"type":"text","id":"529988349851599094","quoteToken":"033igXO_Q4KD15TaCPy9ot65gqN5H42e05KyHFpxK5TBI3VWPyt4edDVI4oe4avMj2BbDAFvxWJMx8NbJqR62Yaco5KS5djpzEcrNiQ4th5qObU70l0LJ-3BiJhSyePIXr7LMbziwCfNLc9wou-Stw","text":"I want computer for playing games"},"webhookEventId":"01JA04DMCD3F07K8FH6394QYHD","deliveryContext":{"isRedelivery":false},"timestamp":1728728977341,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ddb1cbfb15e94ed690af312b2ab5a58c","mode":"active"}]
+2024-10-12 17:29:38 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:29:38 info: Agent Initialized
+2024-10-12 17:29:38 info: User Agent Success load.
+2024-10-12 17:29:42 info: ------------------------------------------------------
+2024-10-12 17:29:42 info: Response Agent: Could you please provide your budget range for the gaming PC? This will help me find the best options for you.
+2024-10-12 17:29:42 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:29:42 info: ------------------------------------------------------
+2024-10-12 17:29:42 info: responseText Success load.
+2024-10-12 17:29:43 info: This is Total price found : 0
+2024-10-12 17:29:45 info: ________________________________________
+2024-10-12 17:29:45 info: Response summarized: Could you please provide your budget range for the gaming PC? This will help me find the best options for you. 😊🎮💻
+2024-10-12 17:29:45 info: summaryResponse Success load.
+2024-10-12 17:29:58 info: Events received: [{"type":"message","message":{"type":"text","id":"529988383524258034","quoteToken":"jWuLeNUUn4rBH6eeWut8zRgvBy8y_4uqJlMwHCfCCzj7GlEZ9oG_r26m0Fc2FG5Q8VAU_QfPxq-LWSdcP8Ygv7Ley4OQ0ve_PwKm89SnhkKWW7c6RIwIreIvJZ0JKPpD7z2Krxc_dsVtRfBONp5djQ","text":"budget 20,000"},"webhookEventId":"01JA04E7T8ZFNXF9ZBPHQ79F9N","deliveryContext":{"isRedelivery":false},"timestamp":1728728997366,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"713a50f3111c444e9af0806fa1b6ab92","mode":"active"}]
+2024-10-12 17:29:58 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:29:58 info: User Agent Success load.
+2024-10-12 17:30:01 info: LLM Tool Call: {"toolCall":{"id":"call_rp7vQrDFD1tSWQh61msVK1cJ","name":"index_Gaming","input":{"query":"20,000 baht"}}}
+2024-10-12 17:30:08 info: ------------------------------------------------------
+2024-10-12 17:30:08 info: Response Agent: It seems that there are currently no complete gaming PC sets available within your budget of 20,000 baht. The lowest priced options start from around 24,110 baht.
+
+Would you like to consider increasing your budget, or are you interested in building a custom PC with individual components?
+2024-10-12 17:30:08 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:30:08 info: ------------------------------------------------------
+2024-10-12 17:30:08 info: responseText Success load.
+2024-10-12 17:30:09 info: This is Total price found : 0
+2024-10-12 17:30:11 info: ________________________________________
+2024-10-12 17:30:11 info: Response summarized: It seems that there are currently no complete gaming PC sets available within your budget of 20,000 baht. The lowest priced options start from around 24,110 baht.
+
+Would you like to consider increasing your budget, or are you interested in building a custom PC with individual components? 🎮💻🛠️
+2024-10-12 17:30:11 info: summaryResponse Success load.
+2024-10-12 17:30:28 info: Events received: [{"type":"message","message":{"type":"text","id":"529988434409553937","quoteToken":"0nl7JfJEw7Lfu3G3om-l5wBEKeHQ1JGlGL-mPAKmqns9_AT_aqfrF_5_mqOfVePURaDiP2_81Rr3yCJXC885Y7T2JWesXpUaS_oZNb5HnMxAssz67FhT1s2OXnpwOaHtENk52emICIlEwd23FbI5CA","text":"show all you found Gaming Set."},"webhookEventId":"01JA04F5K4W179JQZX6B292QPW","deliveryContext":{"isRedelivery":false},"timestamp":1728729027690,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"3c0fc32e05524089b1ab0eb206516d1f","mode":"active"}]
+2024-10-12 17:30:28 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:30:28 info: User Agent Success load.
+2024-10-12 17:30:34 info: ------------------------------------------------------
+2024-10-12 17:30:34 info: Response Agent: Here are the gaming PC sets I found:
+
+1. **SET Gaming 001**
+   - **Price**: 24,650 baht
+   - **Brand**: Not specified
+   - **Etc.**: Important details not provided.
+
+2. **SET Gaming 002**
+   - **Price**: 24,110 baht
+   - **Brand**: Not specified
+   - **Etc.**: Important details not provided.
+
+3. **SET Gaming 003**
+   - **Price**: 29,700 baht
+   - **Brand**: Not specified
+   - **Etc.**: Important details not provided.
+
+4. **SET Gaming 004**
+   - **Price**: Not fully provided, but likely above 20,000 baht based on the previous sets.
+   - **Brand**: Not specified
+   - **Etc.**: Important details not provided.
+
+Unfortunately, all these options exceed your budget of 20,000 baht. If you're interested in any specific set or would like to explore other options, please let me know!
+2024-10-12 17:30:34 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:30:34 info: ------------------------------------------------------
+2024-10-12 17:30:34 info: responseText Success load.
+2024-10-12 17:30:36 info: This is Total price found : 0
+2024-10-12 17:30:39 info: ________________________________________
+2024-10-12 17:30:39 info: Response summarized: Here are the gaming PC sets I found:
+
+1. SET Gaming 001
+   - Price: ฿24,650
+   - Brand: Not specified
+   - Etc.: Important details not provided.
+
+2. SET Gaming 002
+   - Price: ฿24,110
+   - Brand: Not specified
+   - Etc.: Important details not provided.
+
+3. SET Gaming 003
+   - Price: ฿29,700
+   - Brand: Not specified
+   - Etc.: Important details not provided.
+
+มีเซ็ตที่แนะนำ ดังนี้
+
+Unfortunately, all these options exceed your budget of 20,000 baht. If you're interested in any specific set or would like to explore other options, please let me know! 🎮💻✨
+2024-10-12 17:30:39 info: summaryResponse Success load.
+2024-10-12 17:31:14 info: 
+2024-10-12 17:31:17 info: ----------------------------------------
+2024-10-12 17:31:17 info: Server started and listening on port 8000
+2024-10-12 17:31:17 info: ----------------------------------------
+2024-10-12 17:31:25 info: Events received: [{"type":"message","message":{"type":"text","id":"529988530425561137","quoteToken":"lOkELmvUj-T7cBltZVxB_8mek-LDUhEnVHFDVwnphrcvW0whr1QHUqmlWyzVssp_nftzoZJxR0S_OaqxPu9GSq63vkUUHf2-pqEgNGS_cHnftvfW92Kf-QCR3JE3gD0JVi1DcZJG3TTf-FzLub8zbA","text":"I want PC"},"webhookEventId":"01JA04GXFK1VZZ22B51K3J2TM3","deliveryContext":{"isRedelivery":false},"timestamp":1728729084920,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"31a17ba38d054ba9a59805c814b331cf","mode":"active"}]
+2024-10-12 17:31:26 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:31:26 info: Agent Initialized
+2024-10-12 17:31:26 info: User Agent Success load.
+2024-10-12 17:31:31 info: ------------------------------------------------------
+2024-10-12 17:31:31 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Works PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range!
+2024-10-12 17:31:31 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:31:31 info: ------------------------------------------------------
+2024-10-12 17:31:31 info: responseText Success load.
+2024-10-12 17:31:33 info: This is Total price found : 0
+2024-10-12 17:31:36 info: ________________________________________
+2024-10-12 17:31:36 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. Gaming PC: Optimized for gaming with a focus on powerful GPUs.
+
+2. Premium PC: High-spec computers designed for advanced tasks.
+
+3. Standard PC: Suitable for general tasks, balancing performance and cost.
+
+4. Works PC: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range! 🎮💻✨
+2024-10-12 17:31:36 info: summaryResponse Success load.
+2024-10-12 17:31:45 info: Events received: [{"type":"message","message":{"type":"text","id":"529988563023691841","quoteToken":"XE73fk-e1ke2Q5CTUZ_1BFALumf5HTAtqAiu8Qo6NrAby4Z7u_4yNSmx4oHEXKijezmMqxiq-4elPtKbdkDIokNVLEAQV5EvYCrrWI_UMW8GJnSrYQ65xYW6-XNz6YTqNfSg-_VuMMmxyIbmi5Cd1g","text":"I want computer for playing games"},"webhookEventId":"01JA04HGC7WDZVEXS03HZJHDB2","deliveryContext":{"isRedelivery":false},"timestamp":1728729104350,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"74c329a3739f49ee935195dad637e7f4","mode":"active"}]
+2024-10-12 17:31:45 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:31:45 info: User Agent Success load.
+2024-10-12 17:31:48 info: ------------------------------------------------------
+2024-10-12 17:31:48 info: Response Agent: Great choice! You're looking for a **Gaming PC**. Could you please provide your budget range? This will help me find the best options for you.
+2024-10-12 17:31:48 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:31:48 info: ------------------------------------------------------
+2024-10-12 17:31:48 info: responseText Success load.
+2024-10-12 17:31:50 info: This is Total price found : 0
+2024-10-12 17:31:51 info: ________________________________________
+2024-10-12 17:31:51 info: Response summarized: Great choice! You're looking for a Gaming PC. Could you please provide your budget range? This will help me find the best options for you. 😊🎮💻
+2024-10-12 17:31:51 info: summaryResponse Success load.
+2024-10-12 17:31:55 info: Events received: [{"type":"message","message":{"type":"text","id":"529988580572659809","quoteToken":"Y-c_EAAT2LBF4cVtg1NrtEwMgmgQFavuDcn2xwSK5SIPK8-Z0zHG8DBncARQlhIqM_sNzoGG5nFTZcWBoyJ2Zfsj8R5wxZPLq31J1_4Qsqx-qi5q5n-wlqxMHSr2CnfnPyhkINwTpguo6BqNiVaGjw","text":"budget 20,000"},"webhookEventId":"01JA04HTG4J3F86EWSHYQGYNE7","deliveryContext":{"isRedelivery":false},"timestamp":1728729114811,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"3421d44a6af34e04aa6d568c48d2bd45","mode":"active"}]
+2024-10-12 17:31:55 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:31:55 info: User Agent Success load.
+2024-10-12 17:31:58 info: LLM Tool Call: {"toolCall":{"id":"call_Mdla1n4KYknup8hy5jy5tmze","name":"index_Gaming","input":{"query":"20,000 baht"}}}
+2024-10-12 17:32:06 info: ------------------------------------------------------
+2024-10-12 17:32:06 info: Response Agent: It seems that there are no complete gaming PC sets available within your budget of 20,000 baht. The lowest options start from around 24,110 baht.
+
+Would you like to consider increasing your budget, or perhaps look into individual components to build a custom gaming PC? Let me know how you would like to proceed!
+2024-10-12 17:32:06 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:32:06 info: ------------------------------------------------------
+2024-10-12 17:32:06 info: responseText Success load.
+2024-10-12 17:32:07 info: This is Total price found : 0
+2024-10-12 17:32:10 info: ________________________________________
+2024-10-12 17:32:10 info: Response summarized: It seems that there are no complete gaming PC sets available within your budget of 20,000 baht. The lowest options start from around 24,110 baht.
+
+Would you like to consider increasing your budget, or perhaps look into individual components to build a custom gaming PC? Let me know how you would like to proceed! 🎮💻🛠️
+2024-10-12 17:32:10 info: summaryResponse Success load.
+2024-10-12 17:32:29 info: Events received: [{"type":"message","message":{"type":"text","id":"529988637514530993","quoteToken":"Yop9C9aivX61o-udFwjF2XiIfM-54hgPKEEpuW4YaMNCrlmN28Hx6WFcQCru5pN_bKn4ZEfPfbUxYg4nNj3vpoZXdlC3CIITihz1iFiLh3_Dq3hG-rmoSTiGWas5KuHK8VhbzzUeJCUcMXjtGqLypg","text":"SET Gaming 003"},"webhookEventId":"01JA04JVSQBMK48GVBFHV67HQF","deliveryContext":{"isRedelivery":false},"timestamp":1728729148752,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"21710ca516ec4615926a05b325d22fac","mode":"active"}]
+2024-10-12 17:32:30 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:32:30 info: User Agent Success load.
+2024-10-12 17:32:33 info: ------------------------------------------------------
+2024-10-12 17:32:33 info: Response Agent: Here are the details for **SET Gaming 003**:
+
+- **Price**: 29,700 baht
+- **Brand**: (Details not specified)
+- **Etc.**: Important details for the user (specific components not listed).
+
+Since this set is above your budget, would you like to explore options to adjust your budget or consider individual components to build a custom gaming PC? Let me know how you would like to proceed!
+2024-10-12 17:32:33 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:32:33 info: ------------------------------------------------------
+2024-10-12 17:32:33 info: responseText Success load.
+2024-10-12 17:32:34 info: This is Total price found : 0
+2024-10-12 17:32:37 info: ________________________________________
+2024-10-12 17:32:37 info: Response summarized: Here are the details for SET Gaming 003:
+
+- Price: ฿29,700
+- Brand: Details not specified
+- Etc.: Important details for the user (specific components not listed).
+
+Since this set is above your budget, would you like to explore options to adjust your budget or consider individual components to build a custom gaming PC? Let me know how you would like to proceed! 🎮💻🛠️
+2024-10-12 17:32:37 info: summaryResponse Success load.
+2024-10-12 17:32:44 info: Events received: [{"type":"message","message":{"type":"text","id":"529988662545875074","quoteToken":"eDI8IBwcmzl52yuvlw0ZC8IU3oPXY27s1r0kPJgM9t3ceFNUvS9sdzVcnESoTjB4kgq5YAapIXvlfzbpsIp11wcwuSlDWE7_SDq9S0i0Xxl3RIQObR4QpKwjHCY24hjatcdwyxkCLNLQo20Mm_BWNA","text":"SET Gaming 003 more detail."},"webhookEventId":"01JA04KAGQ059YENVM9Q1J166C","deliveryContext":{"isRedelivery":false},"timestamp":1728729163803,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"05d34d85bc1e448c9ea205fb50c2038b","mode":"active"}]
+2024-10-12 17:32:45 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:32:45 info: User Agent Success load.
+2024-10-12 17:32:48 info: LLM Tool Call: {"toolCall":{"id":"call_184O02RtgbWjOzac42KEcjjU","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-12 17:33:14 info: ------------------------------------------------------
+2024-10-12 17:33:14 info: Response Agent: Here are the detailed components for **SET Gaming 003**:
+
+- **CPU**: 
+  - **Name**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700)
+  - **Price**: 6,590 baht
+  - **Brand**: Intel
+  - **Socket**: LGA 1700
+
+- **Motherboard**: 
+  - **Name**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+  - **Price**: 4,790 baht
+  - **Brand**: MSI
+  - **Interface Storage**: M.2 Slot, PCIe 3.0, SATA, SSD Port
+  - **Memory Type**: DDR5
+  - **Form Factor**: Micro-ATX
+
+- **GPU**: 
+  - **Name**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+  - **Price**: 10,600 baht
+  - **Brand**: MSI
+  - **Interface**: PCIe 4.0
+
+- **RAM**: 
+  - **Name**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz
+  - **Price**: 2,390 baht
+  - **Brand**: Corsair
+
+- **SSD**: 
+  - **Name**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB
+  - **Price**: 1,890 baht
+  - **Brand**: WD
+  - **Interface**: PCIe 4.0
+
+- **PSU**: 
+  - **Name**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX)
+  - **Price**: 1,990 baht
+  - **Brand**: Corsair
+
+- **CASE**: 
+  - **Name**: ANTEC NX292 (BLACK) (E-ATX)
+  - **Price**: 1,450 baht
+  - **Brand**: Antec
+
+- **Total Price**: 29,700 baht
+
+This gaming PC set is well-equipped for gaming with a powerful CPU and GPU, along with sufficient RAM and storage. If you have any further questions or need assistance with purchasing, feel free to ask!
+2024-10-12 17:33:14 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:33:14 info: ------------------------------------------------------
+2024-10-12 17:33:14 info: responseText Success load.
+2024-10-12 17:33:16 info: This is Total price found : 29700
+2024-10-12 17:33:26 info: ________________________________________
+2024-10-12 17:33:26 info: Response summarized: Here are the detailed components for SET Gaming 003:
+
+- CPU: 
+  - Name: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700)
+  - Price: ฿6,590
+  - Brand: Intel
+  - Socket: LGA 1700
+
+- Motherboard: 
+  - Name: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+  - Price: ฿4,790
+  - Brand: MSI
+  - Interface Storage: M.2 Slot, PCIe 3.0, SATA, SSD Port
+  - Memory Type: DDR5
+  - Form Factor: Micro-ATX
+
+- GPU: 
+  - Name: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+  - Price: ฿10,600
+  - Brand: MSI
+  - Interface: PCIe 4.0
+
+- RAM: 
+  - Name: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz
+  - Price: ฿2,390
+  - Brand: Corsair
+
+- SSD: 
+  - Name: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB
+  - Price: ฿1,890
+  - Brand: WD
+  - Interface: PCIe 4.0
+
+- PSU: 
+  - Name: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX)
+  - Price: ฿1,990
+  - Brand: Corsair
+
+- CASE: 
+  - Name: ANTEC NX292 (BLACK) (E-ATX)
+  - Price: ฿1,450
+  - Brand: Antec
+
+- Total Price: ฿29,700
+
+This gaming PC set is well-equipped for gaming with a powerful CPU and GPU, along with sufficient RAM and storage. If you have any further questions or need assistance with purchasing, feel free to ask! 🎮💻✨
+2024-10-12 17:33:26 info: summaryResponse Success load.
+2024-10-12 17:36:51 info: 
+2024-10-12 17:36:53 info: ----------------------------------------
+2024-10-12 17:36:53 info: Server started and listening on port 8000
+2024-10-12 17:36:53 info: ----------------------------------------
+2024-10-12 17:36:58 info: Events received: [{"type":"message","message":{"type":"text","id":"529989088251215985","quoteToken":"WOLntO3htmpWBHxo2wZUmALTDZQL859l0YIgfuEMKMmHVXsUYdZSYdEeqwzxE5FP_ieqLjdL-xib5vRx-U7dcNweNV94PtScrikzdZnzwQaykaiBIb7JcNIDpzCa48CLXrQsrYWFFL0ij1vGgU6Otw","text":"I want PC"},"webhookEventId":"01JA04V25YY51VVCD8F7AJW1GQ","deliveryContext":{"isRedelivery":false},"timestamp":1728729417411,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"8d0385eaa8e442aca15f7b0ac8f2f05d","mode":"active"}]
+2024-10-12 17:36:58 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:36:58 info: Agent Initialized
+2024-10-12 17:36:58 info: User Agent Success load.
+2024-10-12 17:37:03 info: ------------------------------------------------------
+2024-10-12 17:37:03 info: Response Agent: Could you please specify what type of PC you're looking for? Here are some options:
+
+1. **Gaming PC**: Focused on high performance for gaming.
+2. **Premium PC**: High-spec for advanced tasks like video editing or 3D rendering.
+3. **Standard PC**: Balanced performance for everyday tasks.
+4. **Works PC**: Designed for graphics and professional tasks.
+
+Also, please let me know your budget!
+2024-10-12 17:37:03 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:37:03 info: ------------------------------------------------------
+2024-10-12 17:37:03 info: responseText Success load.
+2024-10-12 17:37:05 info: This is Total price found : 0
+2024-10-12 17:37:08 info: ________________________________________
+2024-10-12 17:37:08 info: Response summarized: Could you please specify what type of PC you're looking for? Here are some options:
+
+1. Gaming PC: Focused on high performance for gaming.
+
+2. Premium PC: High-spec for advanced tasks like video editing or 3D rendering.
+
+3. Standard PC: Balanced performance for everyday tasks.
+
+4. Works PC: Designed for graphics and professional tasks.
+
+Also, please let me know your budget! 😊💻🎮
+2024-10-12 17:37:08 info: summaryResponse Success load.
+2024-10-12 17:37:15 info: Events received: [{"type":"message","message":{"type":"text","id":"529989116906438866","quoteToken":"a9PJ70NNnmcl1jMe830PlYZfMBIuMlG32q9sp8T_dlCnbvTGqYhtrkW7IoEK670EcL738NUt-5QvFzMjEPA46bQUk_G231Cu4VhzrdG8mXjRUeyZfysAz2dLtncf3_2KdOuJwotxWv1WFH6Ujrr6kg","text":"Gaming PC"},"webhookEventId":"01JA04VJNHCB1PD48XNQHRG0HQ","deliveryContext":{"isRedelivery":false},"timestamp":1728729434493,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d2d2189aa1904b949a2b1e091372dbcc","mode":"active"}]
+2024-10-12 17:37:15 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:37:15 info: User Agent Success load.
+2024-10-12 17:37:17 info: ------------------------------------------------------
+2024-10-12 17:37:17 info: Response Agent: What is your budget for the gaming PC? Please provide a range or a specific amount so I can find suitable options for you.
+2024-10-12 17:37:17 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:37:17 info: ------------------------------------------------------
+2024-10-12 17:37:17 info: responseText Success load.
+2024-10-12 17:37:19 info: This is Total price found : 0
+2024-10-12 17:37:21 info: ________________________________________
+2024-10-12 17:37:21 info: Response summarized: What is your budget for the gaming PC? Please provide a range or a specific amount so I can find suitable options for you.
+2024-10-12 17:37:21 info: summaryResponse Success load.
+2024-10-12 17:37:30 info: Events received: [{"type":"message","message":{"type":"text","id":"529989143599251889","quoteToken":"EM3ho-Ilfn6-DeD-SWOma9EaSeSZulorC6J04xHqp6suBx8C01_8kn3-_5yKxoZbQErOhFMnkxMDyhTFt_LPWPQee3YCoBshrCcOaZWeP8v1udL7hOh0l3YAzEQrwMdIVk9WeiIn5_Yneb-ATnbRRQ","text":"Budget 20,000 baht"},"webhookEventId":"01JA04W233KXR1YKW8WPY141D1","deliveryContext":{"isRedelivery":false},"timestamp":1728729450405,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"79ab28919d3249dc81a805baa19fc726","mode":"active"}]
+2024-10-12 17:37:31 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:37:31 info: User Agent Success load.
+2024-10-12 17:37:34 info: LLM Tool Call: {"toolCall":{"id":"call_lknjyQ1VBsIWGtih9h5Z8PRh","name":"index_Gaming","input":{"query":"gaming PC under 20000 baht"}}}
+2024-10-12 17:37:42 info: ------------------------------------------------------
+2024-10-12 17:37:42 info: Response Agent: Unfortunately, there are no gaming PC sets available under 20,000 baht. The lowest priced gaming PC set is **SET Gaming 002**, which costs 24,110 baht.
+
+If you're open to it, you might consider increasing your budget or looking into individual components to build a custom gaming PC. Would you like to explore those options?
+2024-10-12 17:37:42 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:37:42 info: ------------------------------------------------------
+2024-10-12 17:37:42 info: responseText Success load.
+2024-10-12 17:37:43 info: This is Total price found : 0
+2024-10-12 17:37:45 info: ________________________________________
+2024-10-12 17:37:45 info: Response summarized: Unfortunately, there are no gaming PC sets available under 20,000 baht. The lowest priced gaming PC set is SET Gaming 002, which costs ฿24,110.
+
+If you're open to it, you might consider increasing your budget or looking into individual components to build a custom gaming PC. Would you like to explore those options? 🎮💻🛠️
+2024-10-12 17:37:45 info: summaryResponse Success load.
+2024-10-12 17:57:19 info: Events received: [{"type":"message","message":{"type":"text","id":"529991137269383569","quoteToken":"l1d3lTlQeanLvJpvN0VpX739nP7vg9HhYPXHomwEyBlS2bZyEBtlKCcb8goj5ShoTTLSIsNszmv2-7HssXIdpWCo4NKip7agrGSjo2RLLWxS3TRPVgWaJQnKbRJlxYikppXvbZuahajQrItAzSjISA","text":"Set Gaming 006"},"webhookEventId":"01JA060ADVMV3HFNAT8G5RHPJZ","deliveryContext":{"isRedelivery":false},"timestamp":1728730638727,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5f01f8e0632546f7ac1b53b0f0260d75","mode":"active"}]
+2024-10-12 17:57:20 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:57:20 info: User Agent Success load.
+2024-10-12 17:57:23 info: LLM Tool Call: {"toolCall":{"id":"call_FuJnZoNWuhkNXrECIQFa8tFK","name":"index_Gaming","input":{"query":"SET Gaming 006"}}}
+2024-10-12 17:57:38 info: ------------------------------------------------------
+2024-10-12 17:57:38 info: Response Agent: Here are the details for **SET Gaming 006**:
+
+- **CPU**: AMD RYZEN 5 4500 3.6 GHz (SOCKET AM4) 
+  - **Price**: ฿2,890
+- **Motherboard**: ASROCK A520M-HVS (DDR4) (SOCKET AM4) (MICRO-ATX) 
+  - **Price**: ฿1,820
+- **GPU**: ASUS DUAL GEFORCE GTX 1650 OC EDITION 4GB GDDR6 EVO 
+  - **Price**: ฿4,890
+- **RAM**: KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BBK2/16) 16GB (8GBx2) DDR4 3200MHz 
+  - **Price**: ฿1,550
+- **SSD**: KINGSTON NV2 - PCIe 4/NVMe M.2 2280 (SNV2S/500G) 500 GB 
+  - **Price**: ฿1,490
+- **PSU**: GAMDIAS AURA GP550 - 550W (BLACK) (ATX) 
+  - **Price**: ฿990
+- **CASE**: GAMDIAS ARGUS E5 (BLACK) (ATX) 
+  - **Price**: ฿1,090
+
+**Total Set Price**: ฿14,720
+
+If you have any questions or need further assistance, feel free to ask!
+2024-10-12 17:57:38 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:57:38 info: ------------------------------------------------------
+2024-10-12 17:57:38 info: responseText Success load.
+2024-10-12 17:57:40 info: This is Total price found : 14720
+2024-10-12 17:57:45 info: ________________________________________
+2024-10-12 17:57:45 info: Response summarized: Here are the details for SET Gaming 006:
+
+- CPU: AMD RYZEN 5 4500 3.6 GHz (SOCKET AM4) 
+  - Price: ฿2,890
+- Motherboard: ASROCK A520M-HVS (DDR4) (SOCKET AM4) (MICRO-ATX) 
+  - Price: ฿1,820
+- GPU: ASUS DUAL GEFORCE GTX 1650 OC EDITION 4GB GDDR6 EVO 
+  - Price: ฿4,890
+- RAM: KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BBK2/16) 16GB (8GBx2) DDR4 3200MHz 
+  - Price: ฿1,550
+- SSD: KINGSTON NV2 - PCIe 4/NVMe M.2 2280 (SNV2S/500G) 500 GB 
+  - Price: ฿1,490
+- PSU: GAMDIAS AURA GP550 - 550W (BLACK) (ATX) 
+  - Price: ฿990
+- CASE: GAMDIAS ARGUS E5 (BLACK) (ATX) 
+  - Price: ฿1,090
+
+Total Price: ฿14,720
+
+If you have any questions or need further assistance, feel free to ask! 😊💻🎮
+2024-10-12 17:57:45 info: summaryResponse Success load.
+2024-10-12 17:58:05 info: Events received: [{"type":"message","message":{"type":"text","id":"529991214880260420","quoteToken":"OkcTxAOjltZ1SJBqCjxajmI-VbX1Fn38dAhtqjfMoqhDRFKcDSkkf7y_7EgT8SS8rveQFZ2WHBsJvjCZq3QorzfKKwMUYw5_G9fvvU7NzIf_Fr7OCK0XsAgop3H-7fcI8S57gKavcCuYMF5px6EQqA","text":"but you said Unfortunately, there are no gaming PC sets available under 20,000 baht. The lowest priced gaming PC set is SET Gaming 002, which costs ฿24,110. ???"},"webhookEventId":"01JA061R2Y5MMJ1RREB8DHF5HN","deliveryContext":{"isRedelivery":false},"timestamp":1728730685182,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"1d152328df9f46da9cced5ed84677b1f","mode":"active"}]
+2024-10-12 17:58:06 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 17:58:06 info: User Agent Success load.
+2024-10-12 17:58:10 info: ------------------------------------------------------
+2024-10-12 17:58:10 info: Response Agent: I apologize for the confusion. It seems there was a misunderstanding regarding the availability of gaming PC sets. 
+
+**SET Gaming 006** is indeed available and priced at **฿14,720**, which is within your budget of 20,000 baht. 
+
+Thank you for your patience, and if you have any more questions or need further assistance, feel free to ask!
+2024-10-12 17:58:10 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 17:58:10 info: ------------------------------------------------------
+2024-10-12 17:58:10 info: responseText Success load.
+2024-10-12 17:58:11 info: This is Total price found : 0
+2024-10-12 17:58:13 info: ________________________________________
+2024-10-12 17:58:13 info: Response summarized: I apologize for the confusion. It seems there was a misunderstanding regarding the availability of gaming PC sets. 
+
+SET Gaming 006 is indeed available and priced at ฿14,720, which is within your budget of 20,000 baht. 
+
+Thank you for your patience, and if you have any more questions or need further assistance, feel free to ask! 😊🎮💻
+2024-10-12 17:58:13 info: summaryResponse Success load.
+2024-10-12 18:34:35 info: 
+2024-10-12 18:34:42 info: ----------------------------------------
+2024-10-12 18:34:42 info: Server started and listening on port 8000
+2024-10-12 18:34:42 info: ----------------------------------------
+2024-10-12 18:34:51 info: Events received: [{"type":"message","message":{"type":"text","id":"529994914876883010","quoteToken":"j9Uj9mNYSF53hH388ehZq-AMsvjawom0YLrnyMH_B4q4DYkvCclwikEXYNOGzsxejFYpu3Q77Yq0gOyJS0rJQbOU6ttGKNQlJeZYnmqT7YZy8jUez65jxA-1cME12Jp8QcRD322QqLwqtPPdUupnYA","text":"I want PC"},"webhookEventId":"01JA0851S80NWP9XEJ2CAW073N","deliveryContext":{"isRedelivery":false},"timestamp":1728732890412,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"87a5c5e218414b5db1668b3aa81d4457","mode":"active"}]
+2024-10-12 18:34:52 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 18:34:52 error: Error initializing agent: Error: Cannot initialize VectorStoreIndex without nodes or indexStruct
+2024-10-12 18:34:52 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: Cannot initialize VectorStoreIndex without nodes or indexStruct
+2024-10-12 18:36:09 info: 
+2024-10-12 18:36:11 info: ----------------------------------------
+2024-10-12 18:36:11 info: Server started and listening on port 8000
+2024-10-12 18:36:11 info: ----------------------------------------
+2024-10-12 18:36:15 info: Events received: [{"type":"message","message":{"type":"text","id":"529995055470739617","quoteToken":"4bU4mdK5K5YtmiW1VzpmEEar6tt3BlGGMJ3Hu8cgJr0ClQuFlEoMFKwYCZ977q2fCr_e3v3ZldG60yrUW-vRYa7syZ0vVsdD-0NBqlOAb0H4qkRgRoGIhRDfQLd_i8lsXbRBrvSFG41xD-z1Q9GUkA","text":"I want PC"},"webhookEventId":"01JA087KD5NZD96NQA00BE2A8P","deliveryContext":{"isRedelivery":false},"timestamp":1728732974152,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"637ae1637f09409286846ecb82fea716","mode":"active"}]
+2024-10-12 18:36:15 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 18:36:15 info: Agent Initialized
+2024-10-12 18:36:15 info: User Agent Success load.
+2024-10-12 18:36:19 info: ------------------------------------------------------
+2024-10-12 18:36:19 info: Response Agent: Could you please specify what type of PC you're looking for? Here are some options:
+
+1. **Gaming PC**: Focused on high performance for gaming.
+2. **Premium PC**: High-spec for advanced tasks like video editing or 3D rendering.
+3. **Standard PC**: Balanced performance for everyday use.
+4. **Works PC**: Designed for graphics and professional tasks.
+
+Also, please let me know your budget!
+2024-10-12 18:36:19 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 18:36:19 info: ------------------------------------------------------
+2024-10-12 18:36:20 info: responseText Success load.
+2024-10-12 18:36:21 info: This is Total price found : 0
+2024-10-12 18:36:23 info: ________________________________________
+2024-10-12 18:36:23 info: Response summarized: Could you please specify what type of PC you're looking for? Here are some options:
+
+1. Gaming PC: Focused on high performance for gaming.
+
+2. Premium PC: High-spec for advanced tasks like video editing or 3D rendering.
+
+3. Standard PC: Balanced performance for everyday use.
+
+4. Works PC: Designed for graphics and professional tasks.
+
+Also, please let me know your budget! 🎮💻✨
+2024-10-12 18:36:23 info: summaryResponse Success load.
+2024-10-12 18:36:27 info: Events received: [{"type":"message","message":{"type":"text","id":"529995076139483478","quoteToken":"J59Txp59jIdTqyVzXZ7qD1a3TI_R1F9gb88eGTRagig7wgUrHX_jY2k6cxJDYUuj_2nBZ1kgkSbTmC1bla_Aq5OwMmZ7Iu_VBz1zN760a_mZNKQr5Zy9OoG59r61XWtj4Xs5rPMCbP8adSQS2vBCCA","text":"Gaming PCC "},"webhookEventId":"01JA087ZEE2BVBZTX7XXJGWWJH","deliveryContext":{"isRedelivery":false},"timestamp":1728732986650,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"292bb65aef0b418e8186281d25c3eecb","mode":"active"}]
+2024-10-12 18:36:27 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 18:36:27 info: User Agent Success load.
+2024-10-12 18:36:29 info: Events received: [{"type":"message","message":{"type":"text","id":"529995079831257489","quoteToken":"EfsD8iaSkrb4K-H0Sibjf6COxY3wntdB3HfI8NzOFeah3TuX2ACqldwgN13D6RXxq-fy7c-Vwd9KA7F10FrGTOe7R1YVEKNFpguu3hmp0x5wQNmmfc-SZgQi2Wg_TF-H1tRwd7agIOIpO4M2QZL77Q","text":"Budget 20,000 baht"},"webhookEventId":"01JA0881GK74T9V6ETASRFNRBH","deliveryContext":{"isRedelivery":false},"timestamp":1728732988675,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"373eb6c28f854b48991121e3b460a4eb","mode":"active"}]
+2024-10-12 18:36:29 info: ------------------------------------------------------
+2024-10-12 18:36:29 info: Response Agent: What is your budget for the gaming PC? This will help me find the best options for you.
+2024-10-12 18:36:29 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 18:36:29 info: ------------------------------------------------------
+2024-10-12 18:36:29 info: responseText Success load.
+2024-10-12 18:36:29 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 18:36:29 info: User Agent Success load.
+2024-10-12 18:36:30 info: This is Total price found : 0
+2024-10-12 18:36:31 info: LLM Tool Call: {"toolCall":{"id":"call_LGvLyn7AvjOoS6HUpn78VOTf","name":"index_Gaming","input":{"query":"20,000 baht"}}}
+2024-10-12 18:36:31 info: ________________________________________
+2024-10-12 18:36:31 info: Response summarized: What is your budget for the gaming PC? This will help me find the best options for you.
+2024-10-12 18:36:31 info: summaryResponse Success load.
+2024-10-12 18:36:38 info: ------------------------------------------------------
+2024-10-12 18:36:38 info: Response Agent: It seems that there are no gaming PC sets available within your budget of 20,000 baht. The closest options are priced above that:
+
+1. **SET Gaming 01**
+   - **Price**: 24,650 baht
+
+2. **SET Gaming 02**
+   - **Price**: 24,110 baht
+
+Would you like to consider increasing your budget, or would you prefer to look at individual components to build a gaming PC?
+2024-10-12 18:36:38 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 18:36:38 info: ------------------------------------------------------
+2024-10-12 18:36:38 info: responseText Success load.
+2024-10-12 18:36:39 info: This is Total price found : 0
+2024-10-12 18:36:42 info: ________________________________________
+2024-10-12 18:36:42 info: Response summarized: It seems that there are no gaming PC sets available within your budget of 20,000 baht. The closest options are priced above that:
+
+1.
+SET Gaming 01
+   - Price: ฿24,650
+
+2.
+SET Gaming 02
+   - Price: ฿24,110
+
+Would you like to consider increasing your budget, or would you prefer to look at individual components to build a gaming PC? 🎮💻🛠️
+2024-10-12 18:36:42 info: summaryResponse Success load.
+2024-10-12 18:37:09 info: Events received: [{"type":"message","message":{"type":"text","id":"529995146721755202","quoteToken":"sjru_PdIy0EwWvBSyB1pm1eTc-SM46AtXBrR2FpTq9gIehpZfHdHTAb3ewC1EpcDxuVrTheyiVYnL7LB661qNlpoejIaFCZfsO1VeQTNDg8Wt5_LUSBubDZcEZZscedL6E9Yb2FzcHmBhV8k-4wTjw","text":"Gaming Set 06?"},"webhookEventId":"01JA0898A0BX5F7BQ5QVJ1J8JZ","deliveryContext":{"isRedelivery":false},"timestamp":1728733028564,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7693ba809c3d41d0af969d36d07b723e","mode":"active"}]
+2024-10-12 18:37:09 info: Loading animation request accepted. Waiting for processing.
+2024-10-12 18:37:09 info: User Agent Success load.
+2024-10-12 18:37:12 info: LLM Tool Call: {"toolCall":{"id":"call_ANnMdBuQfkvQDZSl3HXtDkSR","name":"index_Gaming","input":{"query":"Gaming Set 06"}}}
+2024-10-12 18:37:28 info: ------------------------------------------------------
+2024-10-12 18:37:28 info: Response Agent: Here are the details for **Gaming Set 06**:
+
+- **Price**: 14,720 baht
+
+### Components:
+- **CPU**: 
+  - **Name**: AMD RYZEN 5 4500
+  - **Speed**: 3.6 GHz
+  - **Socket**: AM4
+  - **Price**: 2,890 baht
+
+- **Motherboard**: 
+  - **Name**: ASROCK A520M-HVS
+  - **Type**: DDR4
+  - **Socket**: AM4
+  - **Form Factor**: Micro-ATX
+  - **Price**: 1,820 baht
+
+- **GPU**: 
+  - **Name**: ASUS DUAL GEFORCE GTX 1650 OC EDITION
+  - **Memory**: 4GB GDDR6
+  - **Interface**: PCIe 3.0
+  - **Price**: 4,890 baht
+
+- **RAM**: 
+  - **Name**: KINGSTON FURY BEAST DDR4
+  - **Capacity**: 16GB (8GBx2)
+  - **Speed**: 3200MHz
+  - **Price**: 1,550 baht
+
+- **SSD**: 
+  - **Name**: KINGSTON NV2
+  - **Capacity**: 500 GB
+  - **Interface**: PCIe 4.0
+  - **Price**: 1,490 baht
+
+- **PSU**: 
+  - **Name**: GAMDIAS AURA GP550
+  - **Power**: 550W
+  - **Price**: 990 baht
+
+- **CASE**: 
+  - **Name**: GAMDIAS ARGUS E5
+  - **Type**: ATX
+  - **Price**: 1,090 baht
+
+This set is designed for budget-conscious gamers looking for decent performance in modern games. Would you like to proceed with this set or need more information?
+2024-10-12 18:37:28 info: Model: gpt-4o-mini-2024-07-18
+2024-10-12 18:37:28 info: ------------------------------------------------------
+2024-10-12 18:37:28 info: responseText Success load.
+2024-10-12 18:37:29 info: This is Total price found : 14720
+2024-10-12 18:37:35 info: ________________________________________
+2024-10-12 18:37:35 info: Response summarized: Here are the details for Gaming Set 06:
+
+- Price: ฿14,720
+
+### Components:
+- CPU: 
+  - Name: AMD RYZEN 5 4500
+  - Speed: 3.6 GHz
+  - Socket: AM4
+  - Price: ฿2,890
+
+- Motherboard: 
+  - Name: ASROCK A520M-HVS
+  - Type: DDR4
+  - Socket: AM4
+  - Form Factor: Micro-ATX
+  - Price: ฿1,820
+
+- GPU: 
+  - Name: ASUS DUAL GEFORCE GTX 1650 OC EDITION
+  - Memory: 4GB GDDR6
+  - Interface: PCIe 3.0
+  - Price: ฿4,890
+
+- RAM: 
+  - Name: KINGSTON FURY BEAST DDR4
+  - Capacity: 16GB (8GBx2)
+  - Speed: 3200MHz
+  - Price: ฿1,550
+
+- SSD: 
+  - Name: KINGSTON NV2
+  - Capacity: 500 GB
+  - Interface: PCIe 4.0
+  - Price: ฿1,490
+
+- PSU: 
+  - Name: GAMDIAS AURA GP550
+  - Power: 550W
+  - Price: ฿990
+
+- CASE: 
+  - Name: GAMDIAS ARGUS E5
+  - Type: ATX
+  - Price: ฿1,090
+
+This set is designed for budget-conscious gamers looking for decent performance in modern games. Would you like to proceed with this set or need more information? 🎮💻🕹️
+2024-10-12 18:37:35 info: summaryResponse Success load.

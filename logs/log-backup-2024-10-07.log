@@ -1,0 +1,31 @@
+2024-10-07 22:03:50 info: ----------------------------------------
+2024-10-07 22:03:50 info: Server started and listening on port 8000
+2024-10-07 22:03:50 info: ----------------------------------------
+2024-10-07 22:03:54 info: Events received: []
+2024-10-07 22:04:18 info: Events received: [{"type":"message","message":{"type":"text","id":"529291220188135521","quoteToken":"EVmjomcSvHa8-I28fdAmkl6TgKKB-U2xZWWbIUkxtTGtiIZMkivNRuQqB-GmHZHzLtcplhYctYrnn1c2hS_j0kyeL8pA8UdzWU-NmSYLIaoJ7q2K91ZHt5BCSRqrka4EritJx6eeRcZDRmnqNMMbwQ","text":"I want PC"},"webhookEventId":"01J9KR4XGAJR2P0F7CZWS99MXB","deliveryContext":{"isRedelivery":false},"timestamp":1728313455631,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d323ce71fad0420e918128d1d5073045","mode":"active"}]
+2024-10-07 22:04:18 info: Loading animation request accepted. Waiting for processing.
+2024-10-07 22:04:18 info: Agent Initialized
+2024-10-07 22:04:18 info: User Agent Success load.
+2024-10-07 22:04:22 info: ------------------------------------------------------
+2024-10-07 22:04:22 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range!
+2024-10-07 22:04:22 info: Model: gpt-4o-mini-2024-07-18
+2024-10-07 22:04:22 info: ------------------------------------------------------
+2024-10-07 22:04:22 info: responseText Success load.
+2024-10-07 22:04:24 info: This is Total price found : 0
+2024-10-07 22:04:26 info: ________________________________________
+2024-10-07 22:04:26 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range!
+2024-10-07 22:04:26 info: summaryResponse Success load.

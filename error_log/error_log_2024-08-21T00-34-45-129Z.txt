@@ -1,0 +1,8 @@
+Error: ENOENT: no such file or directory, mkdir 'C:\Users\treer\Desktop\Project\TestLinechat\storage\Type PC\Type PC\PC_Gaming'
+Stack: Error: ENOENT: no such file or directory, mkdir 'C:\Users\treer\Desktop\Project\TestLinechat\storage\Type PC\Type PC\PC_Gaming'
+    at async Object.mkdir (node:internal/fs/promises:858:10)
+    at async SimpleKVStore.fromPersistPath (C:\Users\treer\Desktop\Project\TestLinechat\node_modules\llamaindex\dist\cjs\storage\kvStore\SimpleKVStore.js:65:13)
+    at async SimpleDocumentStore.fromPersistPath (C:\Users\treer\Desktop\Project\TestLinechat\node_modules\llamaindex\dist\cjs\storage\docStore\SimpleDocumentStore.js:35:31)
+    at async SimpleDocumentStore.fromPersistDir (C:\Users\treer\Desktop\Project\TestLinechat\node_modules\llamaindex\dist\cjs\storage\docStore\SimpleDocumentStore.js:32:16)
+    at async storageContextFromDefaults (C:\Users\treer\Desktop\Project\TestLinechat\node_modules\llamaindex\dist\cjs\storage\StorageContext.js:32:32)
+    at async main (C:\Users\treer\Desktop\Project\TestLinechat\newprepare.js:51:40)

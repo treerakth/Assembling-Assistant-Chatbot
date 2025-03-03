@@ -1,0 +1,3 @@
+Error: Cannot access 'categoryFolder' before initialization
+Stack: ReferenceError: Cannot access 'categoryFolder' before initialization
+    at main (C:\Users\treer\Desktop\Project\TestLinechat\newprepare.js:40:88)

@@ -1,0 +1,205 @@
+2024-10-05 11:17:43 info: Agent Initialized
+2024-10-05 11:29:37 info: LLM Tool Call: {"toolCall":{"id":"call_q1Dc2cEBm7ZKVHGUb3E0K5ET","name":"index_Gaming","input":{"query":"25000"}}}
+2024-10-05 11:31:51 info: Agent Initialized
+2024-10-05 11:32:37 info: Agent Initialized
+2024-10-05 11:32:48 info: Agent Initialized
+2024-10-05 11:33:09 info: LLM Tool Call: {"toolCall":{"id":"call_vrfyPhFeZ3I9i9kkOS6djXaT","name":"index_Gaming","input":{"query":"Gaming PC under 30000 baht"}}}
+2024-10-05 11:42:08 info: Agent Initialized
+2024-10-05 11:43:52 info: Agent Initialized
+2024-10-05 11:44:13 info: Agent Initialized
+2024-10-05 11:47:04 info: Agent Initialized
+2024-10-05 11:47:30 info: LLM Tool Call: {"toolCall":{"id":"call_oLfq7enwsKYjZNISUVBpX2NM","name":"index_Gaming","input":{"query":"Gaming PC under 20000 baht"}}}
+2024-10-05 11:48:35 info: LLM Tool Call: {"toolCall":{"id":"call_8CpF478EqQUghDUvqQik2jFv","name":"index_Gaming","input":{"query":"SET Gaming 002"}}}
+2024-10-05 11:51:03 info: Agent Initialized
+2024-10-05 11:51:16 info: LLM Tool Call: {"toolCall":{"id":"call_56GqwCT4hEZKQ9NUnTn60ilY","name":"index_Gaming","input":{"query":"Gaming PC for 25000 baht"}}}
+2024-10-05 11:52:07 info: LLM Tool Call: {"toolCall":{"id":"call_56GqwCT4hEZKQ9NUnTn60ilY","name":"index_GPU_GIGABYTE","input":{"query":"Gaming PC GPU options"}}}
+2024-10-05 11:54:23 info: Agent Initialized
+2024-10-05 11:55:14 info: Agent Initialized
+2024-10-05 11:56:06 info: Agent Initialized
+2024-10-05 11:56:44 info: Agent Initialized
+2024-10-05 11:57:22 info: Agent Initialized
+2024-10-05 11:58:27 info: Agent Initialized
+2024-10-05 12:00:18 info: Agent Initialized
+2024-10-05 12:00:59 info: Agent Initialized
+2024-10-05 12:01:39 info: LLM Tool Call: {"toolCall":{"id":"call_M1wo7iNfhb91jc69FTPZpYrN","name":"index_Gaming","input":{"query":"Gaming PC for 20000 baht"}}}
+2024-10-05 12:02:41 info: Agent Initialized
+2024-10-05 12:08:30 info: Agent Initialized
+2024-10-05 12:09:30 info: Agent Initialized
+2024-10-05 12:09:51 info: LLM Tool Call: {"toolCall":{"id":"call_NDp33axPDI5p7hcNXcfMV8cJ","name":"index_Gaming","input":{"query":"Gaming PC 30000 baht"}}}
+2024-10-05 12:10:24 info: LLM Tool Call: {"toolCall":{"id":"call_UR89opqdpd7MDvxYSO5PYw2I","name":"index_CPU","input":{"query":"INTEL CORE I5-13400F"}}}
+2024-10-05 12:10:27 info: LLM Tool Call: {"toolCall":{"id":"call_F7RuxlWJPkRRXDYetfXopPpq","name":"index_Motherboard_ASROCK","input":{"query":"MSI B760M GAMING PLUS WIFI"}}}
+2024-10-05 12:10:29 info: LLM Tool Call: {"toolCall":{"id":"call_Zw6ZSgqlKWgNr9LbngOdjHfG","name":"index_GPU_GIGABYTE","input":{"query":"MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC"}}}
+2024-10-05 12:10:32 info: LLM Tool Call: {"toolCall":{"id":"call_2PhlWi4GW6FEuaeuTuXmMKYU","name":"index_RAM","input":{"query":"CORSAIR VENGEANCE DDR5 16GB"}}}
+2024-10-05 12:10:39 info: LLM Tool Call: {"toolCall":{"id":"call_90ItV5bw1CeN8H3sWC9f0TEY","name":"index_SSD","input":{"query":"WD BLACK SN770 500 GB"}}}
+2024-10-05 12:10:42 info: LLM Tool Call: {"toolCall":{"id":"call_6ix40Ipa373nsDQiHO3QVMoJ","name":"index_PSU","input":{"query":"CORSAIR CX650 650W"}}}
+2024-10-05 12:10:46 info: LLM Tool Call: {"toolCall":{"id":"call_RIoBdaDfq3JA26ollAkfJwus","name":"index_Case_AEROCOOL","input":{"query":"ANTEC NX292"}}}
+2024-10-05 12:12:30 info: Agent Initialized
+2024-10-05 12:13:20 info: Agent Initialized
+2024-10-05 12:13:52 info: Agent Initialized
+2024-10-05 12:14:30 info: LLM Tool Call: {"toolCall":{"id":"call_8O2Z4m0sTP62ctqOOyplLK1J","name":"index_Gaming","input":{"query":"Gaming PC for 20000 baht"}}}
+2024-10-05 12:14:52 info: LLM Tool Call: {"toolCall":{"id":"call_INRx29fRE7RCUpxWgFvAEbfw","name":"index_Gaming","input":{"query":"SET Gaming 002"}}}
+2024-10-05 18:05:52 info: Agent Initialized
+2024-10-05 18:06:58 info: Agent Initialized
+2024-10-05 18:07:12 info: Agent Initialized
+2024-10-05 21:34:20 info: Agent Initialized
+2024-10-05 21:34:57 info: Agent Initialized
+2024-10-05 21:38:40 info: Agent Initialized
+2024-10-05 21:39:22 info: Agent Initialized
+2024-10-05 21:41:21 info: Agent Initialized
+2024-10-05 21:41:57 info: LLM Tool Call: {"toolCall":{"id":"call_wfy4lrOvDY3NEa4FxWyYb1Tx","name":"index_Gaming","input":{"query":"Gaming PC under 30000 baht"}}}
+2024-10-05 21:42:27 info: Agent Initialized
+2024-10-05 21:44:17 info: Agent Initialized
+2024-10-05 21:44:41 info: LLM Tool Call: {"toolCall":{"id":"call_L9tgnPqN89uHrSM5ko56wYlb","name":"index_Gaming","input":{"query":"Gaming PC under 30000"}}}
+2024-10-05 21:45:16 info: LLM Tool Call: {"toolCall":{"id":"call_AJ9CReVNtHxzoMuJiC5QKUL3","name":"index_CPU","input":{"query":"INTEL CORE I5-12400F"}}}
+2024-10-05 21:45:20 info: LLM Tool Call: {"toolCall":{"id":"call_HxqpLQ2lNcuLYxzzecTDsM6Q","name":"index_Motherboard_MSI","input":{"query":"MSI PRO H610M-E DDR4"}}}
+2024-10-05 21:45:26 info: LLM Tool Call: {"toolCall":{"id":"call_FyvI5LzraoNcPqZ1gTaJfHMF","name":"index_GPU_GALAX","input":{"query":"GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2"}}}
+2024-10-05 21:45:31 info: LLM Tool Call: {"toolCall":{"id":"call_rtqzOAY1Qs2uMGk08Fh6v6lx","name":"index_RAM","input":{"query":"CORSAIR VENGEANCE LPX 16GB DDR4 3200MHz"}}}
+2024-10-05 21:45:38 info: LLM Tool Call: {"toolCall":{"id":"call_YDDcymq08G9J8aGq2zMjNmVt","name":"index_SSD","input":{"query":"WD BLACK SN770 500 GB SSD"}}}
+2024-10-05 21:45:41 info: LLM Tool Call: {"toolCall":{"id":"call_PppXyV4frklKC3alH1VKCHGb","name":"index_PSU","input":{"query":"THERMALTAKE SMART BX1 650W"}}}
+2024-10-05 21:45:46 info: LLM Tool Call: {"toolCall":{"id":"call_f9WWAyDPN15ZrIJwrbGFdsp6","name":"index_Case_MONTECH","input":{"query":"MONTECH X2 MESH"}}}
+2024-10-05 22:12:10 info: Agent Initialized
+2024-10-05 22:12:24 info: LLM Tool Call: {"toolCall":{"id":"call_gcuhoyxGC0DweexmhXbkAq4T","name":"index_Gaming","input":{"query":"Gaming PC under 30000 bath"}}}
+2024-10-05 22:12:38 info: LLM Tool Call: {"toolCall":{"id":"call_uqK23qWFdbGvJxlRaxobFUJe","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-05 22:13:35 info: LLM Tool Call: {"toolCall":{"id":"call_yquoloO10u0b8zkdVFuFHTIZ","name":"index_CPU","input":{"query":"INTEL CORE I5-13400F"}}}
+2024-10-05 22:13:38 info: LLM Tool Call: {"toolCall":{"id":"call_3n4ccRf98lPnHxEOHCrlxVvW","name":"index_Motherboard_ASUS_PRIME","input":{"query":"MSI B760M GAMING PLUS WIFI"}}}
+2024-10-05 22:13:40 info: LLM Tool Call: {"toolCall":{"id":"call_FU3Bot4JINYE2L23PXfKpGxr","name":"index_RAM","input":{"query":"CORSAIR VENGEANCE DDR5 16GB"}}}
+2024-10-05 22:13:48 info: LLM Tool Call: {"toolCall":{"id":"call_Sp8ZQP2wo1SZ1jr98so6d385","name":"index_SSD","input":{"query":"WD BLACK SN770 500GB"}}}
+2024-10-05 22:13:51 info: LLM Tool Call: {"toolCall":{"id":"call_MjI8rQE6xY0UrHymk4J2zDGb","name":"index_PSU","input":{"query":"CORSAIR CX650 650W"}}}
+2024-10-05 22:13:58 info: LLM Tool Call: {"toolCall":{"id":"call_JXxQGuQURdRwggXHu3ui22H0","name":"index_Case_ANTEC","input":{"query":"ANTEC NX292"}}}
+2024-10-05 22:35:12 info: Agent Initialized
+2024-10-05 22:35:41 info: Agent Initialized
+2024-10-05 22:36:11 info: Agent Initialized
+2024-10-05 22:36:31 info: Agent Initialized
+2024-10-05 22:37:25 info: Agent Initialized
+2024-10-05 22:38:20 info: Agent Initialized
+2024-10-05 22:42:39 info: Agent Initialized
+2024-10-05 22:49:18 info: Agent Initialized
+2024-10-05 22:49:37 info: LLM Tool Call: {"toolCall":{"id":"call_wd9GlcubyQvKBJQrmC6DCGJM","name":"index_Gaming","input":{"query":"Gaming PC under 30000 baht"}}}
+2024-10-05 22:50:12 info: LLM Tool Call: {"toolCall":{"id":"call_VtAKt0WNcG7o56979cKLdos4","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-05 22:50:56 info: LLM Tool Call: {"toolCall":{"id":"call_pWfGhr8tcbPSL4gvO9nkC4lx","name":"index_CPU","input":{"query":"INTEL CORE I5-13400F"}}}
+2024-10-05 22:50:59 info: LLM Tool Call: {"toolCall":{"id":"call_lOAUXA6YAc9oqsygSBJfTQNl","name":"index_Motherboard_ASROCK","input":{"query":"MSI B760M GAMING PLUS WIFI"}}}
+2024-10-05 22:51:01 info: LLM Tool Call: {"toolCall":{"id":"call_k9pAOj2rCLmpeuGwzyJrlvR0","name":"index_GPU_MSI","input":{"query":"MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC"}}}
+2024-10-05 22:51:05 info: LLM Tool Call: {"toolCall":{"id":"call_mIBFmgMfsxGqqSECP1pZyjQ9","name":"index_RAM","input":{"query":"CORSAIR VENGEANCE DDR5 16GB"}}}
+2024-10-05 22:51:10 info: LLM Tool Call: {"toolCall":{"id":"call_K9BBXChb6ohQ1Wjul4gKlFQ5","name":"index_SSD","input":{"query":"WD BLACK SN770 500GB"}}}
+2024-10-05 22:51:13 info: LLM Tool Call: {"toolCall":{"id":"call_3g04CsgdcQlXgJKyT3ZaSdAs","name":"index_PSU","input":{"query":"CORSAIR CX650 650W"}}}
+2024-10-05 22:51:18 info: LLM Tool Call: {"toolCall":{"id":"call_5wFxha7Siqv9UFKiRddKPy3j","name":"index_Case_AEROCOOL","input":{"query":"ANTEC NX292"}}}
+2024-10-05 23:19:54 error: Error initializing agent: [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      1
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      2
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      3
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      4
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      5
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      6
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      7
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      8
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      9
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      10
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      11
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      12
+    ],
+    "message": "Expected object, received array"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      13
+    ],
+    "message": "Expected object, received array"
+  }
+]
+2024-10-05 23:20:38 info: Agent Initialized

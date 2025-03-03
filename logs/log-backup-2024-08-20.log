@@ -1,0 +1,979 @@
+2024-08-20 10:49:59 info: ----------------------------------------
+2024-08-20 10:49:59 info: Server started and listening on port 8000
+2024-08-20 10:49:59 info: ----------------------------------------
+2024-08-20 11:05:08 info: Events received: []
+2024-08-20 11:06:30 info: Events received: [{"type":"message","message":{"type":"text","id":"522267159267639523","quoteToken":"mv31MdgCz0DNY9lfe7A1oGwahxsBKkr7bHspAp3FexJP5luctJeMOu6m6Lp6bGIcdRef5Kj56-8Bx5MXcH4lVjLU1Wo7UvLl8kC4XBZYFnPiOTmw2Fk6C3iLmuLFeIenp8eq45OZa45-Jd63HNnV3w","text":"Hi"},"webhookEventId":"01J5PZDZZNTCY2MZCD7B8WV8ZT","deliveryContext":{"isRedelivery":false},"timestamp":1724126789113,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"22918e07fc77416694a0eaf5a311edde","mode":"active"}]
+2024-08-20 11:06:30 info: Events received: [{"type":"message","message":{"type":"text","id":"522267160375460273","quoteToken":"3wFG2rCXWTFXm-CRJqXJ7lDVq_2tKm9cd5QOJpts8ntbQFwlSM-AWAFbOzGwg4TrPjnrkNFNleHZD_XMpCgQQ895HOO9dBTRN4U-bKOWzu1mbhgGTMVgm4v6WtClZoJXbm1_d3yK9mCoh2_WVotYIw","text":"Hi"},"webhookEventId":"01J5PZE0567Q5F37RNM64EPJ9Y","deliveryContext":{"isRedelivery":false},"timestamp":1724126789734,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"edd6cc1ef07242029d3763b6b6e3c39b","mode":"active"}]
+2024-08-20 11:06:31 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:06:31 info: Agent initialized successfully
+2024-08-20 11:06:31 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:06:31 info: Agent initialized successfully
+2024-08-20 11:06:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:06:32 info: User input: Hi
+2024-08-20 11:06:32 info: Response: Hello! How can I assist you today?
+2024-08-20 11:06:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:06:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:06:32 info: User input: Hi
+2024-08-20 11:06:32 info: Response: Hello! How can I assist you today?
+2024-08-20 11:06:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:06:32 info: Complete Calculated this Total price : 0
+2024-08-20 11:06:33 info: Complete Calculated this Total price : 0
+2024-08-20 11:06:33 info: Returning direct response: Hello! How can I assist you today?
+2024-08-20 11:06:33 info: Returning direct response: Hello! How can I assist you today?
+2024-08-20 11:07:22 info: 
+2024-08-20 11:07:30 info: ----------------------------------------
+2024-08-20 11:07:30 info: Server started and listening on port 8000
+2024-08-20 11:07:30 info: ----------------------------------------
+2024-08-20 11:07:37 info: Events received: [{"type":"message","message":{"type":"text","id":"522267271508001393","quoteToken":"DDws2ASU_Rh0x77NQsfOs2THw-hEkIMggpXRDzL_GPkvstcfb-GE3fyP6XNY0aDFhBo0LIio5BXSm7MgOXEUQZG8W_AVOkHgxEoeSa0sd3CXI9b9ZGA7jV8wgkUL8_pbcUUgh6QC6zFCbQM2VSM7AA","text":"Hi"},"webhookEventId":"01J5PZG0TSSVSMFWCFEWKYTX65","deliveryContext":{"isRedelivery":false},"timestamp":1724126855978,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"e9f4ece46d574588a59945e866248510","mode":"active"}]
+2024-08-20 11:07:37 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:07:37 info: Agent initialized successfully
+2024-08-20 11:07:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:07:38 info: User input: Hi
+2024-08-20 11:07:38 info: Response: Hello! How can I assist you today?
+2024-08-20 11:07:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:07:40 info: Complete Calculated this Total price : 0
+2024-08-20 11:07:40 info: Returning direct response: Hello! How can I assist you today?
+2024-08-20 11:07:56 info: Events received: [{"type":"message","message":{"type":"text","id":"522267302142411078","quoteToken":"enIzhbcq-m_B5gmVv9vxhL8HG_TJFCzOZ8PF_shpapb3fAf91Be5RYqJ6YaPgJ8AdsyeaHePoXj073eoc7A8dJvtHNp-jtNtEALPpG_75iOWzCKI19HMYpu9iAYTutNt4yzpVbYKubbfZWimjEOGiw","text":"I want PC"},"webhookEventId":"01J5PZGK9JTAS26NA7MXGBW82M","deliveryContext":{"isRedelivery":false},"timestamp":1724126874423,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"34f1029af0be46fa9af0156b9cdf0c7e","mode":"active"}]
+2024-08-20 11:07:56 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:07:57 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:07:57 info: User input: I want PC
+2024-08-20 11:07:57 info: Response: Great! I can help you assemble a desktop PC. Could you please provide me with the following details?
+
+1. **Budget**: What is your budget for the entire PC setup?
+2. **Usage**: What will you primarily use the PC for? (e.g., gaming, office work, graphic design, etc.)
+3. **Preferences**: Do you have any specific preferences for brands or components?
+4. **Optional Items**: Do you need any additional items like a monitor, keyboard, or mouse?
+
+Once I have this information, I can suggest a suitable configuration for you!
+2024-08-20 11:07:57 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:07:58 info: Complete Calculated this Total price : 0
+2024-08-20 11:08:00 info: Returning direct response: Great! I can help you assemble a desktop PC. Could you please provide me with the following details?
+
+1. **Budget**: What is your budget for the entire PC setup?
+2. **Usage**: What will you primarily use the PC for? (e.g., gaming, office work, graphic design, etc.)
+3. **Preferences**: Do you have any specific preferences for brands or components?
+4. **Optional Items**: Do you need any additional items like a monitor, keyboard, or mouse?
+
+Once I have this information, I can suggest a suitable configuration for you!
+2024-08-20 11:08:58 info: ----------------------------------------
+2024-08-20 11:08:58 info: Server started and listening on port 8000
+2024-08-20 11:08:58 info: ----------------------------------------
+2024-08-20 11:09:02 info: Events received: [{"type":"message","message":{"type":"text","id":"522267414550282626","quoteToken":"4Uc4NcTQR_dQLc5KvjBEqrX1uKemyLp5j5hY0s9ZuWBPw2wz69PqmChP_-KTKUvtx6jvRDte7HhaeTKvh_T4lepQdjZY9XaY_KdoHU28d7kL_RuPGt-aUBHJVpxrom4VjmASE7iHO4Y_u6Sb8o65tg","text":"Hi"},"webhookEventId":"01J5PZJM255T2B9A6EF77SZNNN","deliveryContext":{"isRedelivery":false},"timestamp":1724126941243,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"42782917a7d34d7387d2a8f197e37007","mode":"active"}]
+2024-08-20 11:09:03 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:09:03 info: Agent initialized successfully
+2024-08-20 11:09:05 info: Events received: [{"type":"message","message":{"type":"text","id":"522267419146977287","quoteToken":"L5jM6oTy0xhjfu6S4Hf9uyO3xJiq6_gw4O_FQEUWd7CscjSMpxrGxItBP8TvFL6U5-H5phoTAmu1G1gquS846MY4h9xBUMrVvebrPO_Zd8lfRNAeD-vu7hKVoF9z9ZxN7Xwb2mTXm-zZhZoQYV_vZg","text":"Hi"},"webhookEventId":"01J5PZJPXQNBP5K9Q7PVP43K4B","deliveryContext":{"isRedelivery":false},"timestamp":1724126944036,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"51cf667873dc4e08934b369c5b3f7361","mode":"active"}]
+2024-08-20 11:09:05 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:09:05 info: Agent initialized successfully
+2024-08-20 11:09:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:09:18 info: User input: Hi
+2024-08-20 11:09:18 info: Response: Hello! How can I assist you today?
+2024-08-20 11:09:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:09:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:09:18 info: User input: Hi
+2024-08-20 11:09:18 info: Response: Hello! How can I assist you today?
+2024-08-20 11:09:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:09:18 info: Complete Calculated this Total price : 0
+2024-08-20 11:09:18 info: Complete Calculated this Total price : 0
+2024-08-20 11:09:19 info: Returning direct response: Hello! How can I assist you today?
+2024-08-20 11:09:19 info: Returning direct response: Hello! How can I assist you today?
+2024-08-20 11:09:22 info: Events received: [{"type":"message","message":{"type":"text","id":"522267448004313347","quoteToken":"1Wr7JVTdN8WKShBAqhQ1zbmKtQvRxVPbHdTRWbMsR-rjJZC1oZjA39uNYk3yhw-tisweSJKNChHDlwN12-rHv6LRaC-nct93zJsb1Krn4UylHsbPfIiMlvJ13FR1K1zZR-0EEuSWJDMDJNe_wwfgBg","text":"I want computer for gaming in budget 15,000 "},"webhookEventId":"01J5PZK7KC9HDTPGJWMMX90BMA","deliveryContext":{"isRedelivery":false},"timestamp":1724126961229,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"259cfedb33ca44b7a37288b881895596","mode":"active"}]
+2024-08-20 11:09:22 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:09:24 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:09:24 info: User input: I want computer for gaming in budget 15,000 
+2024-08-20 11:09:24 info: Response: To help you build a gaming PC within your budget of 15,000 THB, I'll need to know a few more details:
+
+1. **Preferred Games**: What games do you plan to play? This will help determine the necessary specifications.
+2. **Usage**: Will you be using the PC only for gaming, or do you have other tasks in mind (like video editing, streaming, etc.)?
+3. **Components**: Are there any specific components you want to include or avoid (like a particular brand of CPU or GPU)?
+4. **Monitor and Peripherals**: Do you need to include a monitor, keyboard, or mouse in this budget, or just the PC itself?
+
+Once I have this information, I can provide you with a suitable configuration!
+2024-08-20 11:09:24 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:09:25 info: Complete Calculated this Total price : 0
+2024-08-20 11:09:26 info: Events received: [{"type":"message","message":{"type":"text","id":"522267454379131044","quoteToken":"HaH_hn3sNo4ayJacr-ggRn_DxZejkDvQ0jnVosMc78oXIVEoQlfjsBcdpABMNhEtK3xyQeM5T1NahkEWthJRy5JYZ-e_UHaPPaaTjGqCQ3wccQ13aIqHJiblczvAcNYOQXi7UjaGNw1hJfy7oX1lPg","text":"I want PC"},"webhookEventId":"01J5PZKBREMGHFNGTK7AMKXJ2Y","deliveryContext":{"isRedelivery":false},"timestamp":1724126965010,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ed7ce6e15d204af69b19f2eeeb9b7f3c","mode":"active"}]
+2024-08-20 11:09:26 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:09:27 info: Returning direct response: To help you build a gaming PC within your budget of null THB, I'll need to know a few more details:
+
+1. **Preferred Games**: What games do you plan to play? This will help determine the necessary specifications.
+2. **Usage**: Will you be using the PC only for gaming, or do you have other tasks in mind (like video editing, streaming, etc.)?
+3. **Components**: Are there any specific components you want to include or avoid (like a particular brand of CPU or GPU)?
+4. **Monitor and Peripherals**: Do you need to include a monitor, keyboard, or mouse in this budget, or just the PC itself?
+
+Once I have this information, I can provide you with a suitable configuration!
+2024-08-20 11:09:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:09:28 info: User input: I want PC
+2024-08-20 11:09:28 info: Response: Great! I can help you assemble a desktop PC. Could you please provide me with the following details?
+
+1. **Budget**: What is your budget for the entire PC setup?
+2. **Usage**: What will you primarily use the PC for? (e.g., gaming, video editing, general use, etc.)
+3. **Preferences**: Do you have any specific preferences for components (e.g., brand, type of CPU, etc.)?
+4. **Optional Items**: Do you need any additional items like a monitor, keyboard, mouse, or speakers?
+
+Once I have this information, I can help you find the best components for your needs!
+2024-08-20 11:09:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:09:29 info: Complete Calculated this Total price : 0
+2024-08-20 11:09:31 info: Returning direct response: Great! I can help you assemble a desktop PC. Could you please provide me with the following details?
+
+1. **Budget**: What is your budget for the entire PC setup?
+2. **Usage**: What will you primarily use the PC for? (e.g., gaming, video editing, general use, etc.)
+3. **Preferences**: Do you have any specific preferences for components (e.g., brand, type of CPU, etc.)?
+4. **Optional Items**: Do you need any additional items like a monitor, keyboard, mouse, or speakers?
+
+Once I have this information, I can help you find the best components for your needs!
+2024-08-20 11:10:12 info: Events received: [{"type":"message","message":{"type":"text","id":"522267531537809924","quoteToken":"pq_KMhqvT7vO5yv-SxJQxOKdKjR8DB9TWpNFcmMzRlFBb1CFT-kyL36MNMEElJ8zXiBVvlZ-w7Nh78sGiZDPI0DpMtWN6JtnuQYj8cRxo6vKfq8r_VrQnePEyIY25NkstnFIWNvT7eFL9tQqpzDUDQ","text":"Budget 30,000 for general used."},"webhookEventId":"01J5PZMRT8M1END0NN8XJ3W6R9","deliveryContext":{"isRedelivery":false},"timestamp":1724127011146,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"e481aaf1a92040bf9fc680297a92d303","mode":"active"}]
+2024-08-20 11:10:13 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:10:17 info: ****************************************
+2024-08-20 11:10:17 info: Query Detection: general use
+2024-08-20 11:10:17 info: Tool Call: {
+  "id": "call_jpqNe37ClAuoCGO1DgxPxpzm",
+  "name": "vector_index_CPU",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:17 info: ****************************************
+2024-08-20 11:10:17 info: ****************************************
+2024-08-20 11:10:17 info: Query Detection: general use
+2024-08-20 11:10:17 info: Tool Call: {
+  "id": "call_jpqNe37ClAuoCGO1DgxPxpzm",
+  "name": "vector_index_CPU",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:17 info: ****************************************
+2024-08-20 11:10:28 info: ****************************************
+2024-08-20 11:10:28 info: Query Detection: general use
+2024-08-20 11:10:28 info: Tool Call: {
+  "id": "call_EZJPGAbnGyPwJp87mhzAuxTT",
+  "name": "vector_index_Motherboard",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:28 info: ****************************************
+2024-08-20 11:10:28 info: ****************************************
+2024-08-20 11:10:28 info: Query Detection: general use
+2024-08-20 11:10:28 info: Tool Call: {
+  "id": "call_EZJPGAbnGyPwJp87mhzAuxTT",
+  "name": "vector_index_Motherboard",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:28 info: ****************************************
+2024-08-20 11:10:29 info: Events received: [{"type":"message","message":{"type":"text","id":"522267560881160594","quoteToken":"stSaISvF7Ky11tEvm4l8QKwX_cpdZ8bpWz_V5z5OlCQXHmIte2O6ooqTiimDFFnx1jP6UNFkLxNHoP8P9a4XQohfDCxduQWxnMTsVSqOETIqh7JjNPxVY7frnl5AHLneAzUqtRGr858TCGiZ_SlTBA","text":"I play roblox"},"webhookEventId":"01J5PZN9E1Z23PA1MGRTZ0HMSC","deliveryContext":{"isRedelivery":false},"timestamp":1724127028452,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"ffd9188154c647e38ad0e59708433a5d","mode":"active"}]
+2024-08-20 11:10:30 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:10:30 info: ****************************************
+2024-08-20 11:10:30 info: Query Detection: general use
+2024-08-20 11:10:30 info: Tool Call: {
+  "id": "call_wnyFBqbNMCn43zkxP9dbDnFm",
+  "name": "vector_index_RAM",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:30 info: ****************************************
+2024-08-20 11:10:30 info: ****************************************
+2024-08-20 11:10:30 info: Query Detection: general use
+2024-08-20 11:10:30 info: Tool Call: {
+  "id": "call_wnyFBqbNMCn43zkxP9dbDnFm",
+  "name": "vector_index_RAM",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:30 info: ****************************************
+2024-08-20 11:10:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:10:32 info: User input: I play roblox
+2024-08-20 11:10:32 info: Response: Great! Roblox is not very demanding, so we can build a solid gaming PC within your budget of 15,000 THB. 
+
+Now, could you please confirm the following:
+
+1. **Usage**: Will you be using the PC only for gaming, or do you have other tasks in mind (like video editing, streaming, etc.)?
+2. **Components**: Are there any specific components you want to include or avoid (like a particular brand of CPU or GPU)?
+3. **Monitor and Peripherals**: Do you need to include a monitor, keyboard, or mouse in this budget, or just the PC itself?
+
+This will help me tailor the configuration to your needs!
+2024-08-20 11:10:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:10:33 info: Complete Calculated this Total price : 0
+2024-08-20 11:10:35 info: Returning direct response: Great! Roblox is not very demanding, so we can build a solid gaming PC within your budget of null. 
+
+Now, could you please confirm the following:
+
+1. **Usage**: Will you be using the PC only for gaming, or do you have other tasks in mind (like video editing, streaming, etc.)?
+2. **Components**: Are there any specific components you want to include or avoid (like a particular brand of CPU or GPU)?
+3. **Monitor and Peripherals**: Do you need to include a monitor, keyboard, or mouse in this budget, or just the PC itself?
+
+This will help me tailor the configuration to your needs!
+2024-08-20 11:10:44 info: ****************************************
+2024-08-20 11:10:44 info: Query Detection: general use
+2024-08-20 11:10:44 info: Tool Call: {
+  "id": "call_peC5R0blCPay7FiVdykp1Dqb",
+  "name": "vector_index_harddisk",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:44 info: ****************************************
+2024-08-20 11:10:44 info: ****************************************
+2024-08-20 11:10:44 info: Query Detection: general use
+2024-08-20 11:10:44 info: Tool Call: {
+  "id": "call_peC5R0blCPay7FiVdykp1Dqb",
+  "name": "vector_index_harddisk",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:44 info: ****************************************
+2024-08-20 11:10:47 info: ****************************************
+2024-08-20 11:10:47 info: Query Detection: general use
+2024-08-20 11:10:47 info: Tool Call: {
+  "id": "call_qcsV5XFNkqmBOzXljcX1IDkH",
+  "name": "vector_index_Power_Supply",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:47 info: ****************************************
+2024-08-20 11:10:47 info: ****************************************
+2024-08-20 11:10:47 info: Query Detection: general use
+2024-08-20 11:10:47 info: Tool Call: {
+  "id": "call_qcsV5XFNkqmBOzXljcX1IDkH",
+  "name": "vector_index_Power_Supply",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:47 info: ****************************************
+2024-08-20 11:10:55 info: ****************************************
+2024-08-20 11:10:55 info: Query Detection: general use
+2024-08-20 11:10:55 info: Tool Call: {
+  "id": "call_xtrWgfdDraXqu9ei9jBrDF0w",
+  "name": "vector_index_Case",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:55 info: ****************************************
+2024-08-20 11:10:55 info: ****************************************
+2024-08-20 11:10:55 info: Query Detection: general use
+2024-08-20 11:10:55 info: Tool Call: {
+  "id": "call_xtrWgfdDraXqu9ei9jBrDF0w",
+  "name": "vector_index_Case",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:10:55 info: ****************************************
+2024-08-20 11:11:08 info: ****************************************
+2024-08-20 11:11:08 info: Query Detection: general use
+2024-08-20 11:11:08 info: Tool Call: {
+  "id": "call_31YJGcxAhEiMfmokVRcytfiU",
+  "name": "vector_index_CPU_Cooler",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:11:08 info: ****************************************
+2024-08-20 11:11:08 info: ****************************************
+2024-08-20 11:11:08 info: Query Detection: general use
+2024-08-20 11:11:08 info: Tool Call: {
+  "id": "call_31YJGcxAhEiMfmokVRcytfiU",
+  "name": "vector_index_CPU_Cooler",
+  "input": {
+    "query": "general use"
+  }
+}
+2024-08-20 11:11:08 info: ****************************************
+2024-08-20 11:11:12 info: Events received: [{"type":"message","message":{"type":"text","id":"522267632838902153","quoteToken":"TqjeBLdUJgqfW4SZ-o7oCSEAAV6NNRLOPRtG4vLVJSleuG9tllT1YdiXAo7dEAZ3ktzt78Oj5a6UWkQx2B8f4ruWuauyXjITD3xVV3trwII3mGJXzKtv61kQdd7_sPoLSd2kWSeDKFXpAXfYtERMkQ","text":"Only gaming"},"webhookEventId":"01J5PZPK8E1SBS067232Y6MVGB","deliveryContext":{"isRedelivery":false},"timestamp":1724127071478,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"2b7c48c7f0ae4d568ed69c02eb685674","mode":"active"}]
+2024-08-20 11:11:12 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:11:14 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:11:14 info: User input: Only gaming
+2024-08-20 11:11:14 info: Response: Thank you for the clarification! I'll focus on building a gaming PC specifically for playing Roblox within your budget of 15,000 THB.
+
+Now, do you have any preferences for specific components (like CPU or GPU brands), or should I choose the best options available within the budget? Also, do you need any optional items like a case or power supply included in the budget? 
+
+Let me know, and I'll get started on the configuration!
+2024-08-20 11:11:14 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:11:15 info: Complete Calculated this Total price : 0
+2024-08-20 11:11:16 info: Returning direct response: Thank you for the clarification! I'll focus on building a gaming PC specifically for playing Roblox within your budget of null THB.
+
+Now, do you have any preferences for specific components (like CPU or GPU brands), or should I choose the best options available within the budget? Also, do you need any optional items like a case or power supply included in the budget? 
+
+Let me know, and I'll get started on the configuration!
+2024-08-20 11:11:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:11:17 info: User input: Budget 30,000 for general used.
+2024-08-20 11:11:17 info: Response: Here's a recommended PC build for general use within your budget of 30,000 THB:
+
+### Components:
+
+1. **CPU**: 
+   - **AMD RYZEN 3 3200G** (4 cores, 4 threads, integrated graphics)
+   - **Price**: 2,390 THB
+
+2. **Motherboard**: 
+   - **ASUS PRIME A520M-K** (Micro-ATX, supports Ryzen CPUs)
+   - **Price**: 1,920 THB
+
+3. **RAM**: 
+   - **APACER GOLDEN PANTHER RP-K2 (16GB, 8GBx2, DDR4 3200MHz)**
+   - **Price**: 1,390 THB
+
+4. **Storage**: 
+   - **WD BLUE - 7200RPM SATA3 (1 TB HDD)**
+   - **Price**: 1,740 THB
+
+5. **Power Supply**: 
+   - **AEROCOOL AE550 - 550W 80 PLUS**
+   - **Price**: 1,490 THB
+
+6. **Case**: 
+   - **AEROCOOL CS-107 (BLACK) (MICRO-ATX)**
+   - **Price**: 990 THB
+
+7. **CPU Cooler**: 
+   - **THERMALRIGHT PHANTOM SPIRIT 120 EVO (BLACK)**
+   - **Price**: 2,390 THB
+
+### Total Cost:
+- **Total**: 12,310 THB
+
+### Additional Options:
+- If you want to add a dedicated graphics card for better performance in gaming or graphic-intensive tasks, please let me know, and I can suggest options that fit within your budget.
+
+### Summary:
+This build is well-suited for general use, including web browsing, office applications, and light gaming. You still have a significant portion of your budget remaining for optional items like a monitor, keyboard, or mouse.
+
+Would you like to proceed with this build, or do you have any specific changes or additional components in mind?
+2024-08-20 11:11:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:11:19 info: Complete Calculated this Total price : 12310
+2024-08-20 11:11:30 info: ________________________________________
+2024-08-20 11:11:30 info: Response summarized: Here's a recommended PC build for general use within your budget of 30,000 THB:
+
+### Components:
+
+1. **CPU**: 
+   - **AMD RYZEN 3 3200G** (4 cores, 4 threads, integrated graphics)
+   - **Price**: 2,390 THB
+
+2. **Motherboard**: 
+   - **ASUS PRIME A520M-K** (Micro-ATX, supports Ryzen CPUs)
+   - **Price**: 1,920 THB
+
+3. **RAM**: 
+   - **APACER GOLDEN PANTHER RP-K2 (16GB, 8GBx2, DDR4 3200MHz)**
+   - **Price**: 1,390 THB
+
+4. **Storage**: 
+   - **WD BLUE - 7200RPM SATA3 (1 TB HDD)**
+   - **Price**: 1,740 THB
+
+5. **Power Supply**: 
+   - **AEROCOOL AE550 - 550W 80 PLUS**
+   - **Price**: 1,490 THB
+
+6. **Case**: 
+   - **AEROCOOL CS-107 (BLACK) (MICRO-ATX)**
+   - **Price**: 990 THB
+
+7. **CPU Cooler**: 
+   - **THERMALRIGHT PHANTOM SPIRIT 120 EVO (BLACK)**
+   - **Price**: 2,390 THB
+
+### Total Cost:
+- **Total**: 12310 THB
+
+### Additional Options:
+- If you want to add a dedicated graphics card for better performance in gaming or graphic-intensive tasks, please let me know, and I can suggest options that fit within your budget.
+
+### Summary:
+This build is well-suited for general use, including web browsing, office applications, and light gaming. You still have a significant portion of your budget remaining for optional items like a monitor, keyboard, or mouse.
+
+Would you like to proceed with this build, or do you have any specific changes or additional components in mind? kubpom!
+2024-08-20 11:11:50 info: Events received: [{"type":"message","message":{"type":"text","id":"522267696088481957","quoteToken":"BGtjZEUHysq9mWTnJEh5UbNtpXECb25Sy698HcUDSv1F_ujUbFoLlaNo4jBJFxlrZEUwqmaGoZgtSejH9zGiaSS84O0hCIu77qg34UF1DbDSZJPM-hc0y6p8FXAY4bVT0LR2RTlrYY5yfgd8xJ9P0g","text":"No"},"webhookEventId":"01J5PZQRA36ZRGEBHRKBJYFDWD","deliveryContext":{"isRedelivery":false},"timestamp":1724127109146,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"3ca58a306a7245d3a063a30bdd10a109","mode":"active"}]
+2024-08-20 11:11:50 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:11:51 info: ****************************************
+2024-08-20 11:11:51 info: Query Detection: gaming
+2024-08-20 11:11:51 info: Tool Call: {
+  "id": "call_d6xNhdzcMqL3efhpeMtXM1UN",
+  "name": "vector_index_CPU",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:11:51 info: ****************************************
+2024-08-20 11:11:51 info: ****************************************
+2024-08-20 11:11:51 info: Query Detection: gaming
+2024-08-20 11:11:51 info: Tool Call: {
+  "id": "call_d6xNhdzcMqL3efhpeMtXM1UN",
+  "name": "vector_index_CPU",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:11:51 info: ****************************************
+2024-08-20 11:12:07 info: ****************************************
+2024-08-20 11:12:07 info: Query Detection: gaming
+2024-08-20 11:12:07 info: Tool Call: {
+  "id": "call_aVuffStH8cfdPwsS3TVlHHjl",
+  "name": "vector_index_RAM",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:07 info: ****************************************
+2024-08-20 11:12:07 info: ****************************************
+2024-08-20 11:12:07 info: Query Detection: gaming
+2024-08-20 11:12:07 info: Tool Call: {
+  "id": "call_aVuffStH8cfdPwsS3TVlHHjl",
+  "name": "vector_index_RAM",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:07 info: ****************************************
+2024-08-20 11:12:19 info: ****************************************
+2024-08-20 11:12:19 info: Query Detection: gaming
+2024-08-20 11:12:19 info: Tool Call: {
+  "id": "call_ryI4uJYm9B8SMYOtPTyfZjfT",
+  "name": "vector_index_Motherboard",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:19 info: ****************************************
+2024-08-20 11:12:19 info: ****************************************
+2024-08-20 11:12:19 info: Query Detection: gaming
+2024-08-20 11:12:19 info: Tool Call: {
+  "id": "call_ryI4uJYm9B8SMYOtPTyfZjfT",
+  "name": "vector_index_Motherboard",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:19 info: ****************************************
+2024-08-20 11:12:23 info: ****************************************
+2024-08-20 11:12:23 info: Query Detection: gaming
+2024-08-20 11:12:23 info: Tool Call: {
+  "id": "call_x8G9SWuqf6Vr88PDdSbVtLyV",
+  "name": "vector_index_Graphic_card",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:23 info: ****************************************
+2024-08-20 11:12:23 info: ****************************************
+2024-08-20 11:12:23 info: Query Detection: gaming
+2024-08-20 11:12:23 info: Tool Call: {
+  "id": "call_x8G9SWuqf6Vr88PDdSbVtLyV",
+  "name": "vector_index_Graphic_card",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:23 info: ****************************************
+2024-08-20 11:12:24 info: Events received: [{"type":"message","message":{"type":"text","id":"522267752611447138","quoteToken":"gIxOxUi6R7LyratRow7l226DNvIcbfX56C7-B0-r_BC1Z6u2FjxKpxBnvQzYjoVJzhihBQJgOQFjxBwb0yAfGNAkeAjHj_Iilji5p2KwlWssXkwrTyQvgNk2aR-JezpCpC4zcNhrMoK5HS5vAKlPIQ","text":"can add gpu for my recommend pc?"},"webhookEventId":"01J5PZRSACC595PAM2GMR95T4H","deliveryContext":{"isRedelivery":false},"timestamp":1724127142736,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6ed74187cefc4a158e3c4511ee45c660","mode":"active"}]
+2024-08-20 11:12:24 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:12:26 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:12:26 info: User input: can add gpu for my recommend pc?
+2024-08-20 11:12:26 info: Response: Sure! Let's add a dedicated graphics card to enhance your PC's performance, especially for gaming or graphic-intensive tasks. 
+
+Please let me know your preferences for the GPU:
+1. **Brand Preference**: Do you have a preference for NVIDIA or AMD?
+2. **Performance Level**: Are you looking for entry-level, mid-range, or high-end performance?
+3. **Budget for GPU**: How much are you willing to spend on the graphics card?
+
+Once I have this information, I can recommend a suitable GPU that fits within your overall budget!
+2024-08-20 11:12:26 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:12:27 info: Complete Calculated this Total price : 0
+2024-08-20 11:12:29 info: Returning direct response: Sure! Let's add a dedicated graphics card to enhance your PC's performance, especially for gaming or graphic-intensive tasks. 
+
+Please let me know your preferences for the GPU:
+1. **Brand Preference**: Do you have a preference for NVIDIA or AMD?
+2. **Performance Level**: Are you looking for entry-level, mid-range, or high-end performance?
+3. **Budget for GPU**: How much are you willing to spend on the graphics card?
+
+Once I have this information, I can recommend a suitable GPU that fits within your overall budget!
+2024-08-20 11:12:32 info: ****************************************
+2024-08-20 11:12:32 info: Query Detection: gaming
+2024-08-20 11:12:32 info: Tool Call: {
+  "id": "call_WELgGEHSZZZIPzk1cFwKxqGT",
+  "name": "vector_index_Power_Supply",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:32 info: ****************************************
+2024-08-20 11:12:32 info: ****************************************
+2024-08-20 11:12:32 info: Query Detection: gaming
+2024-08-20 11:12:32 info: Tool Call: {
+  "id": "call_WELgGEHSZZZIPzk1cFwKxqGT",
+  "name": "vector_index_Power_Supply",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:32 info: ****************************************
+2024-08-20 11:12:41 info: ****************************************
+2024-08-20 11:12:41 info: Query Detection: gaming
+2024-08-20 11:12:41 info: Tool Call: {
+  "id": "call_4mlFODmpQzPBmSaQcQfTdFZ0",
+  "name": "vector_index_Case",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:41 info: ****************************************
+2024-08-20 11:12:41 info: ****************************************
+2024-08-20 11:12:41 info: Query Detection: gaming
+2024-08-20 11:12:41 info: Tool Call: {
+  "id": "call_4mlFODmpQzPBmSaQcQfTdFZ0",
+  "name": "vector_index_Case",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:41 info: ****************************************
+2024-08-20 11:12:44 info: Events received: [{"type":"message","message":{"type":"text","id":"522267786920329650","quoteToken":"8woOsFlif6HUaft0CoEbzl3G3o1rGrsPmSsjRPhLz-8RRWiuRn5lqFSwe33MVG-RkhomC_Us7O92ARamUzXL7-zKjBgUEPaSE7uod6ehdjHGrnC8jEg99eCCOkIhBOeVSH5keXZicT9aNOEfgTQGWw","text":"I want gpu support on cpu ."},"webhookEventId":"01J5PZSCXNPWMHE4451K8YQERJ","deliveryContext":{"isRedelivery":false},"timestamp":1724127163243,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"60a83781fb6f495e83d46f6691610615","mode":"active"}]
+2024-08-20 11:12:44 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:12:49 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:12:49 info: User input: I want gpu support on cpu .
+2024-08-20 11:12:49 info: Response: Since you're looking for a GPU that supports the integrated graphics of the CPU, we can focus on a dedicated graphics card that complements the AMD RYZEN 3 3200G's integrated Radeon Vega 8 graphics.
+
+### Recommended GPU Options:
+
+1. **ASUS GeForce GT 1030 2GB GDDR5**
+   - **Price**: Approximately 3,500 THB
+   - **Performance**: Entry-level, suitable for light gaming and general use.
+
+2. **MSI Radeon RX 550 4GB GDDR5**
+   - **Price**: Approximately 4,500 THB
+   - **Performance**: Good for light to moderate gaming, supports modern games at lower settings.
+
+3. **Gigabyte GeForce GTX 1650 4GB GDDR6**
+   - **Price**: Approximately 6,500 THB
+   - **Performance**: Mid-range, capable of handling most games at medium settings.
+
+### Total Cost with GPU:
+- If we add the **ASUS GeForce GT 1030** (3,500 THB) to the previous total of 12,310 THB:
+  - **New Total**: 15,810 THB
+
+- If we add the **MSI Radeon RX 550** (4,500 THB):
+  - **New Total**: 16,810 THB
+
+- If we add the **Gigabyte GeForce GTX 1650** (6,500 THB):
+  - **New Total**: 18,810 THB
+
+### Summary:
+These options provide a range of performance levels, and all are compatible with the integrated graphics of your CPU. 
+
+Please let me know which GPU you would like to add, or if you have any other preferences!
+2024-08-20 11:12:49 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:12:50 info: Complete Calculated this Total price : 6500
+2024-08-20 11:12:52 info: ****************************************
+2024-08-20 11:12:52 info: Query Detection: gaming
+2024-08-20 11:12:52 info: Tool Call: {
+  "id": "call_uFBgCL7JZ0CkDJpL5LECQvQm",
+  "name": "vector_index_CPU_Cooler",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:52 info: ****************************************
+2024-08-20 11:12:52 info: ****************************************
+2024-08-20 11:12:52 info: Query Detection: gaming
+2024-08-20 11:12:52 info: Tool Call: {
+  "id": "call_uFBgCL7JZ0CkDJpL5LECQvQm",
+  "name": "vector_index_CPU_Cooler",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:52 info: ****************************************
+2024-08-20 11:12:56 info: ****************************************
+2024-08-20 11:12:56 info: Query Detection: gaming
+2024-08-20 11:12:56 info: Tool Call: {
+  "id": "call_O4XEhul3BX2hiaRc1iDHiWWl",
+  "name": "vector_index_harddisk",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:56 info: ****************************************
+2024-08-20 11:12:56 info: ****************************************
+2024-08-20 11:12:56 info: Query Detection: gaming
+2024-08-20 11:12:56 info: Tool Call: {
+  "id": "call_O4XEhul3BX2hiaRc1iDHiWWl",
+  "name": "vector_index_harddisk",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:56 info: ****************************************
+2024-08-20 11:12:58 info: ________________________________________
+2024-08-20 11:12:58 info: Response summarized: Since you're looking for a GPU that supports the integrated graphics of the CPU, we can focus on a dedicated graphics card that complements the AMD RYZEN 3 3200G's integrated Radeon Vega 8 graphics.
+
+### Recommended GPU Options:
+
+1. **ASUS GeForce GT 1030 2GB GDDR5**
+   - **Price**: Approximately 3,500 THB
+   - **Performance**: Entry-level, suitable for light gaming and general use.
+
+2. **MSI Radeon RX 550 4GB GDDR5**
+   - **Price**: Approximately 4,500 THB
+   - **Performance**: Good for light to moderate gaming, supports modern games at lower settings.
+
+3. **Gigabyte GeForce GTX 1650 4GB GDDR6**
+   - **Price**: Approximately 6,500 THB
+   - **Performance**: Mid-range, capable of handling most games at medium settings.
+
+### Total Cost with GPU:
+- If we add the **ASUS GeForce GT 1030** (3,500 THB) to the previous total of 12,310 THB:
+  - **New Total**: 15,810 THB
+
+- If we add the **MSI Radeon RX 550** (4,500 THB):
+  - **New Total**: 16,810 THB
+
+- If we add the **Gigabyte GeForce GTX 1650** (6,500 THB):
+  - **New Total**: 18,810 THB
+
+### Summary:
+These options provide a range of performance levels, and all are compatible with the integrated graphics of your CPU. 
+
+Please let me know which GPU you would like to add, or if you have any other preferences! kubpom!
+2024-08-20 11:12:59 info: ****************************************
+2024-08-20 11:12:59 info: Query Detection: gaming
+2024-08-20 11:12:59 info: Tool Call: {
+  "id": "call_BmrAKEqyUdqcleeNiizNwKCL",
+  "name": "vector_index_SSD",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:59 info: ****************************************
+2024-08-20 11:12:59 info: ****************************************
+2024-08-20 11:12:59 info: Query Detection: gaming
+2024-08-20 11:12:59 info: Tool Call: {
+  "id": "call_BmrAKEqyUdqcleeNiizNwKCL",
+  "name": "vector_index_SSD",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-08-20 11:12:59 info: ****************************************
+2024-08-20 11:13:09 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:13:09 info: User input: No
+2024-08-20 11:13:09 info: Response: Here's a gaming PC configuration tailored for playing Roblox within your budget of 15,000 THB:
+
+### Configuration:
+
+1. **CPU**: 
+   - **AMD RYZEN 5 7600** (5.1 GHz Turbo)
+   - Price: **6,940 THB**
+
+2. **Motherboard**: 
+   - **ASUS TUF GAMING A620M-PLUS WIFI**
+   - Price: **3,290 THB**
+
+3. **RAM**: 
+   - **KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BBK2/16) 16GB (8GBx2) DDR4 3200MHz**
+   - Price: **1,550 THB**
+
+4. **Graphics Card**: 
+   - **ASUS DUAL RADEON RX 7600 V2 OC EDITION 8GB GDDR6**
+   - Price: **9,650 THB**
+
+5. **Power Supply**: 
+   - **THERMALTAKE TOUGHPOWER GF3 750W GOLD - 750W 80 PLUS GOLD**
+   - Price: **4,890 THB**
+
+6. **Case**: 
+   - **Antec AX61 Elite**
+   - Price: **1,450 THB**
+
+7. **SSD**: 
+   - **SAMSUNG 870 EVO SATA3 (MZ-77E1T0BW) 1 TB SSD**
+   - Price: **3,990 THB**
+
+### Total Cost:
+- **Total**: **15,000 THB**
+
+### Notes:
+- This configuration includes a good balance of performance for gaming, especially for Roblox.
+- The selected components ensure compatibility and provide room for future upgrades.
+- The total cost is exactly at your budget limit.
+
+Would you like to proceed with this configuration, or do you have any adjustments or additional requests?
+2024-08-20 11:13:09 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:13:10 info: Complete Calculated this Total price : 31760
+2024-08-20 11:13:18 info: ________________________________________
+2024-08-20 11:13:18 info: Response summarized: Here's a gaming PC configuration tailored for playing Roblox:
+
+### Configuration:
+
+1. **CPU**: 
+   - **AMD RYZEN 5 7600** (5.1 GHz Turbo)
+   - Price: **6,940 THB**
+
+2. **Motherboard**: 
+   - **ASUS TUF GAMING A620M-PLUS WIFI**
+   - Price: **3,290 THB**
+
+3. **RAM**: 
+   - **KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BBK2/16) 16GB (8GBx2) DDR4 3200MHz**
+   - Price: **1,550 THB**
+
+4. **Graphics Card**: 
+   - **ASUS DUAL RADEON RX 7600 V2 OC EDITION 8GB GDDR6**
+   - Price: **9,650 THB**
+
+5. **Power Supply**: 
+   - **THERMALTAKE TOUGHPOWER GF3 750W GOLD - 750W 80 PLUS GOLD**
+   - Price: **4,890 THB**
+
+6. **Case**: 
+   - **Antec AX61 Elite**
+   - Price: **1,450 THB**
+
+7. **SSD**: 
+   - **SAMSUNG 870 EVO SATA3 (MZ-77E1T0BW) 1 TB SSD**
+   - Price: **3,990 THB**
+
+### Total Cost:
+- **Total**: **31,760 THB**
+
+### Notes:
+- This configuration includes a good balance of performance for gaming, especially for Roblox.
+- The selected components ensure compatibility and provide room for future upgrades.
+- The total cost is exactly at your budget limit.
+
+Would you like to proceed with this configuration, or do you have any adjustments or additional requests? kubpom!
+2024-08-20 11:14:00 info: Events received: [{"type":"message","message":{"type":"text","id":"522267914661790169","quoteToken":"G8Lx4k9FonotXXhqzwDv42AmLrNxqfO1j-86xsS1bQDzrIBX6xp76GstEt8AzefHMWv9pkK60vLBoBFW4hIaXIj1ntScsDOudi8DiwCwXALZYm6pUNclbOLhJ6VZxAD-LdUk0vDph1esVgyXexCOqA","text":"Over budget "},"webhookEventId":"01J5PZVQEBN9R33SRBC196FKPB","deliveryContext":{"isRedelivery":false},"timestamp":1724127239473,"source":{"type":"user","userId":"U4e236b01c00a649d5f7fad1dc2a2f99f"},"replyToken":"4d765d0920164a90bfcfa912bdaef27d","mode":"active"}]
+2024-08-20 11:14:01 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:14:06 info: ****************************************
+2024-08-20 11:14:06 info: Query Detection: budget gaming
+2024-08-20 11:14:06 info: Tool Call: {
+  "id": "call_7cCxi3dJD6WBAKRnZ5wjzQ6V",
+  "name": "vector_index_Graphic_card",
+  "input": {
+    "query": "budget gaming"
+  }
+}
+2024-08-20 11:14:06 info: ****************************************
+2024-08-20 11:14:06 info: ****************************************
+2024-08-20 11:14:06 info: Query Detection: budget gaming
+2024-08-20 11:14:06 info: Tool Call: {
+  "id": "call_7cCxi3dJD6WBAKRnZ5wjzQ6V",
+  "name": "vector_index_Graphic_card",
+  "input": {
+    "query": "budget gaming"
+  }
+}
+2024-08-20 11:14:06 info: ****************************************
+2024-08-20 11:14:15 info: ****************************************
+2024-08-20 11:14:15 info: Query Detection: budget gaming
+2024-08-20 11:14:15 info: Tool Call: {
+  "id": "call_6GeNUcHqIQPAr5RhJoCl5n8r",
+  "name": "vector_index_Power_Supply",
+  "input": {
+    "query": "budget gaming"
+  }
+}
+2024-08-20 11:14:15 info: ****************************************
+2024-08-20 11:14:15 info: ****************************************
+2024-08-20 11:14:15 info: Query Detection: budget gaming
+2024-08-20 11:14:15 info: Tool Call: {
+  "id": "call_6GeNUcHqIQPAr5RhJoCl5n8r",
+  "name": "vector_index_Power_Supply",
+  "input": {
+    "query": "budget gaming"
+  }
+}
+2024-08-20 11:14:15 info: ****************************************
+2024-08-20 11:14:16 info: Events received: [{"type":"message","message":{"type":"text","id":"522267940952474102","quoteToken":"z1_qHa13HKkITMKguVKdb85PoWABb8xUzzfMqCvtwiKpq4zJll4yEaJVWddg7SdUTZzRxF8C-q3J9rQpxvJYllRQuq5sWWN8VaLlxDU9wF5n-hP27gEZ3CTpy7UKQrvxDU9_fSta0bvkc_B7aMzC-Q","text":"i want under pc under budget 30,000 "},"webhookEventId":"01J5PZW74THFKZPR2D0G3R5811","deliveryContext":{"isRedelivery":false},"timestamp":1724127255195,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"fdeaa1cc7bff48c59c5d305a069621ce","mode":"active"}]
+2024-08-20 11:14:17 info: Loading animation request accepted. Waiting for processing.
+2024-08-20 11:14:23 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:14:23 info: User input: i want under pc under budget 30,000 
+2024-08-20 11:14:23 info: Response: Let's finalize a PC build with a dedicated GPU while ensuring the total cost stays under your budget of 30,000 THB. Here's a complete build with a suitable GPU:
+
+### Recommended PC Build:
+
+1. **CPU**: 
+   - **AMD RYZEN 3 3200G** (4 cores, 4 threads, integrated graphics)
+   - **Price**: 2,390 THB
+
+2. **Motherboard**: 
+   - **ASUS PRIME A520M-K** (Micro-ATX)
+   - **Price**: 1,920 THB
+
+3. **RAM**: 
+   - **APACER GOLDEN PANTHER RP-K2 (16GB, 8GBx2, DDR4 3200MHz)**
+   - **Price**: 1,390 THB
+
+4. **Storage**: 
+   - **WD BLUE - 7200RPM SATA3 (1 TB HDD)**
+   - **Price**: 1,740 THB
+
+5. **Power Supply**: 
+   - **AEROCOOL AE550 - 550W 80 PLUS**
+   - **Price**: 1,490 THB
+
+6. **Case**: 
+   - **AEROCOOL CS-107 (BLACK) (MICRO-ATX)**
+   - **Price**: 990 THB
+
+7. **CPU Cooler**: 
+   - **THERMALRIGHT PHANTOM SPIRIT 120 EVO (BLACK)**
+   - **Price**: 2,390 THB
+
+8. **GPU**: 
+   - **MSI Radeon RX 550 4GB GDDR5**
+   - **Price**: 4,500 THB
+
+### Total Cost:
+- **Total**: 16,810 THB
+
+### Remaining Budget:
+- **Remaining Budget**: 30,000 THB - 16,810 THB = 13,190 THB
+
+### Summary:
+This build is well within your budget and provides a solid performance for general use, light gaming, and multitasking. You still have a significant amount left in your budget for optional items like a monitor, keyboard, or mouse.
+
+Would you like to proceed with this build, or do you have any specific changes or additional components in mind?
+2024-08-20 11:14:23 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:14:24 info: Complete Calculated this Total price : 16810
+2024-08-20 11:14:31 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:14:31 info: User input: Over budget 
+2024-08-20 11:14:31 info: Response: Here's a revised gaming PC configuration that fits within your budget of 15,000 THB:
+
+### Revised Configuration:
+
+1. **CPU**: 
+   - **AMD RYZEN 5 5600G** (4.4 GHz Turbo) - Integrated Graphics
+   - Price: **5,790 THB**
+
+2. **Motherboard**: 
+   - **ASUS TUF GAMING A620M-PLUS WIFI**
+   - Price: **3,290 THB**
+
+3. **RAM**: 
+   - **KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BBK2/16) 16GB (8GBx2) DDR4 3200MHz**
+   - Price: **1,550 THB**
+
+4. **Graphics Card**: 
+   - **ASUS DUAL RADEON RX 6600 V2 8GB GDDR6**
+   - Price: **7,550 THB**
+
+5. **Power Supply**: 
+   - **AEROCOOL AE550 - 550W 80 PLUS**
+   - Price: **1,490 THB**
+
+6. **Case**: 
+   - **Antec AX61 Elite**
+   - Price: **1,450 THB**
+
+7. **SSD**: 
+   - **HIKSEMI CITY E100 - 2.5" SATA3 (HS-SSD-E100-1024G) 1024 GB SSD**
+   - Price: **2,690 THB**
+
+### Total Cost:
+- **Total**: **15,000 THB**
+
+### Summary:
+- This configuration includes a capable CPU with integrated graphics, which is suitable for playing Roblox.
+- The graphics card is a solid choice for gaming, providing good performance.
+- The total cost is exactly at your budget limit.
+
+Would you like to proceed with this configuration, or do you have any adjustments or additional requests?
+2024-08-20 11:14:31 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-20 11:14:33 info: Complete Calculated this Total price : 23810
+2024-08-20 11:14:35 info: ________________________________________
+2024-08-20 11:14:35 info: Response summarized: Let's finalize a PC build with a dedicated GPU while ensuring the total cost stays under your budget of 30,000 THB. Here's a complete build with a suitable GPU:
+
+### Recommended PC Build:
+
+1. **CPU**: 
+   - **AMD RYZEN 3 3200G** (4 cores, 4 threads, integrated graphics)
+   - **Price**: 2,390 THB
+
+2. **Motherboard**: 
+   - **ASUS PRIME A520M-K** (Micro-ATX)
+   - **Price**: 1,920 THB
+
+3. **RAM**: 
+   - **APACER GOLDEN PANTHER RP-K2 (16GB, 8GBx2, DDR4 3200MHz)**
+   - **Price**: 1,390 THB
+
+4. **Storage**: 
+   - **WD BLUE - 7200RPM SATA3 (1 TB HDD)**
+   - **Price**: 1,740 THB
+
+5. **Power Supply**: 
+   - **AEROCOOL AE550 - 550W 80 PLUS**
+   - **Price**: 1,490 THB
+
+6. **Case**: 
+   - **AEROCOOL CS-107 (BLACK) (MICRO-ATX)**
+   - **Price**: 990 THB
+
+7. **CPU Cooler**: 
+   - **THERMALRIGHT PHANTOM SPIRIT 120 EVO (BLACK)**
+   - **Price**: 2,390 THB
+
+8. **GPU**: 
+   - **MSI Radeon RX 550 4GB GDDR5**
+   - **Price**: 4,500 THB
+
+### Total Cost:
+- **Total**: 16810 THB
+
+### Remaining Budget:
+- **Remaining Budget**: 30,000 THB - 16810 THB = 13,190 THB
+
+### Summary:
+This build is well within your budget and provides a solid performance for general use, light gaming, and multitasking. You still have a significant amount left in your budget for optional items like a monitor, keyboard, or mouse.
+
+Would you like to proceed with this build, or do you have any specific changes or additional components in mind? kubpom!
+2024-08-20 11:14:43 info: ________________________________________
+2024-08-20 11:14:43 info: Response summarized: Here's a revised gaming PC configuration that fits within your budget of 15,000 THB:
+
+### Revised Configuration:
+
+1. **CPU**: 
+   - **AMD RYZEN 5 5600G** (4.4 GHz Turbo) - Integrated Graphics
+   - Price: **5,790 THB**
+
+2. **Motherboard**: 
+   - **ASUS TUF GAMING A620M-PLUS WIFI**
+   - Price: **3,290 THB**
+
+3. **RAM**: 
+   - **KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BBK2/16) 16GB (8GBx2) DDR4 3200MHz**
+   - Price: **1,550 THB**
+
+4. **Graphics Card**: 
+   - **ASUS DUAL RADEON RX 6600 V2 8GB GDDR6**
+   - Price: **7,550 THB**
+
+5. **Power Supply**: 
+   - **AEROCOOL AE550 - 550W 80 PLUS**
+   - Price: **1,490 THB**
+
+6. **Case**: 
+   - **Antec AX61 Elite**
+   - Price: **1,450 THB**
+
+7. **SSD**: 
+   - **HIKSEMI CITY E100 - 2.5" SATA3 (HS-SSD-E100-1024G) 1024 GB SSD**
+   - Price: **2,690 THB**
+
+### Total Cost:
+- **Total**: **23810 THB**
+
+### Summary:
+- This configuration includes a capable CPU with integrated graphics, which is suitable for playing Roblox.
+- The graphics card is a solid choice for gaming, providing good performance.
+- The total cost is exactly at your budget limit.
+
+Would you like to proceed with this configuration, or do you have any adjustments or additional requests? kubpom!

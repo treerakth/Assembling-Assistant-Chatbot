@@ -1,0 +1,22 @@
+2024-10-07 15:56:25 info: Agent Initialized
+2024-10-07 15:57:18 info: Agent Initialized
+2024-10-07 15:58:15 info: Agent Initialized
+2024-10-07 15:59:04 info: Agent Initialized
+2024-10-07 15:59:24 info: Agent Initialized
+2024-10-07 16:00:00 info: Agent Initialized
+2024-10-07 16:00:09 info: Agent Initialized
+2024-10-07 16:00:48 info: Agent Initialized
+2024-10-07 16:01:07 info: Agent Initialized
+2024-10-07 16:03:40 info: Agent Initialized
+2024-10-07 16:06:33 info: Agent Initialized
+2024-10-07 16:07:03 info: Agent Initialized
+2024-10-07 16:07:34 info: Agent Initialized
+2024-10-07 16:12:04 info: Agent Initialized
+2024-10-07 16:13:00 info: Agent Initialized
+2024-10-07 16:13:17 info: Agent Initialized
+2024-10-07 16:13:44 info: LLM Tool Call: {"toolCall":{"id":"call_sEKAAzff552GBSlyw2QAYb9Y","name":"index_Premium","input":{"query":"Premium PC under 200,000"}}}
+2024-10-07 21:20:46 info: Agent Initialized
+2024-10-07 21:23:05 info: Agent Initialized
+2024-10-07 21:23:32 info: LLM Tool Call: {"toolCall":{"id":"call_jDAtsCLKIkIpUjL5bABxjW3E","name":"index_Gaming","input":{"query":"Gaming PC under 25000 baht"}}}
+2024-10-07 21:38:25 info: LLM Tool Call: {"toolCall":{"id":"call_1iIgCXRiDYQrXR4gNdjDYQ3A","name":"index_CPU","input":{"query":"Intel Core i7-12700F"}}}
+2024-10-07 21:38:28 info: LLM Tool Call: {"toolCall":{"id":"call_2bQb2SFrTwdt9G0tcMIodSY5","name":"index_CPU","input":{"query":"Intel Core i5-12600K"}}}

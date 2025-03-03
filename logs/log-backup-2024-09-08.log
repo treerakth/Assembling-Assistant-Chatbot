@@ -1,0 +1,2026 @@
+2024-09-08 16:40:28 info: ----------------------------------------
+2024-09-08 16:40:28 info: Server started and listening on port 8000
+2024-09-08 16:40:28 info: ----------------------------------------
+2024-09-08 17:00:39 info: Events received: []
+2024-09-08 17:01:10 info: Events received: [{"type":"message","message":{"type":"text","id":"525057007721119922","quoteToken":"Zob6o2G-f2vu0uy3BZGvYipntHxTv7K46b8UN-SKJTLEwjN9Efe3qOU_DIhOLJGI_uhEubRF3Tx79AO4kQwu1Q-g-r7QyRX3qF2kLatUv5Ek1RltIynbVwJvR2nVXY3wlsMvVQA3NZnUNoPHYgbUhQ","text":"Hi"},"webhookEventId":"01J78H91KWGJV1RSB70YV31PD6","deliveryContext":{"isRedelivery":false},"timestamp":1725789668480,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"bf4223464871428396eafd5265a76fb4","mode":"active"}]
+2024-09-08 17:01:11 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 17:01:11 info: Agent initialized successfully
+2024-09-08 17:01:11 info: User Agent Success load.
+2024-09-08 17:01:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:01:13 info: User input: Hi
+2024-09-08 17:01:13 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-08 17:01:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:01:13 info: responseText Success load.
+2024-09-08 17:01:15 info: This is Total price found : 0
+2024-09-08 17:01:15 info: my context is : no mention
+2024-09-08 17:01:15 info: ________________________________________
+2024-09-08 17:01:15 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻🔧
+2024-09-08 17:01:15 info: summaryResponse Success load.
+2024-09-08 17:53:28 info: 
+2024-09-08 17:53:30 info: ----------------------------------------
+2024-09-08 17:53:30 info: Server started and listening on port 8000
+2024-09-08 17:53:30 info: ----------------------------------------
+2024-09-08 17:53:34 info: Events received: [{"type":"message","message":{"type":"text","id":"525062282393944257","quoteToken":"zgwdbmBsHXBAXPf1sAu84XVKNjnmqN-_O7oCTLhWj3TLODEpiVRNVxpsymGPCr6aAWHcqtFRn-CRm5boaUzqg_ENvImJK2GrrGx6wL7U9N3F3ZSQwIkTRQ5NWP9yzYAT0CRjXMdRBNp_ZX6KL-cpcw","text":"Hi"},"webhookEventId":"01J78M8ZQPFZR3FK4M23HEFEM6","deliveryContext":{"isRedelivery":false},"timestamp":1725792812282,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"552bdab0722a404197db757ae558a848","mode":"active"}]
+2024-09-08 17:53:35 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 17:53:35 info: Agent initialized successfully
+2024-09-08 17:53:35 info: User Agent Success load.
+2024-09-08 17:53:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:53:37 info: User input: Hi
+2024-09-08 17:53:37 info: Response: Hello! How can I assist you today? If you're looking to assemble a PC or need help with components, just let me know! kubpom!
+2024-09-08 17:53:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:53:37 info: responseText Success load.
+2024-09-08 17:53:38 info: This is Total price found : 0
+2024-09-08 17:53:38 info: my context is : no mention
+2024-09-08 17:53:39 info: ________________________________________
+2024-09-08 17:53:39 info: Response summarized: Hello! How can I assist you today? If you're looking to assemble a PC or need help with components, just let me know! kubpom! 💻🖥️🔧
+2024-09-08 17:53:39 info: summaryResponse Success load.
+2024-09-08 17:54:13 info: Events received: [{"type":"message","message":{"type":"text","id":"525062348562760010","quoteToken":"CyJTbf45LNOdQZQsziOAJfLLI1CRIYlavldIFGPwF7qPJ6jrWfQbTpUjgiZpxCj4WHNW8aXrmtBgfz2tWjg6_du_RmWB03AziRGQfeXMyr9_2Hf0oohrMvBYHgB0yERiepFcClh-ddPibFRRI_oU0g","text":"I want PC"},"webhookEventId":"01J78MA5XA86DHW22249JJ2TE7","deliveryContext":{"isRedelivery":false},"timestamp":1725792851784,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ee6eb9a31d374808b84eef54a106fe7a","mode":"active"}]
+2024-09-08 17:54:14 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 17:54:14 info: User Agent Success load.
+2024-09-08 17:54:16 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:54:16 info: User input: I want PC
+2024-09-08 17:54:16 info: Response: What type of PC are you looking for? Here are some options:
+
+1. **Gaming PC**
+2. **General Use PC**
+3. **Workstation PC**
+4. **High-End PC**
+
+Please specify your preference, and let me know if you have any specific requirements or budget in mind! kubpom!
+2024-09-08 17:54:16 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:54:16 info: responseText Success load.
+2024-09-08 17:54:17 info: This is Total price found : 0
+2024-09-08 17:54:17 info: my context is : no mention
+2024-09-08 17:54:18 info: ________________________________________
+2024-09-08 17:54:18 info: Response summarized: What type of PC are you looking for? Here are some options:
+
+1. **Gaming PC**
+2. **General Use PC**
+3. **Workstation PC**
+4. **High-End PC**
+
+Please specify your preference, and let me know if you have any specific requirements or budget in mind! 💻🖥️🎮
+2024-09-08 17:54:18 info: summaryResponse Success load.
+2024-09-08 17:55:03 info: Events received: [{"type":"message","message":{"type":"text","id":"525062431140479186","quoteToken":"cLnBQ-YFr7JF4br66lGGrU4dYgJunOMnB78YEosjG_ka_GnHZU514u9v4APw4MK0C9gxWd6Y5WEdfbG7Od8xBGCpS28oT40Y2hiyXyWtcVz44PCBPL5g3qytEpk-z3mqVXrWiGVAX44vd9athzbvLQ","text":"First Choice"},"webhookEventId":"01J78MBP4ZVX06WDA6T3413BNK","deliveryContext":{"isRedelivery":false},"timestamp":1725792901124,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"367d514f41ce49a0b6864360407eccac","mode":"active"}]
+2024-09-08 17:55:03 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 17:55:03 info: User Agent Success load.
+2024-09-08 17:55:04 info: ****************************************
+2024-09-08 17:55:04 info: Query Detection: assemble specs
+2024-09-08 17:55:04 info: Tool Call: {
+  "id": "call_4BRIFtpujGh4TV5mRlrq4tB6",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "assemble specs"
+  }
+}
+2024-09-08 17:55:04 info: ****************************************
+2024-09-08 17:55:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:55:28 info: User input: First Choice
+2024-09-08 17:55:28 info: Response: Here are some gaming PC options for you:
+
+1. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz (SOCKET LGA 1700)
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700) (MICRO-ATX)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX (BLACK) 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+2. **COMPUTERSET JIB MARU-2407006**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz (SOCKET LGA 1700)
+   - **Motherboard**: MSI PRO H610M-E DDR4 (SOCKET LGA 1700) (MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX (BLACK) 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: MONTECH X2 MESH (BLACK)
+   - **Total Price**: 24,000 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700)
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB SSD
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+4. **COMPUTERSET JIB MARU-2407009**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700)
+   - **Motherboard**: GIGABYTE B760M DS3H (REV. 1.0) (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+   - **GPU**: GIGABYTE GEFORCE RTX 4060 TI GAMING OC 8G - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB SSD
+   - **PSU**: GIGABYTE P650B - 650W 80 PLUS BRONZE
+   - **CASE**: COUGAR PURITY RGB (WHITE)
+   - **Total Price**: 33,640 THB
+
+5. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz (SOCKET 1700)
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+Please let me know if you would like more information on any specific model or if you have any other preferences! kubpom!
+2024-09-08 17:55:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:55:28 info: responseText Success load.
+2024-09-08 17:55:29 info: This is Total price found : 0
+2024-09-08 17:55:29 info: my context is : assemble specs
+2024-09-08 17:55:38 info: ________________________________________
+2024-09-08 17:55:38 info: Response summarized: Here are some gaming PC options for you:
+
+1. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz (SOCKET LGA 1700)
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700) (MICRO-ATX)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX (BLACK) 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+2. **COMPUTERSET JIB MARU-2407006**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz (SOCKET LGA 1700)
+   - **Motherboard**: MSI PRO H610M-E DDR4 (SOCKET LGA 1700) (MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX (BLACK) 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: MONTECH X2 MESH (BLACK)
+   - **Total Price**: 24,000 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700)
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB SSD
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+4. **COMPUTERSET JIB MARU-2407009**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700)
+   - **Motherboard**: GIGABYTE B760M DS3H (REV. 1.0) (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+   - **GPU**: GIGABYTE GEFORCE RTX 4060 TI GAMING OC 8G - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB SSD
+   - **PSU**: GIGABYTE P650B - 650W 80 PLUS BRONZE
+   - **CASE**: COUGAR PURITY RGB (WHITE)
+   - **Total Price**: 33,640 THB
+
+5. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz (SOCKET 1700)
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+Please let me know if you would like more information on any specific model or if you have any other preferences! kubpom! 💻🎮🖥️
+2024-09-08 17:55:38 info: summaryResponse Success load.
+2024-09-08 17:56:14 info: Events received: [{"type":"message","message":{"type":"text","id":"525062550544187681","quoteToken":"gLyswd6MSQHngcqY8NT2z-0E_n_hNaYZ6ls-YFoIpwscIw1tRizFIv-6knlyLum_bwjWhnp1zJhbWzPqyN6ZyJAFgGOTY_C3MR-eMXmFB81YoEkjtnCzR7XHWl1ucRs1ouVSzD6xkWTXvoJin92Rww","text":"I pickup 5th choice."},"webhookEventId":"01J78MDVCRCWBQ4G3R3AY6XHP6","deliveryContext":{"isRedelivery":false},"timestamp":1725792972114,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6d915ef3b30d44c38c98a4701c1892cc","mode":"active"}]
+2024-09-08 17:56:14 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 17:56:14 info: User Agent Success load.
+2024-09-08 17:56:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:56:17 info: User input: I pickup 5th choice.
+2024-09-08 17:56:17 info: Response: Great choice! You've selected the **COMPUTERSET JIB MARU-2407013**. Here are the details:
+
+- **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz (SOCKET 1700)
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+- **SSD**: HIKSEMI FUTURE - 512 GB SSD
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 35,600 THB
+
+Would you like to proceed with the purchase, or do you need any additional information or assistance? kubpom!
+2024-09-08 17:56:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:56:17 info: responseText Success load.
+2024-09-08 17:56:18 info: This is Total price found : 0
+2024-09-08 17:56:18 info: my context is : no mention
+2024-09-08 17:56:20 info: ________________________________________
+2024-09-08 17:56:20 info: Response summarized: Great choice! You've selected the **COMPUTERSET JIB MARU-2407013**. Here are the details:
+
+- **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz (SOCKET 1700)
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+- **SSD**: HIKSEMI FUTURE - 512 GB SSD
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 35,600 THB
+
+Would you like to proceed with the purchase, or do you need any additional information or assistance? 💻🖥️✨
+2024-09-08 17:56:20 info: summaryResponse Success load.
+2024-09-08 17:56:41 info: Events received: [{"type":"message","message":{"type":"text","id":"525062595758260474","quoteToken":"cqBx3PP6FI5mTzXBuC6jXgshw5E11vRr6ac6Gls_jYpeWbSgTyZkuivehy9z9bQeGKcNhBIJ6yHnK3Y_OyiF7Zh_OymuYaqPMKoIg6A5DDIpq3xKECQ-AUZSxPsVGsGxtkOPbIdTGFHdTjCuaeg9KQ","text":"can more detail a price hardware."},"webhookEventId":"01J78MEP1F4ZMNQBNQ0AYDKHKA","deliveryContext":{"isRedelivery":false},"timestamp":1725792999079,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7fc0724b75334887ba75313c1953e2dc","mode":"active"}]
+2024-09-08 17:56:41 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 17:56:41 info: User Agent Success load.
+2024-09-08 17:56:45 info: ****************************************
+2024-09-08 17:56:45 info: Query Detection: INTEL CORE I5-14400F
+2024-09-08 17:56:45 info: Tool Call: {
+  "id": "call_Gzbr2TkaKX6GBSZGEER95nJZ",
+  "name": "vector_index_Hardware_-_CPU_-_CPU",
+  "input": {
+    "query": "INTEL CORE I5-14400F"
+  }
+}
+2024-09-08 17:56:45 info: ****************************************
+2024-09-08 17:56:47 info: ****************************************
+2024-09-08 17:56:47 info: Query Detection: MSI B760M GAMING PLUS WIFI
+2024-09-08 17:56:47 info: Tool Call: {
+  "id": "call_kBPPBWwG9QzpxIRCj0hb3Ure",
+  "name": "vector_index_Hardware_-_Motherboard_-_MSI",
+  "input": {
+    "query": "MSI B760M GAMING PLUS WIFI"
+  }
+}
+2024-09-08 17:56:47 info: ****************************************
+2024-09-08 17:56:54 info: ****************************************
+2024-09-08 17:56:54 info: Query Detection: GALAX GEFORCE RTX 4060 TI 8GB EX
+2024-09-08 17:56:54 info: Tool Call: {
+  "id": "call_XmegWgyRMqOQUq3CU3lcOnFV",
+  "name": "vector_index_Hardware_-_Graphic_card_-_GALAX",
+  "input": {
+    "query": "GALAX GEFORCE RTX 4060 TI 8GB EX"
+  }
+}
+2024-09-08 17:56:54 info: ****************************************
+2024-09-08 17:56:56 info: ****************************************
+2024-09-08 17:56:56 info: Query Detection: CORSAIR VENGEANCE DDR5 16GB
+2024-09-08 17:56:56 info: Tool Call: {
+  "id": "call_Df8Lcz9OVj79mc3uAxxCBjzu",
+  "name": "vector_index_Hardware_-_RAM_-_RAM",
+  "input": {
+    "query": "CORSAIR VENGEANCE DDR5 16GB"
+  }
+}
+2024-09-08 17:56:56 info: ****************************************
+2024-09-08 17:57:00 info: ****************************************
+2024-09-08 17:57:00 info: Query Detection: HIKSEMI FUTURE - 512 GB SSD
+2024-09-08 17:57:00 info: Tool Call: {
+  "id": "call_AOXgphlwKBTErHpz6sU3jjt4",
+  "name": "vector_index_Hardware_-_Solid_State_Drive_-_SSD",
+  "input": {
+    "query": "HIKSEMI FUTURE - 512 GB SSD"
+  }
+}
+2024-09-08 17:57:00 info: ****************************************
+2024-09-08 17:57:03 info: ****************************************
+2024-09-08 17:57:03 info: Query Detection: THERMALTAKE SMART BX1 650W
+2024-09-08 17:57:03 info: Tool Call: {
+  "id": "call_JB8PY0VHhEBavrrECYBo5e0k",
+  "name": "vector_index_Hardware_-_Power_Supply_-_Power_Supply",
+  "input": {
+    "query": "THERMALTAKE SMART BX1 650W"
+  }
+}
+2024-09-08 17:57:03 info: ****************************************
+2024-09-08 17:57:07 info: ****************************************
+2024-09-08 17:57:07 info: Query Detection: GALAX REVOLUTION 06
+2024-09-08 17:57:07 info: Tool Call: {
+  "id": "call_EWEg44RKHglQf4LFI5jw1qCD",
+  "name": "vector_index_Hardware_-_Case_-_GALAX",
+  "input": {
+    "query": "GALAX REVOLUTION 06"
+  }
+}
+2024-09-08 17:57:07 info: ****************************************
+2024-09-08 17:57:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:57:17 info: User input: can more detail a price hardware.
+2024-09-08 17:57:17 info: Response: Here are the detailed prices for each hardware component of your selected gaming PC:
+
+1. **CPU: INTEL CORE I5-14400F**
+   - **Price**: 7,890 THB
+   - **Socket**: LGA 1700 (14th Gen - Raptor Lake Refresh)
+   - **TDP**: 65 W
+   - **Integrated Graphics**: No
+
+2. **Motherboard: MSI B760M GAMING PLUS WIFI**
+   - **Price**: 4,790 THB
+   - **Socket**: LGA 1700
+   - **Memory Type**: DDR5
+   - **Maximum Memory Capacity**: 192 GB
+   - **Form Factor**: Micro-ATX
+
+3. **GPU: GALAX GEFORCE RTX 4060 TI 8GB EX**
+   - **Price**: 14,900 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Requirement**: 550 W
+
+4. **RAM: CORSAIR VENGEANCE DDR5 16GB (8GBx2)**
+   - **Options**:
+     - **Speed**: 5200 MHz - **Price**: 2,390 THB
+     - **Speed**: 5600 MHz - **Price**: 4,290 THB
+   - (Choose one based on your preference)
+
+5. **SSD: HIKSEMI FUTURE - 512 GB**
+   - **Price**: 1,890 THB
+   - **Type**: M.2 Solid State Drive (SSD)
+
+6. **Power Supply: THERMALTAKE SMART BX1 650W**
+   - **Price**: 2,500 THB
+   - **Certification**: 80 Plus Bronze
+
+7. **Case: GALAX REVOLUTION 06 (BLACK)**
+   - **Price**: 1,750 THB
+   - **Cooling**: Includes three pre-installed 120 mm RGB fans
+
+### Total Price Calculation
+- **CPU**: 7,890 THB
+- **Motherboard**: 4,790 THB
+- **GPU**: 14,900 THB
+- **RAM**: (Choose one option)
+  - 5200 MHz: 2,390 THB
+  - 5600 MHz: 4,290 THB
+- **SSD**: 1,890 THB
+- **Power Supply**: 2,500 THB
+- **Case**: 1,750 THB
+
+Please let me know which RAM speed you prefer, and I can calculate the total price for you! kubpom!
+2024-09-08 17:57:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:57:17 info: responseText Success load.
+2024-09-08 17:57:18 info: This is Total price found : 36110
+2024-09-08 17:57:18 info: my context is : GALAX REVOLUTION 06
+2024-09-08 17:57:21 info: ________________________________________
+2024-09-08 17:57:21 info: Response summarized: Here are the detailed prices for each hardware component of your selected gaming PC:
+
+1. **CPU: INTEL CORE I5-14400F**
+   - **Price**: 7,890 THB
+   - **Socket**: LGA 1700 (14th Gen - Raptor Lake Refresh)
+   - **TDP**: 65 W
+   - **Integrated Graphics**: No
+
+2. **Motherboard: MSI B760M GAMING PLUS WIFI**
+   - **Price**: 4,790 THB
+   - **Socket**: LGA 1700
+   - **Memory Type**: DDR5
+   - **Maximum Memory Capacity**: 192 GB
+   - **Form Factor**: Micro-ATX
+
+3. **GPU: GALAX GEFORCE RTX 4060 TI 8GB EX**
+   - **Price**: 14,900 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Requirement**: 550 W
+
+4. **RAM: CORSAIR VENGEANCE DDR5 16GB (8GBx2)**
+   - **Options**:
+     - **Speed**: 5200 MHz - **Price**: 2,390 THB
+     - **Speed**: 5600 MHz - **Price**: 4,290 THB
+   - (Choose one based on your preference)
+
+5. **SSD: HIKSEMI FUTURE - 512 GB**
+   - **Price**: 1,890 THB
+   - **Type**: M.2 Solid State Drive (SSD)
+
+6. **Power Supply: THERMALTAKE SMART BX1 650W**
+   - **Price**: 2,500 THB
+   - **Certification**: 80 Plus Bronze
+
+7. **Case: GALAX REVOLUTION 06 (BLACK)**
+   - **Price**: 1,750 THB
+
+Please let me know which RAM speed you prefer, and I can calculate the total price for you! 💻🖥️🎮
+2024-09-08 17:57:21 info: summaryResponse Success load.
+2024-09-08 17:58:08 info: Events received: [{"type":"message","message":{"type":"text","id":"525062741301133729","quoteToken":"GxfjfNECtz0zH2hWRXjJOSQy-4FtCN66f4K8RdMhg_R1c-LafvlbzmJIhvGs3kVwxat94069poctJ4Hf54DyvYTeO4u1xEtHhW2azpGPNMXlrJOFT6LXgyGHo3v115-bPNVsh6H1B7_gFYSXj35esQ","text":"Select recommend ram compatible worked."},"webhookEventId":"01J78MHAVQD3K2WR46GM5BF74Z","deliveryContext":{"isRedelivery":false},"timestamp":1725793085818,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c30b277682ce4e15bfc5cc39e63e2ff8","mode":"active"}]
+2024-09-08 17:58:08 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 17:58:08 info: User Agent Success load.
+2024-09-08 17:58:12 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:58:12 info: User input: Select recommend ram compatible worked.
+2024-09-08 17:58:12 info: Response: I recommend the **CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40)** with a speed of **5200 MHz**. This RAM is compatible with the MSI B760M GAMING PLUS WIFI motherboard and offers a good balance of performance and price.
+
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2)
+- **Speed**: 5200 MHz
+- **Price**: 2,390 THB
+
+### Total Price Calculation
+Now, let's calculate the total price with the selected RAM:
+
+1. **CPU**: 7,890 THB
+2. **Motherboard**: 4,790 THB
+3. **GPU**: 14,900 THB
+4. **RAM**: 2,390 THB
+5. **SSD**: 1,890 THB
+6. **Power Supply**: 2,500 THB
+7. **Case**: 1,750 THB
+
+### Total Price
+- **Total**: 35,140 THB
+
+Would you like to proceed with this configuration, or do you need any further assistance? kubpom!
+2024-09-08 17:58:12 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:58:12 info: responseText Success load.
+2024-09-08 17:58:13 info: This is Total price found : 36110
+2024-09-08 17:58:13 info: my context is : no mention
+2024-09-08 17:58:14 info: ________________________________________
+2024-09-08 17:58:14 info: Response summarized: I recommend the **CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40)** with a speed of **5200 MHz**. This RAM is compatible with the MSI B760M GAMING PLUS WIFI motherboard and offers a good balance of performance and price.
+
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2)
+- **Speed**: 5200 MHz
+- **Price**: 2,390 THB
+
+Would you like to proceed with this configuration, or do you need any further assistance? 💻🔧✨
+2024-09-08 17:58:14 info: summaryResponse Success load.
+2024-09-08 17:58:33 info: Events received: [{"type":"message","message":{"type":"text","id":"525062783344836835","quoteToken":"PFRedPIvSASIL1DxpaByHNbFCpV33cnKjsET9bH3lgC4-HgAublFtOyMY_5LMXYajSRZvPhCC9fOzLgSytEkTZgLNc1bcD2h7t1HfmY2svx19ZiIkQrbdPL66nJd3bBm8106alifXLRlfBWuak4gcA","text":"ok i choose you selected."},"webhookEventId":"01J78MJ35MYFF31CV9YAW52D2N","deliveryContext":{"isRedelivery":false},"timestamp":1725793110994,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a1a346e726034edc9da8b9e37d5ed722","mode":"active"}]
+2024-09-08 17:58:33 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 17:58:33 info: User Agent Success load.
+2024-09-08 17:58:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:58:38 info: User input: ok i choose you selected.
+2024-09-08 17:58:38 info: Response: Great! You've selected the following configuration for your gaming PC:
+
+1. **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz (SOCKET 1700) - 7,890 THB
+2. **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX) - 4,790 THB
+3. **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 14,900 THB
+4. **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200 MHz - 2,390 THB
+5. **SSD**: HIKSEMI FUTURE - 512 GB - 1,890 THB
+6. **Power Supply**: THERMALTAKE SMART BX1 650W - 2,500 THB
+7. **Case**: GALAX REVOLUTION 06 (BLACK) - 1,750 THB
+
+### Total Price: 35,140 THB
+
+Would you like to proceed with the purchase, or do you need any additional information or assistance? kubpom!
+2024-09-08 17:58:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 17:58:38 info: responseText Success load.
+2024-09-08 17:58:39 info: This is Total price found : 36110
+2024-09-08 17:58:39 info: my context is : no mention
+2024-09-08 17:58:41 info: ________________________________________
+2024-09-08 17:58:41 info: Response summarized: Great! You've selected the following configuration for your gaming PC:
+
+1. **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz (SOCKET 1700) - 7,890 THB
+2. **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX) - 4,790 THB
+3. **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 14,900 THB
+4. **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200 MHz - 2,390 THB
+5. **SSD**: HIKSEMI FUTURE - 512 GB - 1,890 THB
+6. **Power Supply**: THERMALTAKE SMART BX1 650W - 2,500 THB
+7. **Case**: GALAX REVOLUTION 06 (BLACK) - 1,750 THB
+
+### Total Price: 35,140 THB
+
+Would you like to proceed with the purchase, or do you need any additional information or assistance? 💻🖥️🎮
+2024-09-08 17:58:41 info: summaryResponse Success load.
+2024-09-08 18:06:44 info: 
+2024-09-08 18:06:49 info: ----------------------------------------
+2024-09-08 18:06:49 info: Server started and listening on port 8000
+2024-09-08 18:06:49 info: ----------------------------------------
+2024-09-08 18:07:02 info: Events received: [{"type":"message","message":{"type":"text","id":"525063637909111041","quoteToken":"UCBjAE1-5bQAa-3WHM-UGX2ARTN7W1TUjoHZUigssfXD11wM-1iuNBy2MUYIhQYnwI3B8wWjbn236_thCam01FA_iSTgSdjScFrwGF14PuHav-kbGwlD82FUGMffaud_rpkdbuS4zuqGD8qh3kMv0A","text":"Hi"},"webhookEventId":"01J78N1MCW0E2DA6K0XQQCSK0N","deliveryContext":{"isRedelivery":false},"timestamp":1725793620234,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c827bd4a001b4c3eb2ad749eef1d16b1","mode":"active"}]
+2024-09-08 18:07:02 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:07:02 info: Agent initialized successfully
+2024-09-08 18:07:02 info: User Agent Success load.
+2024-09-08 18:07:03 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:07:03 info: User input: Hi
+2024-09-08 18:07:03 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-08 18:07:03 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:07:03 info: responseText Success load.
+2024-09-08 18:07:04 info: This is Total price found : 0
+2024-09-08 18:07:04 info: my context is : no mention
+2024-09-08 18:07:05 info: ________________________________________
+2024-09-08 18:07:05 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻🔧
+2024-09-08 18:07:05 info: summaryResponse Success load.
+2024-09-08 18:10:18 info: Events received: [{"type":"message","message":{"type":"text","id":"525063966155341953","quoteToken":"HhzyvBMQmD72QtvZynTJJ6k7Ug0HpZYQUKwKI9DkNFhRi_og3RfLNraIBIwur8asEgTpUYHj92NIwIK4uPgkmVCvjhlEXkmwRo6argmxOC2ruaYhPiof1qP_qFqGzrWr6ZVALwAhXeOx9XmvyShbeA","text":"I want PC"},"webhookEventId":"01J78N7KT4Y2GNA78G14WXBEH2","deliveryContext":{"isRedelivery":false},"timestamp":1725793815882,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"11fd71ee10364da287e6f9b07f7525b6","mode":"active"}]
+2024-09-08 18:10:18 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:10:18 info: User Agent Success load.
+2024-09-08 18:10:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:10:21 info: User input: I want PC
+2024-09-08 18:10:21 info: Response: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-08 18:10:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:10:21 info: responseText Success load.
+2024-09-08 18:10:22 info: This is Total price found : 0
+2024-09-08 18:10:22 info: my context is : no mention
+2024-09-08 18:10:23 info: ________________________________________
+2024-09-08 18:10:23 info: Response summarized: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! 💻🖥️✨
+2024-09-08 18:10:23 info: summaryResponse Success load.
+2024-09-08 18:10:31 info: Events received: [{"type":"message","message":{"type":"text","id":"525063988334821538","quoteToken":"w8I4ri34noeZzqhTqHsx1lF_3CSxzzkdaTdZx-wNxzYNUqkyOjf3lktOmzWXtCHU_JtON1KYRXb8ISqcX3jHs-1Htuq-30UHpEbRZZVvxF8odxKZic_Lxvmdf_SROyFrRPBHNryiPK_aOn9iiJBLVQ","text":"can recommend."},"webhookEventId":"01J78N80X34Z1HP8GGWNEVS0M0","deliveryContext":{"isRedelivery":false},"timestamp":1725793829286,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c10696d97311448d81d20a93842f5989","mode":"active"}]
+2024-09-08 18:10:32 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:10:32 info: User Agent Success load.
+2024-09-08 18:10:34 info: ****************************************
+2024-09-08 18:10:34 info: Query Detection: recommend
+2024-09-08 18:10:34 info: Tool Call: {
+  "id": "call_ZBOaJg88RSsL9ywlaHHm5QSO",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "recommend"
+  }
+}
+2024-09-08 18:10:34 info: ****************************************
+2024-09-08 18:10:38 info: ****************************************
+2024-09-08 18:10:38 info: Query Detection: recommend
+2024-09-08 18:10:38 info: Tool Call: {
+  "id": "call_ccHSXE8Kjc9iCabAT290IztJ",
+  "name": "vector_index_Type_PC_-_Type_General_Use_-_Computer_Set",
+  "input": {
+    "query": "recommend"
+  }
+}
+2024-09-08 18:10:38 info: ****************************************
+2024-09-08 18:10:43 info: ****************************************
+2024-09-08 18:10:43 info: Query Detection: recommend
+2024-09-08 18:10:43 info: Tool Call: {
+  "id": "call_cuJFzUh6Ql2oWtltZRHNzaoY",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "recommend"
+  }
+}
+2024-09-08 18:10:43 info: ****************************************
+2024-09-08 18:10:47 info: ****************************************
+2024-09-08 18:10:47 info: Query Detection: recommend
+2024-09-08 18:10:47 info: Tool Call: {
+  "id": "call_o2K8ahvAHS1WquHfEjgzVJFU",
+  "name": "vector_index_Type_PC_-_Type_Hi-End_-_Computer_Set",
+  "input": {
+    "query": "recommend"
+  }
+}
+2024-09-08 18:10:47 info: ****************************************
+2024-09-08 18:10:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:10:58 info: User input: can recommend.
+2024-09-08 18:10:58 info: Response: Here are some recommendations for different types of PCs based on your needs:
+
+### Gaming Performance
+1. **COMPUTERSET JIB MARU-2407009**
+   - **CPU**: Intel Core i5-13400F
+   - **GPU**: Gigabyte GeForce RTX 4060 Ti Gaming OC 8G
+   - **Total Price**: 33,640 THB
+   - Great for gaming at high settings.
+
+2. **COMPUTERSET JIB MARU-2407006**
+   - **CPU**: Intel Core i5-12400F
+   - **GPU**: Galax GeForce RTX 4060
+   - **Total Price**: 24,000 THB
+   - A balanced option for performance and price.
+
+3. **COMPUTERSET JIB MARU-2408016**
+   - **CPU**: AMD Ryzen 5 4500
+   - **GPU**: ASUS Dual GeForce GTX 1650
+   - **Total Price**: 14,640 THB
+   - Suitable for casual gaming and general use.
+
+### General Use
+1. **Budget-Friendly Option**
+   - **COMPUTERSET JIB MARU-2408009**
+     - **Total Price**: 8,200 THB
+     - **CPU**: AMD RYZEN 3 3200G 3.6 GHz
+     - **RAM**: 8GB DDR4
+     - **SSD**: 250 GB
+     - Good for basic tasks like web browsing and office applications.
+
+2. **Mid-Range Performance**
+   - **COMPUTERSET JIB MARU-2408010**
+     - **Total Price**: 12,230 THB
+     - **CPU**: AMD RYZEN 5 5600G 3.9 GHz
+     - **RAM**: 16GB DDR4
+     - **SSD**: 500 GB
+     - Great for multitasking and moderate gaming.
+
+### High-End Performance
+1. **COMPUTERSET JIB MARU-2408100**
+   - **CPU**: INTEL CORE I9-14900K
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 FORMULA
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090
+   - **RAM**: 96GB DDR5
+   - **Total Price**: 203,270 THB
+   - Top-tier performance for gaming and demanding applications.
+
+2. **COMPUTERSET JIB MARU-2408101**
+   - **CPU**: INTEL CORE I9-14900K
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 DARK HERO
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090
+   - **RAM**: 96GB DDR5
+   - **Total Price**: 199,070 THB
+   - Excellent performance for gaming and productivity.
+
+Choose based on your specific needs, whether it's gaming, general use, or high-end performance! If you need further assistance or specific components, feel free to ask! kubpom!
+2024-09-08 18:10:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:10:58 info: responseText Success load.
+2024-09-08 18:10:59 info: This is Total price found : 0
+2024-09-08 18:10:59 info: my context is : recommend
+2024-09-08 18:11:04 info: ________________________________________
+2024-09-08 18:11:04 info: Response summarized: Here are some recommendations for different types of PCs based on your needs:
+
+### Gaming Performance
+1. **COMPUTERSET JIB MARU-2407009**
+   - **CPU**: Intel Core i5-13400F
+   - **GPU**: Gigabyte GeForce RTX 4060 Ti Gaming OC 8G
+   - **Total Price**: 33,640 THB
+   - Great for gaming at high settings.
+
+2. **COMPUTERSET JIB MARU-2407006**
+   - **CPU**: Intel Core i5-12400F
+   - **GPU**: Galax GeForce RTX 4060
+   - **Total Price**: 24,000 THB
+   - A balanced option for performance and price.
+
+3. **COMPUTERSET JIB MARU-2408016**
+   - **CPU**: AMD Ryzen 5 4500
+   - **GPU**: ASUS Dual GeForce GTX 1650
+   - **Total Price**: 14,640 THB
+   - Suitable for casual gaming and general use.
+
+### General Use
+1. **Budget-Friendly Option**
+   - **COMPUTERSET JIB MARU-2408009**
+     - **Total Price**: 8,200 THB
+     - **CPU**: AMD RYZEN 3 3200G 3.6 GHz
+     - **RAM**: 8GB DDR4
+     - **SSD**: 250 GB
+     - Good for basic tasks like web browsing and office applications.
+
+2. **Mid-Range Performance**
+   - **COMPUTERSET JIB MARU-2408010**
+     - **Total Price**: 12,230 THB
+     - **CPU**: AMD RYZEN 5 5600G 3.9 GHz
+     - **RAM**: 16GB DDR4
+     - **SSD**: 500 GB
+     - Great for multitasking and moderate gaming.
+
+### High-End Performance
+1. **COMPUTERSET JIB MARU-2408100**
+   - **CPU**: INTEL CORE I9-14900K
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 FORMULA
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090
+   - **RAM**: 96GB DDR5
+   - **Total Price**: 203,270 THB
+   - Top-tier performance for gaming and demanding applications.
+
+2. **COMPUTERSET JIB MARU-2408101**
+   - **CPU**: INTEL CORE I9-14900K
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 DARK HERO
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090
+   - **RAM**: 96GB DDR5
+   - **Total Price**: 199,070 THB
+   - Excellent performance for gaming and productivity.
+
+Choose based on your specific needs, whether it's gaming, general use, or high-end performance! If you need further assistance or specific components, feel free to ask! 💻🎮🖥️
+2024-09-08 18:11:04 info: summaryResponse Success load.
+2024-09-08 18:11:17 info: 
+2024-09-08 18:13:03 info: ----------------------------------------
+2024-09-08 18:13:03 info: Server started and listening on port 8000
+2024-09-08 18:13:03 info: ----------------------------------------
+2024-09-08 18:13:07 info: Events received: [{"type":"message","message":{"type":"text","id":"525064250696925185","quoteToken":"W-jgn3vYkyjYX_aluYegzxHC-q3Am2R4tnDCy-J8Hlbs7tktgOAwypYJ5iF_Ms0_EIZCNqDilIpr5E9TjRuIafWZoPX7FJH365KtAWVr20yOmOO-Ypx9Yxu2ZaY38kKD9jslXBtL7VPiYBQlvkYGHQ","text":"Hi"},"webhookEventId":"01J78NCSE3EE102R4N6K6FZCVX","deliveryContext":{"isRedelivery":false},"timestamp":1725793985480,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"99a4352e2f4645c0bd049c08cf9f20ed","mode":"active"}]
+2024-09-08 18:13:08 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:13:08 info: Agent initialized successfully
+2024-09-08 18:13:08 info: User Agent Success load.
+2024-09-08 18:13:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:13:11 info: User input: Hi
+2024-09-08 18:13:11 info: Response: Hello! How can I assist you today? If you have any questions about assembling a PC or need help with specifications, feel free to ask! kubpom!
+2024-09-08 18:13:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:13:11 info: responseText Success load.
+2024-09-08 18:13:11 info: This is Total price found : 0
+2024-09-08 18:13:11 info: my context is : no mention
+2024-09-08 18:13:12 info: ________________________________________
+2024-09-08 18:13:12 info: Response summarized: Hello! How can I assist you today? If you have any questions about assembling a PC or need help with specifications, feel free to ask! kubpom! 💻🖥️🔧
+2024-09-08 18:13:12 info: summaryResponse Success load.
+2024-09-08 18:13:15 info: Events received: [{"type":"message","message":{"type":"text","id":"525064264085143825","quoteToken":"mr3NkLqsK3hGJ7IRfltEdkOrADwaB1fLx7IENbj84pJzRdQrjh7zzCjake3QJ0qtYndkhA0FdFO-rQWiOvkbrUsboFdPNQRX6cIvL3c-Gw1KtJc8yYjS7Vcsmm2WSro95496YVgVHIuxNQvwmqUXDg","text":"I want PC"},"webhookEventId":"01J78ND1235D698S6MNV5VEQFV","deliveryContext":{"isRedelivery":false},"timestamp":1725793993466,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c8823b1b57654699b84eb2d22e3ad8de","mode":"active"}]
+2024-09-08 18:13:15 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:13:15 info: User Agent Success load.
+2024-09-08 18:13:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:13:17 info: User input: I want PC
+2024-09-08 18:13:17 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences and any specific requirements you have! kubpom!
+2024-09-08 18:13:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:13:17 info: responseText Success load.
+2024-09-08 18:13:18 info: This is Total price found : 0
+2024-09-08 18:13:18 info: my context is : no mention
+2024-09-08 18:13:19 info: ________________________________________
+2024-09-08 18:13:19 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences and any specific requirements you have! kubpom! 💻🖥️✨
+2024-09-08 18:13:19 info: summaryResponse Success load.
+2024-09-08 18:15:26 info: 
+2024-09-08 18:15:29 info: ----------------------------------------
+2024-09-08 18:15:29 info: Server started and listening on port 8000
+2024-09-08 18:15:29 info: ----------------------------------------
+2024-09-08 18:15:37 info: Events received: [{"type":"message","message":{"type":"text","id":"525064501382086881","quoteToken":"Qh1gDhWZQnNBe5zgHz44ALZO4IaeKRFPTskdR_yXufRZbF0__o-UEWMp65XROgP7fGSfPbAhZ_TaHANANL1jNor_MTlVXuw7_rUcSGgH00U9x1StBLswx1lR8DOQC3Zovp_YJu5PWlpOMb_2SKcylA","text":"Hi"},"webhookEventId":"01J78NHAZ4NY2AHHXD7Z247BA5","deliveryContext":{"isRedelivery":false},"timestamp":1725794134902,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d3b80e7505264cfb94f1858b465c36cc","mode":"active"}]
+2024-09-08 18:15:37 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:15:37 info: Agent initialized successfully
+2024-09-08 18:15:37 info: User Agent Success load.
+2024-09-08 18:15:39 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:15:39 info: User input: Hi
+2024-09-08 18:15:39 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-08 18:15:39 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:15:39 info: responseText Success load.
+2024-09-08 18:15:40 info: This is Total price found : 0
+2024-09-08 18:15:40 info: my context is : no mention
+2024-09-08 18:15:41 info: ________________________________________
+2024-09-08 18:15:41 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻✨
+2024-09-08 18:15:41 info: summaryResponse Success load.
+2024-09-08 18:15:44 info: Events received: [{"type":"message","message":{"type":"text","id":"525064513712816534","quoteToken":"7_j5DY17yh4qAX_EijRDv0yIfXmYcITZJNEEvlNdLphZAor-9vBVuhg-33Y264guAu0yYJKo75Eax_5oNkjCJHkc2KJZSx3Np02GrKg1eYcZ5Vtw5njFqSVRJa28-FIowSnVY_lyobRxm8F6QSVQWw","text":"I want PC"},"webhookEventId":"01J78NHJPKDWHK71VHH24T5KEB","deliveryContext":{"isRedelivery":false},"timestamp":1725794142422,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"8cb729a8cda84c19a7afe96119a2d5a1","mode":"active"}]
+2024-09-08 18:15:45 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:15:45 info: User Agent Success load.
+2024-09-08 18:15:46 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:15:46 info: User input: I want PC
+2024-09-08 18:15:46 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-08 18:15:46 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:15:46 info: responseText Success load.
+2024-09-08 18:15:47 info: This is Total price found : 0
+2024-09-08 18:15:47 info: my context is : no mention
+2024-09-08 18:15:48 info: ________________________________________
+2024-09-08 18:15:48 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general use PC, a workstation PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom! 💻🖥️✨
+2024-09-08 18:15:48 info: summaryResponse Success load.
+2024-09-08 18:16:18 info: 
+2024-09-08 18:16:20 info: ----------------------------------------
+2024-09-08 18:16:20 info: Server started and listening on port 8000
+2024-09-08 18:16:20 info: ----------------------------------------
+2024-09-08 18:16:24 info: Events received: [{"type":"message","message":{"type":"text","id":"525064581644288145","quoteToken":"sY2e4sUra-kVzJMlmtz2e8rYs8_Na6bZwlRxrfnlKxpdnkMkQocaVgWnGuDZzKP3oB9VaTPsyuc_gs3MKpatPrGao4CGR2N_BpJgdJh8LraAreImXvoysBTQzkShgSNBqtsScK3idQTVonotupW91w","text":"Hi"},"webhookEventId":"01J78NJSRA4B06HH31CJCS6ZRK","deliveryContext":{"isRedelivery":false},"timestamp":1725794182742,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a9359db0ba26470abc358675f38f7786","mode":"active"}]
+2024-09-08 18:16:25 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:16:25 info: Agent initialized successfully
+2024-09-08 18:16:25 info: User Agent Success load.
+2024-09-08 18:16:26 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:16:26 info: User input: Hi
+2024-09-08 18:16:26 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-08 18:16:26 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:16:26 info: responseText Success load.
+2024-09-08 18:16:27 info: This is Total price found : 0
+2024-09-08 18:16:27 info: my context is : no mention
+2024-09-08 18:16:28 info: ________________________________________
+2024-09-08 18:16:28 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻✨
+2024-09-08 18:16:28 info: summaryResponse Success load.
+2024-09-08 18:16:31 info: Events received: [{"type":"message","message":{"type":"text","id":"525064592062939329","quoteToken":"Tf-tteagYVDBsOrXO34z3Y8OEClm5MPpGBhLDu6zmaJrVmLXm1Y-Up0kPsopdwEIO5f-Jo-geRnT-sOaT_4QAIHLwTdmJj8TlY6J9UipRLWBMrZHE14EqB-Ia152sBlJKyS5sfWwKPm3H1BjH5eUVw","text":"I want PC"},"webhookEventId":"01J78NK04P6Q5T3DQ0J5QE9KR4","deliveryContext":{"isRedelivery":false},"timestamp":1725794188954,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7366603265a84bf2a4bc25fb9c38f189","mode":"active"}]
+2024-09-08 18:16:31 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:16:31 info: User Agent Success load.
+2024-09-08 18:16:33 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:16:33 info: User input: I want PC
+2024-09-08 18:16:33 info: Response: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences! kubpom!
+2024-09-08 18:16:33 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:16:33 info: responseText Success load.
+2024-09-08 18:16:34 info: This is Total price found : 0
+2024-09-08 18:16:34 info: my context is : no mention
+2024-09-08 18:16:34 info: ________________________________________
+2024-09-08 18:16:34 info: Response summarized: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences! kubpom! 💻🖥️✨
+2024-09-08 18:16:34 info: summaryResponse Success load.
+2024-09-08 18:17:14 info: 
+2024-09-08 18:17:16 info: ----------------------------------------
+2024-09-08 18:17:16 info: Server started and listening on port 8000
+2024-09-08 18:17:16 info: ----------------------------------------
+2024-09-08 18:17:18 info: Events received: [{"type":"message","message":{"type":"text","id":"525064671385616737","quoteToken":"FbO9Srin5rVj5i3Z8_2Uguv4fOkkh_eGFgmtIRF1uO3usjw-yz2Ko8T4qU42U9Kc7bDvJXNcI1qLGdiXFvf-tKzX4-_M1fSZO5CTedRsP4eoDoN2o3MYmapls-qp-sawlzl_EUrjqZGAvJReaxwyVw","text":"Hi"},"webhookEventId":"01J78NME1ENNT6DWX0HFG19C03","deliveryContext":{"isRedelivery":false},"timestamp":1725794236235,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"64413223958b47b389c39e5921a32fe7","mode":"active"}]
+2024-09-08 18:17:18 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:17:18 info: Agent initialized successfully
+2024-09-08 18:17:18 info: User Agent Success load.
+2024-09-08 18:17:20 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:17:20 info: User input: Hi
+2024-09-08 18:17:20 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-08 18:17:20 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:17:20 info: responseText Success load.
+2024-09-08 18:17:21 info: This is Total price found : 0
+2024-09-08 18:17:21 info: my context is : no mention
+2024-09-08 18:17:21 info: ________________________________________
+2024-09-08 18:17:21 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻✨
+2024-09-08 18:17:21 info: summaryResponse Success load.
+2024-09-08 18:17:27 info: Events received: [{"type":"message","message":{"type":"text","id":"525064685948240161","quoteToken":"h4AUozQnlW8zn8DvJJLDsseKGVqWYNUyOzOY31lMXuH_phf4WcCGT-4wYNLd4Dw-ptPS44krOPc4gWiKlC9f_BTrX3OUB-AcZWf5XEf9CjEkb55E7l9bwZnm1vLDdudCZLx1VjMepNitTE1dbvBOxg","text":"I want PC"},"webhookEventId":"01J78NMPSDXXZK4YE2JAM512E8","deliveryContext":{"isRedelivery":false},"timestamp":1725794244914,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"413e2f61fdb345a1a22605081dd96103","mode":"active"}]
+2024-09-08 18:17:27 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:17:27 info: User Agent Success load.
+2024-09-08 18:17:30 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:17:30 info: User input: I want PC
+2024-09-08 18:17:30 info: Response: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences! kubpom!
+2024-09-08 18:17:30 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:17:30 info: responseText Success load.
+2024-09-08 18:17:31 info: This is Total price found : 0
+2024-09-08 18:17:31 info: my context is : no mention
+2024-09-08 18:17:31 info: ________________________________________
+2024-09-08 18:17:31 info: Response summarized: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a workstation PC, or a high-end PC? Let me know your preferences! kubpom! 🎮💻🖥️
+2024-09-08 18:17:31 info: summaryResponse Success load.
+2024-09-08 18:18:53 info: 
+2024-09-08 18:18:55 info: ----------------------------------------
+2024-09-08 18:18:55 info: Server started and listening on port 8000
+2024-09-08 18:18:55 info: ----------------------------------------
+2024-09-08 18:19:03 info: Events received: [{"type":"message","message":{"type":"text","id":"525064846120321298","quoteToken":"M3RN2hYRZCamoHFXCZW3NiSbI3pzkr1v8mwUpXwwMBC2ChmggGhzbKKYhxaB5HzIZZ_jIZfHJOh0aVLKklehPfxnBhvL8-pJ1yy4PC4GhkYkEetP9OqHARftsWyJFAjfKuGlsxSdAu4KPiKtwT6iUQ","text":"I want PC"},"webhookEventId":"01J78NQM4NK9B5TZ2S7V8YC88P","deliveryContext":{"isRedelivery":false},"timestamp":1725794340504,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5482757f961140369575bf42b4220ae7","mode":"active"}]
+2024-09-08 18:19:03 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:19:03 info: Agent initialized successfully
+2024-09-08 18:19:03 info: User Agent Success load.
+2024-09-08 18:19:05 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:19:05 info: User input: I want PC
+2024-09-08 18:19:05 info: Response: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a high-end PC, or a work PC? Let me know your preferences so I can assist you better, kubpom!
+2024-09-08 18:19:05 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:19:05 info: responseText Success load.
+2024-09-08 18:19:06 info: This is Total price found : 0
+2024-09-08 18:19:06 info: my context is : no mention
+2024-09-08 18:19:07 info: ________________________________________
+2024-09-08 18:19:07 info: Response summarized: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a high-end PC, or a workstation PC? Let me know your preferences so I can assist you better, kubpom! 💻🖥️🎮
+2024-09-08 18:19:07 info: summaryResponse Success load.
+2024-09-08 18:19:12 info: Events received: [{"type":"message","message":{"type":"text","id":"525064862259740898","quoteToken":"nBPG8O5O5IZ2QOLf53toyXSi59yup5yH7POqGxvbPgy-0VpVpBjgYTqfXHJS1kpA6edfb1ugkgeF8pnaXAycGHyuGFdHfdFI6Oty40eQw22MD_jKPtI-lt5iiwXx_KD_y_oxcBSetWqTs_EXawYAog","text":"Gaming"},"webhookEventId":"01J78NQX12TMDH57S6666F908F","deliveryContext":{"isRedelivery":false},"timestamp":1725794350018,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2067c1f23a6d4a1c8e571b2a9d1f30eb","mode":"active"}]
+2024-09-08 18:19:12 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:19:12 info: User Agent Success load.
+2024-09-08 18:19:13 info: ****************************************
+2024-09-08 18:19:13 info: Query Detection: gaming
+2024-09-08 18:19:13 info: Tool Call: {
+  "id": "call_jHOZgCa9dyAkPZHo6eNmPzi1",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-09-08 18:19:13 info: ****************************************
+2024-09-08 18:19:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:19:21 info: User input: Gaming
+2024-09-08 18:19:21 info: Response: Here are some gaming PC options for you:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **Total Price**: 29,700 THB
+
+4. **COMPUTERSET JIB MARU-2408033**
+   - **CPU**: AMD RYZEN 5 5500 3.6 GHz
+   - **GPU**: INNO3D GEFORCE RTX 3050 6GB
+   - **Total Price**: 16,470 THB
+
+These sets feature powerful CPUs and GPUs that are well-suited for gaming, providing a good balance of performance and price. Let me know if you need more information or if you'd like to proceed with one of these options, kubpom!
+2024-09-08 18:19:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:19:21 info: responseText Success load.
+2024-09-08 18:19:22 info: This is Total price found : 0
+2024-09-08 18:19:22 info: my context is : gaming
+2024-09-08 18:19:26 info: ________________________________________
+2024-09-08 18:19:26 info: Response summarized: Here are some gaming PC options for you:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+   - **Total Price**: 0 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **Total Price**: 0 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **Total Price**: 0 THB
+
+4. **COMPUTERSET JIB MARU-2408033**
+   - **CPU**: AMD RYZEN 5 5500 3.6 GHz
+   - **GPU**: INNO3D GEFORCE RTX 3050 6GB
+   - **Total Price**: 0 THB
+
+These sets feature powerful CPUs and GPUs that are well-suited for gaming, providing a good balance of performance and price. Let me know if you need more information or if you'd like to proceed with one of these options, kubpom! 🎮💻🔥
+2024-09-08 18:19:26 info: summaryResponse Success load.
+2024-09-08 18:19:36 info: Events received: [{"type":"message","message":{"type":"text","id":"525064903582286321","quoteToken":"_KxUdEiSgWhDsnyoA1d2I_WEV_rUz5ujuDOQGdNoKykUDiJJMchWUkoDVndv7ORDqt8tINsm86ARWG3aAwifqri2scROfkBmLV4gUkX-3pyKvkmaVjZIDbQvu0YpU8sZQIaCmUU90Z5QUirDzcOrUQ","text":"more detail MARU-2407008"},"webhookEventId":"01J78NRMZY8868CH5WB3XTXYDR","deliveryContext":{"isRedelivery":false},"timestamp":1725794374636,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2a9f86b66c9d4268838ced4bd24bef6e","mode":"active"}]
+2024-09-08 18:19:36 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:19:36 info: User Agent Success load.
+2024-09-08 18:19:40 info: ****************************************
+2024-09-08 18:19:40 info: Query Detection: INTEL CORE I5-13400F
+2024-09-08 18:19:40 info: Tool Call: {
+  "id": "call_uHTxSZ8uwWZ8ucUX2DYlLsKl",
+  "name": "vector_index_Hardware_-_CPU_-_CPU",
+  "input": {
+    "query": "INTEL CORE I5-13400F"
+  }
+}
+2024-09-08 18:19:40 info: ****************************************
+2024-09-08 18:19:42 info: ****************************************
+2024-09-08 18:19:42 info: Query Detection: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+2024-09-08 18:19:42 info: Tool Call: {
+  "id": "call_G5er8bPAdoimWTZkASNnK8tq",
+  "name": "vector_index_Hardware_-_Graphic_card_-_MSI",
+  "input": {
+    "query": "MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC"
+  }
+}
+2024-09-08 18:19:42 info: ****************************************
+2024-09-08 18:19:44 info: ****************************************
+2024-09-08 18:19:44 info: Query Detection: MSI
+2024-09-08 18:19:44 info: Tool Call: {
+  "id": "call_YmSnMW3qhnKSIkVQGIEhgIyA",
+  "name": "vector_index_Hardware_-_Motherboard_-_MSI",
+  "input": {
+    "query": "MSI"
+  }
+}
+2024-09-08 18:19:44 info: ****************************************
+2024-09-08 18:19:57 info: ****************************************
+2024-09-08 18:19:57 info: Query Detection: RAM
+2024-09-08 18:19:57 info: Tool Call: {
+  "id": "call_EAfT52cjmtT13IBUVXJsKrK2",
+  "name": "vector_index_Hardware_-_RAM_-_RAM",
+  "input": {
+    "query": "RAM"
+  }
+}
+2024-09-08 18:19:57 info: ****************************************
+2024-09-08 18:20:03 info: ****************************************
+2024-09-08 18:20:03 info: Query Detection: Power Supply
+2024-09-08 18:20:03 info: Tool Call: {
+  "id": "call_y0he2wIFDzBUkGOdKCNndHEh",
+  "name": "vector_index_Hardware_-_Power_Supply_-_Power_Supply",
+  "input": {
+    "query": "Power Supply"
+  }
+}
+2024-09-08 18:20:03 info: ****************************************
+2024-09-08 18:20:18 info: ****************************************
+2024-09-08 18:20:18 info: Query Detection: Hard Disk
+2024-09-08 18:20:18 info: Tool Call: {
+  "id": "call_WZpjv6tksSDEp34vlChc9qTA",
+  "name": "vector_index_Hardware_-_Harddisk_-_Harddisk",
+  "input": {
+    "query": "Hard Disk"
+  }
+}
+2024-09-08 18:20:18 info: ****************************************
+2024-09-08 18:20:25 info: ****************************************
+2024-09-08 18:20:25 info: Query Detection: SSD
+2024-09-08 18:20:25 info: Tool Call: {
+  "id": "call_sBw7UMw0arxtBPjs41FP90ns",
+  "name": "vector_index_Hardware_-_Solid_State_Drive_-_SSD",
+  "input": {
+    "query": "SSD"
+  }
+}
+2024-09-08 18:20:25 info: ****************************************
+2024-09-08 18:20:35 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:20:35 info: User input: more detail MARU-2407008
+2024-09-08 18:20:35 info: Response: Here are the detailed specifications for the **COMPUTERSET JIB MARU-2407008**:
+
+### Components:
+
+1. **CPU: INTEL CORE I5-13400F**
+   - **Price**: 6,590 THB
+   - **Socket**: 1700 (13th Gen - Raptor Lake)
+   - **Integrated Graphics**: No
+   - **TDP**: 148 W
+   - **CPU Cooler**: Yes
+
+2. **GPU: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC**
+   - **Price**: 13,990 THB
+   - **Slot**: 1 x PCIe 4.0 x16 Slot
+   - **Chipset**: Nvidia
+   - **Series**: Nvidia GeForce 40 Series
+   - **Graphic Engine**: GeForce RTX 4060
+   - **Video Memory Capacity**: 8 GB
+   - **Types of Video Memory**: GDDR6
+   - **Dimension**: 199 x 120 x 42 mm
+   - **Need Power Supply**: 550 W
+   - **Power Connectors**: 1 x 8 Pin
+
+3. **Motherboard**: 
+   - **Example**: MSI B760M GAMING PLUS WIFI
+     - **Price**: 4,790 THB
+     - **Form Factor**: Micro-ATX
+     - **CPU Socket**: LGA 1700 (supports 12th, 13th, and 14th Gen Intel CPUs)
+     - **Memory Type**: DDR5, Max Capacity: 192 GB
+     - **Storage**: 4 SATA 3 ports, 2 M.2 slots, RAID support (0/1/5/10)
+
+4. **RAM**: 
+   - **Example**: 16GB DDR5 (specific model can vary)
+   - **Price Range**: Starting from around 1,990 THB for DDR5 options.
+
+5. **Power Supply**: 
+   - **Example**: AEROCOOL AE-650W
+   - **Price**: 1,690 THB
+   - **Certification**: 80 Plus
+
+6. **Hard Disk**: 
+   - **Example**: WD BLUE - 7200RPM SATA3 (1TB)
+   - **Price**: 1,740 THB
+
+7. **SSD**: 
+   - **Example**: Samsung 970 EVO Plus (500GB)
+   - **Price**: Approximately 2,500 THB (varies by model and capacity).
+
+### Total Price for the Set:
+- **Total Price**: 29,700 THB
+
+This configuration is well-suited for gaming, providing a good balance of performance and price. If you need more specific information or want to customize any components, let me know, kubpom!
+2024-09-08 18:20:35 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:20:35 info: responseText Success load.
+2024-09-08 18:20:36 info: This is Total price found : 32790
+2024-09-08 18:20:36 info: my context is : SSD
+2024-09-08 18:20:42 info: ________________________________________
+2024-09-08 18:20:42 info: Response summarized: Here are the detailed specifications for the **COMPUTERSET JIB MARU-2407008**:
+
+### Components:
+
+1. **CPU: INTEL CORE I5-13400F**  
+   - **Price**: 6,590 THB  
+   - **Socket**: 1700 (13th Gen - Raptor Lake)  
+   - **Integrated Graphics**: No  
+   - **TDP**: 148 W  
+   - **CPU Cooler**: Yes  
+
+2. **GPU: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC**  
+   - **Price**: 13,990 THB  
+   - **Slot**: 1 x PCIe 4.0 x16 Slot  
+   - **Chipset**: Nvidia  
+   - **Series**: Nvidia GeForce 40 Series  
+   - **Graphic Engine**: GeForce RTX 4060  
+   - **Video Memory Capacity**: 8 GB  
+   - **Types of Video Memory**: GDDR6  
+   - **Dimension**: 199 x 120 x 42 mm  
+   - **Need Power Supply**: 550 W  
+   - **Power Connectors**: 1 x 8 Pin  
+
+3. **Motherboard**:  
+   - **Example**: MSI B760M GAMING PLUS WIFI  
+     - **Price**: 4,790 THB  
+     - **Form Factor**: Micro-ATX  
+     - **CPU Socket**: LGA 1700 (supports 12th, 13th, and 14th Gen Intel CPUs)  
+     - **Memory Type**: DDR5, Max Capacity: 192 GB  
+     - **Storage**: 4 SATA 3 ports, 2 M.2 slots, RAID support (0/1/5/10)  
+
+4. **RAM**:  
+   - **Example**: 16GB DDR5 (specific model can vary)  
+   - **Price Range**: Starting from around 1,990 THB for DDR5 options.
+
+5. **Power Supply**:  
+   - **Example**: AEROCOOL AE-650W  
+   - **Price**: 1,690 THB  
+   - **Certification**: 80 Plus  
+
+6. **Hard Disk**:  
+   - **Example**: WD BLUE - 7200RPM SATA3 (1TB)  
+   - **Price**: 1,740 THB  
+
+7. **SSD**:  
+   - **Example**: Samsung 970 EVO Plus (500GB)  
+   - **Price**: Approximately 2,500 THB (varies by model and capacity).
+
+### Total Price for the Set:
+- **Total Price**: 32790 THB
+
+This configuration is well-suited for gaming, providing a good balance of performance and price. If you need more specific information or want to customize any components, let me know, kubpom! 💻🎮🖥️
+2024-09-08 18:20:42 info: summaryResponse Success load.
+2024-09-08 18:21:06 info: 
+2024-09-08 18:21:09 info: ----------------------------------------
+2024-09-08 18:21:09 info: Server started and listening on port 8000
+2024-09-08 18:21:09 info: ----------------------------------------
+2024-09-08 18:21:17 info: Events received: [{"type":"message","message":{"type":"text","id":"525065072528064683","quoteToken":"xQalcGzE-JvGlNuVsUhbLaas4vDIcXyqVTknJYnoyr14QG9DbD5lepM_poq1Y_kyId2M4HMhn0PCOOFEtzdTZcm4NIm28vSV-5Rro_iiQTWGDx8hjmc3UP71d9z8PEnthOClEFytswj90XhbnssE8g","text":"Hi"},"webhookEventId":"01J78NVQDFYBP55S4MY179KSMR","deliveryContext":{"isRedelivery":false},"timestamp":1725794475334,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ecd8c61eca3e43fea31892535d9f35fb","mode":"active"}]
+2024-09-08 18:21:17 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:21:17 info: Agent initialized successfully
+2024-09-08 18:21:17 info: User Agent Success load.
+2024-09-08 18:21:19 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:21:19 info: User input: Hi
+2024-09-08 18:21:19 info: Response: Hello! How can I assist you today? If you have any questions about assembling a PC or need help with specifications, feel free to ask! kubpom!
+2024-09-08 18:21:19 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:21:19 info: responseText Success load.
+2024-09-08 18:21:20 info: This is Total price found : 0
+2024-09-08 18:21:20 info: my context is : no mention
+2024-09-08 18:21:21 info: ________________________________________
+2024-09-08 18:21:21 info: Response summarized: Hello! How can I assist you today? If you have any questions about assembling a PC or need help with specifications, feel free to ask! kubpom! 🤖💻✨
+2024-09-08 18:21:21 info: summaryResponse Success load.
+2024-09-08 18:21:25 info: Events received: [{"type":"message","message":{"type":"text","id":"525065084289679746","quoteToken":"_pvUFHhiWCkDgHhh8WJ7SIN25sbahgq05bg9hr6rs_goAA-lLf0FH9ncGzsLJWZXb0YFSmSvvfEqyHosZZshI80kW1fEYr_pKlMpgHrgI8Or9TyCfe226kY_TODz4WGDk0TLpneK3HSvYrmK969dDw","text":"I want PC"},"webhookEventId":"01J78NVYTY49ZNQYM36FHD5EM9","deliveryContext":{"isRedelivery":false},"timestamp":1725794482520,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"25d05876d347481d96a84c7c6ab28718","mode":"active"}]
+2024-09-08 18:21:25 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:21:25 info: User Agent Success load.
+2024-09-08 18:21:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:21:27 info: User input: I want PC
+2024-09-08 18:21:27 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I can help you with the specifications! kubpom!
+2024-09-08 18:21:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:21:27 info: responseText Success load.
+2024-09-08 18:21:28 info: This is Total price found : 0
+2024-09-08 18:21:28 info: my context is : no mention
+2024-09-08 18:21:28 info: ________________________________________
+2024-09-08 18:21:28 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a workstation PC, or a high-end PC? Let me know your preferences, and I can help you with the specifications! 💻🖥️🎮
+2024-09-08 18:21:28 info: summaryResponse Success load.
+2024-09-08 18:21:30 info: Events received: [{"type":"message","message":{"type":"text","id":"525065093902762514","quoteToken":"j51U94BeFunMHuh-7bGdRiaIKqGKa2KyHM4fvQDYzGxZFiyiJ4LLdNUbAn-P4vVTffVyR3Tbhh8jMRmxdvHxeJJCU4OlOalHWYnRwPGJ9QofZqrowXy11EmxMqMVFYVGgjHfieDoFh1RZUvNbMHq6Q","text":"Gaming PC"},"webhookEventId":"01J78NW3ZFEYC4Y7AE31FG25XT","deliveryContext":{"isRedelivery":false},"timestamp":1725794488114,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d3acc74b332244449696f0d64bbc473e","mode":"active"}]
+2024-09-08 18:21:30 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:21:30 info: User Agent Success load.
+2024-09-08 18:21:31 info: ****************************************
+2024-09-08 18:21:31 info: Query Detection: Gaming PC
+2024-09-08 18:21:31 info: Tool Call: {
+  "id": "call_dVRq7epQ7a888w2Lrr51VNdn",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "Gaming PC"
+  }
+}
+2024-09-08 18:21:31 info: ****************************************
+2024-09-08 18:21:46 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:21:46 info: User input: Gaming PC
+2024-09-08 18:21:46 info: Response: Here are some options for gaming PCs:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB PCIe 4x4 NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB PCIe 4x4 NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB PCIe 4x4 NVMe M.2
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+These configurations are suitable for gaming, featuring powerful CPUs and GPUs, sufficient RAM, and fast SSD storage. Let me know if you need more information or want to customize any of these options! kubpom!
+2024-09-08 18:21:46 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:21:46 info: responseText Success load.
+2024-09-08 18:21:47 info: This is Total price found : 0
+2024-09-08 18:21:47 info: my context is : Gaming PC
+2024-09-08 18:21:52 info: ________________________________________
+2024-09-08 18:21:52 info: Response summarized: Here are some options for gaming PCs:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB PCIe 4x4 NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB PCIe 4x4 NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB PCIe 4x4 NVMe M.2
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+These configurations are suitable for gaming, featuring powerful CPUs and GPUs, sufficient RAM, and fast SSD storage. Let me know if you need more information or want to customize any of these options! 💻🎮🖥️
+2024-09-08 18:21:52 info: summaryResponse Success load.
+2024-09-08 18:22:21 info: 
+2024-09-08 18:22:23 info: ----------------------------------------
+2024-09-08 18:22:23 info: Server started and listening on port 8000
+2024-09-08 18:22:23 info: ----------------------------------------
+2024-09-08 18:22:25 info: Events received: [{"type":"message","message":{"type":"text","id":"525065186613919793","quoteToken":"amc5k1uqwOo9TmXMiA-T8YUPQdfjK6IH49qVL8VFMkaXSZTK_P-cb8G97YyVHcmD4EVNtONr9zoFcDbfo6nKpd-3yh_Rl8EYLuG_zwUx2ach52N7N_HKhYVnxb36LDhfs42p0czp9lztPiiEugchYQ","text":"Hi"},"webhookEventId":"01J78NXT6XBKCBBRQ9M5EX3KC9","deliveryContext":{"isRedelivery":false},"timestamp":1725794543330,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a67a9eeae59842f6b9095f8b8044afd7","mode":"active"}]
+2024-09-08 18:22:26 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:22:26 info: Agent initialized successfully
+2024-09-08 18:22:26 info: User Agent Success load.
+2024-09-08 18:22:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:22:28 info: User input: Hi
+2024-09-08 18:22:28 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-08 18:22:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:22:28 info: responseText Success load.
+2024-09-08 18:22:29 info: This is Total price found : 0
+2024-09-08 18:22:29 info: my context is : no mention
+2024-09-08 18:22:29 info: ________________________________________
+2024-09-08 18:22:29 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻✨
+2024-09-08 18:22:29 info: summaryResponse Success load.
+2024-09-08 18:22:33 info: Events received: [{"type":"message","message":{"type":"text","id":"525065199867920561","quoteToken":"RiHvHj26ff0XL87PPmvUBMptoM9-gWQY-ZWiV9zo7-e2ICUuXZRSG35_gClposEdQF_NoTEM58cHnngZ1uUZS4OsB68GS1yKCIrNXwgb9l2-T8_RRrG-xXfKtbGw-KV4lmqJGlQFno9k-bsy5xVvmw","text":"I want PC"},"webhookEventId":"01J78NY1XZJFGAGTC766S07QYV","deliveryContext":{"isRedelivery":false},"timestamp":1725794551235,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6f4b1ad5662f4e1d8ec49c8cb8fe4cbe","mode":"active"}]
+2024-09-08 18:22:33 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:22:33 info: User Agent Success load.
+2024-09-08 18:22:35 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:22:35 info: User input: I want PC
+2024-09-08 18:22:35 info: Response: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. Gaming PC
+2. General Use PC
+3. Hi-End PC
+4. Work PC
+
+Let me know your preference, and if you have any specific requirements or budget in mind! kubpom!
+2024-09-08 18:22:35 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:22:35 info: responseText Success load.
+2024-09-08 18:22:36 info: This is Total price found : 0
+2024-09-08 18:22:36 info: my context is : no mention
+2024-09-08 18:22:37 info: ________________________________________
+2024-09-08 18:22:37 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+• Gaming PC
+
+• General Use PC
+
+• High-End PC
+
+• Workstation PC
+
+Let me know your preference, and if you have any specific requirements or budget in mind! 💻🖥️🎮
+2024-09-08 18:22:37 info: summaryResponse Success load.
+2024-09-08 18:22:44 info: Events received: [{"type":"message","message":{"type":"text","id":"525065218137784774","quoteToken":"AxGJc7oiDxKQvp4fczq9lJGkXKmO5t8nezkpMUuQ7HtF60VqH4BvyR1c0kNxITpGeJMFyydBQxOXPJIKgnNXsjHwab3J_v4_Dej42W-ngGMsYZGyl2GVikmbhRb0O6folVLFy3jgrciRZ2uNqZMm4A","text":"Gaming PC"},"webhookEventId":"01J78NYCM47PQQ19M48PNEDB3P","deliveryContext":{"isRedelivery":false},"timestamp":1725794562187,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"bcdb1fd71a3a481089577eae193ac902","mode":"active"}]
+2024-09-08 18:22:44 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:22:44 info: User Agent Success load.
+2024-09-08 18:22:46 info: ****************************************
+2024-09-08 18:22:46 info: Query Detection: Gaming PC
+2024-09-08 18:22:46 info: Tool Call: {
+  "id": "call_Ci4Z0mO3WUxgsZvChuEAtWIO",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "Gaming PC"
+  }
+}
+2024-09-08 18:22:46 info: ****************************************
+2024-09-08 18:23:02 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:23:02 info: User input: Gaming PC
+2024-09-08 18:23:02 info: Response: Here are some options for gaming PCs:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB NVMe M.2 SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB NVMe M.2 SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB NVMe M.2 SSD
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+Let me know if you would like more information or if you want to proceed with any of these options! kubpom!
+2024-09-08 18:23:02 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:23:02 info: responseText Success load.
+2024-09-08 18:23:04 info: This is Total price found : 0
+2024-09-08 18:23:04 info: my context is : Gaming PC
+2024-09-08 18:23:10 info: ________________________________________
+2024-09-08 18:23:10 info: Response summarized: Here are some options for gaming PCs:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB NVMe M.2 SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB NVMe M.2 SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB NVMe M.2 SSD
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+Let me know if you would like more information or if you want to proceed with any of these options! 💻🎮🖥️
+2024-09-08 18:23:10 info: summaryResponse Success load.
+2024-09-08 18:24:07 info: 
+2024-09-08 18:24:09 info: ----------------------------------------
+2024-09-08 18:24:09 info: Server started and listening on port 8000
+2024-09-08 18:24:09 info: ----------------------------------------
+2024-09-08 18:24:15 info: Events received: [{"type":"message","message":{"type":"text","id":"525065371179548947","quoteToken":"vHEpQs4lufa980374G6rY_tXC-3GN_6sFSl467FMMkVw_dXHPlg4_7B5grIIXSgdl6uuFJJk4pvhJ8XEH8MTDJLMyrHRSD1RpntDFyEKG44rrVkjDLHU5K13kqn3aj9oCrPpGsgCwZlmBpCU8k-9lQ","text":"Hi"},"webhookEventId":"01J78P15JANZZZ0A4M96CKYNQ6","deliveryContext":{"isRedelivery":false},"timestamp":1725794653489,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d039a03937844042a890454d8a73cb64","mode":"active"}]
+2024-09-08 18:24:16 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:24:16 info: Agent initialized successfully
+2024-09-08 18:24:16 info: User Agent Success load.
+2024-09-08 18:24:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:24:18 info: User input: Hi
+2024-09-08 18:24:18 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-08 18:24:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:24:18 info: responseText Success load.
+2024-09-08 18:24:19 info: This is Total price found : 0
+2024-09-08 18:24:19 info: my context is : no mention
+2024-09-08 18:24:19 info: ________________________________________
+2024-09-08 18:24:19 info: Response summarized: Hello! How can I assist you today? kubpom! 😊💻✨
+2024-09-08 18:24:19 info: summaryResponse Success load.
+2024-09-08 18:24:30 info: Events received: [{"type":"message","message":{"type":"text","id":"525065394735284227","quoteToken":"ncUNG9AxGFljcvs7iOWuIyaE86N1_a9WLoqJm-_6YH5jeaHiBiGYr3ilh1WBd2mJPv7MzvWM5u01PxxUYVCvoP3J1x_w9lvjf3yD38h64iSbG-XQZfLqO2LtG9YznEzNMTg4FfAAFruj-8Jf3QHlzw","text":"I want PC"},"webhookEventId":"01J78P1KFYKMAHVTBN3JRT234J","deliveryContext":{"isRedelivery":false},"timestamp":1725794667523,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"29007959996d46399fa92c64d8b3f267","mode":"active"}]
+2024-09-08 18:24:30 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:24:30 info: User Agent Success load.
+2024-09-08 18:24:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:24:32 info: User input: I want PC
+2024-09-08 18:24:32 info: Response: Could you please provide more details about the type of PC you want? Here are some options to consider:
+
+1. Gaming PC
+2. General Use PC
+3. Hi-End PC
+4. Work PC
+
+Let me know which one you're interested in or if you have specific requirements! kubpom!
+2024-09-08 18:24:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:24:32 info: responseText Success load.
+2024-09-08 18:24:33 info: This is Total price found : 0
+2024-09-08 18:24:33 info: my context is : no mention
+2024-09-08 18:24:34 info: ________________________________________
+2024-09-08 18:24:34 info: Response summarized: Could you please provide more details about the type of PC you want? Here are some options to consider:
+
+• Gaming PC
+
+• General Use PC
+
+• High-End PC
+
+• Workstation PC
+
+Let me know which one you're interested in or if you have specific requirements! 💻🖥️🎮
+2024-09-08 18:24:34 info: summaryResponse Success load.
+2024-09-08 18:25:06 info: Events received: [{"type":"message","message":{"type":"text","id":"525065455653355569","quoteToken":"PiTjFQT8qY960T9QlVZclwfRTI82ngGp4oB_1L62F3IaYklMoz2jLmW9qZd42JlaV38NvFfpRao9INr8xsl9_VcqpY_ii4_Bqo60MNQCjiRsRA8hrG3n7g3Odx8YSukUCjlBOAgvh1c4afaB7yus_A","text":"Gaming PC"},"webhookEventId":"01J78P2PT7NSSMXW99M3ABDB22","deliveryContext":{"isRedelivery":false},"timestamp":1725794703691,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2af785a677dd4d71a666d2899d2b60fa","mode":"active"}]
+2024-09-08 18:25:06 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:25:06 info: User Agent Success load.
+2024-09-08 18:25:07 info: ****************************************
+2024-09-08 18:25:07 info: Query Detection: Gaming PC
+2024-09-08 18:25:07 info: Tool Call: {
+  "id": "call_cxrRY7MZ9eVSfsHGp1QtZUCv",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "Gaming PC"
+  }
+}
+2024-09-08 18:25:07 info: ****************************************
+2024-09-08 18:25:22 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:25:22 info: User input: Gaming PC
+2024-09-08 18:25:22 info: Response: Here are some options for gaming PCs:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB PCIe 4x4/NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+   - **SSD**: WD BLACK SN770 - 500 GB PCIe 4x4/NVMe M.2
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+These configurations are suitable for gaming, featuring powerful CPUs and GPUs, sufficient RAM, and fast SSD storage. Let me know if you need more information or if you'd like to proceed with one of these options! kubpom!
+2024-09-08 18:25:22 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:25:22 info: responseText Success load.
+2024-09-08 18:25:23 info: This is Total price found : 0
+2024-09-08 18:25:23 info: my context is : Gaming PC
+2024-09-08 18:25:37 info: ________________________________________
+2024-09-08 18:25:37 info: Response summarized: Here are some options for gaming PCs:
+
+• **COMPUTERSET JIB MARU-2407013**  
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz  
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)  
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6  
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz  
+   - **SSD**: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2  
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE  
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)  
+   - **Total Price**: 35,600 THB  
+
+• **COMPUTERSET JIB MARU-2407004**  
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz  
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700)  
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6  
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) DDR4 3200MHz  
+   - **SSD**: WD BLUE SN580 - 500 GB PCIe 4x4/NVMe M.2  
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE  
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)  
+   - **Total Price**: 24,540 THB  
+
+• **COMPUTERSET JIB MARU-2407008**  
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz  
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)  
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6  
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz  
+   - **SSD**: WD BLACK SN770 - 500 GB PCIe 4x4/NVMe M.2  
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE  
+   - **CASE**: ANTEC NX292 (BLACK)  
+   - **Total Price**: 29,700 THB  
+
+These configurations are suitable for gaming, featuring powerful CPUs and GPUs, sufficient RAM, and fast SSD storage. Let me know if you need more information or if you'd like to proceed with one of these options! 💻🎮🖥️
+2024-09-08 18:25:37 info: summaryResponse Success load.
+2024-09-08 18:26:23 info: Events received: [{"type":"message","message":{"type":"text","id":"525065586633081393","quoteToken":"oPtwKb_DW_BKacLMiDDzphj13f40J9IviSjEiYXjSukS-JDmshQ8BAXjYgUopQoh5sNBJW5iRmYnNlP9nMvrmPQP3pw_z3-fspwjraJ0kNhP-Td8gYdRueEPCaxnJ7RUMkTPXJ5T64hCv8Ky10NAOQ","text":"ok i choose first."},"webhookEventId":"01J78P52N8HZCHSJ07HKJ21RS9","deliveryContext":{"isRedelivery":false},"timestamp":1725794781768,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7287689ac87f4e9ba582db718ab352ef","mode":"active"}]
+2024-09-08 18:26:24 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:26:24 info: User Agent Success load.
+2024-09-08 18:26:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:26:27 info: User input: ok i choose first.
+2024-09-08 18:26:27 info: Response: Great choice! Here are the details for your selected gaming PC:
+
+**COMPUTERSET JIB MARU-2407013**
+- **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+- **SSD**: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 35,600 THB
+
+Would you like to proceed with the purchase, or do you need any additional information or modifications? kubpom!
+2024-09-08 18:26:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:26:27 info: responseText Success load.
+2024-09-08 18:26:28 info: This is Total price found : 0
+2024-09-08 18:26:28 info: my context is : no mention
+2024-09-08 18:26:31 info: ________________________________________
+2024-09-08 18:26:31 info: Response summarized: Great choice! Here are the details for your selected gaming PC:
+
+**COMPUTERSET JIB MARU-2407013**
+- **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) DDR5 5200MHz
+- **SSD**: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 0 THB
+
+Would you like to proceed with the purchase, or do you need any additional information or modifications? 💻🎮🖥️
+2024-09-08 18:26:31 info: summaryResponse Success load.
+2024-09-08 18:26:49 info: Events received: [{"type":"message","message":{"type":"text","id":"525065629045358696","quoteToken":"ICzACr4-X5n0K7aeGYnlZWJPI4xp5v5yNbORFJL3gzfvOPVoNqqHlul27YPLzzqSQLI7PD2QlqGmPMUu80lMhCagZQtPpH6OWPqnruowypOu-J_IUAn4Baf_0q6LFHG4arqOix2bNcdeqiqPDII8Mg","text":"more detail a price hardware."},"webhookEventId":"01J78P5VFXAJFJMWC6H5QCFBCP","deliveryContext":{"isRedelivery":false},"timestamp":1725794807172,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7e05387aabe94dd39f380339fe9303e0","mode":"active"}]
+2024-09-08 18:26:49 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:26:49 info: User Agent Success load.
+2024-09-08 18:26:54 info: ****************************************
+2024-09-08 18:26:54 info: Query Detection: INTEL CORE I5-14400F
+2024-09-08 18:26:54 info: Tool Call: {
+  "id": "call_CklGcL4sajNZyCPOOiFbI1VO",
+  "name": "vector_index_Hardware_-_CPU_-_CPU",
+  "input": {
+    "query": "INTEL CORE I5-14400F"
+  }
+}
+2024-09-08 18:26:54 info: ****************************************
+2024-09-08 18:26:56 info: ****************************************
+2024-09-08 18:26:56 info: Query Detection: MSI B760M GAMING PLUS WIFI
+2024-09-08 18:26:56 info: Tool Call: {
+  "id": "call_TI2FmPfy3DqdRXsdXNikOjSu",
+  "name": "vector_index_Hardware_-_Motherboard_-_MSI",
+  "input": {
+    "query": "MSI B760M GAMING PLUS WIFI"
+  }
+}
+2024-09-08 18:26:56 info: ****************************************
+2024-09-08 18:27:04 info: ****************************************
+2024-09-08 18:27:04 info: Query Detection: GALAX GEFORCE RTX 4060 TI 8GB EX
+2024-09-08 18:27:04 info: Tool Call: {
+  "id": "call_EZyB7UQb0k6itgOAiY0SHLnj",
+  "name": "vector_index_Hardware_-_Graphic_card_-_GALAX",
+  "input": {
+    "query": "GALAX GEFORCE RTX 4060 TI 8GB EX"
+  }
+}
+2024-09-08 18:27:04 info: ****************************************
+2024-09-08 18:27:06 info: ****************************************
+2024-09-08 18:27:06 info: Query Detection: CORSAIR VENGEANCE DDR5 16GB
+2024-09-08 18:27:06 info: Tool Call: {
+  "id": "call_oWp8z1EQIOQu0TJ0lnog1ZmH",
+  "name": "vector_index_Hardware_-_RAM_-_RAM",
+  "input": {
+    "query": "CORSAIR VENGEANCE DDR5 16GB"
+  }
+}
+2024-09-08 18:27:06 info: ****************************************
+2024-09-08 18:27:10 info: ****************************************
+2024-09-08 18:27:10 info: Query Detection: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2
+2024-09-08 18:27:10 info: Tool Call: {
+  "id": "call_YGRH120Jw21XuulTdwOWunjt",
+  "name": "vector_index_Hardware_-_Solid_State_Drive_-_SSD",
+  "input": {
+    "query": "HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2"
+  }
+}
+2024-09-08 18:27:10 info: ****************************************
+2024-09-08 18:27:12 info: ****************************************
+2024-09-08 18:27:12 info: Query Detection: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+2024-09-08 18:27:12 info: Tool Call: {
+  "id": "call_lJbX8Tun9x9DTwFYG1xHnjgW",
+  "name": "vector_index_Hardware_-_Power_Supply_-_Power_Supply",
+  "input": {
+    "query": "THERMALTAKE SMART BX1 650W 80 PLUS BRONZE"
+  }
+}
+2024-09-08 18:27:12 info: ****************************************
+2024-09-08 18:27:17 info: ****************************************
+2024-09-08 18:27:17 info: Query Detection: GALAX REVOLUTION 06
+2024-09-08 18:27:17 info: Tool Call: {
+  "id": "call_InKPv40HqIHTTeHeiCJfRiMI",
+  "name": "vector_index_Hardware_-_Case_-_GALAX",
+  "input": {
+    "query": "GALAX REVOLUTION 06"
+  }
+}
+2024-09-08 18:27:17 info: ****************************************
+2024-09-08 18:27:26 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:27:26 info: User input: more detail a price hardware.
+2024-09-08 18:27:26 info: Response: Here are the detailed prices and specifications for each hardware component in your selected gaming PC:
+
+1. **CPU: INTEL CORE I5-14400F**
+   - **Price**: 7,890 THB
+   - **Socket**: LGA 1700 (14th Gen - Raptor Lake Refresh)
+   - **Integrated Graphics**: No
+   - **TDP**: 65 W
+   - **CPU Cooler**: Yes
+
+2. **Motherboard: MSI B760M GAMING PLUS WIFI**
+   - **Price**: 4,790 THB
+   - **CPU Socket**: LGA 1700
+   - **Chipset**: Intel B760
+   - **Memory Slots**: 4 (DDR5)
+   - **Maximum Memory Capacity**: 192 GB
+   - **Storage M.2**: 2 x M.2 slots
+   - **Form Factor**: Micro-ATX
+
+3. **GPU: GALAX GEFORCE RTX 4060 TI 8GB EX**
+   - **Price**: 14,900 THB
+   - **Chipset**: Nvidia GeForce 40 Series
+   - **Video Memory Capacity**: 8 GB (GDDR6)
+   - **Power Requirement**: 550 W
+
+4. **RAM: CORSAIR VENGEANCE DDR5 16GB (8GBx2)**
+   - **Price**: 2,390 THB (for 5200 MHz version)
+   - **Speed**: 5200 MHz
+   - **Memory Technology**: DDR5
+
+5. **SSD: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2**
+   - **Price**: 1,890 THB
+   - **Size**: 22 x 80 mm
+   - **Interface**: PCIe 4.0
+
+6. **Power Supply: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE**
+   - **Price**: 2,500 THB
+   - **Maximum Power**: 650 W
+   - **Certification**: 80 Plus Bronze
+
+7. **Case: GALAX REVOLUTION 06 (BLACK)**
+   - **Price**: 1,750 THB
+   - **Cooling Fans**: 3 x 120 mm RGB fans (front), 1 x 120 mm RGB fan (rear)
+   - **Supports**: ATX, Micro-ATX, Mini-DTX, Mini-ITX motherboards
+
+### Total Price Calculation:
+- **Total Price**: 35,600 THB
+
+If you have any further questions or need additional information, feel free to ask! kubpom!
+2024-09-08 18:27:26 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:27:26 info: responseText Success load.
+2024-09-08 18:27:27 info: This is Total price found : 36110
+2024-09-08 18:27:27 info: my context is : GALAX REVOLUTION 06
+2024-09-08 18:27:33 info: ________________________________________
+2024-09-08 18:27:33 info: Response summarized: Here are the detailed prices and specifications for each hardware component in your selected gaming PC:
+
+1. **CPU: INTEL CORE I5-14400F**
+   - **Price**: 7,890 THB
+   - **Socket**: LGA 1700 (14th Gen - Raptor Lake Refresh)
+   - **Integrated Graphics**: No
+   - **TDP**: 65 W
+   - **CPU Cooler**: Yes
+
+2. **Motherboard: MSI B760M GAMING PLUS WIFI**
+   - **Price**: 4,790 THB
+   - **CPU Socket**: LGA 1700
+   - **Chipset**: Intel B760
+   - **Memory Slots**: 4 (DDR5)
+   - **Maximum Memory Capacity**: 192 GB
+   - **Storage M.2**: 2 x M.2 slots
+   - **Form Factor**: Micro-ATX
+
+3. **GPU: GALAX GEFORCE RTX 4060 TI 8GB EX**
+   - **Price**: 14,900 THB
+   - **Chipset**: Nvidia GeForce 40 Series
+   - **Video Memory Capacity**: 8 GB (GDDR6)
+   - **Power Requirement**: 550 W
+
+4. **RAM: CORSAIR VENGEANCE DDR5 16GB (8GBx2)**
+   - **Price**: 2,390 THB (for 5200 MHz version)
+   - **Speed**: 5200 MHz
+   - **Memory Technology**: DDR5
+
+5. **SSD: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2**
+   - **Price**: 1,890 THB
+   - **Size**: 22 x 80 mm
+   - **Interface**: PCIe 4.0
+
+6. **Power Supply: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE**
+   - **Price**: 2,500 THB
+   - **Maximum Power**: 650 W
+   - **Certification**: 80 Plus Bronze
+
+7. **Case: GALAX REVOLUTION 06 (BLACK)**
+   - **Price**: 1,750 THB
+   - **Cooling Fans**: 3 x 120 mm RGB fans (front), 1 x 120 mm RGB fan (rear)
+   - **Supports**: ATX, Micro-ATX, Mini-DTX, Mini-ITX motherboards
+
+### Total Price Calculation:
+- **Total Price**: 36,110 THB
+
+If you have any further questions or need additional information, feel free to ask! 💻🎮🖥️
+2024-09-08 18:27:33 info: summaryResponse Success load.
+2024-09-08 18:28:42 info: Events received: [{"type":"message","message":{"type":"text","id":"525065818476904903","quoteToken":"kaBcEETmrPN1F4usOeXTu-JBFrfhVuh6iF0ilrZAytzgrnyhN2ulP6h7IBpXcT4rLFIlXweZBp54NfgZVqSSxkgWBuWZkv4m12bRizAYA4QBOpZ8Uipwz5F88wEH5vz48bmtT5t6Hf5-62dZp5h4nw","text":"I want to change GPU"},"webhookEventId":"01J78P9A13PJ809ZEBK744JH3E","deliveryContext":{"isRedelivery":false},"timestamp":1725794920073,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f7ff7bd7ea414ee29ca16e6bfa2bfe8c","mode":"active"}]
+2024-09-08 18:28:42 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:28:42 info: User Agent Success load.
+2024-09-08 18:28:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:28:47 info: User input: I want to change GPU
+2024-09-08 18:28:47 info: Response: What GPU would you like to change to? Here are some options you might consider:
+
+1. **ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6**
+2. **MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC**
+3. **GIGABYTE GEFORCE RTX 4060 GAMING OC 8GB GDDR6**
+4. **ZOTAC GEFORCE RTX 4060 8GB GDDR6**
+
+Please let me know which one you prefer or if you have another specific model in mind! kubpom!
+2024-09-08 18:28:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:28:47 info: responseText Success load.
+2024-09-08 18:28:48 info: This is Total price found : 0
+2024-09-08 18:28:48 info: my context is : no mention
+2024-09-08 18:28:50 info: ________________________________________
+2024-09-08 18:28:50 info: Response summarized: What GPU would you like to change to? Here are some options you might consider:
+
+• **ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6**
+
+• **MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC**
+
+• **GIGABYTE GEFORCE RTX 4060 GAMING OC 8GB GDDR6**
+
+• **ZOTAC GEFORCE RTX 4060 8GB GDDR6**
+
+Please let me know which one you prefer or if you have another specific model in mind! 💻🎮✨
+2024-09-08 18:28:50 info: summaryResponse Success load.
+2024-09-08 18:29:14 info: Events received: [{"type":"message","message":{"type":"text","id":"525065873540251921","quoteToken":"vy0G6J_cVU4FmDPlZ1OYI5sSoFxigwKb9ZtceLnn0XTcMNEn45UCTHEELP6XUqxpcew-s_n7XSJHAZBT1D4RGGOWS5MRHj6Bu7t9m46lJRvDUjgMh7vvdQgQCVPIkvGS4ml0UCZB0rFGVQg_0XtcWg","text":"is release data?"},"webhookEventId":"01J78PA9P2KAT2RM7V2C44HHJ9","deliveryContext":{"isRedelivery":false},"timestamp":1725794952773,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"390a12abfef64ff99a123b5681d0cddb","mode":"active"}]
+2024-09-08 18:29:15 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:29:15 info: User Agent Success load.
+2024-09-08 18:29:17 info: ****************************************
+2024-09-08 18:29:17 info: Query Detection: GEFORCE RTX 4060
+2024-09-08 18:29:17 info: Tool Call: {
+  "id": "call_HYotx2C03gecYol5GuX73DHa",
+  "name": "vector_index_Hardware_-_Graphic_card_-_GIGABYTE",
+  "input": {
+    "query": "GEFORCE RTX 4060"
+  }
+}
+2024-09-08 18:29:17 info: ****************************************
+2024-09-08 18:29:31 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:29:31 info: User input: is release data?
+2024-09-08 18:29:31 info: Response: Here are some options for the GEFORCE RTX 4060 series GPUs along with their specifications and prices:
+
+1. **GIGABYTE GEFORCE RTX 4060 EAGLE OC 8G**
+   - **Price**: 11,400 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Dimensions**: 272 x 115 x 40 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+2. **GIGABYTE GEFORCE RTX 4060 GAMING OC 8G**
+   - **Price**: 11,700 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Dimensions**: 281 x 114 x 40 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+3. **GIGABYTE GEFORCE RTX 4060 TI ELITE 8G**
+   - **Price**: 15,200 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Dimensions**: 272 x 115 x 41 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+4. **GIGABYTE GEFORCE RTX 4060 TI GAMING OC 8G**
+   - **Price**: 16,100 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Dimensions**: 281 x 117 x 53 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+5. **GIGABYTE GEFORCE RTX 4060 TI WINDFORCE OC 8G**
+   - **Price**: 14,700 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Dimensions**: 201 x 120 x 41 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+6. **GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G**
+   - **Price**: 10,900 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Dimensions**: 192 x 120 x 41 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+Please let me know which GPU you would like to choose or if you need more information! kubpom!
+2024-09-08 18:29:31 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:29:31 info: responseText Success load.
+2024-09-08 18:29:32 info: This is Total price found : 11000
+2024-09-08 18:29:32 info: my context is : GEFORCE RTX 4060
+2024-09-08 18:29:37 info: ________________________________________
+2024-09-08 18:29:37 info: Response summarized: Here are some options for the GEFORCE RTX 4060 series GPUs along with their specifications and prices:
+
+1. **GIGABYTE GEFORCE RTX 4060 EAGLE OC 8G**
+   - **Price**: 11,400 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Dimensions**: 272 x 115 x 40 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+2. **GIGABYTE GEFORCE RTX 4060 GAMING OC 8G**
+   - **Price**: 11,700 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Dimensions**: 281 x 114 x 40 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+3. **GIGABYTE GEFORCE RTX 4060 TI ELITE 8G**
+   - **Price**: 15,200 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Dimensions**: 272 x 115 x 41 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+4. **GIGABYTE GEFORCE RTX 4060 TI GAMING OC 8G**
+   - **Price**: 16,100 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Dimensions**: 281 x 117 x 53 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+5. **GIGABYTE GEFORCE RTX 4060 TI WINDFORCE OC 8G**
+   - **Price**: 14,700 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Dimensions**: 201 x 120 x 41 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+6. **GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G**
+   - **Price**: 10,900 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Dimensions**: 192 x 120 x 41 mm
+   - **Power Connectors**: 1 x 8 Pin
+
+Please let me know which GPU you would like to choose or if you need more information! 💻🎮🖥️
+2024-09-08 18:29:37 info: summaryResponse Success load.
+2024-09-08 18:30:11 info: Events received: [{"type":"message","message":{"type":"text","id":"525065968818061393","quoteToken":"XKQES2Vp0c_DQSkaVlrF7SUVdkp3TKtw2BoxsJxefwEXL9AmK6zpE3cl4iO_CLUO1GX8CRa76nCsQig8JUEpxzlFoZyQ-7sD8e_l1Cq-exXhLrQUDSrLy3fXb6mPdRM6iUJWwHYI98B_g9oVDn5EKQ","text":"Can more series RTX 3000 Series."},"webhookEventId":"01J78PC12JSZF5YKG4SPTVPQG7","deliveryContext":{"isRedelivery":false},"timestamp":1725795009561,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"24f01ce0f6984583aeab42a0a8563562","mode":"active"}]
+2024-09-08 18:30:11 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:30:11 info: User Agent Success load.
+2024-09-08 18:30:14 info: ****************************************
+2024-09-08 18:30:14 info: Query Detection: RTX 3000 Series
+2024-09-08 18:30:14 info: Tool Call: {
+  "id": "call_IKxHMfcMEe5zhiKXx8N0wo59",
+  "name": "vector_index_Hardware_-_Graphic_card_-_GIGABYTE",
+  "input": {
+    "query": "RTX 3000 Series"
+  }
+}
+2024-09-08 18:30:14 info: ****************************************
+2024-09-08 18:30:16 info: ****************************************
+2024-09-08 18:30:16 info: Query Detection: RTX 3000 Series
+2024-09-08 18:30:16 info: Tool Call: {
+  "id": "call_cDh0uKUHW0X2IzGFChmHI7Q1",
+  "name": "vector_index_Hardware_-_Graphic_card_-_MSI",
+  "input": {
+    "query": "RTX 3000 Series"
+  }
+}
+2024-09-08 18:30:16 info: ****************************************
+2024-09-08 18:30:18 info: ****************************************
+2024-09-08 18:30:18 info: Query Detection: RTX 3000 Series
+2024-09-08 18:30:18 info: Tool Call: {
+  "id": "call_QcoA9fYuLvhUqZ37vMSwjHvA",
+  "name": "vector_index_Hardware_-_Graphic_card_-_ASUS",
+  "input": {
+    "query": "RTX 3000 Series"
+  }
+}
+2024-09-08 18:30:18 info: ****************************************
+2024-09-08 18:30:21 info: ****************************************
+2024-09-08 18:30:21 info: Query Detection: RTX 3000 Series
+2024-09-08 18:30:21 info: Tool Call: {
+  "id": "call_mQSrGt00uyUT7UcCnUvfIPPX",
+  "name": "vector_index_Hardware_-_Graphic_card_-_GALAX",
+  "input": {
+    "query": "RTX 3000 Series"
+  }
+}
+2024-09-08 18:30:21 info: ****************************************
+2024-09-08 18:30:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:30:28 info: User input: Can more series RTX 3000 Series.
+2024-09-08 18:30:28 info: Response: Here are some options for the RTX 3000 Series GPUs along with their specifications and prices:
+
+### MSI Graphics Cards
+1. **MSI GEFORCE RTX 3050 VENTUS 2X 6G OC**
+   - **Price**: 6,790 THB
+   - **Video Memory Capacity**: 6 GB GDDR6
+   - **Power Supply Needed**: 300 W
+
+2. **MSI GEFORCE RTX 3070 VENTUS 2X 8G OC LHR**
+   - **Price**: 14,500 THB
+   - **Video Memory Capacity**: 8 GB GDDR6
+   - **Power Supply Needed**: 650 W
+
+### ASUS Graphics Cards
+1. **ASUS DUAL GEFORCE RTX 3050 OC EDITION**
+   - **Price**: 6,950 THB
+   - **Video Memory Capacity**: 6 GB GDDR6
+
+2. **ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION**
+   - **Price**: 12,900 THB
+   - **Video Memory Capacity**: 8 GB GDDR6X
+
+### GALAX Graphics Card
+1. **GALAX GEFORCE RTX 3050 6GB EX**
+   - **Price**: 6,850 THB
+   - **Video Memory Capacity**: 6 GB GDDR6
+   - **Power Supply Needed**: 300 W
+   - **Dimensions**: 224 x 133 x 44 mm
+
+These models vary in price, power requirements, and performance. Let me know if you would like to choose one of these GPUs or if you need more information! kubpom!
+2024-09-08 18:30:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:30:28 info: responseText Success load.
+2024-09-08 18:30:30 info: This is Total price found : 6850
+2024-09-08 18:30:30 info: my context is : RTX 3000 Series
+2024-09-08 18:30:33 info: ________________________________________
+2024-09-08 18:30:33 info: Response summarized: Here are some options for the RTX 3000 Series GPUs along with their specifications and prices:
+
+### MSI Graphics Cards
+1. **MSI GEFORCE RTX 3050 VENTUS 2X 6G OC**  
+   - **Price**: 6,790 THB  
+   - **Video Memory Capacity**: 6 GB GDDR6  
+   - **Power Supply Needed**: 300 W  
+
+2. **MSI GEFORCE RTX 3070 VENTUS 2X 8G OC LHR**  
+   - **Price**: 14,500 THB  
+   - **Video Memory Capacity**: 8 GB GDDR6  
+   - **Power Supply Needed**: 650 W  
+
+### ASUS Graphics Cards
+1. **ASUS DUAL GEFORCE RTX 3050 OC EDITION**  
+   - **Price**: 6,950 THB  
+   - **Video Memory Capacity**: 6 GB GDDR6  
+
+2. **ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION**  
+   - **Price**: 12,900 THB  
+   - **Video Memory Capacity**: 8 GB GDDR6X  
+
+### GALAX Graphics Card
+1. **GALAX GEFORCE RTX 3050 6GB EX**  
+   - **Price**: 6,850 THB  
+   - **Video Memory Capacity**: 6 GB GDDR6  
+   - **Power Supply Needed**: 300 W  
+   - **Dimensions**: 224 x 133 x 44 mm  
+
+These models vary in price, power requirements, and performance. Let me know if you would like to choose one of these GPUs or if you need more information! 💻🎮🖥️
+2024-09-08 18:30:33 info: summaryResponse Success load.
+2024-09-08 18:31:07 info: Events received: [{"type":"message","message":{"type":"text","id":"525066061176635554","quoteToken":"aXEmtvVQz9Qpj7YDAYkjm9bfMGHLplwBgBhJqJib9F_I0HNyWQ93pbHBTptjCjQB5Ys4mKgVkCMptXRP9v_Gt2rMMKoXi1Nl3vLdwmXGK-qbUcVw-M4s0NwP0upX9_DGrqQ9viyc7NAdFQ0f8aKH4A","text":"is compatible ?"},"webhookEventId":"01J78PDQCEY412JAHQAZ4SPF2X","deliveryContext":{"isRedelivery":false},"timestamp":1725795064713,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ed90aa427da04eb5bc04ddc48d09a35f","mode":"active"}]
+2024-09-08 18:31:07 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:31:07 info: User Agent Success load.
+2024-09-08 18:31:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:31:13 info: User input: is compatible ?
+2024-09-08 18:31:13 info: Response: To determine compatibility, let's check the key specifications of your selected gaming PC components and the RTX 3000 Series GPUs:
+
+### Selected Gaming PC Components:
+1. **CPU**: INTEL CORE I5-14400F
+2. **Motherboard**: MSI B760M GAMING PLUS WIFI (LGA 1700)
+3. **Power Supply**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+
+### RTX 3000 Series GPUs:
+1. **MSI GEFORCE RTX 3050 VENTUS 2X 6G OC**
+   - **Power Supply Needed**: 300 W
+2. **MSI GEFORCE RTX 3070 VENTUS 2X 8G OC LHR**
+   - **Power Supply Needed**: 650 W
+3. **ASUS DUAL GEFORCE RTX 3050 OC EDITION**
+   - **Power Supply Needed**: 300 W
+4. **ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION**
+   - **Power Supply Needed**: Typically around 600 W
+5. **GALAX GEFORCE RTX 3050 6GB EX**
+   - **Power Supply Needed**: 300 W
+
+### Compatibility Check:
+- **Motherboard**: The MSI B760M GAMING PLUS WIFI supports the LGA 1700 socket, which is compatible with the Intel Core i5-14400F CPU.
+- **Power Supply**: The THERMALTAKE SMART BX1 650W provides sufficient power for all the listed GPUs, as they require between 300 W to 650 W.
+- **Physical Size**: Ensure that the GPU fits in the case (GALAX REVOLUTION 06). Most RTX 3000 Series GPUs should fit, but it's good to check the dimensions of the specific GPU against the case specifications.
+
+### Conclusion:
+All the listed RTX 3000 Series GPUs are compatible with your selected gaming PC configuration. If you have a specific GPU in mind, please confirm, and I can provide more details! kubpom!
+2024-09-08 18:31:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:31:13 info: responseText Success load.
+2024-09-08 18:31:14 info: This is Total price found : 0
+2024-09-08 18:31:14 info: my context is : no mention
+2024-09-08 18:31:19 info: ________________________________________
+2024-09-08 18:31:19 info: Response summarized: To determine compatibility, let's check the key specifications of your selected gaming PC components and the RTX 3000 Series GPUs:
+
+### Selected Gaming PC Components:
+1. **CPU**: INTEL CORE I5-14400F
+2. **Motherboard**: MSI B760M GAMING PLUS WIFI (LGA 1700)
+3. **Power Supply**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+
+### RTX 3000 Series GPUs:
+1. **MSI GEFORCE RTX 3050 VENTUS 2X 6G OC**
+   - **Power Supply Needed**: 300 W
+2. **MSI GEFORCE RTX 3070 VENTUS 2X 8G OC LHR**
+   - **Power Supply Needed**: 650 W
+3. **ASUS DUAL GEFORCE RTX 3050 OC EDITION**
+   - **Power Supply Needed**: 300 W
+4. **ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION**
+   - **Power Supply Needed**: Typically around 600 W
+5. **GALAX GEFORCE RTX 3050 6GB EX**
+   - **Power Supply Needed**: 300 W
+
+### Compatibility Check:
+- **Motherboard**: The MSI B760M GAMING PLUS WIFI supports the LGA 1700 socket, which is compatible with the Intel Core i5-14400F CPU.
+- **Power Supply**: The THERMALTAKE SMART BX1 650W provides sufficient power for all the listed GPUs, as they require between 300 W to 650 W.
+- **Physical Size**: Ensure that the GPU fits in the case (GALAX REVOLUTION 06). Most RTX 3000 Series GPUs should fit, but it's good to check the dimensions of the specific GPU against the case specifications.
+
+### Conclusion:
+All the listed RTX 3000 Series GPUs are compatible with your selected gaming PC configuration. If you have a specific GPU in mind, please confirm, and I can provide more details! 💻🎮✨
+2024-09-08 18:31:19 info: summaryResponse Success load.
+2024-09-08 18:31:48 info: Events received: [{"type":"message","message":{"type":"text","id":"525066131691274657","quoteToken":"YrO6CNhpG_Tl6j5M-5bT151uuIrdVOKiyLC3POIqernhdg9kWn_EWR7smkJv2E1mVAAqxbnli-1GJ-V5i5i5ikMmRAqD-DYuYhEaD4VszSaQ9_NlLSbb338BscgqoJarowe-YgpUeIKaxlSZRvtBDw","text":"ok i choose RTX 3000 is 5 choice."},"webhookEventId":"01J78PF03XY4H1DGERCK142W2F","deliveryContext":{"isRedelivery":false},"timestamp":1725795106646,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9f0e3f179a8046b285932c091664f582","mode":"active"}]
+2024-09-08 18:31:49 info: Loading animation request accepted. Waiting for processing.
+2024-09-08 18:31:49 info: User Agent Success load.
+2024-09-08 18:31:54 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:31:54 info: User input: ok i choose RTX 3000 is 5 choice.
+2024-09-08 18:31:54 info: Response: Great choice! Here are the details for your selected GPU:
+
+### **ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION**
+- **Price**: 12,900 THB
+- **Video Memory Capacity**: 8 GB GDDR6X
+- **Power Supply Needed**: Typically around 600 W
+
+### Updated Gaming PC Configuration:
+1. **CPU**: INTEL CORE I5-14400F - 7,890 THB
+2. **Motherboard**: MSI B760M GAMING PLUS WIFI - 4,790 THB
+3. **GPU**: ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION - 12,900 THB
+4. **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) - 2,390 THB
+5. **SSD**: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2 - 1,890 THB
+6. **Power Supply**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE - 2,500 THB
+7. **Case**: GALAX REVOLUTION 06 (BLACK) - 1,750 THB
+
+### Total Price Calculation:
+- **Total Price**: 35,600 THB (previous total) + 12,900 THB (new GPU) - 0 THB (no change in other components) = **Total Price: 35,600 THB**
+
+Would you like to proceed with this configuration, or do you need any further modifications or information? kubpom!
+2024-09-08 18:31:54 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-08 18:31:54 info: responseText Success load.
+2024-09-08 18:31:55 info: This is Total price found : 34110
+2024-09-08 18:31:55 info: my context is : no mention
+2024-09-08 18:31:59 info: ________________________________________
+2024-09-08 18:31:59 info: Response summarized: Great choice! Here are the details for your selected GPU:
+
+### **ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION**
+- **Price**: 12,900 THB
+- **Video Memory Capacity**: 8 GB GDDR6X
+- **Power Supply Needed**: Typically around 600 W
+
+### Updated Gaming PC Configuration:
+1. **CPU**: INTEL CORE I5-14400F - 7,890 THB
+2. **Motherboard**: MSI B760M GAMING PLUS WIFI - 4,790 THB
+3. **GPU**: ASUS DUAL GEFORCE RTX 3060 TI WHITE OC EDITION - 12,900 THB
+4. **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) - 2,390 THB
+5. **SSD**: HIKSEMI FUTURE - 512 GB PCIe 4x4/NVMe M.2 - 1,890 THB
+6. **Power Supply**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE - 2,500 THB
+7. **Case**: GALAX REVOLUTION 06 (BLACK) - 1,750 THB
+
+### Total Price Calculation:
+- **Total Price**: 34110 THB
+
+Would you like to proceed with this configuration, or do you need any further modifications or information? 💻🎮🖥️
+2024-09-08 18:31:59 info: summaryResponse Success load.

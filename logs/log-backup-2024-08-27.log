@@ -1,0 +1,501 @@
+2024-08-27 17:22:50 info: ----------------------------------------
+2024-08-27 17:22:50 info: Server started and listening on port 8000
+2024-08-27 17:22:50 info: ----------------------------------------
+2024-08-27 17:24:41 info: Events received: []
+2024-08-27 17:25:04 info: Events received: [{"type":"message","message":{"type":"text","id":"523319956197343485","quoteToken":"K45GUq2KmZcYpNDX0C2RC2cqmlGBe48-_IJP4XEfXtcQrIF5dT1aD9MyBg1jKZLMgh4-bwcNl8nER4wOf-IxQkUlNx4ZmqBl_quwo50PZy4kRl_wTX8F8WZPcm5FN1FnlBNX5XmoFsxmSaR-_ie2Dg","text":"Hi"},"webhookEventId":"01J69NW8FZWWVSAY5E2DA6BHYG","deliveryContext":{"isRedelivery":false},"timestamp":1724754305117,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"045d37f2627d4f87a14d7c586cfa67f5","mode":"active"}]
+2024-08-27 17:25:04 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:25:04 error: Error initializing agent: hardwareCategories is not defined
+2024-08-27 17:25:04 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: hardwareCategories is not defined
+2024-08-27 17:25:42 info: 
+2024-08-27 17:25:45 info: ----------------------------------------
+2024-08-27 17:25:45 info: Server started and listening on port 8000
+2024-08-27 17:25:45 info: ----------------------------------------
+2024-08-27 17:25:49 info: Events received: [{"type":"message","message":{"type":"text","id":"523320031913443683","quoteToken":"C8GOiLSwuEUPcTnUA_ehVWFvVFPkSnspXbmKWOpBeRK7qTK09JMjKKJUwZrvqSOJKlNRtz46rHCdwYXWE4GfVRcm3OXilhjbHtv6tcThcFB-UES5Yzc5K4R8jZMEWCvYrBMFDxhJa-JWxrTdWRI23A","text":"Hi"},"webhookEventId":"01J69NXM888V0QZY152XKVHJTP","deliveryContext":{"isRedelivery":false},"timestamp":1724754350085,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5b8f81bac0fb40f584ea6100902ba314","mode":"active"}]
+2024-08-27 17:25:49 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:25:49 error: Error initializing agent: hardwareCategories is not defined
+2024-08-27 17:25:49 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: hardwareCategories is not defined
+2024-08-27 17:26:32 info: 
+2024-08-27 17:26:35 info: ----------------------------------------
+2024-08-27 17:26:35 info: Server started and listening on port 8000
+2024-08-27 17:26:35 info: ----------------------------------------
+2024-08-27 17:26:38 info: Events received: [{"type":"message","message":{"type":"text","id":"523320115413647617","quoteToken":"wrzMb_3q3IOdJ0u1jWEV-PVCljcnyM3xWOvPbSE4x_0Irg60SE6JTnmTECA_0jv2xCdN-7vArKVrED7aF8svpjnC41nDDcfB1MqPqb2rhLBbvJiu-I2olhOdrNK-0x2kE7Q4qAiQBC2EX0B5-jNvbA","text":"Hi"},"webhookEventId":"01J69NZ4NJ37WANVC3T1KDMS3F","deliveryContext":{"isRedelivery":false},"timestamp":1724754399843,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"67cd2d5a2aad4ea3980060de8c2d0680","mode":"active"}]
+2024-08-27 17:26:38 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:26:38 info: Agent initialized successfully
+2024-08-27 17:26:40 error: Error in agent chat: 400 Invalid 'tools[0].function.description': string too long. Expected a string with maximum length 1024, but got a string with length 1027 instead.
+2024-08-27 17:26:40 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: 400 Invalid 'tools[0].function.description': string too long. Expected a string with maximum length 1024, but got a string with length 1027 instead.
+2024-08-27 17:29:58 info: 
+2024-08-27 17:30:00 info: ----------------------------------------
+2024-08-27 17:30:00 info: Server started and listening on port 8000
+2024-08-27 17:30:00 info: ----------------------------------------
+2024-08-27 17:30:04 info: Events received: [{"type":"message","message":{"type":"text","id":"523320461124436158","quoteToken":"vRl4FpMQxBiSsj90p68KZIJfYp8ZYgTkmIp2hP7xvt6YxD5F0lJbkXJLZ4mz7u7U31bllGiRCX0ethElpbYiLt1PJEGwtxPAS2HD-x3_z7D5KBQm9g6CoSe1zIfwsOcg9YoO1WVsY0wlESUbs0CjKg","text":"Hi"},"webhookEventId":"01J69P5E6NC2XKTXJ4GX972MS0","deliveryContext":{"isRedelivery":false},"timestamp":1724754606054,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"114db2a22a3c4dad8f39406fc8c642b8","mode":"active"}]
+2024-08-27 17:30:05 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:30:05 info: Agent initialized successfully
+2024-08-27 17:30:08 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:30:08 info: User input: Hi
+2024-08-27 17:30:08 info: Response: Hello! How can I assist you today? Are you looking to assemble a desktop PC or need help with something else? kubpom!
+2024-08-27 17:30:08 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:30:09 info: Complete Calculated this Total price : 0
+2024-08-27 17:30:10 info: Returning direct response: Hello! How can I assist you today? Are you looking to assemble a desktop PC or need help with something else? kubpom!
+2024-08-27 17:30:25 info: Events received: [{"type":"message","message":{"type":"text","id":"523320495165931540","quoteToken":"_cJAtj7KIZEHKXrttxSJqIIIjBPq-9nBPPA0tKo7T_3TnTtBItk4fwthWA3TMqAZQOtoFLmIA0iczCU6MFaZ664ayJeOa7r16lra3WxSEfWmS-ziXUEs0TWqOAG7XtDkpD2i5TJeD0mUFBf4gelz1w","text":"assemble a desktop PC"},"webhookEventId":"01J69P61YFK79FV3PAT4JKZ2CT","deliveryContext":{"isRedelivery":false},"timestamp":1724754626254,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"06062ac4919c4f49bbc469e0928d2baa","mode":"active"}]
+2024-08-27 17:30:25 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:30:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:30:27 info: User input: assemble a desktop PC
+2024-08-27 17:30:27 info: Response: Would you like a recommended PC spec based on your needs, or do you prefer to choose all the components yourself? If you want a recommendation, please let me know the type of PC you're looking for (Work PC, Gaming PC, General PC, or Hi-end PC) and your budget. kubpom!
+2024-08-27 17:30:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:30:28 info: Complete Calculated this Total price : 0
+2024-08-27 17:30:29 info: Returning direct response: Would you like a recommended PC spec based on your needs, or do you prefer to choose all the components yourself? If you want a recommendation, please let me know the type of PC you're looking for (Work PC, Gaming PC, General PC, or Hi-end PC) and your budget. kubpom!
+2024-08-27 17:30:38 info: Events received: [{"type":"message","message":{"type":"text","id":"523320516892164163","quoteToken":"49bjnpNt8q8kd76ss-J5zup9IIgnaPRA9VBkGZU_N-VXrkBjazDRFq6J_JP9eyuAiFUplaSVgGjkYQ1OIGAoeJYxOlvtokmqAxGN9Tlf_Wu33znqhCA7IgQba_1bVhOodVlozVBQcA0_08PqE3CBOw","text":"recommended PC for me"},"webhookEventId":"01J69P6EVZPD4ZPJAG8CVH34K4","deliveryContext":{"isRedelivery":false},"timestamp":1724754639235,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2caca7dcb43349ac9dab4a91df745228","mode":"active"}]
+2024-08-27 17:30:38 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:30:40 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:30:40 info: User input: recommended PC for me
+2024-08-27 17:30:40 info: Response: Great! Could you please specify the type of PC you're looking for? Here are the options:
+
+1. Work PC
+2. Gaming PC
+3. General PC
+4. Hi-end PC
+
+Also, please let me know your budget. kubpom!
+2024-08-27 17:30:40 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:30:41 info: Complete Calculated this Total price : 0
+2024-08-27 17:30:42 info: Returning direct response: Great! Could you please specify the type of PC you're looking for? Here are the options:
+
+1. Work PC
+2. Gaming PC
+3. General PC
+4. Hi-end PC
+
+Also, please let me know your budget. null kubpom!
+2024-08-27 17:32:01 info: Events received: [{"type":"message","message":{"type":"text","id":"523320656310829139","quoteToken":"qFYBy5KBqiACYMRGFSzKPRvBC0oSZx1RDySjZh_T7UWBtyIig6oGwPed3OoZoYbMzTS_1CIMt4xtXMU28CTEFvu3_xoWnRRFxELiza4-hSRPg33Q488cVNrlZG8aftwNW7yjr_90SxjdCuV1KSMiqg","text":"1"},"webhookEventId":"01J69P8ZPKK7W8XGQM7DGXCB0S","deliveryContext":{"isRedelivery":false},"timestamp":1724754722405,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a6cfb99d28c24c168643fb8ef88a444c","mode":"active"}]
+2024-08-27 17:32:01 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:32:12 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:32:12 info: User input: 1
+2024-08-27 17:32:12 info: Response: What is your budget for the Work PC? This will help me recommend the best components for you. kubpom!
+2024-08-27 17:32:12 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:32:13 info: Complete Calculated this Total price : 0
+2024-08-27 17:32:14 info: Returning direct response: What is your budget for the Work PC? This will help me recommend the best components for you. kubpom!
+2024-08-27 17:32:28 info: Events received: [{"type":"message","message":{"type":"text","id":"523320701826892166","quoteToken":"AEt-bd8buwgxXIc8SF1sOsE0JYwkcH4abjB18_JYWB-Cz-VF-_Rnt9roifo-AyAUE33vc1dWx74nq9Wk--E9bvSUm3KLKUf7sQhGIbZqMNVIB1gglVVTKRzrL8eR6OsEYX6f910QHKUBW8wa50CO2A","text":"30000"},"webhookEventId":"01J69P9THBQ1TRSVVRT02SB0HN","deliveryContext":{"isRedelivery":false},"timestamp":1724754749495,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"be2137e0f14447448004445324d58697","mode":"active"}]
+2024-08-27 17:32:28 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:32:30 info: ****************************************
+2024-08-27 17:32:30 info: Query Detection: Work PC with a budget of 30000
+2024-08-27 17:32:30 info: Tool Call: {
+  "id": "call_YzuZ9S9wA2wabalZSRfIIsb1",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "Work PC with a budget of 30000"
+  }
+}
+2024-08-27 17:32:30 info: ****************************************
+2024-08-27 17:32:40 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:32:40 info: User input: 30000
+2024-08-27 17:32:40 info: Response: I found a recommended Work PC configuration, but it slightly exceeds your budget of 30,000 THB. Here are the details:
+
+**COMPUTERSET JIB MARU-2408066**
+- **CPU**: INTEL CORE I5-14500 - 14C 20T 1.9-5.0GHz (INTEL SOCKET 1700)
+- **Motherboard**: MSI PRO B760M-P (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) 32GB (16GBx2) DDR5 5200MHz
+- **SSD**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 500 GB
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE (BLACK) (ATX)
+- **CASE**: GALAX REVOLUTION 06 (BLACK) (ATX)
+- **Cooler**: ID COOLING SE-224-XTS ARGB
+- **Total Price**: 33,590 THB
+
+Since this exceeds your budget, you might want to consider either increasing your budget or looking for alternative components to lower the total cost. Would you like to adjust the components or budget? kubpom!
+2024-08-27 17:32:40 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:32:41 info: Complete Calculated this Total price : 0
+2024-08-27 17:32:46 info: Returning direct response: I found a recommended Work PC configuration, but it slightly exceeds your budget of 30,000 THB. Here are the details:
+
+**COMPUTERSET JIB MARU-2408066**
+- **CPU**: INTEL CORE I5-14500 - 14C 20T 1.9-5.0GHz (INTEL SOCKET 1700)
+- **Motherboard**: MSI PRO B760M-P (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) 32GB (16GBx2) DDR5 5200MHz
+- **SSD**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 500 GB
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE (BLACK) (ATX)
+- **CASE**: GALAX REVOLUTION 06 (BLACK) (ATX)
+- **Cooler**: ID COOLING SE-224-XTS ARGB
+- **Total Price**: null
+
+Since this exceeds your budget, you might want to consider either increasing your budget or looking for alternative components to lower the total cost. Would you like to adjust the components or budget? kubpom!
+2024-08-27 17:33:18 info: Events received: [{"type":"message","message":{"type":"text","id":"523320785864753457","quoteToken":"d6yw3T1Z3zrnXu9s0Z_X12VfDd8-C2XXXRi8Yu_xhk0NF8v0PQWJoRcH8xv0vBaco1KPOC7Cvw_oiXEgWj9HiQziIsTdcu0M7jL95pXIAVhvuSjL3pqJJ-bQI8FCaVh0-e5dOjVFUr2qAM0QuTX-Bg","text":"what is total price?"},"webhookEventId":"01J69PBAWWZYR7JM22W5HPY4QY","deliveryContext":{"isRedelivery":false},"timestamp":1724754799464,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"895632ce38b94d6ebf2c0f0baf3139b3","mode":"active"}]
+2024-08-27 17:33:18 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:33:20 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:33:20 info: User input: what is total price?
+2024-08-27 17:33:20 info: Response: The total price for the recommended Work PC configuration is **33,590 THB**. This amount exceeds your budget of 30,000 THB. Would you like to adjust the components to fit within your budget, or would you prefer to increase your budget? kubpom!
+2024-08-27 17:33:20 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:33:21 info: Complete Calculated this Total price : 0
+2024-08-27 17:33:24 info: Returning direct response:  The total price for the recommended Work PC configuration is **null**. This amount exceeds your budget of 30,000 THB. Would you like to adjust the components to fit within your budget, or would you prefer to increase your budget? kubpom!
+2024-08-27 17:33:52 info: 
+2024-08-27 17:33:56 info: ----------------------------------------
+2024-08-27 17:33:56 info: Server started and listening on port 8000
+2024-08-27 17:33:56 info: ----------------------------------------
+2024-08-27 17:33:59 info: Events received: [{"type":"message","message":{"type":"text","id":"523320855036690482","quoteToken":"_hye29quwt6q5AXp64sH-QMMfsOZNV-ZE3lPf4N-rE68_G7kDH7-noJrnxilbokGNXsY15b9zOmH5yguK0v8e8Lqpmk1vzyStJ0z617oav78w2JuUa0oLE2S0AUC5HyqEeN8mRBAHP9-aS1qeq6eWQ","text":"Hi"},"webhookEventId":"01J69PCKAHDW224VRVXWMAA0QN","deliveryContext":{"isRedelivery":false},"timestamp":1724754840756,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c0349ff12d044ae09672930d915f9b74","mode":"active"}]
+2024-08-27 17:33:59 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:33:59 info: Agent initialized successfully
+2024-08-27 17:34:01 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:34:01 info: User input: Hi
+2024-08-27 17:34:01 info: Response: Hello! How can I assist you today? Are you looking to assemble a desktop PC or need help with something else? kubpom!
+2024-08-27 17:34:01 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:34:02 info: Complete Calculated this Total price : 0
+2024-08-27 17:34:03 info: Returning direct response: Hello! How can I assist you today? Are you looking to assemble a desktop PC or need help with something else? kubpom!
+2024-08-27 17:34:16 info: Events received: [{"type":"message","message":{"type":"text","id":"523320883961135250","quoteToken":"aINnOixLlQfDWC8Ixtto2vicdKNRV5cTBnGk5jMKLspSXfgKEzhWRUKwolBwrmstws2D4uTff5dvUauXkWJVWsyvgTZ8nctl3CNJg_Jda7eAKLSQj27Xd9kMLAc8Hf_eDdeKLeikX8sZYvVN1-TB-w","text":"I want PC"},"webhookEventId":"01J69PD41JQFPTDANZQ02YPB3T","deliveryContext":{"isRedelivery":false},"timestamp":1724754857932,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"122c7be1ac114a38bf5ca29979e23de4","mode":"active"}]
+2024-08-27 17:34:17 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:34:19 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:34:19 info: User input: I want PC
+2024-08-27 17:34:19 info: Response: Would you like a recommended PC spec based on your needs, or do you prefer to choose all the components yourself? If you want a recommendation, please let me know the type of PC you're looking for (Work PC, Gaming PC, General PC, or Hi-end PC) and your budget. kubpom!
+2024-08-27 17:34:19 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:34:22 info: Complete Calculated this Total price : 0
+2024-08-27 17:34:23 info: Returning direct response: Would you like a recommended PC spec based on your needs, or do you prefer to choose all the components yourself? If you want a recommendation, please let me know the type of PC you're looking for (Work PC, Gaming PC, General PC, or Hi-end PC) and your budget. kubpom!
+2024-08-27 17:34:33 info: Events received: [{"type":"message","message":{"type":"text","id":"523320911844605970","quoteToken":"iepH5xHrwB5vzmxsUd16Q7Ld-8ioI0WUQM097wfQGn7-4VuXDWL9Cmf89nwF4VQmuxAhI2qv0xno3ArgERoDeAw5uWc0yECDaXUPl2tBF_NfjMlEhMdueR-y-jXbeNiaCKiJmdYGZ8YsvBn_Nrl56g","text":"can recommend for me"},"webhookEventId":"01J69PDMKZGBRBPT0MDYEKEPX7","deliveryContext":{"isRedelivery":false},"timestamp":1724754874634,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ce135a1150da448cb5c7b1c257df1e27","mode":"active"}]
+2024-08-27 17:34:33 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:34:35 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:34:35 info: User input: can recommend for me
+2024-08-27 17:34:35 info: Response: Great! Please let me know what type of PC you need:
+
+1. Work PC
+2. Gaming PC
+3. General PC
+4. Hi-end PC
+
+Also, please provide your budget for the PC. kubpom!
+2024-08-27 17:34:35 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:34:36 info: Complete Calculated this Total price : 0
+2024-08-27 17:34:37 info: Returning direct response: but responeText have a "Total price" can replace a total price with 0 
+2024-08-27 17:36:21 info: 
+2024-08-27 17:44:27 info: ----------------------------------------
+2024-08-27 17:44:27 info: Server started and listening on port 8000
+2024-08-27 17:44:27 info: ----------------------------------------
+2024-08-27 17:44:34 info: Events received: [{"type":"message","message":{"type":"text","id":"523321919853560241","quoteToken":"5y2MiTEcdlDIu5uB6CAZNaevIWstl3maC0LZKHhm2IQe4C2o0byVIjFssSUhZxd8RjHVK0fX3m-sno6JRch05MT7wAKK3-Ic8dya-gO0iskcPykecELc8Zymf95MCWp3ZKHM6JDKCw43ak_eALzxeg","text":"Hi"},"webhookEventId":"01J69PZZ3W6XFVPASPXC522ZXM","deliveryContext":{"isRedelivery":false},"timestamp":1724755475377,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"73490902dbbc455fa7298fbb40d81033","mode":"active"}]
+2024-08-27 17:44:34 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:44:34 info: Agent initialized successfully
+2024-08-27 17:44:36 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:44:36 info: User input: Hi
+2024-08-27 17:44:36 info: Response: Hello! How can I assist you today? Are you looking to assemble a desktop PC or need help with something else? kubpom!
+2024-08-27 17:44:36 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:44:37 info: ________________________________________
+2024-08-27 17:44:37 info: Response summarized: Hello! How can I assist you today? Are you looking to assemble a desktop PC or need help with something else? kubpom!
+2024-08-27 17:44:43 info: Events received: [{"type":"message","message":{"type":"text","id":"523321934583955873","quoteToken":"wsc-rPKZzf5FRKsgiEpYCMDcaA3Oz45QmKVFmGmmcd-kHRKFB72p0HuMvCvXGgD86KUHrNEigAKrnucsaew7PBsB_2cB1RUZP9k-RP_zO9VU2oEY3JwzCJDJ3cRttTa83T4daB-kvi4Ug4obYjExNA","text":"I want PC"},"webhookEventId":"01J69Q07ZPZZ5QF40TMHE53N5H","deliveryContext":{"isRedelivery":false},"timestamp":1724755484155,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2186f12d584b438f8c4374686e17729c","mode":"active"}]
+2024-08-27 17:44:43 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:44:46 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:44:46 info: User input: I want PC
+2024-08-27 17:44:46 info: Response: Would you like a recommended PC spec based on your needs, or do you prefer to choose all the components yourself? If you want a recommendation, please let me know the type of PC you're looking for (Work PC, Gaming PC, General PC, or Hi-end PC) and your budget. kubpom!
+2024-08-27 17:44:46 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:44:47 info: ________________________________________
+2024-08-27 17:44:47 info: Response summarized: Would you like a recommended PC spec based on your needs, or do you prefer to choose all the components yourself? If you want a recommendation, please let me know the type of PC you're looking for (Work PC, Gaming PC, General PC, or Hi-end PC) and your budget. kubpom!
+2024-08-27 17:44:55 info: Events received: [{"type":"message","message":{"type":"text","id":"523321955034595458","quoteToken":"ZgeeL921nApqKeo-M03s7jOKbnGcf-smK82u1z5Rn1uGVkiqGLnrogkbfqDt6fUoIgUJQJkNG7A7wYZZBOaUeIFl2hD013SexI9AX_aKX8w7IeCvI_9BSNuFcD_zJoDEomuRGiZKlKpvLHX0h_1t0g","text":"can recommend for me?"},"webhookEventId":"01J69Q0KKANWW02PBQQJV0E03Y","deliveryContext":{"isRedelivery":false},"timestamp":1724755496358,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"391bc8dc1d5e4e908e2472a97153c7a8","mode":"active"}]
+2024-08-27 17:44:55 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:44:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:44:58 info: User input: can recommend for me?
+2024-08-27 17:44:58 info: Response: Great! Please let me know what type of PC you're looking for:
+
+1. Work PC
+2. Gaming PC
+3. General PC
+4. Hi-end PC
+
+Also, please provide your budget for the PC. kubpom!
+2024-08-27 17:44:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:45:01 info: ________________________________________
+2024-08-27 17:45:01 info: Response summarized: Great! Please let me know what type of PC you're looking for:
+
+1. Work PC
+2. Gaming PC
+3. General PC
+4. Hi-end PC
+
+Also, please provide your budget for the PC. kubpom!
+2024-08-27 17:45:08 info: Events received: [{"type":"message","message":{"type":"text","id":"523321976475877952","quoteToken":"GgMo8wDyc8Y_Mia_Pa9b__gtxnVbwBjC1g39jW8AN7iKJs_cnY8iF_UOLD0VhJBoztW3WvAwwFJOnRU5F57reRL3O6p-m2V1L4-HuaJloisX7TfXS6m0p_uGS7bX1yxOfL3JdDhSbfk-60KYdFu5iw","text":"for work"},"webhookEventId":"01J69Q10J8WRE7E4HFDH0YX4QF","deliveryContext":{"isRedelivery":false},"timestamp":1724755509324,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5add621e37eb441a9ad3c8b9d70ed549","mode":"active"}]
+2024-08-27 17:45:08 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:45:10 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:45:10 info: User input: for work
+2024-08-27 17:45:10 info: Response: What is your budget for the Work PC? This will help me recommend the best components for you. kubpom!
+2024-08-27 17:45:10 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:45:11 info: ________________________________________
+2024-08-27 17:45:11 info: Response summarized: What is your budget for the Work PC? This will help me recommend the best components for you. kubpom!
+2024-08-27 17:45:18 info: Events received: [{"type":"message","message":{"type":"text","id":"523321993270133335","quoteToken":"QGvR3iXKHJoV1qCN9Dp5ChZQo30zM56oGQiqLBnbhzTwXeZXwPB0PFHgUbM-RfqGiGJl9qQKhkCtfoj_8BCHayfOhudKGSe9ZY7cNMTtzZU-M6Ot-9WykFQZ3FCmweCouv-KorX4jgR5KENIHFL0lw","text":"have 30000"},"webhookEventId":"01J69Q1AAVN37BTTVAZ0MET1HK","deliveryContext":{"isRedelivery":false},"timestamp":1724755519328,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"80bd64dccc944e7ba1d33fa58d662674","mode":"active"}]
+2024-08-27 17:45:18 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:45:22 info: ****************************************
+2024-08-27 17:45:22 info: Query Detection: Work PC with a budget of 30000
+2024-08-27 17:45:22 info: Tool Call: {
+  "id": "call_4pcy6zEn3cXZi4RPQUmXS9jM",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "Work PC with a budget of 30000"
+  }
+}
+2024-08-27 17:45:22 info: ****************************************
+2024-08-27 17:45:33 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:45:33 info: User input: have 30000
+2024-08-27 17:45:33 info: Response: I found a recommended Work PC configuration, but it slightly exceeds your budget of 30,000 THB. Here's the spec:
+
+**COMPUTERSET JIB MARU-2408066**
+- **CPU**: INTEL CORE I5-14500 - 14C 20T 1.9-5.0GHz (INTEL SOCKET 1700)
+- **Motherboard**: MSI PRO B760M-P (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) 32GB (16GBx2) DDR5 5200MHz
+- **SSD**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 500 GB
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE (BLACK) (ATX)
+- **CASE**: GALAX REVOLUTION 06 (BLACK) (ATX)
+- **Cooler**: ID COOLING SE-224-XTS ARGB
+- **Total Price**: 33,590 THB
+
+Since this option is over your budget, you might want to consider adjusting your budget or looking for alternative configurations. Would you like me to help you find a more budget-friendly option? kubpom!
+2024-08-27 17:45:33 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:45:38 info: ________________________________________
+2024-08-27 17:45:38 info: Response summarized: I found a recommended Work PC configuration, but it slightly exceeds your budget of 30,000 THB. Here's the spec:
+
+**COMPUTERSET JIB MARU-2408066**
+- **CPU**: INTEL CORE I5-14500 - 14C 20T 1.9-5.0GHz (INTEL SOCKET 1700)
+- **Motherboard**: MSI PRO B760M-P (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) 32GB (16GBx2) DDR5 5200MHz
+- **SSD**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 500 GB
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE (BLACK) (ATX)
+- **CASE**: GALAX REVOLUTION 06 (BLACK) (ATX)
+- **Cooler**: ID COOLING SE-224-XTS ARGB
+- **Total Price**: 33,590 THB
+
+Since this option is over your budget, you might want to consider adjusting your budget or looking for alternative configurations. Would you like me to help you find a more budget-friendly option? kubpom!
+2024-08-27 17:45:46 info: Events received: [{"type":"message","message":{"type":"text","id":"523322041203163617","quoteToken":"DG9g-7KVEXkuyjTQtACARRJ4auR9MeISxbzykMrKWLJ8EI1sjEoQ0oCHlkll_-0tjS14xEytsubRtj62k_uazjuwFxgnJ-5gnVq3DtQSFBbS2T7H9uP_GJVdWYjH6naPhjw_vZr89qRZ-Z1n1usstw","text":"over budget?"},"webhookEventId":"01J69Q261PHR1RW7PXSQWMG22V","deliveryContext":{"isRedelivery":false},"timestamp":1724755547706,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"930906571ef2425d86a71055ab589c51","mode":"active"}]
+2024-08-27 17:45:47 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:45:49 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:45:49 info: User input: over budget?
+2024-08-27 17:45:49 info: Response: Yes, the recommended Work PC configuration I provided is 33,590 THB, which exceeds your budget of 30,000 THB. 
+
+Would you like me to look for a more budget-friendly option that fits within your 30,000 THB budget? kubpom!
+2024-08-27 17:45:49 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:45:50 info: ________________________________________
+2024-08-27 17:45:50 info: Response summarized: Yes, the recommended Work PC configuration I provided is 33,590 THB, which exceeds your budget of 30,000 THB. Would you like me to look for a more budget-friendly option that fits within your 30,000 THB budget? kubpom!
+2024-08-27 17:46:06 info: Events received: [{"type":"message","message":{"type":"text","id":"523322074320601677","quoteToken":"Cx-1R_VfBnEmzJ9GkGhoo_XcLU8l-DsLWHbcQAR9YhNJdHShYne7cokBX8GN4HJwu9FrLpzvaLU8ZCJ71Ni7P_p1qGgaXsSwu_RdlFFiHBDNcStL6ZrB5TZsLVGuYiAZh-Z5z2dbj44YIc-TfcgEeg","text":"can give five list to me"},"webhookEventId":"01J69Q2S1MST006VAG554BK7CY","deliveryContext":{"isRedelivery":false},"timestamp":1724755567605,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"3912462f3e5348539fb02856ca85e994","mode":"active"}]
+2024-08-27 17:46:06 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:46:11 info: ****************************************
+2024-08-27 17:46:11 info: Query Detection: Work PC under 30000
+2024-08-27 17:46:11 info: Tool Call: {
+  "id": "call_AvMDlWnCoFjlfou5zxzT3a2d",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "Work PC under 30000"
+  }
+}
+2024-08-27 17:46:11 info: ****************************************
+2024-08-27 17:46:13 info: ****************************************
+2024-08-27 17:46:13 info: Query Detection: Work PC under 30000
+2024-08-27 17:46:13 info: Tool Call: {
+  "id": "call_dpxKZVQVS2UE22m51kvCT87g",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "Work PC under 30000"
+  }
+}
+2024-08-27 17:46:13 info: ****************************************
+2024-08-27 17:46:15 info: ****************************************
+2024-08-27 17:46:15 info: Query Detection: Work PC under 30000
+2024-08-27 17:46:15 info: Tool Call: {
+  "id": "call_2NmnxkwsEPT83F88P4hQtKlS",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "Work PC under 30000"
+  }
+}
+2024-08-27 17:46:15 info: ****************************************
+2024-08-27 17:46:16 info: ****************************************
+2024-08-27 17:46:16 info: Query Detection: Work PC under 30000
+2024-08-27 17:46:16 info: Tool Call: {
+  "id": "call_LYD5xGG1WUZzbYjIyqS98xEE",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "Work PC under 30000"
+  }
+}
+2024-08-27 17:46:16 info: ****************************************
+2024-08-27 17:46:18 info: ****************************************
+2024-08-27 17:46:18 info: Query Detection: Work PC under 30000
+2024-08-27 17:46:18 info: Tool Call: {
+  "id": "call_WvJL3yEH2pf3LCn1dfVAWknU",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "Work PC under 30000"
+  }
+}
+2024-08-27 17:46:18 info: ****************************************
+2024-08-27 17:46:24 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:46:24 info: User input: can give five list to me
+2024-08-27 17:46:24 info: Response: It seems that there are no available Work PC configurations under your budget of 30,000 THB. The only option I found is:
+
+**COMPUTERSET JIB MARU-2408066**
+- **Total Price**: 33,590 THB
+
+Unfortunately, this option exceeds your budget. 
+
+If you're open to adjusting your budget or considering used components, I can help you explore other possibilities. Would you like to proceed with that? kubpom!
+2024-08-27 17:46:24 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:46:25 info: ________________________________________
+2024-08-27 17:46:25 info: Response summarized: It seems that there are no available Work PC configurations under your budget of 30,000 THB. The only option I found is:
+
+**COMPUTERSET JIB MARU-2408066**
+- **Total Price**: 33,590 THB
+
+Unfortunately, this option exceeds your budget. 
+
+If you're open to adjusting your budget or considering used components, I can help you explore other possibilities. Would you like to proceed with that? kubpom!
+2024-08-27 17:47:58 info: Events received: [{"type":"message","message":{"type":"text","id":"523322261940994257","quoteToken":"eSJhTbkDxK7928SvrLdBUQPhQFxN-TOe90Y0TVmVwOmVyWFhP8V4TLTtbUM1mqRrJQRJQySzDY6vtV2fHNPhhBg1NU15ZtAN5F31J84gi6OBIpV54zVxcgpYpYWey1yf-mZ7hBCzIr2Wmy0S-E7vpQ","text":"can give range budget for work pc?"},"webhookEventId":"01J69Q66H6TZTFYWXT7FC11FMM","deliveryContext":{"isRedelivery":false},"timestamp":1724755679273,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"31dab1c5d3f04ef8aa3b5ed6089bf8d6","mode":"active"}]
+2024-08-27 17:47:58 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:48:03 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:48:03 info: User input: can give range budget for work pc?
+2024-08-27 17:48:03 info: Response: For a Work PC, here are some budget ranges you might consider:
+
+1. **Budget Range: 20,000 - 25,000 THB**
+   - Suitable for basic office tasks, web browsing, and light productivity applications.
+
+2. **Budget Range: 25,000 - 30,000 THB**
+   - Good for more demanding applications, multitasking, and some light graphic work.
+
+3. **Budget Range: 30,000 - 35,000 THB**
+   - Ideal for professional work, including graphic design, video editing, and more intensive applications.
+
+4. **Budget Range: 35,000 - 40,000 THB**
+   - Excellent for high-performance tasks, including gaming, heavy multitasking, and professional software.
+
+5. **Budget Range: 40,000 THB and above**
+   - High-end configurations for advanced users, including gaming, 3D rendering, and other resource-intensive tasks.
+
+Let me know which budget range you prefer, and I can help you find suitable options! kubpom!
+2024-08-27 17:48:03 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:48:07 info: ________________________________________
+2024-08-27 17:48:07 info: Response summarized: For a Work PC, here are some budget ranges you might consider:
+
+1. **Budget Range: 20,000 - 25,000 THB**
+   - Suitable for basic office tasks, web browsing, and light productivity applications.
+
+2. **Budget Range: 25,000 - 30,000 THB**
+   - Good for more demanding applications, multitasking, and some light graphic work.
+
+3. **Budget Range: 30,000 - 35,000 THB**
+   - Ideal for professional work, including graphic design, video editing, and more intensive applications.
+
+4. **Budget Range: 35,000 - 40,000 THB**
+   - Excellent for high-performance tasks, including gaming, heavy multitasking, and professional software.
+
+5. **Budget Range: 40,000 THB and above**
+   - High-end configurations for advanced users, including gaming, 3D rendering, and other resource-intensive tasks.
+
+Let me know which budget range you prefer, and I can help you find suitable options! kubpom!
+2024-08-27 17:48:44 info: Events received: [{"type":"message","message":{"type":"text","id":"523322339216065013","quoteToken":"bZm11tzfnp5Hir9jj9UnM17fOi2x5WS2_K83YeN1_ETlzrBWxXY7cIvv5synUjuZuX3MVDT-US0tTWZnwnLgAydv5Oyhp1RLAzSGFeM0bNjej3V3FsDNs9zlFvWeY8pxqcOhVY4U03rsaqMgq9LXFg","text":"ok i choose JIB MARU-2408066"},"webhookEventId":"01J69Q7KA2M96AYCHASCWB6K07","deliveryContext":{"isRedelivery":false},"timestamp":1724755725515,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d460de42ea814c78a38b78264faa4d99","mode":"active"}]
+2024-08-27 17:48:44 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:48:50 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:48:50 info: User input: ok i choose JIB MARU-2408066
+2024-08-27 17:48:50 info: Response: Great choice! The **COMPUTERSET JIB MARU-2408066** is a solid option for a Work PC. Here’s a summary of the configuration:
+
+**COMPUTERSET JIB MARU-2408066**
+- **CPU**: INTEL CORE I5-14500 - 14C 20T 1.9-5.0GHz (INTEL SOCKET 1700)
+- **Motherboard**: MSI PRO B760M-P (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) 32GB (16GBx2) DDR5 5200MHz
+- **SSD**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 500 GB
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE (BLACK) (ATX)
+- **CASE**: GALAX REVOLUTION 06 (BLACK) (ATX)
+- **Cooler**: ID COOLING SE-224-XTS ARGB
+- **Total Price**: 33,590 THB
+
+Please check with your local J.I.B. Computer Group store for availability and any additional details. If you need help with anything else, feel free to ask! kubpom!
+2024-08-27 17:48:50 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:49:01 info: ________________________________________
+2024-08-27 17:49:01 info: Response summarized: Great choice! The **COMPUTERSET JIB MARU-2408066** is a solid option for a Work PC. Here’s a summary of the configuration:
+
+**COMPUTERSET JIB MARU-2408066**
+- **CPU**: INTEL CORE I5-14500 - 14C 20T 1.9-5.0GHz (INTEL SOCKET 1700)
+- **Motherboard**: MSI PRO B760M-P (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) 32GB (16GBx2) DDR5 5200MHz
+- **SSD**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 500 GB
+- **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE (BLACK) (ATX)
+- **CASE**: GALAX REVOLUTION 06 (BLACK) (ATX)
+- **Cooler**: ID COOLING SE-224-XTS ARGB
+- **Total Price**: 33,590 THB
+
+Please check with your local J.I.B. Computer Group store for availability and any additional details. If you need help with anything else, feel free to ask! kubpom!
+2024-08-27 17:49:22 info: Events received: [{"type":"message","message":{"type":"text","id":"523322401896006135","quoteToken":"7N4VJiE145hxhplV5pRBYV56tEHSyDjgDGgU8cLColucWPesTzZm684OlXJJjIovCvVViflIqwlv0aN5lomhRfGIWl8sLX4rUgB1IdBtqpx0CTnXuCq83yu7fPgsBQ1VlqlGt5KGcIClApaZfvuiWg","text":"more detail CPU ?"},"webhookEventId":"01J69Q8R4WG5207K3SG52H5DH9","deliveryContext":{"isRedelivery":false},"timestamp":1724755762832,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"0b4cf4ac34c5481b995317783a7e9935","mode":"active"}]
+2024-08-27 17:49:22 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:49:24 info: ****************************************
+2024-08-27 17:49:24 info: Query Detection: INTEL CORE I5-14500
+2024-08-27 17:49:24 info: Tool Call: {
+  "id": "call_7FPxxPxAGe2QEB3W0Jq1vtNb",
+  "name": "vector_index_Hardware_-_CPU_-_CPU",
+  "input": {
+    "query": "INTEL CORE I5-14500"
+  }
+}
+2024-08-27 17:49:24 info: ****************************************
+2024-08-27 17:49:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:49:32 info: User input: more detail CPU ?
+2024-08-27 17:49:32 info: Response: Here are the detailed specifications for the **INTEL CORE I5-14500** CPU:
+
+- **Price**: 9,490 THB
+- **Socket**: LGA 1700 (14th Gen - Raptor Lake Refresh)
+- **Integrated Graphics**: Intel UHD Graphics 770
+- **TDP (Thermal Design Power)**: 65 W
+- **CPU Cooler**: Yes (included)
+
+This CPU is well-suited for multitasking and productivity tasks, making it a great choice for a Work PC. If you have any more questions or need further assistance, feel free to ask! kubpom!
+2024-08-27 17:49:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:49:34 info: ________________________________________
+2024-08-27 17:49:34 info: Response summarized: Here are the detailed specifications for the **INTEL CORE I5-14500** CPU:
+
+- **Price**: 9,490 THB
+- **Socket**: LGA 1700 (14th Gen - Raptor Lake Refresh)
+- **Integrated Graphics**: Intel UHD Graphics 770
+- **TDP (Thermal Design Power)**: 65 W
+- **CPU Cooler**: Yes (included)
+
+This CPU is well-suited for multitasking and productivity tasks, making it a great choice for a Work PC. If you have any more questions or need further assistance, feel free to ask! kubpom!
+2024-08-27 17:49:49 info: Events received: [{"type":"message","message":{"type":"text","id":"523322448351855196","quoteToken":"OFDqdXKUBvQ9Lmb_1O9xVgfZ0J8q8RGlw94XC79A-K4zC5ftIcsCMAy0jgU6ZqpyQ7Y0ovE7c9UM8hpoVjm1sKT1zeZL9gG2FCgLkw84OijZJueo_GQIbU-Fk_NH3fcBKxpRwlvkg5NItyFIJBgqXQ","text":"motherboard?"},"webhookEventId":"01J69Q9JN93GH7MCWWBCKS4H2G","deliveryContext":{"isRedelivery":false},"timestamp":1724755790444,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6dcee261d1db48a183f9885967f11822","mode":"active"}]
+2024-08-27 17:49:49 info: Loading animation request accepted. Waiting for processing.
+2024-08-27 17:49:52 info: ****************************************
+2024-08-27 17:49:52 info: Query Detection: MSI PRO B760M-P
+2024-08-27 17:49:52 info: Tool Call: {
+  "id": "call_VfbePyLEYdHYADOMon5xZEsM",
+  "name": "vector_index_Hardware_-_Motherboard_-_MSI",
+  "input": {
+    "query": "MSI PRO B760M-P"
+  }
+}
+2024-08-27 17:49:52 info: ****************************************
+2024-08-27 17:50:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:50:00 info: User input: motherboard?
+2024-08-27 17:50:00 info: Response: Here are the detailed specifications for the **MSI PRO B760M-P** motherboard:
+
+- **Price**: 3,390 THB
+- **Socket**: LGA 1700 (compatible with Intel's 12th Gen, 13th Gen, and 14th Gen CPUs)
+- **CPU Chipset**: Intel B760
+- **CPU Series Supported**: Celeron, Core i3, Core i5, Core i7, Core i9, Pentium
+- **Memory Slots**: 4
+- **Memory Type**: DDR5
+- **Maximum Memory Capacity**: 192 GB
+- **Storage SATA 3**: 4 Ports
+- **Storage RAID Support**: 0/1/5/10
+- **Storage M.2 Slots**: 2 x M.2 slots
+- **Expansion Slots**: 1 x PCIe 4.0 x16 Slot, 2 x PCIe 4.0 x1 Slots
+- **Form Factor**: Micro-ATX
+- **Power Connector**: 24 + 8 Pin
+
+This motherboard provides a solid foundation for your Work PC, offering ample memory and storage options for various computing needs. If you have any more questions or need further assistance, feel free to ask! kubpom!
+2024-08-27 17:50:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-27 17:50:05 info: ________________________________________
+2024-08-27 17:50:05 info: Response summarized: Here are the detailed specifications for the **MSI PRO B760M-P** motherboard:
+
+- **Price**: 3,390 THB
+- **Socket**: LGA 1700 (compatible with Intel's 12th Gen, 13th Gen, and 14th Gen CPUs)
+- **CPU Chipset**: Intel B760
+- **CPU Series Supported**: Celeron, Core i3, Core i5, Core i7, Core i9, Pentium
+- **Memory Slots**: 4
+- **Memory Type**: DDR5
+- **Maximum Memory Capacity**: 192 GB
+- **Storage SATA 3**: 4 Ports
+- **Storage RAID Support**: 0/1/5/10
+- **Storage M.2 Slots**: 2 x M.2 slots
+- **Expansion Slots**: 1 x PCIe 4.0 x16 Slot, 2 x PCIe 4.0 x1 Slots
+- **Form Factor**: Micro-ATX
+- **Power Connector**: 24 + 8 Pin
+
+This motherboard provides a solid foundation for your Work PC, offering ample memory and storage options for various computing needs. If you have any more questions or need further assistance, feel free to ask! kubpom!

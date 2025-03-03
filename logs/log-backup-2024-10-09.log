@@ -1,0 +1,2050 @@
+2024-10-09 13:57:55 info: ----------------------------------------
+2024-10-09 13:57:55 info: Server started and listening on port 8000
+2024-10-09 13:57:55 info: ----------------------------------------
+2024-10-09 14:05:05 info: Events received: []
+2024-10-09 14:05:54 info: Events received: [{"type":"message","message":{"type":"text","id":"529532976313139398","quoteToken":"-e5YqvVpteNEIEEMlMZWZSqHzMrClZivVuQ4PWo-FVYOLkjw9pDhJN2MBp-gd-oeDgcSCqlWVuSvqzoi-gkrpaBtO5iY_T1sJnTNuFzI2LgQeEVdhEiXPCHyETAhupVlQnZ9NUy_06IO87l_cFKcow","text":"I want PC"},"webhookEventId":"01J9R1JE99F89TJ569TP8D0HZF","deliveryContext":{"isRedelivery":false},"timestamp":1728457553709,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a80d5dc7f1234b079d095db32ca4c173","mode":"active"}]
+2024-10-09 14:05:55 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:05:55 info: Agent Initialized
+2024-10-09 14:05:55 info: User Agent Success load.
+2024-10-09 14:06:00 info: ------------------------------------------------------
+2024-10-09 14:06:00 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range!
+2024-10-09 14:06:00 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:06:00 info: ------------------------------------------------------
+2024-10-09 14:06:00 info: responseText Success load.
+2024-10-09 14:06:03 info: This is Total price found : 0
+2024-10-09 14:06:06 info: ________________________________________
+2024-10-09 14:06:06 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range! 🎮💻🖥️
+2024-10-09 14:06:06 info: summaryResponse Success load.
+2024-10-09 14:06:34 info: Events received: [{"type":"message","message":{"type":"text","id":"529533043371934126","quoteToken":"ueMvu96FjwOc--I16WbSbR2ZtvD3tSWEHo41Nj-5EaW8SAKlGe0GfRa4K5yzWIQSes3tCwvFBtpH_WZNs241Kdm8_wJBYu-7HApZnbTLTq_T63WoFI5W6hvjLhbBa3bqBcqLhfGRzQf5HKmqpXRAaA","text":"Gaming PC"},"webhookEventId":"01J9R1KMZQ8G3ZHSS5H2E43H6T","deliveryContext":{"isRedelivery":false},"timestamp":1728457593669,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"4382054d286647929c7c6d1f3503d116","mode":"active"}]
+2024-10-09 14:06:34 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:06:34 info: User Agent Success load.
+2024-10-09 14:06:37 info: ------------------------------------------------------
+2024-10-09 14:06:37 info: Response Agent: What is your budget range for the gaming PC? Please provide a specific amount or range (e.g., 12,000 - 50,000 baht).
+2024-10-09 14:06:37 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:06:37 info: ------------------------------------------------------
+2024-10-09 14:06:37 info: responseText Success load.
+2024-10-09 14:06:39 info: This is Total price found : 0
+2024-10-09 14:06:40 info: ________________________________________
+2024-10-09 14:06:40 info: Response summarized: What is your budget range for the gaming PC? Please provide a specific amount or range (e.g., 12,000 - 50,000 baht). 🎮💻🕹️
+2024-10-09 14:06:40 info: summaryResponse Success load.
+2024-10-09 14:07:07 info: Events received: [{"type":"message","message":{"type":"text","id":"529533099626463602","quoteToken":"dYF4ZmNdozEjdMm_WTJfHDwkBEmvY6Gn1JCc7EiTC4aBz-Ugxkga42Hbx6devkMoRTKy7LZ1rUXPNoUAxu9KaN697_O8nQGS_iloyGFQFQkiHUelbk0Z8Iha14dtg1XXezTJ7HUZE31MXTrm93rV_g","text":"budget 15000"},"webhookEventId":"01J9R1MNHTNP3YJ57CVX8JNWB1","deliveryContext":{"isRedelivery":false},"timestamp":1728457627056,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5f5e319c6617450a8ec169b70012743d","mode":"active"}]
+2024-10-09 14:07:08 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:07:08 info: User Agent Success load.
+2024-10-09 14:07:10 info: LLM Tool Call: {"toolCall":{"id":"call_kuS5vXUyrI1iMlQRHeqdOyEK","name":"index_Gaming","input":{"query":"budget 15000"}}}
+2024-10-09 14:07:21 info: ------------------------------------------------------
+2024-10-09 14:07:21 info: Response Agent: It seems that the available gaming PC sets exceed your budget of 15,000 baht. The lowest priced set totals 24,650 baht.
+
+If you're open to adjusting your budget or considering a different type of PC, please let me know! Alternatively, I can help you find components to build a custom PC within your budget.
+2024-10-09 14:07:21 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:07:21 info: ------------------------------------------------------
+2024-10-09 14:07:21 info: responseText Success load.
+2024-10-09 14:07:22 info: This is Total price found : 0
+2024-10-09 14:07:24 info: ________________________________________
+2024-10-09 14:07:24 info: Response summarized: It seems that the available gaming PC sets exceed your budget of 15,000 baht. The lowest priced set totals 0 baht. If you're open to adjusting your budget or considering a different type of PC, please let me know! Alternatively, I can help you find components to build a custom PC within your budget. 🎮💻🛠️
+2024-10-09 14:07:24 info: summaryResponse Success load.
+2024-10-09 14:08:18 info: 
+2024-10-09 14:10:52 info: ----------------------------------------
+2024-10-09 14:10:52 info: Server started and listening on port 8000
+2024-10-09 14:10:52 info: ----------------------------------------
+2024-10-09 14:11:03 info: Events received: [{"type":"message","message":{"type":"text","id":"529533495249469882","quoteToken":"UNDLvzHJIGxzPyC_OgVV8IIwab00NgOzj6vNG9LU4H1magdH2Ydkb0mgAsdrewX4ebFmfm8-qp8EuuUUA9-wdC-putyvow9L4M1jhno9d7SFN42Ps-yAuW54SWPY-tQ3D5zZCduA0Ni1AofemwzQtQ","text":"I want PC"},"webhookEventId":"01J9R1VW894AXVMXPZ5SZZPR72","deliveryContext":{"isRedelivery":false},"timestamp":1728457863004,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"3111806c428f4e4dbcbdf6ab423204fe","mode":"active"}]
+2024-10-09 14:11:04 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:11:04 info: Agent Initialized
+2024-10-09 14:11:04 info: User Agent Success load.
+2024-10-09 14:11:08 info: ------------------------------------------------------
+2024-10-09 14:11:08 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range!
+2024-10-09 14:11:08 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:11:08 info: ------------------------------------------------------
+2024-10-09 14:11:08 info: responseText Success load.
+2024-10-09 14:11:10 info: This is Total price found : 0
+2024-10-09 14:11:11 info: ________________________________________
+2024-10-09 14:11:11 info: Response summarized: The response provides options for different types of PCs: Gaming PC, Premium PC, Standard PC, and Workstation PC, and requests the user's budget range.
+2024-10-09 14:11:11 info: summaryResponse Success load.
+2024-10-09 14:11:32 info: 
+2024-10-09 14:11:46 info: ----------------------------------------
+2024-10-09 14:11:46 info: Server started and listening on port 8000
+2024-10-09 14:11:46 info: ----------------------------------------
+2024-10-09 14:12:31 info: Events received: [{"type":"message","message":{"type":"text","id":"529533643610915041","quoteToken":"H0tfhrWS_GjVO9hCVEx_sewL-lCFqboe018J2t8EedZ7gDWw_sZRtRX3gNarZxH8knVjQURsNP1jg3j5_LmVJfCU2oGAVASLoDODcSA_JBsJpHKhq6kpgrnKNJEGrw883JMh18V1epkgNJtQrNehyA","text":"I want PC"},"webhookEventId":"01J9R1YJ80Q3BSBVNMB9R0DGQW","deliveryContext":{"isRedelivery":false},"timestamp":1728457951254,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9a4db4dd6d8d4c41bf3f01f793c7c68d","mode":"active"}]
+2024-10-09 14:12:32 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:12:32 info: Agent Initialized
+2024-10-09 14:12:32 info: User Agent Success load.
+2024-10-09 14:12:36 info: ------------------------------------------------------
+2024-10-09 14:12:36 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range!
+2024-10-09 14:12:36 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:12:36 info: ------------------------------------------------------
+2024-10-09 14:12:36 info: responseText Success load.
+2024-10-09 14:12:37 info: This is Total price found : 0
+2024-10-09 14:12:39 info: ________________________________________
+2024-10-09 14:12:39 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range! 🎮💻🖥️
+2024-10-09 14:12:39 info: summaryResponse Success load.
+2024-10-09 14:16:17 info: Events received: [{"type":"message","message":{"type":"text","id":"529534022792774145","quoteToken":"YFdeDP84Pu_iwiJKfyMxpeHd6NntxQsYF_3rmBhrjG7fa9OODdu5e0tqjxm1TbArQ70YKMZFFTpW7VeYyqf7HeQIACXSKVHu6DHDYEVz2IW8-HFEBVreDBtMifThnSp4NmuBiIde1Bspg_YOH5G4qQ","text":"Gaming PC budget 30000"},"webhookEventId":"01J9R25EZVWE8NX7SFP0TK9HJD","deliveryContext":{"isRedelivery":false},"timestamp":1728458177265,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b1b5992865174b749c3d3387a78d2370","mode":"active"}]
+2024-10-09 14:16:18 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:16:18 info: User Agent Success load.
+2024-10-09 14:16:20 info: LLM Tool Call: {"toolCall":{"id":"call_TsWiquk4hUY2c9Bu32b1Zyh0","name":"index_Gaming","input":{"query":"Gaming PC 30000"}}}
+2024-10-09 14:16:43 info: ------------------------------------------------------
+2024-10-09 14:16:43 info: Response Agent: I recommend the **SET Gaming 003** for your budget of 30,000 baht. Here are the details:
+
+### SET Gaming 003
+- **Total Price**: 29,700 baht
+
+#### Components:
+- **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700) 
+  - **Price**: 6,590 baht
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX) 
+  - **Price**: 4,790 baht
+- **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6 
+  - **Price**: 10,600 baht
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz 
+  - **Price**: 2,390 baht
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB 
+  - **Price**: 1,890 baht
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX) 
+  - **Price**: 1,990 baht
+- **CASE**: ANTEC NX292 (BLACK) (E-ATX) 
+  - **Price**: 1,450 baht
+
+This set offers a great balance of performance and components for gaming within your specified budget. If you have any further questions or need assistance with anything else, feel free to ask!
+2024-10-09 14:16:43 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:16:43 info: ------------------------------------------------------
+2024-10-09 14:16:43 info: responseText Success load.
+2024-10-09 14:16:45 info: This is Total price found : 29700
+2024-10-09 14:16:54 info: ________________________________________
+2024-10-09 14:16:54 info: Response summarized: I recommend the **SET Gaming 003** for your budget of 30,000 baht. Here are the details:
+
+### SET Gaming 003
+- **Total Price**: 29700 baht
+
+#### Components:
+- **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700) 
+  - **Price**: 6,590 baht
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX) 
+  - **Price**: 4,790 baht
+- **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6 
+  - **Price**: 10,600 baht
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz 
+  - **Price**: 2,390 baht
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB 
+  - **Price**: 1,890 baht
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX) 
+  - **Price**: 1,990 baht
+- **CASE**: ANTEC NX292 (BLACK) (E-ATX) 
+  - **Price**: 1,450 baht
+
+This set offers a great balance of performance and components for gaming within your specified budget. If you have any further questions or need assistance with anything else, feel free to ask! 🎮💻🖥️
+2024-10-09 14:16:54 info: summaryResponse Success load.
+2024-10-09 14:21:25 info: 
+2024-10-09 14:21:28 info: ----------------------------------------
+2024-10-09 14:21:28 info: Server started and listening on port 8000
+2024-10-09 14:21:28 info: ----------------------------------------
+2024-10-09 14:21:40 info: Events received: [{"type":"message","message":{"type":"text","id":"529534563119006067","quoteToken":"RxAP2u7WKIiy1MhvBxLZzDGJMUOrejZCXjSqnkk3zCViLNJ0nz9WuHcKSevGwrmuD_KCxKhe0lYsjdYIrLy07VjcTRksQgKUzL2ZmMNH5AMPQIGhb8tlY1aAScUx09DeTtmzWYG4gxxRk8kRO8_4qQ","text":"I want PC"},"webhookEventId":"01J9R2F9S2N5FXAWQZ4P6KETMZ","deliveryContext":{"isRedelivery":false},"timestamp":1728458499382,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"fd567d0aae0c4b28a147fbab54c4ec04","mode":"active"}]
+2024-10-09 14:21:40 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:21:41 info: Agent Initialized
+2024-10-09 14:21:41 info: User Agent Success load.
+2024-10-09 14:21:45 info: ------------------------------------------------------
+2024-10-09 14:21:45 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range!
+2024-10-09 14:21:45 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:21:45 info: ------------------------------------------------------
+2024-10-09 14:21:45 info: responseText Success load.
+2024-10-09 14:21:46 info: This is Total price found : 0
+2024-10-09 14:21:48 info: ________________________________________
+2024-10-09 14:21:48 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC**: Optimized for gaming with a focus on powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks.
+3. **Standard PC**: Suitable for general tasks, balancing performance and cost.
+4. **Workstation PC**: Designed for graphics and professional tasks, using both CPU and GPU power.
+
+Also, please let me know your budget range! 🎮💻🖥️
+2024-10-09 14:21:48 info: summaryResponse Success load.
+2024-10-09 14:21:57 info: Events received: [{"type":"message","message":{"type":"text","id":"529534592580584001","quoteToken":"tHCimXVRRh__5WBB6KOFNCqSUxCWvXP_JYkoJls59wrOlq9lopExApv_LNaj-UyU3nLJy9uinDWoQGPGA9-JRYXNKuEhOZVWVvvMmUlYGzxt4sn6OUGYUgWThqvTeItQmpf4HA-WBp7JyXAhPXR3uQ","text":"Gaming PC"},"webhookEventId":"01J9R2FTPB1MN6MHNXKK76X9N4","deliveryContext":{"isRedelivery":false},"timestamp":1728458516888,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2671d69ad4bc4d2b9c4f401edad7c7fb","mode":"active"}]
+2024-10-09 14:21:57 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:21:57 info: User Agent Success load.
+2024-10-09 14:22:00 info: ------------------------------------------------------
+2024-10-09 14:22:00 info: Response Agent: What is your budget range for the gaming PC? Please provide a specific amount or range so I can find the best options for you.
+2024-10-09 14:22:00 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:22:00 info: ------------------------------------------------------
+2024-10-09 14:22:00 info: responseText Success load.
+2024-10-09 14:22:01 info: This is Total price found : 0
+2024-10-09 14:22:02 info: ________________________________________
+2024-10-09 14:22:02 info: Response summarized: What is your budget range for the gaming PC? Please provide a specific amount or range so I can find the best options for you. 🎮💻🕹️
+2024-10-09 14:22:02 info: summaryResponse Success load.
+2024-10-09 14:22:12 info: Events received: [{"type":"message","message":{"type":"text","id":"529534617913917650","quoteToken":"vvg4aorRtee_AN18buzcsrVQGoHVdtCSQq6PKk8eoPk8ZuZkBmAvMMq3wfu7eqxPbSXtUU_RUAPp4YSYEPaaR1HITmUxo2VXiMtvUQvMS8OpvhLDTDgLokekNbWNJDb4-y2daUPoOhoSHCAJ3aKF1A","text":" budget 30000"},"webhookEventId":"01J9R2G9FKW0MQ6MZ79JYJEMYD","deliveryContext":{"isRedelivery":false},"timestamp":1728458531981,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"bf8976d8ffb94d359ead6b676048d369","mode":"active"}]
+2024-10-09 14:22:13 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:22:13 info: User Agent Success load.
+2024-10-09 14:22:15 info: LLM Tool Call: {"toolCall":{"id":"call_T39vWZJzLyeTBInh1EfFnusc","name":"index_Gaming","input":{"query":"budget 30000"}}}
+2024-10-09 14:22:30 info: ------------------------------------------------------
+2024-10-09 14:22:30 info: Response Agent: Here is a gaming PC set that fits within your budget of 30,000 baht:
+
+### **SET Gaming 003**
+- **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700) 
+  - **Price**: ฿6,590
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX) 
+  - **Price**: ฿4,790
+- **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6 
+  - **Price**: ฿10,600
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz 
+  - **Price**: ฿2,390
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB 
+  - **Price**: ฿1,890
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX) (CP-9020278-NA) 
+  - **Price**: ฿1,990
+- **CASE**: ANTEC NX292 (BLACK) (E-ATX) 
+  - **Price**: ฿1,450
+
+### **Total Price**: ฿29,700
+
+This set is well within your budget and offers great performance for gaming. Would you like more information or assistance with anything else?
+2024-10-09 14:22:30 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:22:30 info: ------------------------------------------------------
+2024-10-09 14:22:30 info: responseText Success load.
+2024-10-09 14:22:32 info: This is Total price found : 29700
+2024-10-09 14:22:39 info: ________________________________________
+2024-10-09 14:22:39 info: Response summarized: Here is a gaming PC set that fits within your budget of 30,000 baht:
+
+### **SET Gaming 003**
+- **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700) 
+  - **Price**: ฿6,590
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX) 
+  - **Price**: ฿4,790
+- **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC - 8GB GDDR6 
+  - **Price**: ฿10,600
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz 
+  - **Price**: ฿2,390
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB 
+  - **Price**: ฿1,890
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX) (CP-9020278-NA) 
+  - **Price**: ฿1,990
+- **CASE**: ANTEC NX292 (BLACK) (E-ATX) 
+  - **Price**: ฿1,450
+
+### **Total Price**: ฿29,700
+
+This set is well within your budget and offers great performance for gaming. Would you like more information or assistance with anything else? 🎮💻🖥️
+2024-10-09 14:22:39 info: summaryResponse Success load.
+2024-10-09 14:23:05 info: Events received: [{"type":"message","message":{"type":"text","id":"529534705340252193","quoteToken":"cWbZWI63_aCu_-3VsxY_2Wm3xd0aqSie3RDO5oqy4s_mIhcZRwjtvwZZz3x9vOSYZwMlItAuWd1Vd2ay20rECvoGo3KUVDAYTxR1uuQ09af7VOAH6bDh_uEW26J0Qemg23yBH8dbM0ZXJr-MkHIorQ","text":"I can change GPU?"},"webhookEventId":"01J9R2HWGQF6PEDZSNYY09ENGA","deliveryContext":{"isRedelivery":false},"timestamp":1728458584090,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"0bf1c98462ca496b815dfd427c611e54","mode":"active"}]
+2024-10-09 14:23:05 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:23:05 info: User Agent Success load.
+2024-10-09 14:23:07 info: ------------------------------------------------------
+2024-10-09 14:23:07 info: Response Agent: Yes, you can change the GPU to fit your preferences or budget. Please let me know what specific GPU you have in mind, or if you would like recommendations for alternative GPUs within a certain price range.
+2024-10-09 14:23:07 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:23:07 info: ------------------------------------------------------
+2024-10-09 14:23:07 info: responseText Success load.
+2024-10-09 14:23:08 info: This is Total price found : 0
+2024-10-09 14:23:10 info: ________________________________________
+2024-10-09 14:23:10 info: Response summarized: Yes, you can change the GPU to fit your preferences or budget. Please let me know what specific GPU you have in mind, or if you would like recommendations for alternative GPUs within a certain price range. 🎮💻✨
+2024-10-09 14:23:10 info: summaryResponse Success load.
+2024-10-09 14:23:38 info: Events received: [{"type":"message","message":{"type":"text","id":"529534761459777827","quoteToken":"xJDVaPLOUxBl5l_M5uxTTiss0F9qtIKqQJLmLCnaedGaj46PqWGolyOknjSrpP7K5CXeAppPpQjZSf1Tjt4vLNnLHo0BtkG-dbW9RlpK3qHXk7HwBO1l8sGbBxmqrhWa6w0dX63-aVHX1M0k2N2FoQ","text":"recommendations for alternative GPU"},"webhookEventId":"01J9R2JWVD7ZYVEE48ZCJ35Q5N","deliveryContext":{"isRedelivery":false},"timestamp":1728458617690,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ac5c1aedb40f4b1cae5fbb09b3b329ee","mode":"active"}]
+2024-10-09 14:23:38 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:23:38 info: User Agent Success load.
+2024-10-09 14:23:41 info: LLM Tool Call: {"toolCall":{"id":"call_6QrL2CCFe5gj8LFvEebaqGec","name":"index_GPU_GIGABYTE","input":{"query":"RTX 4060"}}}
+2024-10-09 14:24:11 info: ------------------------------------------------------
+2024-10-09 14:24:11 info: Response Agent: Here are some alternative GPU recommendations from the GIGABYTE RTX 4060 series:
+
+1. **GIGABYTE GEFORCE RTX 4060 EAGLE OC 8G**
+   - **Price**: ฿11,400
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Power Connectors**: 1 x 8 Pin
+
+2. **GIGABYTE GEFORCE RTX 4060 GAMING OC 8G**
+   - **Price**: ฿11,700
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Power Connectors**: 1 x 8 Pin
+
+3. **GIGABYTE GEFORCE RTX 4060 TI ELITE 8G**
+   - **Price**: ฿17,200
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+4. **GIGABYTE GEFORCE RTX 4060 TI AERO OC 8G**
+   - **Price**: ฿16,600
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+5. **GIGABYTE GEFORCE RTX 4060 TI EAGLE OC 8G**
+   - **Price**: ฿15,200
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+6. **GIGABYTE GEFORCE RTX 4060 TI GAMING OC 8G**
+   - **Price**: ฿16,100
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+7. **GIGABYTE GEFORCE RTX 4060 TI WINDFORCE OC 8G**
+   - **Price**: ฿14,700
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+8. **GIGABYTE GEFORCE RTX 4060 TI WINDFORCE OC V2 8G**
+   - **Price**: ฿15,200
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+These options provide a range of prices and specifications while maintaining the 8 GB GDDR6 memory. Let me know if you would like to proceed with any of these options or if you need further assistance!
+2024-10-09 14:24:11 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:24:11 info: ------------------------------------------------------
+2024-10-09 14:24:11 info: responseText Success load.
+2024-10-09 14:24:12 info: This is Total price found : 11400
+2024-10-09 14:24:24 info: ________________________________________
+2024-10-09 14:24:24 info: Response summarized: Here are some alternative GPU recommendations from the GIGABYTE RTX 4060 series:
+
+1. **GIGABYTE GEFORCE RTX 4060 EAGLE OC 8G**
+   - **Price**: ฿11,400
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Power Connectors**: 1 x 8 Pin
+
+2. **GIGABYTE GEFORCE RTX 4060 GAMING OC 8G**
+   - **Price**: ฿11,700
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 450 W
+   - **Power Connectors**: 1 x 8 Pin
+
+3. **GIGABYTE GEFORCE RTX 4060 TI ELITE 8G**
+   - **Price**: ฿17,200
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+4. **GIGABYTE GEFORCE RTX 4060 TI AERO OC 8G**
+   - **Price**: ฿16,600
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+5. **GIGABYTE GEFORCE RTX 4060 TI EAGLE OC 8G**
+   - **Price**: ฿15,200
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+6. **GIGABYTE GEFORCE RTX 4060 TI GAMING OC 8G**
+   - **Price**: ฿16,100
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+7. **GIGABYTE GEFORCE RTX 4060 TI WINDFORCE OC 8G**
+   - **Price**: ฿14,700
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+8. **GIGABYTE GEFORCE RTX 4060 TI WINDFORCE OC V2 8G**
+   - **Price**: ฿15,200
+   - **Video Memory**: 8 GB GDDR6
+   - **Power Supply Needed**: 500 W
+   - **Power Connectors**: 1 x 8 Pin
+
+These options provide a range of prices and specifications while maintaining the 8 GB GDDR6 memory. Let me know if you would like to proceed with any of these options or if you need further assistance! 🎮💻✨
+2024-10-09 14:24:24 info: summaryResponse Success load.
+2024-10-09 14:25:19 info: Events received: [{"type":"message","message":{"type":"text","id":"529534931933331938","quoteToken":"DLQk_kTcXS0FGZVUuHLmbfP1t4dn5MpIYgJKJZzzI0whE5l8joHC8i0Wa3fe77Xxof_XvMu3HJaungIIzB5c-HUTd6Kz39Xa4cDA-4wwjx1yq1NOYlInjIyWKFEaUv6Q4TCSMwG94aYMqVzw9p37NQ","text":"i like 4070"},"webhookEventId":"01J9R2P03BVZ8T7AQTMP9WDW6Q","deliveryContext":{"isRedelivery":false},"timestamp":1728458719158,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c48ad57d53f046289be0de0546a79bea","mode":"active"}]
+2024-10-09 14:25:20 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:25:20 info: User Agent Success load.
+2024-10-09 14:25:24 info: LLM Tool Call: {"toolCall":{"id":"call_sDmMvAuXe1PvPSnJoAFC5lQf","name":"index_GPU_GIGABYTE","input":{"query":"RTX 4070"}}}
+2024-10-09 14:25:50 info: ------------------------------------------------------
+2024-10-09 14:25:50 info: Response Agent: Here are some options for the GIGABYTE RTX 4070 series:
+
+1. **GIGABYTE AORUS GEFORCE RTX 4070 MASTER 12G**
+   - **Price**: ฿24,900
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+2. **GIGABYTE GEFORCE RTX 4070 GAMING OC 12G**
+   - **Price**: ฿23,900
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+3. **GIGABYTE GEFORCE RTX 4070 WINDFORCE OC 12G**
+   - **Price**: ฿21,200
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 650 W
+   - **Power Connectors**: 1 x 8 Pin
+
+4. **GIGABYTE AORUS GEFORCE RTX 4070 SUPER MASTER 12G**
+   - **Price**: ฿27,990
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+5. **GIGABYTE AORUS GEFORCE RTX 4070 SUPER AERO OC 12G**
+   - **Price**: ฿26,900
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+6. **GIGABYTE AORUS GEFORCE RTX 4070 SUPER EAGLE OC 12G**
+   - **Price**: ฿24,900
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+7. **GIGABYTE AORUS GEFORCE RTX 4070 SUPER GAMING OC 12G**
+   - **Price**: ฿26,700
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+8. **GIGABYTE AORUS GEFORCE RTX 4070 TI ELITE 12G**
+   - **Price**: ฿33,800
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+These models vary in price and features. Please let me know which one you prefer or if you need more information!
+2024-10-09 14:25:50 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:25:50 info: ------------------------------------------------------
+2024-10-09 14:25:50 info: responseText Success load.
+2024-10-09 14:25:51 info: This is Total price found : 33800
+2024-10-09 14:26:00 info: ________________________________________
+2024-10-09 14:26:00 info: Response summarized: Here are some options for the GIGABYTE RTX 4070 series:
+
+1. **GIGABYTE AORUS GEFORCE RTX 4070 MASTER 12G**
+   - **Price**: ฿24,900
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+2. **GIGABYTE GEFORCE RTX 4070 GAMING OC 12G**
+   - **Price**: ฿23,900
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+3. **GIGABYTE GEFORCE RTX 4070 WINDFORCE OC 12G**
+   - **Price**: ฿21,200
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 650 W
+   - **Power Connectors**: 1 x 8 Pin
+
+4. **GIGABYTE AORUS GEFORCE RTX 4070 SUPER MASTER 12G**
+   - **Price**: ฿27,990
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+5. **GIGABYTE AORUS GEFORCE RTX 4070 SUPER AERO OC 12G**
+   - **Price**: ฿26,900
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+6. **GIGABYTE AORUS GEFORCE RTX 4070 SUPER EAGLE OC 12G**
+   - **Price**: ฿24,900
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+7. **GIGABYTE AORUS GEFORCE RTX 4070 SUPER GAMING OC 12G**
+   - **Price**: ฿26,700
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 700 W
+   - **Power Connectors**: 1 x 16 Pin
+
+8. **GIGABYTE AORUS GEFORCE RTX 4070 TI ELITE 12G**
+   - **Price**: ฿33,800
+   - **Video Memory**: 12 GB GDDR6X
+   - **Power Supply Required**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+These models vary in price and features. Please let me know which one you prefer or if you need more information! 😊🎮💻
+2024-10-09 14:26:00 info: summaryResponse Success load.
+2024-10-09 14:27:01 info: Events received: [{"type":"message","message":{"type":"text","id":"529535102356292067","quoteToken":"6bzpx4I_I2V8CsTiBXo1eZxITd_j3VVtCQ-vSwULtj8nZiPu8IRF96RkqlEb-9kJQQVDa8A8FzSEbxcB-fGeZCWOljRt5V9F6nkr8ejLwUFa-CFYAJvCrvgch9zk-Y_iPCbV8D5QEWpNOFHCKf8J8Q","text":"have another brand?"},"webhookEventId":"01J9R2S3BSB1ACT9MVHFZWWBGB","deliveryContext":{"isRedelivery":false},"timestamp":1728458820766,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2621d723bd8b428db3f068d3bbc00b9e","mode":"active"}]
+2024-10-09 14:27:01 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:27:01 info: User Agent Success load.
+2024-10-09 14:27:05 info: LLM Tool Call: {"toolCall":{"id":"call_PnjJecIYxkmscMLn4s6QmfaG","name":"index_GPU_ASUS","input":{"query":"RTX 4070"}}}
+2024-10-09 14:27:12 info: LLM Tool Call: {"toolCall":{"id":"call_GWt30155doMGUDTRvZVTjC7h","name":"index_GPU_MSI","input":{"query":"RTX 4070"}}}
+2024-10-09 14:27:16 info: LLM Tool Call: {"toolCall":{"id":"call_ecGAWNZUcG1XmVS9gY1MmyYQ","name":"index_GPU_ZOTAC","input":{"query":"RTX 4070"}}}
+2024-10-09 14:27:37 info: ------------------------------------------------------
+2024-10-09 14:27:37 info: Response Agent: Here are some alternative RTX 4070 GPUs from different brands:
+
+### **ASUS**
+1. **ASUS DUAL GEFORCE RTX 4070 WHITE OC EDITION 12GB GDDR6X**
+   - **Price**: ฿21,900
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 650 W
+   - **Power Connectors**: 1 x 8 Pin
+
+2. **ASUS ROG STRIX GEFORCE RTX 4070 12GB GDDR6X OC EDITION**
+   - **Price**: ฿26,500
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 650 W
+   - **Power Connectors**: 1 x 16 Pin
+
+3. **ASUS TUF GAMING GEFORCE RTX 4070 SUPER 12GB GDDR6X**
+   - **Price**: ฿27,600
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+4. **ASUS ROG STRIX GEFORCE RTX 4070 SUPER 12GB GDDR6X OC EDITION**
+   - **Price**: ฿29,400
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+### **MSI**
+1. **MSI GEFORCE RTX 4070 VENTUS 2X E 12G OC**
+   - **Price**: ฿23,200
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 650 W
+   - **Power Connectors**: 1 x 8 Pin
+
+### **ZOTAC**
+1. **ZOTAC GAMING GEFORCE RTX 4070 SUPER TRINITY BLACK EDITION 12GB GDDR6X**
+   - **Price**: ฿25,900
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 650 W
+   - **Power Connectors**: 1 x 16 Pin or 2 x 8 Pin
+
+2. **ZOTAC GAMING GEFORCE RTX 4070 SUPER TWIN EDGE OC 12GB GDDR6X**
+   - **Price**: ฿24,200
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+3. **ZOTAC GAMING GEFORCE RTX 4070 TI AMP EXTREME AIRO - 12GB GDDR6X**
+   - **Price**: ฿34,400
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+4. **ZOTAC GAMING GEFORCE RTX 4070 TI SUPER TRINITY BLACK EDITION 16GB GDDR6X**
+   - **Price**: ฿31,900
+   - **Video Memory**: 16 GB
+   - **Power Supply Requirement**: 700 W
+   - **Power Connectors**: 1 x 16 Pin or 2 x 8 Pin
+
+These options provide a variety of prices and specifications within the RTX 4070 series. Let me know if you would like to proceed with any of these options or if you need further assistance!
+2024-10-09 14:27:37 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:27:37 info: ------------------------------------------------------
+2024-10-09 14:27:37 info: responseText Success load.
+2024-10-09 14:27:38 info: This is Total price found : 0
+2024-10-09 14:27:51 info: ________________________________________
+2024-10-09 14:27:51 info: Response summarized: Here are some alternative RTX 4070 GPUs from different brands:
+
+### **ASUS**
+1. **ASUS DUAL GEFORCE RTX 4070 WHITE OC EDITION 12GB GDDR6X**
+   - **Price**: ฿21,900
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 650 W
+   - **Power Connectors**: 1 x 8 Pin
+
+2. **ASUS ROG STRIX GEFORCE RTX 4070 12GB GDDR6X OC EDITION**
+   - **Price**: ฿26,500
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 650 W
+   - **Power Connectors**: 1 x 16 Pin
+
+3. **ASUS TUF GAMING GEFORCE RTX 4070 SUPER 12GB GDDR6X**
+   - **Price**: ฿27,600
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+4. **ASUS ROG STRIX GEFORCE RTX 4070 SUPER 12GB GDDR6X OC EDITION**
+   - **Price**: ฿29,400
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+### **MSI**
+1. **MSI GEFORCE RTX 4070 VENTUS 2X E 12G OC**
+   - **Price**: ฿23,200
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 650 W
+   - **Power Connectors**: 1 x 8 Pin
+
+### **ZOTAC**
+1. **ZOTAC GAMING GEFORCE RTX 4070 SUPER TRINITY BLACK EDITION 12GB GDDR6X**
+   - **Price**: ฿25,900
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 650 W
+   - **Power Connectors**: 1 x 16 Pin or 2 x 8 Pin
+
+2. **ZOTAC GAMING GEFORCE RTX 4070 SUPER TWIN EDGE OC 12GB GDDR6X**
+   - **Price**: ฿24,200
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+3. **ZOTAC GAMING GEFORCE RTX 4070 TI AMP EXTREME AIRO - 12GB GDDR6X**
+   - **Price**: ฿34,400
+   - **Video Memory**: 12 GB
+   - **Power Supply Requirement**: 750 W
+   - **Power Connectors**: 1 x 16 Pin
+
+4. **ZOTAC GAMING GEFORCE RTX 4070 TI SUPER TRINITY BLACK EDITION 16GB GDDR6X**
+   - **Price**: ฿31,900
+   - **Video Memory**: 16 GB
+   - **Power Supply Requirement**: 700 W
+   - **Power Connectors**: 1 x 16 Pin or 2 x 8 Pin
+
+These options provide a variety of prices and specifications within the RTX 4070 series. Let me know if you would like to proceed with any of these options or if you need further assistance! 🎮💻✨
+2024-10-09 14:27:51 info: summaryResponse Success load.
+2024-10-09 14:28:24 info: Events received: [{"type":"message","message":{"type":"text","id":"529535240315339203","quoteToken":"J2y9OnJlqQLe5SnPhy_5VmaG9KTT_8t5ZbicT8SNIL6ZC3URu4EAANEwO_yUG7iPlCVEewwznpEkNxofzj2a3ziJqbgLqeEfG28tCYEwTNtnTWce9VAD66zsK0NNGtlEEuKXGwSkVriqoO5uwHVWNQ","text":"ok i choose MSI"},"webhookEventId":"01J9R2VM3TT5CZPAJCQ8H746K2","deliveryContext":{"isRedelivery":false},"timestamp":1728458903165,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"aa9bd1da2ca14b35abda400f95777558","mode":"active"}]
+2024-10-09 14:28:24 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:28:24 info: User Agent Success load.
+2024-10-09 14:28:28 info: ------------------------------------------------------
+2024-10-09 14:28:28 info: Response Agent: Great choice! Here are the details for the **MSI GEFORCE RTX 4070 VENTUS 2X E 12G OC**:
+
+### **MSI GEFORCE RTX 4070 VENTUS 2X E 12G OC**
+- **Price**: ฿23,200
+- **Video Memory**: 12 GB GDDR6X
+- **Power Supply Requirement**: 650 W
+- **Power Connectors**: 1 x 8 Pin
+
+Would you like to proceed with this GPU for your gaming PC build, or do you need any further assistance or modifications?
+2024-10-09 14:28:28 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:28:28 info: ------------------------------------------------------
+2024-10-09 14:28:28 info: responseText Success load.
+2024-10-09 14:28:30 info: This is Total price found : 23200
+2024-10-09 14:28:33 info: ________________________________________
+2024-10-09 14:28:33 info: Response summarized: Great choice! Here are the details for the **MSI GEFORCE RTX 4070 VENTUS 2X E 12G OC**:
+
+### **MSI GEFORCE RTX 4070 VENTUS 2X E 12G OC**
+- **Price**: ฿23,200
+- **Video Memory**: 12 GB GDDR6X
+- **Power Supply Requirement**: 650 W
+- **Power Connectors**: 1 x 8 Pin
+
+Would you like to proceed with this GPU for your gaming PC build, or do you need any further assistance or modifications? 🎮💻✨
+2024-10-09 14:28:33 info: summaryResponse Success load.
+2024-10-09 14:28:55 info: Events received: [{"type":"message","message":{"type":"text","id":"529535292760654067","quoteToken":"yAckK5EBmw7kYAOxtdYsyQdYmLet-GYSTHoEsDk0OQZl9kXNMP9tjjh6wonSaWVDOdVyM4__v0iKPrVg_v-DTF3hT4xZ7AFj1c2b6NRepoG_5z1nV-ZtqSF1Sb_uDcEv_PM9EGmX5m5VYRY0p0rPlg","text":"show my spec"},"webhookEventId":"01J9R2WJ3WTR32MD71G2F8FE66","deliveryContext":{"isRedelivery":false},"timestamp":1728458934288,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f2fae173e2924bf482e4617cd2fab0ae","mode":"active"}]
+2024-10-09 14:28:55 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:28:55 info: User Agent Success load.
+2024-10-09 14:29:05 info: ------------------------------------------------------
+2024-10-09 14:29:05 info: Response Agent: Here are the complete specifications for your gaming PC build, including the selected MSI GPU:
+
+### **Gaming PC Build**
+#### **SET Gaming 003**
+- **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700) 
+  - **Price**: ฿6,590
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX) 
+  - **Price**: ฿4,790
+- **GPU**: **MSI GEFORCE RTX 4070 VENTUS 2X E 12G OC**
+  - **Price**: ฿23,200
+  - **Video Memory**: 12 GB GDDR6X
+  - **Power Supply Requirement**: 650 W
+  - **Power Connectors**: 1 x 8 Pin
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz 
+  - **Price**: ฿2,390
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB 
+  - **Price**: ฿1,890
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX) (CP-9020278-NA) 
+  - **Price**: ฿1,990
+- **CASE**: ANTEC NX292 (BLACK) (E-ATX) 
+  - **Price**: ฿1,450
+
+### **Total Price**: ฿30,300
+
+This build features a powerful Intel CPU, a high-performance MSI RTX 4070 GPU, and ample RAM and storage for gaming. Would you like to make any changes or proceed with this build?
+2024-10-09 14:29:05 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:29:05 info: ------------------------------------------------------
+2024-10-09 14:29:05 info: responseText Success load.
+2024-10-09 14:29:07 info: This is Total price found : 42300
+2024-10-09 14:29:13 info: ________________________________________
+2024-10-09 14:29:13 info: Response summarized: Here are the complete specifications for your gaming PC build, including the selected MSI GPU:
+
+### **Gaming PC Build**
+#### **SET Gaming 003**
+- **CPU**: INTEL CORE I5-13400F 2.5 GHz (SOCKET LGA 1700) 
+  - **Price**: ฿6,590
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX) 
+  - **Price**: ฿4,790
+- **GPU**: **MSI GEFORCE RTX 4070 VENTUS 2X E 12G OC**
+  - **Price**: ฿23,200
+  - **Video Memory**: 12 GB GDDR6X
+  - **Power Supply Requirement**: 650 W
+  - **Power Connectors**: 1 x 8 Pin
+- **RAM**: CORSAIR VENGEANCE DDR5 (INTEL XMP) (BLACK) (CMK16GX5M2B5200C40) 16GB (8GBx2) DDR5 5200MHz 
+  - **Price**: ฿2,390
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB 
+  - **Price**: ฿1,890
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK) (ATX) (CP-9020278-NA) 
+  - **Price**: ฿1,990
+- **CASE**: ANTEC NX292 (BLACK) (E-ATX) 
+  - **Price**: ฿1,450
+
+### **Total Price**: ฿42,300
+
+This build features a powerful Intel CPU, a high-performance MSI RTX 4070 GPU, and ample RAM and storage for gaming. Would you like to make any changes or proceed with this build? 🎮💻🖥️
+2024-10-09 14:29:13 info: summaryResponse Success load.
+2024-10-09 14:31:05 info: Events received: [{"type":"message","message":{"type":"text","id":"529535512172822786","quoteToken":"JPLxEr9TnAVH6zpq8nBHFcp8sMMN3lOyBKyB-zjl52P1XnboidTuSsPGNB5I1iA7SCQh2g8TLCyZG1cxeS-Z2IqrZmb9I4QrnYChoW3EXomcEh8yYWS4gJcC-TnGgfamxqDgOdYPs6C8PWsyYE5x2Q","text":"ok thank you I like it."},"webhookEventId":"01J9R30J36W70ND3SE1KQMT2J3","deliveryContext":{"isRedelivery":false},"timestamp":1728459065067,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"e452f20000ea4ef698e27bdfebe65bff","mode":"active"}]
+2024-10-09 14:31:06 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:31:06 info: User Agent Success load.
+2024-10-09 14:31:13 info: ------------------------------------------------------
+2024-10-09 14:31:13 info: Response Agent: You're welcome! I'm glad you like the build. If you have any more questions or need further assistance in the future, feel free to reach out. Enjoy your new gaming PC! Happy gaming! 🎮😊
+2024-10-09 14:31:13 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:31:13 info: ------------------------------------------------------
+2024-10-09 14:31:13 info: responseText Success load.
+2024-10-09 14:31:14 info: This is Total price found : 0
+2024-10-09 14:31:17 info: ________________________________________
+2024-10-09 14:31:17 info: Response summarized: You're welcome! I'm glad you like the build. If you have any more questions or need further assistance in the future, feel free to reach out. Enjoy your new gaming PC! Happy gaming! 🎮😊✨🖥️
+2024-10-09 14:31:17 info: summaryResponse Success load.
+2024-10-09 14:36:04 info: Events received: [{"type":"unfollow","webhookEventId":"01J9R39P4XKXP3QN8RV2FQF76A","deliveryContext":{"isRedelivery":false},"timestamp":1728459364390,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"mode":"active"}]
+2024-10-09 14:36:07 info: Events received: [{"type":"follow","follow":{"isUnblocked":true},"webhookEventId":"01J9R39RJ5CFE66ANXWGXN83PB","deliveryContext":{"isRedelivery":false},"timestamp":1728459366456,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f102fa95e02a43bd9ea2b24c21030697","mode":"active"}]
+2024-10-09 14:36:13 info: Events received: [{"type":"message","message":{"type":"text","id":"529536028408021443","quoteToken":"UQoA_qenAFjM4wObft8azCT4pgvSxXCF_PklToTUjd5EMUg3_bZpPZ5M905lK9e0ei9wEX-UTkT7MsAm1rb7WKMQbf5YIibmbpyK-PLAF4y0x1OYhaI94ut6lLfzkzRQ-xZlsFjD89K741kUEXvrTw","text":"Hi"},"webhookEventId":"01J9R39YHZ8NGNEVHFGRGC69NW","deliveryContext":{"isRedelivery":false},"timestamp":1728459372706,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"668a1777a9574195a2e2f4b318971aa9","mode":"active"}]
+2024-10-09 14:36:13 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:36:13 info: User Agent Success load.
+2024-10-09 14:36:16 info: ------------------------------------------------------
+2024-10-09 14:36:16 info: Response Agent: Hello! How can I assist you today?
+2024-10-09 14:36:16 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:36:16 info: ------------------------------------------------------
+2024-10-09 14:36:16 info: responseText Success load.
+2024-10-09 14:36:18 info: This is Total price found : 0
+2024-10-09 14:36:19 info: ________________________________________
+2024-10-09 14:36:19 info: Response summarized: Hello! How can I assist you today? 😊🤔💬
+2024-10-09 14:36:19 info: summaryResponse Success load.
+2024-10-09 14:37:45 info: Events received: [{"type":"follow","follow":{"isUnblocked":false},"webhookEventId":"01J9R3CR47WYV9FX9DKQWWY02A","deliveryContext":{"isRedelivery":false},"timestamp":1728459464336,"source":{"type":"user","userId":"Ud915dc0f0a781918eca568d7e5a7639c"},"replyToken":"65f6f8c264d6476199b752684f80e548","mode":"active"}]
+2024-10-09 14:39:16 info: Events received: [{"type":"message","message":{"type":"text","id":"529536334441218052","quoteToken":"v4MAXC2z289D20ixGHQr1N_XC_qfE74tRd7MSJ1w06xv-iP1vM6_7YSTb3P-EV1vRm-n5KXcuc-wk12IatxOFhS-FI2kx6HxB0E0DX2IJ41CAibn8k8ctjsRqUV3T5EWxMLiwm7e8CGs_mDNxB9Lmg","text":"What the egg"},"webhookEventId":"01J9R3FGJ15DSY139H8T7ENQXE","deliveryContext":{"isRedelivery":false},"timestamp":1728459555166,"source":{"type":"user","userId":"Ud915dc0f0a781918eca568d7e5a7639c"},"replyToken":"4a68b998c475450fba7414c8f782f826","mode":"active"}]
+2024-10-09 14:39:16 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:39:17 info: Agent Initialized
+2024-10-09 14:39:17 info: User Agent Success load.
+2024-10-09 14:39:20 info: ------------------------------------------------------
+2024-10-09 14:39:20 info: Response Agent: I'm here to help with PC-related topics, such as hardware recommendations or specifications. If you have any questions about PCs or components, feel free to ask!
+2024-10-09 14:39:20 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:39:20 info: ------------------------------------------------------
+2024-10-09 14:39:20 info: responseText Success load.
+2024-10-09 14:39:21 info: This is Total price found : 0
+2024-10-09 14:39:25 info: ________________________________________
+2024-10-09 14:39:25 info: Response summarized: I'm here to help with PC-related topics, such as hardware recommendations or specifications. If you have any questions about PCs or components, feel free to ask! 💻🖥️🔧
+2024-10-09 14:39:25 info: summaryResponse Success load.
+2024-10-09 14:42:13 info: Events received: [{"type":"follow","follow":{"isUnblocked":false},"webhookEventId":"01J9R3MYB0R4RJSFT6GHT9QNT8","deliveryContext":{"isRedelivery":false},"timestamp":1728459732839,"source":{"type":"user","userId":"U32797d7cf66c186346b02431bf2cad8e"},"replyToken":"b8fc47ee76e1446a8ea88d0e508444d8","mode":"active"}]
+2024-10-09 14:42:34 info: Events received: [{"type":"unfollow","webhookEventId":"01J9R3NJYN1CWK008YQNW0PAWH","deliveryContext":{"isRedelivery":false},"timestamp":1728459753942,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"mode":"active"}]
+2024-10-09 14:42:36 info: Events received: [{"type":"follow","follow":{"isUnblocked":true},"webhookEventId":"01J9R3NMRNZG26CDFEV8EW153T","deliveryContext":{"isRedelivery":false},"timestamp":1728459755789,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"b180c4a6c1e141938a52479de4fc0261","mode":"active"}]
+2024-10-09 14:42:58 info: Events received: [{"type":"message","message":{"type":"text","id":"529536708472471714","quoteToken":"kF1MsrVDqMRvmH0_Azb_qLZt4X08wexLctPRqCGJ5z1SWRcnWmfCENnmm4W_lbdt9Oa5oNcmgqNP9kj7qY09rcX3KOMQGRw8qG6ZxlKFynZaRFjyabBC00EPtK6Djz9pFmFyBH4Qb297Pi0g-DVg3A","text":"คอมผมโดนน้ำท่วม ทำยังไง"},"webhookEventId":"01J9R3PAAT0FE0BB0NNPJTZM2V","deliveryContext":{"isRedelivery":false},"timestamp":1728459778118,"source":{"type":"user","userId":"U32797d7cf66c186346b02431bf2cad8e"},"replyToken":"f7c570b4b2a74d768b2bffa45cd6ecaf","mode":"active"}]
+2024-10-09 14:42:59 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:42:59 info: Agent Initialized
+2024-10-09 14:42:59 info: User Agent Success load.
+2024-10-09 14:43:09 info: Events received: [{"type":"message","message":{"type":"text","id":"529536726541533733","quoteToken":"Caz3_954wOOhJhaNrtMyCE2vBe4YLl4wJhfNjMhmkNdlScSImzNLQI69cfu8SE_8VXCEtRkmcsdJXK6VBsfgOBIiZ9tATUhr6Pea7wczedWaL336vynLOiy-ejdTwM8tZcJLBFxq2IQOISbCjIGBdQ","text":"หิวข้าว"},"webhookEventId":"01J9R3PN2V2AD716TAN1YNWBS5","deliveryContext":{"isRedelivery":false},"timestamp":1728459788894,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"c7814cee17c74d2fa849cc9c0685d0cd","mode":"active"}]
+2024-10-09 14:43:10 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:43:10 info: Agent Initialized
+2024-10-09 14:43:10 info: User Agent Success load.
+2024-10-09 14:43:14 info: ------------------------------------------------------
+2024-10-09 14:43:14 info: Response Agent: ขอโทษครับ แต่ฉันสามารถช่วยเรื่องคอมพิวเตอร์หรือฮาร์ดแวร์ได้เท่านั้น ถ้าคุณมีคำถามเกี่ยวกับคอมพิวเตอร์หรือฮาร์ดแวร์ โปรดบอกได้เลย!
+2024-10-09 14:43:14 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:43:14 info: ------------------------------------------------------
+2024-10-09 14:43:14 info: responseText Success load.
+2024-10-09 14:43:15 info: This is Total price found : 0
+2024-10-09 14:43:17 info: ------------------------------------------------------
+2024-10-09 14:43:17 info: Response Agent: ถ้าคอมพิวเตอร์ของคุณโดนน้ำท่วม นี่คือขั้นตอนที่ควรทำ:
+
+1. **ปิดเครื่องทันที**: ถ้ายังเปิดอยู่ ให้ปิดเครื่องทันทีเพื่อป้องกันความเสียหายเพิ่มเติม
+
+2. **ถอดปลั๊กและอุปกรณ์เสริม**: ถอดปลั๊กไฟและอุปกรณ์เสริมทั้งหมด เช่น คีย์บอร์ด เมาส์ และฮาร์ดดิสก์ภายนอก
+
+3. **เปิดเคส**: ถ้าเป็นไปได้ ให้เปิดเคสคอมพิวเตอร์เพื่อให้ระบายอากาศได้ดีขึ้น
+
+4. **เช็ดน้ำออก**: ใช้ผ้าสะอาดหรือผ้าขนหนูซับน้ำที่อยู่ภายในเคสและอุปกรณ์ต่าง ๆ อย่างระมัดระวัง
+
+5. **ปล่อยให้แห้ง**: วางคอมพิวเตอร์ในที่ที่มีอากาศถ่ายเทดี และปล่อยให้แห้งอย่างน้อย 24-48 ชั่วโมง
+
+6. **ไม่ใช้ไดร์เป่าผม**: หลีกเลี่ยงการใช้ไดร์เป่าผม เพราะอาจทำให้เกิดความร้อนและทำให้ชิ้นส่วนเสียหาย
+
+7. **ตรวจสอบก่อนเปิด**: หลังจากที่แน่ใจว่าแห้งสนิทแล้ว ให้ตรวจสอบว่ามีความเสียหายหรือไม่ ก่อนที่จะเปิดเครื่อง
+
+8. **นำไปช่าง**: ถ้าคุณไม่มั่นใจหรือมีความเสียหายที่ชัดเจน ควรนำไปให้ช่างตรวจสอบและซ่อมแซม
+
+การจัดการกับคอมพิวเตอร์ที่โดนน้ำท่วมต้องทำอย่างระมัดระวัง เพื่อป้องกันความเสียหายที่อาจเกิดขึ้นในอนาคต
+2024-10-09 14:43:17 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:43:17 info: ------------------------------------------------------
+2024-10-09 14:43:17 info: responseText Success load.
+2024-10-09 14:43:17 info: ________________________________________
+2024-10-09 14:43:17 info: Response summarized: ขอโทษครับ แต่ฉันสามารถช่วยเรื่องคอมพิวเตอร์หรือฮาร์ดแวร์ได้เท่านั้น ถ้าคุณมีคำถามเกี่ยวกับคอมพิวเตอร์หรือฮาร์ดแวร์ โปรดบอกได้เลย! 💻🖥️🔧
+2024-10-09 14:43:17 info: summaryResponse Success load.
+2024-10-09 14:43:18 info: This is Total price found : 0
+2024-10-09 14:43:24 info: ________________________________________
+2024-10-09 14:43:24 info: Response summarized: ถ้าคอมพิวเตอร์ของคุณโดนน้ำท่วม นี่คือขั้นตอนที่ควรทำ: 1. **ปิดเครื่องทันที**: ถ้ายังเปิดอยู่ ให้ปิดเครื่องทันทีเพื่อป้องกันความเสียหายเพิ่มเติม 2. **ถอดปลั๊กและอุปกรณ์เสริม**: ถอดปลั๊กไฟและอุปกรณ์เสริมทั้งหมด เช่น คีย์บอร์ด เมาส์ และฮาร์ดดิสก์ภายนอก 3. **เปิดเคส**: ถ้าเป็นไปได้ ให้เปิดเคสคอมพิวเตอร์เพื่อให้ระบายอากาศได้ดีขึ้น 4. **เช็ดน้ำออก**: ใช้ผ้าสะอาดหรือผ้าขนหนูซับน้ำที่อยู่ภายในเคสและอุปกรณ์ต่าง ๆ อย่างระมัดระวัง 5. **ปล่อยให้แห้ง**: วางคอมพิวเตอร์ในที่ที่มีอากาศถ่ายเทดี และปล่อยให้แห้งอย่างน้อย 24-48 ชั่วโมง 6. **ไม่ใช้ไดร์เป่าผม**: หลีกเลี่ยงการใช้ไดร์เป่าผม เพราะอาจทำให้เกิดความร้อนและทำให้ชิ้นส่วนเสียหาย 7. **ตรวจสอบก่อนเปิด**: หลังจากที่แน่ใจว่าแห้งสนิทแล้ว ให้ตรวจสอบว่ามีความเสียหายหรือไม่ ก่อนที่จะเปิดเครื่อง 8. **นำไปช่าง**: ถ้าคุณไม่มั่นใจหรือมีความเสียหายที่ชัดเจน ควรนำไปให้ช่างตรวจสอบและซ่อมแซม การจัดการกับคอมพิวเตอร์ที่โดนน้ำท่วมต้องทำอย่างระมัดระวัง เพื่อป้องกันความเสียหายที่อาจเกิดขึ้นในอนาคต 💻💧🔧
+2024-10-09 14:43:24 info: summaryResponse Success load.
+2024-10-09 14:44:33 info: Events received: [{"type":"message","message":{"type":"text","id":"529536866564440561","quoteToken":"rlXbsXJUGQIFZkZUbJ3H8Vjus1DdnXvrHwIH9kvtrqSkorVeHDNLqXVyNhbv9J6klEri-5XnQXJK6NSN3vsXScCF2P8zXRPYgWfgzT78eCdaw4dAbmd3iN30F-urtuSQgfWt9r54KkTcDBVoMqgBlQ","text":"อยากได้คอม"},"webhookEventId":"01J9R3S6GW3NKSBNYY7H9YGBCG","deliveryContext":{"isRedelivery":false},"timestamp":1728459872288,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"58c13720c0aa4002988e459b782c9bd5","mode":"active"}]
+2024-10-09 14:44:33 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:44:33 info: User Agent Success load.
+2024-10-09 14:44:36 info: Events received: [{"type":"message","message":{"type":"text","id":"529536872217837890","quoteToken":"WsgMbm7uIMfEJTRgOoBudCV2HO9HIolc_hacDJMKr7GU2G0jxkFXiItHPRaLij_onwFvQ3BdIliszoisyJAoSNTEO_wjF0Edx4n1UbzC-gXSPWk2eb1vNuDz54KHPR5fUPIV9P5KndA1w0frsMz4Bw","text":"อยากได้คอมงบ1000"},"webhookEventId":"01J9R3S9F8NPJRRZ6CST5XZVSB","deliveryContext":{"isRedelivery":false},"timestamp":1728459875697,"source":{"type":"user","userId":"U32797d7cf66c186346b02431bf2cad8e"},"replyToken":"e15602873bad4ba3b34e47f1e84339e5","mode":"active"}]
+2024-10-09 14:44:36 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:44:36 info: User Agent Success load.
+2024-10-09 14:44:39 info: ------------------------------------------------------
+2024-10-09 14:44:39 info: Response Agent: คุณต้องการคอมพิวเตอร์ประเภทไหนครับ? มีหลายประเภทให้เลือก เช่น:
+
+1. **Gaming PC**: สำหรับเล่นเกมโดยเฉพาะ
+2. **Premium PC**: คอมพิวเตอร์สเปคสูงสำหรับงานที่ต้องการประสิทธิภาพสูง
+3. **Standard PC**: คอมพิวเตอร์ทั่วไปที่เหมาะสำหรับการใช้งานทั่วไป
+4. **Workstation PC**: สำหรับงานกราฟิกและงานมืออาชีพ
+
+คุณมีงบประมาณประมาณไหนครับ?
+2024-10-09 14:44:39 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:44:39 info: ------------------------------------------------------
+2024-10-09 14:44:39 info: responseText Success load.
+2024-10-09 14:44:42 info: This is Total price found : 0
+2024-10-09 14:44:43 info: ------------------------------------------------------
+2024-10-09 14:44:43 info: Response Agent: งบประมาณ 1,000 บาทอาจจะไม่เพียงพอสำหรับการซื้อคอมพิวเตอร์ใหม่ แต่คุณอาจพิจารณาได้หลายทางเลือก เช่น:
+
+1. **คอมพิวเตอร์มือสอง**: คุณสามารถหาคอมพิวเตอร์มือสองที่มีสเปคพอใช้ได้ในราคานี้ โดยอาจจะต้องตรวจสอบสภาพและการทำงานก่อนซื้อ
+
+2. **อุปกรณ์เสริม**: หากคุณมีคอมพิวเตอร์อยู่แล้ว คุณอาจใช้เงินนี้ในการอัปเกรดบางส่วน เช่น RAM หรือ SSD
+
+3. **โน้ตบุ๊กมือสอง**: บางครั้งคุณอาจพบโน้ตบุ๊กมือสองในราคาที่ใกล้เคียงกับงบประมาณนี้
+
+4. **คอมพิวเตอร์ประกอบ**: หากคุณมีความรู้ในการประกอบคอมพิวเตอร์ คุณอาจจะสามารถหาชิ้นส่วนที่ใช้แล้วหรือราคาถูกมาประกอบเองได้
+
+หากคุณต้องการข้อมูลเพิ่มเติมเกี่ยวกับคอมพิวเตอร์หรืออุปกรณ์ที่เหมาะสมในงบประมาณนี้ กรุณาแจ้งให้ทราบ!
+2024-10-09 14:44:43 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:44:43 info: ------------------------------------------------------
+2024-10-09 14:44:43 info: responseText Success load.
+2024-10-09 14:44:45 info: This is Total price found : 0
+2024-10-09 14:44:45 info: ________________________________________
+2024-10-09 14:44:45 info: Response summarized: คุณต้องการคอมพิวเตอร์ประเภทไหนครับ? มีหลายประเภทให้เลือก เช่น:
+
+1. **Gaming PC**: สำหรับเล่นเกมโดยเฉพาะ
+2. **Premium PC**: คอมพิวเตอร์สเปคสูงสำหรับงานที่ต้องการประสิทธิภาพสูง
+3. **Standard PC**: คอมพิวเตอร์ทั่วไปที่เหมาะสำหรับการใช้งานทั่วไป
+4. **Workstation PC**: สำหรับงานกราฟิกและงานมืออาชีพ
+
+คุณมีงบประมาณ 0 ครับ? 🎮💻✨
+2024-10-09 14:44:45 info: summaryResponse Success load.
+2024-10-09 14:44:52 info: ________________________________________
+2024-10-09 14:44:52 info: Response summarized: งบประมาณ 1,000 บาทอาจจะไม่เพียงพอสำหรับการซื้อคอมพิวเตอร์ใหม่ แต่คุณอาจพิจารณาได้หลายทางเลือก เช่น:
+
+1. **คอมพิวเตอร์มือสอง**: คุณสามารถหาคอมพิวเตอร์มือสองที่มีสเปคพอใช้ได้ในราคานี้ โดยอาจจะต้องตรวจสอบสภาพและการทำงานก่อนซื้อ
+
+2. **อุปกรณ์เสริม**: หากคุณมีคอมพิวเตอร์อยู่แล้ว คุณอาจใช้เงินนี้ในการอัปเกรดบางส่วน เช่น RAM หรือ SSD
+
+3. **โน้ตบุ๊กมือสอง**: บางครั้งคุณอาจพบโน้ตบุ๊กมือสองในราคาที่ใกล้เคียงกับงบประมาณนี้
+
+4. **คอมพิวเตอร์ประกอบ**: หากคุณมีความรู้ในการประกอบคอมพิวเตอร์ คุณอาจจะสามารถหาชิ้นส่วนที่ใช้แล้วหรือราคาถูกมาประกอบเองได้
+
+หากคุณต้องการข้อมูลเพิ่มเติมเกี่ยวกับคอมพิวเตอร์หรืออุปกรณ์ที่เหมาะสมในงบประมาณนี้ กรุณาแจ้งให้ทราบ! 😊💻🛠️
+2024-10-09 14:44:52 info: summaryResponse Success load.
+2024-10-09 14:45:48 info: Events received: [{"type":"message","message":{"type":"text","id":"529536993349861862","quoteToken":"Mer_FLfDCx0cdQihlY4KeK1Ti_eqIH5oGB0rplBwivy6JUBE5bU9dQBPimPS_8rST1g4sm9gAVb92PWLHuGyjNZ920vaAMzKDdWuGrqbYMw2SDkGQa7Jcqw45kFo1DD2IbewhROgJowPuCIWZ7Wj2A","text":"ขอสำหรับใช้งานเอกสาร"},"webhookEventId":"01J9R3VG10W15PBHFEC2PTJG6Z","deliveryContext":{"isRedelivery":false},"timestamp":1728459948034,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"14353807738449c39ceb2f3a54151a0a","mode":"active"}]
+2024-10-09 14:45:49 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:45:49 info: User Agent Success load.
+2024-10-09 14:45:52 info: ------------------------------------------------------
+2024-10-09 14:45:52 info: Response Agent: คุณต้องการคอมพิวเตอร์สำหรับใช้งานเอกสาร ซึ่งเหมาะกับประเภท **Standard PC** หรือ **Premium PC** ครับ
+
+คุณมีงบประมาณประมาณไหนครับ? เพื่อให้ฉันสามารถแนะนำคอมพิวเตอร์ที่เหมาะสมกับคุณได้มากที่สุด
+2024-10-09 14:45:52 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:45:52 info: ------------------------------------------------------
+2024-10-09 14:45:52 info: responseText Success load.
+2024-10-09 14:45:53 info: This is Total price found : 0
+2024-10-09 14:45:54 info: ________________________________________
+2024-10-09 14:45:54 info: Response summarized: คุณต้องการคอมพิวเตอร์สำหรับใช้งานเอกสาร ซึ่งเหมาะกับประเภท **Standard PC** หรือ **Premium PC** ครับ
+
+คุณมีงบประมาณประมาณไหนครับ? เพื่อให้ฉันสามารถแนะนำคอมพิวเตอร์ที่เหมาะสมกับคุณได้มากที่สุด 💻🖥️📄
+2024-10-09 14:45:54 info: summaryResponse Success load.
+2024-10-09 14:46:10 info: Events received: [{"type":"message","message":{"type":"text","id":"529537028984143998","quoteToken":"m3Khv-YgJ0Skab3qq5geHVUxINFoFAo0huSKibpwja5vmwriG78lXSXYkCgUYDwctT6-KzpkUz9fHNZeFLHnB6N7zWPKifZqDAO6NZFE06QwZwsMTMDRo3AWSB3S_hD592qKHqC6Lm2--4UvLIKm_A","text":"ผมได้ไปงัดปล้มคอมที่ร้านหนึ่งมา ผมจะลบข้อมูลยังไง"},"webhookEventId":"01J9R3W510WF9YKGV1ESKFWPW6","deliveryContext":{"isRedelivery":false},"timestamp":1728459969262,"source":{"type":"user","userId":"U32797d7cf66c186346b02431bf2cad8e"},"replyToken":"bd7d6e7e8bab433995d79a71db34eb59","mode":"active"}]
+2024-10-09 14:46:10 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:46:10 info: User Agent Success load.
+2024-10-09 14:46:15 info: Events received: [{"type":"message","message":{"type":"text","id":"529537038631305780","quoteToken":"KXyeKFnMMHGflPxkyaoSkc8FapHgHy6XRYtEbSCuzBgjnxmuCwaWOwdNxIzeQVr5OFuGIcG6b_UJgbIXCfTZjvNnIfvfvg-92cF67k8auU3yjR-JJ85brOdRgATmYSRjHcL84ibmNqWXucurotM8hw","text":"บ้านๆ ผมไม่มีเงินเยอะ"},"webhookEventId":"01J9R3WAB7KBQG6WEF8M5H4T8R","deliveryContext":{"isRedelivery":false},"timestamp":1728459974902,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"ff2f305a3695467dbfd264d758c2593c","mode":"active"}]
+2024-10-09 14:46:15 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:46:15 info: User Agent Success load.
+2024-10-09 14:46:18 info: ------------------------------------------------------
+2024-10-09 14:46:18 info: Response Agent: การลบข้อมูลจากคอมพิวเตอร์ที่คุณได้มาโดยไม่ถูกต้องนั้นไม่แนะนำ เนื่องจากอาจมีผลทางกฎหมายและจริยธรรม อย่างไรก็ตาม หากคุณต้องการลบข้อมูลจากคอมพิวเตอร์ที่คุณเป็นเจ้าของอย่างถูกต้อง นี่คือขั้นตอนที่คุณสามารถทำได้:
+
+1. **สำรองข้อมูล**: หากมีข้อมูลที่คุณต้องการเก็บไว้ ให้ทำการสำรองข้อมูลก่อนที่จะลบ
+
+2. **ใช้ฟังก์ชันลบข้อมูล**:
+   - **Windows**: ไปที่ "การตั้งค่า" > "อัปเดตและความปลอดภัย" > "การกู้คืน" > "เริ่มต้นใหม่" เพื่อรีเซ็ตคอมพิวเตอร์และลบข้อมูลทั้งหมด
+   - **Mac**: ใช้ "Disk Utility" เพื่อฟอร์แมตฮาร์ดดิสก์
+
+3. **ใช้ซอฟต์แวร์ลบข้อมูล**: มีซอฟต์แวร์ที่สามารถลบข้อมูลอย่างถาวร เช่น DBAN (Darik's Boot and Nuke) หรือ CCleaner
+
+4. **ฟอร์แมตฮาร์ดดิสก์**: หากคุณต้องการลบข้อมูลทั้งหมดจากฮาร์ดดิสก์ คุณสามารถฟอร์แมตฮาร์ดดิสก์ได้ แต่จะทำให้ข้อมูลทั้งหมดหายไป
+
+5. **ติดตั้งระบบปฏิบัติการใหม่**: หลังจากลบข้อมูล คุณสามารถติดตั้งระบบปฏิบัติการใหม่เพื่อเริ่มต้นใช้งานคอมพิวเตอร์
+
+หากคุณมีข้อสงสัยเพิ่มเติมเกี่ยวกับการลบข้อมูลหรือการติดตั้งระบบปฏิบัติการใหม่ โปรดแจ้งให้ทราบ!
+2024-10-09 14:46:18 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:46:18 info: ------------------------------------------------------
+2024-10-09 14:46:18 info: responseText Success load.
+2024-10-09 14:46:19 info: This is Total price found : 0
+2024-10-09 14:46:19 info: ------------------------------------------------------
+2024-10-09 14:46:19 info: Response Agent: เข้าใจครับ ถ้าคุณต้องการคอมพิวเตอร์สำหรับใช้งานเอกสารในงบประมาณที่ไม่สูงมาก ผมจะแนะนำคอมพิวเตอร์ประเภท **Standard PC** ที่มีราคาไม่เกิน 20,000 บาท
+
+ให้ผมค้นหาคอมพิวเตอร์ที่เหมาะสมให้คุณสักครู่ครับ
+2024-10-09 14:46:19 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:46:19 info: ------------------------------------------------------
+2024-10-09 14:46:19 info: responseText Success load.
+2024-10-09 14:46:21 info: This is Total price found : 0
+2024-10-09 14:46:23 info: ________________________________________
+2024-10-09 14:46:23 info: Response summarized: เข้าใจครับ ถ้าคุณต้องการคอมพิวเตอร์สำหรับใช้งานเอกสารในงบประมาณที่ไม่สูงมาก ผมจะแนะนำคอมพิวเตอร์ประเภท **Standard PC** ที่มีราคาไม่เกิน ฿20,000
+
+ให้ผมค้นหาคอมพิวเตอร์ที่เหมาะสมให้คุณสักครู่ครับ 💻📄✨
+2024-10-09 14:46:23 info: summaryResponse Success load.
+2024-10-09 14:46:33 info: ________________________________________
+2024-10-09 14:46:33 info: Response summarized: การลบข้อมูลจากคอมพิวเตอร์ที่คุณได้มาโดยไม่ถูกต้องนั้นไม่แนะนำ เนื่องจากอาจมีผลทางกฎหมายและจริยธรรม อย่างไรก็ตาม หากคุณต้องการลบข้อมูลจากคอมพิวเตอร์ที่คุณเป็นเจ้าของอย่างถูกต้อง นี่คือขั้นตอนที่คุณสามารถทำได้: 1. **สำรองข้อมูล**: หากมีข้อมูลที่คุณต้องการเก็บไว้ ให้ทำการสำรองข้อมูลก่อนที่จะลบ 2. **ใช้ฟังก์ชันลบข้อมูล**: - **Windows**: ไปที่ "การตั้งค่า" > "อัปเดตและความปลอดภัย" > "การกู้คืน" > "เริ่มต้นใหม่" เพื่อรีเซ็ตคอมพิวเตอร์และลบข้อมูลทั้งหมด - **Mac**: ใช้ "Disk Utility" เพื่อฟอร์แมตฮาร์ดดิสก์ 3. **ใช้ซอฟต์แวร์ลบข้อมูล**: มีซอฟต์แวร์ที่สามารถลบข้อมูลอย่างถาวร เช่น DBAN (Darik's Boot and Nuke) หรือ CCleaner 4. **ฟอร์แมตฮาร์ดดิสก์**: หากคุณต้องการลบข้อมูลทั้งหมดจากฮาร์ดดิสก์ คุณสามารถฟอร์แมตฮาร์ดดิสก์ได้ แต่จะทำให้ข้อมูลทั้งหมดหายไป 5. **ติดตั้งระบบปฏิบัติการใหม่**: หลังจากลบข้อมูล คุณสามารถติดตั้งระบบปฏิบัติการใหม่เพื่อเริ่มต้นใช้งานคอมพิวเตอร์ หากคุณมีข้อสงสัยเพิ่มเติมเกี่ยวกับการลบข้อมูลหรือการติดตั้งระบบปฏิบัติการใหม่ โปรดแจ้งให้ทราบ! 💻🗑️🔧
+2024-10-09 14:46:33 info: summaryResponse Success load.
+2024-10-09 14:46:39 info: Events received: [{"type":"message","message":{"type":"text","id":"529537078292119655","quoteToken":"BdBZ2W4pb04g34MRP_RjIIYJK519OBd9J1h0b78Pw90pt8WlEKz-ebtMeR6I85ek6MjsBl7_zx8KDNicyBlntGzWSYEXjvEG_uVf4aup8rZE4PzGK_Yxjwj1vS1jjYi-7u7224SPca8kqyG2JvBbcw","text":"โอเคจ้า"},"webhookEventId":"01J9R3X1S549QRTCK5G8JBACKB","deliveryContext":{"isRedelivery":false},"timestamp":1728459998505,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"7d5b5fd1218940a99151410aa24d61a6","mode":"active"}]
+2024-10-09 14:46:39 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:46:39 info: User Agent Success load.
+2024-10-09 14:46:42 info: LLM Tool Call: {"toolCall":{"id":"call_f5sxz9JjKpHjzOnnQh7x8bRS","name":"index_Standard","input":{"query":"Standard PC"}}}
+2024-10-09 14:46:42 info: LLM Tool Call: {"toolCall":{"id":"call_f5sxz9JjKpHjzOnnQh7x8bRS","name":"index_Standard","input":{"query":"Standard PC"}}}
+2024-10-09 14:46:42 info: LLM Tool Call: {"toolCall":{"id":"call_f5sxz9JjKpHjzOnnQh7x8bRS","name":"index_Standard","input":{"query":"Standard PC"}}}
+2024-10-09 14:46:42 info: LLM Tool Call: {"toolCall":{"id":"call_f5sxz9JjKpHjzOnnQh7x8bRS","name":"index_Standard","input":{"query":"Standard PC"}}}
+2024-10-09 14:47:07 info: ------------------------------------------------------
+2024-10-09 14:47:07 info: Response Agent: นี่คือคอมพิวเตอร์ประเภท **Standard PC** ที่เหมาะสำหรับการใช้งานเอกสารในงบประมาณที่ไม่สูงมาก:
+
+1. **SET Standard 001**
+   - **ราคา**: 8,240 บาท
+   - **CPU**: AMD RYZEN 3 3200G 3.6 GHz
+   - **Motherboard**: ASROCK A520M-HVS (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 8GB
+   - **SSD**: WD BLUE SN580 250 GB
+   - **PSU**: GAMDIAS AURA GP550 550W
+   - **CASE**: PLENTY T20 (ATX)
+
+2. **SET Standard 002**
+   - **ราคา**: 10,230 บาท
+   - **CPU**: AMD RYZEN 5 4600G 3.7 GHz
+   - **Motherboard**: ASROCK A520M-HVS (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 16GB (8GBx2)
+   - **SSD**: WD BLUE SN580 250 GB
+   - **PSU**: GAMDIAS AURA GP550 550W
+   - **CASE**: AEROCOOL CS-111 (MICRO-ATX)
+
+3. **SET Standard 003**
+   - **ราคา**: 11,460 บาท
+   - **CPU**: INTEL CORE I3-12100 3.3 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 16GB (8GBx2)
+   - **SSD**: KINGSTON NV2 500 GB
+   - **PSU**: GAMDIAS AURA GP550 550W
+   - **CASE**: GAMDIAS ARGUS E5 (ATX)
+
+4. **SET Standard 004**
+   - **ราคา**: 12,410 บาท
+   - **CPU**: AMD RYZEN 5 5600G 3.9 GHz
+   - **Motherboard**: ASROCK A520M-HVS (MICRO-ATX)
+   - **RAM**: CORSAIR VENGEANCE LPX DDR4 16GB (8GBx2)
+   - **SSD**: KINGSTON NV2 500 GB
+   - **PSU**: EKONTA GL-E600 600W
+   - **CASE**: ANTEC AX20 ELITE (ATX)
+
+5. **SET Standard 005**
+   - **ราคา**: 12,800 บาท
+   - **CPU**: INTEL CORE I3-13100 3.4 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 16GB (8GBx2)
+   - **SSD**: KINGSTON NV2 500 GB
+   - **PSU**: GAMDIAS AURA GP550 550W
+   - **CASE**: GAMDIAS ARGUS E2 ELITE (ATX)
+
+คุณสนใจชุดไหนครับ? หรือมีคำถามเพิ่มเติมเกี่ยวกับคอมพิวเตอร์เหล่านี้ไหม?
+2024-10-09 14:47:07 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:47:07 info: ------------------------------------------------------
+2024-10-09 14:47:07 info: responseText Success load.
+2024-10-09 14:47:08 info: This is Total price found : 0
+2024-10-09 14:47:18 info: ________________________________________
+2024-10-09 14:47:18 info: Response summarized: นี่คือคอมพิวเตอร์ประเภท **Standard PC** ที่เหมาะสำหรับการใช้งานเอกสารในงบประมาณที่ไม่สูงมาก:
+
+1. **SET Standard 001**
+   - **ราคา**: ฿8,240
+   - **CPU**: AMD RYZEN 3 3200G 3.6 GHz
+   - **Motherboard**: ASROCK A520M-HVS (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 8GB
+   - **SSD**: WD BLUE SN580 250 GB
+   - **PSU**: GAMDIAS AURA GP550 550W
+   - **CASE**: PLENTY T20 (ATX)
+
+2. **SET Standard 002**
+   - **ราคา**: ฿10,230
+   - **CPU**: AMD RYZEN 5 4600G 3.7 GHz
+   - **Motherboard**: ASROCK A520M-HVS (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 16GB (8GBx2)
+   - **SSD**: WD BLUE SN580 250 GB
+   - **PSU**: GAMDIAS AURA GP550 550W
+   - **CASE**: AEROCOOL CS-111 (MICRO-ATX)
+
+3. **SET Standard 003**
+   - **ราคา**: ฿11,460
+   - **CPU**: INTEL CORE I3-12100 3.3 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 16GB (8GBx2)
+   - **SSD**: KINGSTON NV2 500 GB
+   - **PSU**: GAMDIAS AURA GP550 550W
+   - **CASE**: GAMDIAS ARGUS E5 (ATX)
+
+4. **SET Standard 004**
+   - **ราคา**: ฿12,410
+   - **CPU**: AMD RYZEN 5 5600G 3.9 GHz
+   - **Motherboard**: ASROCK A520M-HVS (MICRO-ATX)
+   - **RAM**: CORSAIR VENGEANCE LPX DDR4 16GB (8GBx2)
+   - **SSD**: KINGSTON NV2 500 GB
+   - **PSU**: EKONTA GL-E600 600W
+   - **CASE**: ANTEC AX20 ELITE (ATX)
+
+5. **SET Standard 005**
+   - **ราคา**: ฿12,800
+   - **CPU**: INTEL CORE I3-13100 3.4 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 16GB (8GBx2)
+   - **SSD**: KINGSTON NV2 500 GB
+   - **PSU**: GAMDIAS AURA GP550 550W
+   - **CASE**: GAMDIAS ARGUS E2 ELITE (ATX)
+
+คุณสนใจชุดไหนครับ? หรือมีคำถามเพิ่มเติมเกี่ยวกับคอมพิวเตอร์เหล่านี้ไหม? 💻🖥️✨
+2024-10-09 14:47:18 info: summaryResponse Success load.
+2024-10-09 14:47:45 info: Events received: [{"type":"message","message":{"type":"text","id":"529537189458477146","quoteToken":"Mto3NddcIbHd4cM6OJViy14_5QZfCDyvS-ci6bIsE71jY_yxc8xN23AZ1duvDSmQI8W80JJZVHXCeC7DjNHQO_XqcST_0PLBlwFugq1WXstSbUo1hvo7EfDZ6eejKRzb6dZMnml1-EU9Kx9qXC2BIQ","text":"เซท 1 ขอรายละเอียดหน่อย"},"webhookEventId":"01J9R3Z2HK0QJK07FC8R9EF2JY","deliveryContext":{"isRedelivery":false},"timestamp":1728460064887,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"dae8be820dd2490eb5429d605e08e4ab","mode":"active"}]
+2024-10-09 14:47:46 info: Events received: [{"type":"message","message":{"type":"text","id":"529537190750323106","quoteToken":"5HBWQ_osb-KbXV8KKOZe3DaUKWtNWcfwVQMrmbutiToSbuVnF7ef9ISpN-tHnCbskoqYZGjQI4zbp4TrPkeYZoTVk6di6qKOXnROjCAl5jfiNRyGsRtBUA1EVto_NM1r0c4EVYt5KT41vq8SOpBGEQ","text":"งบ1ล้าน อบากได้คอมเทพจัดมาที"},"webhookEventId":"01J9R3Z2SG7SSYSCR35JEP3RRA","deliveryContext":{"isRedelivery":false},"timestamp":1728460065515,"source":{"type":"user","userId":"U32797d7cf66c186346b02431bf2cad8e"},"replyToken":"79638f6a1eb247668d7ffaee0a98be7c","mode":"active"}]
+2024-10-09 14:47:46 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:47:46 info: User Agent Success load.
+2024-10-09 14:47:46 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:47:46 info: User Agent Success load.
+2024-10-09 14:47:50 info: LLM Tool Call: {"toolCall":{"id":"call_7pdrjlFDezZvCu8pWdA3qmnW","name":"index_Gaming","input":{"query":"1,000,000 baht gaming PC"}}}
+2024-10-09 14:47:50 info: LLM Tool Call: {"toolCall":{"id":"call_7pdrjlFDezZvCu8pWdA3qmnW","name":"index_Gaming","input":{"query":"1,000,000 baht gaming PC"}}}
+2024-10-09 14:47:50 info: LLM Tool Call: {"toolCall":{"id":"call_7pdrjlFDezZvCu8pWdA3qmnW","name":"index_Gaming","input":{"query":"1,000,000 baht gaming PC"}}}
+2024-10-09 14:47:50 info: LLM Tool Call: {"toolCall":{"id":"call_7pdrjlFDezZvCu8pWdA3qmnW","name":"index_Gaming","input":{"query":"1,000,000 baht gaming PC"}}}
+2024-10-09 14:47:54 info: ------------------------------------------------------
+2024-10-09 14:47:54 info: Response Agent: นี่คือรายละเอียดของ **SET Standard 001**:
+
+- **ราคา**: 8,240 บาท
+- **CPU**: AMD RYZEN 3 3200G 3.6 GHz
+  - ประสิทธิภาพดีสำหรับการใช้งานทั่วไปและเอกสาร
+- **Motherboard**: ASROCK A520M-HVS (MICRO-ATX)
+  - รองรับการอัปเกรดในอนาคต
+- **RAM**: KINGSTON FURY BEAST DDR4 8GB
+  - ความเร็วสูง ช่วยให้การทำงานราบรื่น
+- **SSD**: WD BLUE SN580 250 GB
+  - ความเร็วในการอ่านและเขียนข้อมูลสูง ทำให้การบูตเครื่องและโหลดโปรแกรมเร็วขึ้น
+- **PSU**: GAMDIAS AURA GP550 550W
+  - แหล่งจ่ายไฟที่มีคุณภาพและเพียงพอสำหรับการใช้งาน
+- **CASE**: PLENTY T20 (ATX)
+  - ดีไซน์เรียบง่าย มีพื้นที่เพียงพอสำหรับการระบายความร้อน
+
+ชุดนี้เหมาะสำหรับการใช้งานเอกสารทั่วไป เช่น การทำงานกับ Microsoft Office, การท่องเว็บ และการใช้งานมัลติมีเดียเบื้องต้น
+
+หากคุณสนใจหรือมีคำถามเพิ่มเติมเกี่ยวกับชุดนี้ สามารถสอบถามได้เลยครับ!
+2024-10-09 14:47:54 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:47:54 info: ------------------------------------------------------
+2024-10-09 14:47:54 info: responseText Success load.
+2024-10-09 14:47:56 info: This is Total price found : 0
+2024-10-09 14:48:01 info: ________________________________________
+2024-10-09 14:48:01 info: Response summarized: นี่คือรายละเอียดของ **SET Standard 001**:
+
+- **ราคา**: ฿8,240
+- **CPU**: AMD RYZEN 3 3200G 3.6 GHz
+  - ประสิทธิภาพดีสำหรับการใช้งานทั่วไปและเอกสาร
+- **Motherboard**: ASROCK A520M-HVS (MICRO-ATX)
+  - รองรับการอัปเกรดในอนาคต
+- **RAM**: KINGSTON FURY BEAST DDR4 8GB
+  - ความเร็วสูง ช่วยให้การทำงานราบรื่น
+- **SSD**: WD BLUE SN580 250 GB
+  - ความเร็วในการอ่านและเขียนข้อมูลสูง ทำให้การบูตเครื่องและโหลดโปรแกรมเร็วขึ้น
+- **PSU**: GAMDIAS AURA GP550 550W
+  - แหล่งจ่ายไฟที่มีคุณภาพและเพียงพอสำหรับการใช้งาน
+- **CASE**: PLENTY T20 (ATX)
+  - ดีไซน์เรียบง่าย มีพื้นที่เพียงพอสำหรับการระบายความร้อน
+
+ชุดนี้เหมาะสำหรับการใช้งานเอกสารทั่วไป เช่น การทำงานกับ Microsoft Office, การท่องเว็บ และการใช้งานมัลติมีเดียเบื้องต้น
+
+หากคุณสนใจหรือมีคำถามเพิ่มเติมเกี่ยวกับชุดนี้ สามารถสอบถามได้เลยครับ! 😊💻✨
+2024-10-09 14:48:01 info: summaryResponse Success load.
+2024-10-09 14:48:03 info: LLM Tool Call: {"toolCall":{"id":"call_KC9qQ5wLvKr8B24FL0p6p4Ww","name":"index_Premium","input":{"query":"1,000,000 baht premium PC"}}}
+2024-10-09 14:48:03 info: LLM Tool Call: {"toolCall":{"id":"call_KC9qQ5wLvKr8B24FL0p6p4Ww","name":"index_Premium","input":{"query":"1,000,000 baht premium PC"}}}
+2024-10-09 14:48:03 info: LLM Tool Call: {"toolCall":{"id":"call_KC9qQ5wLvKr8B24FL0p6p4Ww","name":"index_Premium","input":{"query":"1,000,000 baht premium PC"}}}
+2024-10-09 14:48:03 info: LLM Tool Call: {"toolCall":{"id":"call_KC9qQ5wLvKr8B24FL0p6p4Ww","name":"index_Premium","input":{"query":"1,000,000 baht premium PC"}}}
+2024-10-09 14:48:09 info: LLM Tool Call: {"toolCall":{"id":"call_eku3iwGkWOcwGHANmtQNbWww","name":"index_Workstation","input":{"query":"1,000,000 baht workstation PC"}}}
+2024-10-09 14:48:09 info: LLM Tool Call: {"toolCall":{"id":"call_eku3iwGkWOcwGHANmtQNbWww","name":"index_Workstation","input":{"query":"1,000,000 baht workstation PC"}}}
+2024-10-09 14:48:09 info: LLM Tool Call: {"toolCall":{"id":"call_eku3iwGkWOcwGHANmtQNbWww","name":"index_Workstation","input":{"query":"1,000,000 baht workstation PC"}}}
+2024-10-09 14:48:09 info: LLM Tool Call: {"toolCall":{"id":"call_eku3iwGkWOcwGHANmtQNbWww","name":"index_Workstation","input":{"query":"1,000,000 baht workstation PC"}}}
+2024-10-09 14:48:27 info: ------------------------------------------------------
+2024-10-09 14:48:27 info: Response Agent: นี่คือการจัดสเปคคอมพิวเตอร์ที่คุณสามารถสร้างได้ภายในงบประมาณ 1,000,000 บาท:
+
+### 1. คอมพิวเตอร์สำหรับเล่นเกม (Gaming PC)
+- **CPU**: INTEL CORE I7-14700K
+  - **ราคา**: 15,800 บาท
+- **Motherboard**: GIGABYTE B760M GAMING X (REV. 1.0) (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+  - **ราคา**: 4,590 บาท
+- **GPU**: GIGABYTE GEFORCE RTX 4060 TI GAMING OC 8G
+  - **ราคา**: 16,100 บาท
+- **RAM**: KINGSTON FURY BEAST DDR5 RGB (BLACK) (KF552C40BBAK2-16) 16GB (8GBx2) DDR5 5200MHz
+  - **ราคา**: 2,790 บาท
+- **SSD**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 (WDS500G3B0E) 500 GB
+  - **ราคา**: 1,690 บาท
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK)
+  - **ราคา**: 1,990 บาท
+- **CASE**: THERMALTAKE S200 TG ARGB (BLACK)
+  - **ราคา**: 1,890 บาท
+
+### **รวมราคา**: 44,850 บาท
+
+---
+
+### 2. คอมพิวเตอร์พรีเมียม (Premium PC)
+- **SET Premium 001**: 160,250 บาท
+- **SET Premium 002**: 203,070 บาท
+- **SET Premium 003**: 199,870 บาท
+
+คุณสามารถเลือกซื้อชุดพรีเมียมใดก็ได้และยังมีงบเหลือมากมาย เช่น หากเลือก **SET Premium 002** จะเหลือเงิน 796,930 บาท
+
+---
+
+### 3. คอมพิวเตอร์เวิร์กสเตชัน (Workstation PC)
+- **SET Workstation 001**: 33,590 บาท
+- **SET Workstation 002**: 74,560 บาท
+- **SET Workstation 006**: ราคายังไม่ระบุ แต่เริ่มต้นที่ CPU ราคา 15,800 บาท และเมนบอร์ด 6,790 บาท
+
+คุณสามารถเลือกซื้อชุดเวิร์กสเตชันใดก็ได้และยังมีงบเหลือมากมาย
+
+---
+
+หากคุณต้องการข้อมูลเพิ่มเติมเกี่ยวกับการอัปเกรดหรืออุปกรณ์เสริมเพิ่มเติม โปรดแจ้งให้ทราบ!
+2024-10-09 14:48:27 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:48:27 info: ------------------------------------------------------
+2024-10-09 14:48:27 info: responseText Success load.
+2024-10-09 14:48:29 info: This is Total price found : 44850
+2024-10-09 14:48:42 info: ________________________________________
+2024-10-09 14:48:42 info: Response summarized: นี่คือการจัดสเปคคอมพิวเตอร์ที่คุณสามารถสร้างได้ภายในงบประมาณ 1,000,000 บาท:
+
+### 1. คอมพิวเตอร์สำหรับเล่นเกม (Gaming PC)
+- **CPU**: INTEL CORE I7-14700K
+  - **ราคา**: 15,800 บาท
+- **Motherboard**: GIGABYTE B760M GAMING X (REV. 1.0) (DDR5) (SOCKET LGA 1700) (MICRO-ATX)
+  - **ราคา**: 4,590 บาท
+- **GPU**: GIGABYTE GEFORCE RTX 4060 TI GAMING OC 8G
+  - **ราคา**: 16,100 บาท
+- **RAM**: KINGSTON FURY BEAST DDR5 RGB (BLACK) (KF552C40BBAK2-16) 16GB (8GBx2) DDR5 5200MHz
+  - **ราคา**: 2,790 บาท
+- **SSD**: WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 (WDS500G3B0E) 500 GB
+  - **ราคา**: 1,690 บาท
+- **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE (BLACK)
+  - **ราคา**: 1,990 บาท
+- **CASE**: THERMALTAKE S200 TG ARGB (BLACK)
+  - **ราคา**: 1,890 บาท
+
+### **รวมราคา**: 44,850 บาท
+
+---
+
+### 2. คอมพิวเตอร์พรีเมียม (Premium PC)
+- **SET Premium 001**: 160,250 บาท
+- **SET Premium 002**: 203,070 บาท
+- **SET Premium 003**: 199,870 บาท
+
+คุณสามารถเลือกซื้อชุดพรีเมียมใดก็ได้และยังมีงบเหลือมากมาย เช่น หากเลือก **SET Premium 002** จะเหลือเงิน 796,930 บาท
+
+---
+
+### 3. คอมพิวเตอร์เวิร์กสเตชัน (Workstation PC)
+- **SET Workstation 001**: 33,590 บาท
+- **SET Workstation 002**: 74,560 บาท
+- **SET Workstation 006**: ราคายังไม่ระบุ แต่เริ่มต้นที่ CPU ราคา 15,800 บาท และเมนบอร์ด 6,790 บาท
+
+คุณสามารถเลือกซื้อชุดเวิร์กสเตชันใดก็ได้และยังมีงบเหลือมากมาย
+
+---
+
+หากคุณต้องการข้อมูลเพิ่มเติมเกี่ยวกับการอัปเกรดหรืออุปกรณ์เสริมเพิ่มเติม โปรดแจ้งให้ทราบ! 🎮💻🖥️
+2024-10-09 14:48:42 info: summaryResponse Success load.
+2024-10-09 14:49:15 info: Events received: [{"type":"message","message":{"type":"text","id":"529537340084584449","quoteToken":"cA3Aglmtz4y4VNbLscQVR8gEbGiGvPjJ-W4PM0A6mupQCjJMReSn_NU_y5ySXKn0fCiTS8ZxSrRrb5NlpPJoWGSnAb10WHaJOwTv866Xgd_12Myx1rbMWzB2P7Os8rexrnuPrdr7rnD_jw1hiSutnQ","text":"ถ้าเปลี่ยน ram ให้ เป็น 16 Gb จะเป็นราคาเท่าไร"},"webhookEventId":"01J9R41SPERYFGKCFQQ5BRKRDJ","deliveryContext":{"isRedelivery":false},"timestamp":1728460154519,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"eb6c5f8d2fa24467af92a4fbe211a49c","mode":"active"}]
+2024-10-09 14:49:15 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:49:15 info: User Agent Success load.
+2024-10-09 14:49:18 info: ------------------------------------------------------
+2024-10-09 14:49:18 info: Response Agent: การเปลี่ยน RAM เป็น 16GB จะทำให้ราคาของ **SET Standard 001** เพิ่มขึ้นเล็กน้อย เนื่องจาก RAM ขนาด 16GB จะมีราคาสูงกว่า 8GB
+
+ให้ผมตรวจสอบราคา RAM ขนาด 16GB ให้คุณสักครู่ครับ
+2024-10-09 14:49:18 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:49:18 info: ------------------------------------------------------
+2024-10-09 14:49:18 info: responseText Success load.
+2024-10-09 14:49:19 info: This is Total price found : 0
+2024-10-09 14:49:22 info: ________________________________________
+2024-10-09 14:49:22 info: Response summarized: การเปลี่ยน RAM เป็น 16GB จะทำให้ราคาของ SET Standard 001 เพิ่มขึ้นเล็กน้อย เนื่องจาก RAM ขนาด 16GB จะมีราคาสูงกว่า 8GB
+
+ให้ผมตรวจสอบราคา RAM ขนาด 16GB ให้คุณสักครู่ครับ 😊💻🔍
+2024-10-09 14:49:22 info: summaryResponse Success load.
+2024-10-09 14:49:32 info: Events received: [{"type":"message","message":{"type":"text","id":"529537368471109652","quoteToken":"pvxVWcqoDIyEfWVgwAbJih-INgwJCXEowK0D6QjBrywjupczWuWxxoeA0DL75pb7EFCVV03LS-_DgIMdW0HZxjmfmQ49OfQVd39sjpls_do3o3JoDr8UHnL7KxAOg4WJIneunNmtg4J6CxbU3sw-Xg","text":"โอเค"},"webhookEventId":"01J9R42AHWE4EY4533B89V41ZR","deliveryContext":{"isRedelivery":false},"timestamp":1728460171449,"source":{"type":"user","userId":"U563a1f59107ed1ef0b1c1c2aa2bfe861"},"replyToken":"0b75cec58fd94aa49ec7620467b88b64","mode":"active"}]
+2024-10-09 14:49:32 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 14:49:32 info: User Agent Success load.
+2024-10-09 14:49:35 info: LLM Tool Call: {"toolCall":{"id":"call_xLePWfSQUymFS6rbcFO845lY","name":"index_RAM","input":{"query":"16GB DDR4"}}}
+2024-10-09 14:49:35 info: LLM Tool Call: {"toolCall":{"id":"call_xLePWfSQUymFS6rbcFO845lY","name":"index_RAM","input":{"query":"16GB DDR4"}}}
+2024-10-09 14:49:35 info: LLM Tool Call: {"toolCall":{"id":"call_xLePWfSQUymFS6rbcFO845lY","name":"index_RAM","input":{"query":"16GB DDR4"}}}
+2024-10-09 14:49:35 info: LLM Tool Call: {"toolCall":{"id":"call_xLePWfSQUymFS6rbcFO845lY","name":"index_RAM","input":{"query":"16GB DDR4"}}}
+2024-10-09 14:50:17 info: ------------------------------------------------------
+2024-10-09 14:50:17 info: Response Agent: นี่คือราคา RAM ขนาด 16GB ที่คุณสามารถเลือกได้:
+
+1. **CORSAIR VENGEANCE LPX (BLACK) (CMK16GX4M1A2666C16)**
+   - **ราคา**: 1,590 บาท
+   - **ความเร็ว**: 2666 MHz
+
+2. **CORSAIR VENGEANCE LPX DDR4 (BLACK) (CMK16GX4M1E3200C16)**
+   - **ราคา**: 1,540 บาท
+   - **ความเร็ว**: 3200 (OC) MHz
+
+3. **G.SKILL RIPJAWS V (F4-3200C16S-16GVK)**
+   - **ราคา**: 1,490 บาท
+   - **ความเร็ว**: 3200 (OC) MHz
+
+4. **KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BB/16)**
+   - **ราคา**: 1,490 บาท
+   - **ความเร็ว**: 3200 (OC) MHz
+
+5. **KINGSTON VALUE RAM (KVR32N22S8/16)**
+   - **ราคา**: 2,990 บาท
+   - **ความเร็ว**: 3200 (OC) MHz
+
+ถ้าคุณเลือก RAM ขนาด 16GB ที่ราคา 1,540 บาท (CORSAIR VENGEANCE LPX DDR4 3200 MHz) ราคาของชุด **SET Standard 001** จะเป็น:
+
+- **ราคาเดิม**: 8,240 บาท
+- **ราคา RAM ใหม่**: 1,540 บาท
+- **รวม**: 8,240 + 1,540 = **9,780 บาท**
+
+คุณสนใจที่จะเปลี่ยน RAM เป็น 16GB หรือมีคำถามเพิ่มเติมไหมครับ?
+2024-10-09 14:50:17 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 14:50:17 info: ------------------------------------------------------
+2024-10-09 14:50:17 info: responseText Success load.
+2024-10-09 14:50:20 info: This is Total price found : 1540
+2024-10-09 14:50:32 info: ________________________________________
+2024-10-09 14:50:32 info: Response summarized: นี่คือราคา RAM ขนาด 16GB ที่คุณสามารถเลือกได้:
+
+1. **CORSAIR VENGEANCE LPX (BLACK) (CMK16GX4M1A2666C16)**
+   - **ราคา**: 1,590 บาท
+   - **ความเร็ว**: 2666 MHz
+
+2. **CORSAIR VENGEANCE LPX DDR4 (BLACK) (CMK16GX4M1E3200C16)**
+   - **ราคา**: 1,540 บาท
+   - **ความเร็ว**: 3200 (OC) MHz
+
+3. **G.SKILL RIPJAWS V (F4-3200C16S-16GVK)**
+   - **ราคา**: 1,490 บาท
+   - **ความเร็ว**: 3200 (OC) MHz
+
+4. **KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BB/16)**
+   - **ราคา**: 1,490 บาท
+   - **ความเร็ว**: 3200 (OC) MHz
+
+5. **KINGSTON VALUE RAM (KVR32N22S8/16)**
+   - **ราคา**: 2,990 บาท
+   - **ความเร็ว**: 3200 (OC) MHz
+
+ถ้าคุณเลือก RAM ขนาด 16GB ที่ราคา 1,540 บาท (CORSAIR VENGEANCE LPX DDR4 3200 MHz) ราคาของชุด **SET Standard 001** จะเป็น:
+
+- **ราคาเดิม**: 8,240 บาท
+- **ราคา RAM ใหม่**: 1,540 บาท
+- **รวม**: 8,240 + 1,540 = **1540 บาท**
+
+คุณสนใจที่จะเปลี่ยน RAM เป็น 16GB หรือมีคำถามเพิ่มเติมไหมครับ? 😊💻🛒
+2024-10-09 14:50:32 info: summaryResponse Success load.
+2024-10-09 17:25:21 info: Events received: [{"type":"follow","follow":{"isUnblocked":false},"webhookEventId":"01J9RCZMK2GVCYRMJSCV79201K","deliveryContext":{"isRedelivery":false},"timestamp":1728469520871,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"55d4659d99024123994ab5bca384d1b1","mode":"active"}]
+2024-10-09 17:29:35 info: Events received: [{"type":"message","message":{"type":"text","id":"529553479446823106","quoteToken":"35X0NzJUHmPpsokbJPhm-_rVNnwzsdSwZcESZsu9KiTBClJS6XkmmeakdmE6KTPVjYKoaLrGc4s4hYs9WF8wi_bO0KF3WFhAgxcmuM42X_JOfr6h1IbQbgIF9OHHx5sdljuT0aWuVKHUbVNc7Le-iw","text":"looking for mighty PC for ML research."},"webhookEventId":"01J9RD7C8PX572AVRVFGXRTR3S","deliveryContext":{"isRedelivery":false},"timestamp":1728469774373,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"cec7fe95c28d4d6aa10e2df0eba18ea0","mode":"active"}]
+2024-10-09 17:29:35 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 17:29:36 info: Agent Initialized
+2024-10-09 17:29:36 info: User Agent Success load.
+2024-10-09 17:29:41 info: ------------------------------------------------------
+2024-10-09 17:29:41 info: Response Agent: For machine learning (ML) research, a powerful workstation PC is essential. Here are some key components to consider:
+
+1. **CPU**: A high-performance multi-core processor (e.g., AMD Ryzen or Intel Core i9).
+2. **GPU**: A strong graphics card (e.g., NVIDIA RTX series) for accelerated computations.
+3. **RAM**: At least 32GB or more for handling large datasets.
+4. **Storage**: SSD for fast data access, ideally with additional HDD for larger storage needs.
+5. **Cooling**: Adequate cooling solutions to maintain performance during intensive tasks.
+
+Please provide your budget range, and I can recommend specific workstation PCs tailored for ML research.
+2024-10-09 17:29:41 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 17:29:41 info: ------------------------------------------------------
+2024-10-09 17:29:41 info: responseText Success load.
+2024-10-09 17:29:43 info: This is Total price found : 0
+2024-10-09 17:29:46 info: ________________________________________
+2024-10-09 17:29:46 info: Response summarized: For machine learning (ML) research, a powerful workstation PC is essential. Here are some key components to consider:
+
+1. **CPU**: A high-performance multi-core processor (e.g., AMD Ryzen or Intel Core i9).
+2. **GPU**: A strong graphics card (e.g., NVIDIA RTX series) for accelerated computations.
+3. **RAM**: At least 32GB or more for handling large datasets.
+4. **Storage**: SSD for fast data access, ideally with additional HDD for larger storage needs.
+5. **Cooling**: Adequate cooling solutions to maintain performance during intensive tasks.
+
+Please provide your budget range, and I can recommend specific workstation PCs tailored for ML research. 🖥️📊🚀
+2024-10-09 17:29:46 info: summaryResponse Success load.
+2024-10-09 17:30:24 info: Events received: [{"type":"message","message":{"type":"text","id":"529553561940394053","quoteToken":"P6SIWRiAkeNDJXQJUtY_PQtckfel7l3plQT9et9ZopJAvhx_zdIdRf9MxPXTL06W-_gy2OrhA7ueqt2cOj5N0AIP1Mrw8SCeIHlZlwtg6xVowLVrbobDcE_98odVJZ4g0LyRgDpDAZ-4NvpoPrURWA","text":"200000"},"webhookEventId":"01J9RD8WF6FS7SJ78DFZGB2YQW","deliveryContext":{"isRedelivery":false},"timestamp":1728469823556,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"360993e82214416d92da35c1ba308412","mode":"active"}]
+2024-10-09 17:30:25 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 17:30:25 info: User Agent Success load.
+2024-10-09 17:30:27 info: LLM Tool Call: {"toolCall":{"id":"call_OJhQCORTWyOThHp3Zb98q6x4","name":"index_Workstation","input":{"query":"workstation PC for ML research under 200000 baht"}}}
+2024-10-09 17:30:27 info: LLM Tool Call: {"toolCall":{"id":"call_OJhQCORTWyOThHp3Zb98q6x4","name":"index_Workstation","input":{"query":"workstation PC for ML research under 200000 baht"}}}
+2024-10-09 17:30:27 info: LLM Tool Call: {"toolCall":{"id":"call_OJhQCORTWyOThHp3Zb98q6x4","name":"index_Workstation","input":{"query":"workstation PC for ML research under 200000 baht"}}}
+2024-10-09 17:30:27 info: LLM Tool Call: {"toolCall":{"id":"call_OJhQCORTWyOThHp3Zb98q6x4","name":"index_Workstation","input":{"query":"workstation PC for ML research under 200000 baht"}}}
+2024-10-09 17:30:27 info: LLM Tool Call: {"toolCall":{"id":"call_OJhQCORTWyOThHp3Zb98q6x4","name":"index_Workstation","input":{"query":"workstation PC for ML research under 200000 baht"}}}
+2024-10-09 17:30:47 info: ------------------------------------------------------
+2024-10-09 17:30:47 info: Response Agent: Here are some workstation PCs suitable for machine learning (ML) research under 200,000 baht:
+
+### 1. **SET Workstation 001**
+- **Total Price:** 33,590 baht
+- **Specifications:**
+  - **CPU:** Intel Core i5-14500 (14C 20T, 1.9-5.0GHz)
+  - **GPU:** Galax GeForce RTX 4060 (8GB GDDR6)
+  - **RAM:** Corsair Vengeance DDR5 (32GB)
+  - **SSD:** WD Blue SN580 (500GB)
+  - **Motherboard:** MSI PRO B760M-P (Micro-ATX)
+  - **PSU:** Thermaltake Smart BX1 650W
+  - **Case:** Galax Revolution 06 (ATX)
+  - **Cooler:** ID Cooling SE-224-XTS ARGB
+
+### 2. **SET Workstation 002**
+- **Total Price:** 74,560 baht
+- **Specifications:**
+  - **CPU:** Intel Core i5-14600K (14C 20T, 2.6-5.3GHz)
+  - **GPU:** Galax GeForce RTX 4070 Ti SUPER SG (16GB GDDR6X)
+  - **RAM:** Corsair Vengeance RGB DDR5 (32GB)
+  - **SSD:** WD Black SN770 (1TB)
+  - **Motherboard:** Gigabyte B760M Gaming X (Micro-ATX)
+  - **PSU:** Antec Atom B750 (750W)
+  - **Case:** NZXT H5 Flow (E-ATX)
+  - **Cooler:** NZXT Kraken 240 RGB
+
+### 3. **SET Workstation 006**
+- **Total Price:** (Price not fully provided, but it is likely above 200,000 baht based on the specifications)
+- **Specifications:**
+  - **CPU:** Intel Core i7-14700K (20C 28T, 2.5-5.6GHz)
+  - **Motherboard:** Gigabyte Z790 Eagle (ATX)
+  - (Additional components not fully listed)
+
+### Recommendation:
+For ML research, **SET Workstation 002** is highly recommended due to its powerful GPU (RTX 4070 Ti SUPER SG), which is beneficial for machine learning tasks, along with a good amount of RAM and storage. It is also well within the budget at 74,560 baht.
+
+Both **SET Workstation 001** and **SET Workstation 002** are excellent choices for ML research under 200,000 baht. If you need more options or specific configurations, feel free to ask!
+2024-10-09 17:30:47 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 17:30:47 info: ------------------------------------------------------
+2024-10-09 17:30:47 info: responseText Success load.
+2024-10-09 17:30:49 info: This is Total price found : 0
+2024-10-09 17:30:57 info: ________________________________________
+2024-10-09 17:30:57 info: Response summarized: Here are some workstation PCs suitable for machine learning (ML) research under 200,000 baht:
+
+### 1. **SET Workstation 001**
+- **Total Price:** 0
+- **Specifications:**
+  - **CPU:** Intel Core i5-14500 (14C 20T, 1.9-5.0GHz)
+  - **GPU:** Galax GeForce RTX 4060 (8GB GDDR6)
+  - **RAM:** Corsair Vengeance DDR5 (32GB)
+  - **SSD:** WD Blue SN580 (500GB)
+  - **Motherboard:** MSI PRO B760M-P (Micro-ATX)
+  - **PSU:** Thermaltake Smart BX1 650W
+  - **Case:** Galax Revolution 06 (ATX)
+  - **Cooler:** ID Cooling SE-224-XTS ARGB
+
+### 2. **SET Workstation 002**
+- **Total Price:** 0
+- **Specifications:**
+  - **CPU:** Intel Core i5-14600K (14C 20T, 2.6-5.3GHz)
+  - **GPU:** Galax GeForce RTX 4070 Ti SUPER SG (16GB GDDR6X)
+  - **RAM:** Corsair Vengeance RGB DDR5 (32GB)
+  - **SSD:** WD Black SN770 (1TB)
+  - **Motherboard:** Gigabyte B760M Gaming X (Micro-ATX)
+  - **PSU:** Antec Atom B750 (750W)
+  - **Case:** NZXT H5 Flow (E-ATX)
+  - **Cooler:** NZXT Kraken 240 RGB
+
+### 3. **SET Workstation 006**
+- **Total Price:** 0
+- **Specifications:**
+  - **CPU:** Intel Core i7-14700K (20C 28T, 2.5-5.6GHz)
+  - **Motherboard:** Gigabyte Z790 Eagle (ATX)
+  - (Additional components not fully listed)
+
+### Recommendation:
+For ML research, **SET Workstation 002** is highly recommended due to its powerful GPU (RTX 4070 Ti SUPER SG), which is beneficial for machine learning tasks, along with a good amount of RAM and storage. It is also well within the budget at 0.
+
+Both **SET Workstation 001** and **SET Workstation 002** are excellent choices for ML research under 200,000 baht. If you need more options or specific configurations, feel free to ask! 🚀💻📊
+2024-10-09 17:30:57 info: summaryResponse Success load.
+2024-10-09 17:32:57 info: Events received: [{"type":"message","message":{"type":"text","id":"529553819152679169","quoteToken":"NkB1bvJPnVqjZRbUfn4ctnpB2K0E_fg-1WMHPszLRi-9Za--aZUHUXXxyNLqwPglwrzLHbFGHG6kCDUrYdsPA1xnFboL3wT3KwN9A6PBrV5ecElGy8PeSM6SPiI0rKA-OicdedBfjEvMdfcEuisLyg","text":"Give total price of set 2"},"webhookEventId":"01J9RDDHSQ4JK4MKVSNNJ91PXF","deliveryContext":{"isRedelivery":false},"timestamp":1728469976814,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"b0e9a2e9d8b74f04b6bca4a43b28cd67","mode":"active"}]
+2024-10-09 17:32:57 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 17:32:57 info: User Agent Success load.
+2024-10-09 17:33:01 info: ------------------------------------------------------
+2024-10-09 17:33:01 info: Response Agent: The total price of **SET Workstation 002** is **74,560 baht**. If you have any more questions or need further assistance, feel free to ask!
+2024-10-09 17:33:01 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 17:33:01 info: ------------------------------------------------------
+2024-10-09 17:33:01 info: responseText Success load.
+2024-10-09 17:33:04 info: This is Total price found : 0
+2024-10-09 17:33:06 info: ________________________________________
+2024-10-09 17:33:06 info: Response summarized: The total price of **SET Workstation 002** is **฿0**. If you have any more questions or need further assistance, feel free to ask! 💻🛠️📊
+2024-10-09 17:33:06 info: summaryResponse Success load.
+2024-10-09 18:10:29 info: 
+2024-10-09 18:10:33 info: ----------------------------------------
+2024-10-09 18:10:33 info: Server started and listening on port 8000
+2024-10-09 18:10:33 info: ----------------------------------------
+2024-10-09 18:10:52 info: Events received: [{"type":"message","message":{"type":"text","id":"529557634643919009","quoteToken":"swWwSyPdvFT31qPLVgjzOIgMb5cR_Uxt1qwYkFRwsfe6AgVxUyAqHW37-29sOf71r0cYtqib7csvM0CcbC_Ns_sTn8NtlW7_Q8qvlYVs4jTavKr8Uo0ZKpPj6cA76OVKJrhywDtTLrsL5X2uA0yvcw","text":"looking for mighty PC for ML research."},"webhookEventId":"01J9RFJZ47FF7BM150J03RNBRT","deliveryContext":{"isRedelivery":false},"timestamp":1728472251022,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"cb500c12631a41c8931e9134d8654090","mode":"active"}]
+2024-10-09 18:10:52 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:10:52 info: Agent Initialized
+2024-10-09 18:10:52 info: User Agent Success load.
+2024-10-09 18:10:58 info: ------------------------------------------------------
+2024-10-09 18:10:58 info: Response Agent: For machine learning (ML) research, a powerful workstation PC is essential. Here are some key components to consider:
+
+1. **CPU**: A high-performance multi-core processor (e.g., AMD Ryzen or Intel Core i9).
+2. **GPU**: A strong graphics card (e.g., NVIDIA RTX series) for accelerated computations.
+3. **RAM**: At least 32GB or more for handling large datasets.
+4. **Storage**: SSD for fast data access, with additional HDD for larger storage needs.
+5. **Motherboard**: Compatible with the chosen CPU and GPU, with enough slots for RAM and storage.
+
+Please provide your budget range, and I can recommend specific workstation PCs tailored for ML research.
+2024-10-09 18:10:58 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:10:58 info: ------------------------------------------------------
+2024-10-09 18:10:58 info: responseText Success load.
+2024-10-09 18:10:59 info: This is Total price found : 0
+2024-10-09 18:11:03 info: ________________________________________
+2024-10-09 18:11:03 info: Response summarized: For machine learning (ML) research, a powerful workstation PC is essential. Here are some key components to consider:
+
+1. **CPU**: A high-performance multi-core processor (e.g., AMD Ryzen or Intel Core i9).
+2. **GPU**: A strong graphics card (e.g., NVIDIA RTX series) for accelerated computations.
+3. **RAM**: At least 32GB or more for handling large datasets.
+4. **Storage**: SSD for fast data access, with additional HDD for larger storage needs.
+5. **Motherboard**: Compatible with the chosen CPU and GPU, with enough slots for RAM and storage.
+
+Please provide your budget range, and I can recommend specific workstation PCs tailored for ML research. 🖥️📊🔍
+2024-10-09 18:11:03 info: summaryResponse Success load.
+2024-10-09 18:11:15 info: Events received: [{"type":"message","message":{"type":"text","id":"529557673952936257","quoteToken":"1aanlorDDmxUeCk7nkwJ3GMA2WM2DLv8CLKUOlt5QNGNfJPLpejMhjaSGrtV5_nC9s0sTg70NdRhE6KU214nzXl9Dt3GsHzoIU2ByWKpH-Ee82iSX6xH8My0hTQEM6Cu49WZw2qd7Po7k6mc1HSsXA","text":"200000"},"webhookEventId":"01J9RFKNSFQXMX8DMQEV8QVAQX","deliveryContext":{"isRedelivery":false},"timestamp":1728472274455,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"8fe0e92af5be4f9881ba3c8bc717d4b7","mode":"active"}]
+2024-10-09 18:11:15 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:11:15 info: User Agent Success load.
+2024-10-09 18:11:19 info: LLM Tool Call: {"toolCall":{"id":"call_sQVzuUt4f4ajvPC6ffXE4uh4","name":"index_Workstation","input":{"query":"workstation PC for ML research under 200000 baht"}}}
+2024-10-09 18:11:35 info: ------------------------------------------------------
+2024-10-09 18:11:35 info: Response Agent: Here are two powerful workstation PCs suitable for machine learning (ML) research, both under 200,000 baht:
+
+### 1. **SET Workstation 001**
+- **Total Price:** 33,590 baht
+- **Specifications:**
+  - **CPU:** Intel Core i5-14500 (14C 20T, 1.9-5.0GHz)
+  - **Motherboard:** MSI PRO B760M-P (DDR5, Micro-ATX)
+  - **GPU:** Galax GeForce RTX 4060 (8GB GDDR6)
+  - **RAM:** Corsair Vengeance DDR5 (32GB, 5200MHz)
+  - **SSD:** WD Blue SN580 (500GB NVMe)
+  - **PSU:** Thermaltake Smart BX1 650W
+  - **Case:** Galax Revolution 06 (ATX)
+  - **Cooler:** ID Cooling SE-224-XTS ARGB
+
+### 2. **SET Workstation 002**
+- **Total Price:** 74,560 baht
+- **Specifications:**
+  - **CPU:** Intel Core i5-14600K (14C 20T, 2.6-5.3GHz)
+  - **Motherboard:** Gigabyte B760M Gaming X (DDR5, Micro-ATX)
+  - **GPU:** Galax GeForce RTX 4070 Ti SUPER SG (16GB GDDR6X)
+  - **RAM:** Corsair Vengeance RGB DDR5 (32GB, 6000MHz)
+  - **SSD:** WD Black SN770 (1TB NVMe)
+  - **PSU:** Antec Atom B750 (750W)
+  - **Case:** NZXT H5 Flow (E-ATX)
+  - **Cooler:** NZXT Kraken 240 RGB
+
+Both workstations are well-equipped for ML tasks and are within your budget. If you need further assistance or more options, feel free to ask!
+2024-10-09 18:11:35 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:11:35 info: ------------------------------------------------------
+2024-10-09 18:11:35 info: responseText Success load.
+2024-10-09 18:11:38 info: This is Total price found : 0
+2024-10-09 18:11:47 info: ________________________________________
+2024-10-09 18:11:47 info: Response summarized: Here are two powerful workstation PCs suitable for machine learning (ML) research, both under 200,000 baht:
+
+### 1. **SET Workstation 001**
+- **Total Price:** ฿33,590
+- **Specifications:**
+  - **CPU:** Intel Core i5-14500 (14C 20T, 1.9-5.0GHz)
+  - **Motherboard:** MSI PRO B760M-P (DDR5, Micro-ATX)
+  - **GPU:** Galax GeForce RTX 4060 (8GB GDDR6)
+  - **RAM:** Corsair Vengeance DDR5 (32GB, 5200MHz)
+  - **SSD:** WD Blue SN580 (500GB NVMe)
+  - **PSU:** Thermaltake Smart BX1 650W
+  - **Case:** Galax Revolution 06 (ATX)
+  - **Cooler:** ID Cooling SE-224-XTS ARGB
+
+### 2. **SET Workstation 002**
+- **Total Price:** ฿74,560
+- **Specifications:**
+  - **CPU:** Intel Core i5-14600K (14C 20T, 2.6-5.3GHz)
+  - **Motherboard:** Gigabyte B760M Gaming X (DDR5, Micro-ATX)
+  - **GPU:** Galax GeForce RTX 4070 Ti SUPER SG (16GB GDDR6X)
+  - **RAM:** Corsair Vengeance RGB DDR5 (32GB, 6000MHz)
+  - **SSD:** WD Black SN770 (1TB NVMe)
+  - **PSU:** Antec Atom B750 (750W)
+  - **Case:** NZXT H5 Flow (E-ATX)
+  - **Cooler:** NZXT Kraken 240 RGB
+
+Both workstations are well-equipped for ML tasks and are within your budget. If you need further assistance or more options, feel free to ask! 💻🚀✨
+2024-10-09 18:11:47 info: summaryResponse Success load.
+2024-10-09 18:12:02 info: Events received: [{"type":"message","message":{"type":"text","id":"529557751681777906","quoteToken":"8R7XQ3kToTuxb7tysuwz4zbFd3OkcxR2Mxe7MbfMxyyPAeloqrC_ybZvcvJvKIf7gMzQQXUjw4aZJv8LqNrGSLTUND7IlXw_zknxpqkb3WCqWjvW1N47SeEUAXzM1aAY4rnx7hphYiJ2sGDcfjW-tA","text":"Give total price of set 2"},"webhookEventId":"01J9RFN3A5QR2E5W368R6Z6N1S","deliveryContext":{"isRedelivery":false},"timestamp":1728472320922,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"396f90f6be58432fa638f1649e21526f","mode":"active"}]
+2024-10-09 18:12:02 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:12:02 info: User Agent Success load.
+2024-10-09 18:12:05 info: ------------------------------------------------------
+2024-10-09 18:12:05 info: Response Agent: The total price of **SET Workstation 002** is **74,560 baht**. If you have any more questions or need further assistance, feel free to ask!
+2024-10-09 18:12:05 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:12:05 info: ------------------------------------------------------
+2024-10-09 18:12:05 info: responseText Success load.
+2024-10-09 18:12:08 info: This is Total price found : 0
+2024-10-09 18:12:10 info: ________________________________________
+2024-10-09 18:12:10 info: Response summarized: The total price of **SET Workstation 002** is **฿74,560**. If you have any more questions or need further assistance, feel free to ask! 😊💻🛠️
+2024-10-09 18:12:10 info: summaryResponse Success load.
+2024-10-09 18:13:58 info: Events received: [{"type":"message","message":{"type":"text","id":"529557946247151713","quoteToken":"1fapPZ5pr9XuXYyQxXMjDwOLat3go-fBhGffH1uEfZz-Sqz1Wr80u-AyIjLRnHINdeltSaugz9Ebp2wAjv3kmLEcOQ4qDfEeV5mdHsKjtGZFKDffGOHIHhXq50_n1k9VTyKQJXc1NkFgpy7YoNdw0A","text":"Give me total price of set 2"},"webhookEventId":"01J9RFRMDAQYV0VZEJMB2B5XJA","deliveryContext":{"isRedelivery":false},"timestamp":1728472436756,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"bd0f92dd2e6f4f3c84b170b65c74bca4","mode":"active"}]
+2024-10-09 18:13:58 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:13:58 info: Agent Initialized
+2024-10-09 18:13:58 info: User Agent Success load.
+2024-10-09 18:14:04 info: ------------------------------------------------------
+2024-10-09 18:14:04 info: Response Agent: I can help you with that! However, I need to know which specific set you're referring to. Could you please provide the name or details of "set 2"?
+2024-10-09 18:14:04 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:14:04 info: ------------------------------------------------------
+2024-10-09 18:14:04 info: responseText Success load.
+2024-10-09 18:14:05 info: This is Total price found : 0
+2024-10-09 18:14:07 info: ________________________________________
+2024-10-09 18:14:07 info: Response summarized: I can help you with that! However, I need to know which specific set you're referring to. Could you please provide the name or details of "set 2"? 😊📦🤔
+2024-10-09 18:14:07 info: summaryResponse Success load.
+2024-10-09 18:14:24 info: Events received: [{"type":"message","message":{"type":"text","id":"529557991159759314","quoteToken":"f4sYQ0MN0Xw3tkOcyde3xA4N0G9xU8sZsmYFHyhCeVBi0MhizL4596caWz1uFC6IJUtwNfMjViXdkceT30qlU0lpnArX1nKBlm2NkC3x1Sdb-YhyjlQz2F7X8var7e2Zcxw0YyoVKLmc6hxO7yEGBQ","text":"looking for mighty PC for ML research."},"webhookEventId":"01J9RFSEM4C79PKFDS7YQ2APDH","deliveryContext":{"isRedelivery":false},"timestamp":1728472463586,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"14ea8362a6b6453e877cfa70acfd0e07","mode":"active"}]
+2024-10-09 18:14:25 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:14:25 info: User Agent Success load.
+2024-10-09 18:14:32 info: ------------------------------------------------------
+2024-10-09 18:14:32 info: Response Agent: For machine learning (ML) research, a powerful workstation PC is typically recommended due to the need for high processing power and memory. Here are the types of PCs you might consider:
+
+1. **Gaming PC**: Optimized for gaming but can also handle ML tasks with powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks, suitable for ML.
+3. **Standard PC**: Suitable for general tasks, but may not be powerful enough for intensive ML workloads.
+4. **Workstation PC**: Specifically designed for graphics and professional tasks, using both CPU and GPU power, ideal for ML research.
+
+Could you please confirm which type of PC you are interested in and your budget range?
+2024-10-09 18:14:32 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:14:32 info: ------------------------------------------------------
+2024-10-09 18:14:32 info: responseText Success load.
+2024-10-09 18:14:35 info: This is Total price found : 0
+2024-10-09 18:14:38 info: ________________________________________
+2024-10-09 18:14:38 info: Response summarized: For machine learning (ML) research, a powerful workstation PC is typically recommended due to the need for high processing power and memory. Here are the types of PCs you might consider:
+
+1. **Gaming PC**: Optimized for gaming but can also handle ML tasks with powerful GPUs.
+2. **Premium PC**: High-spec computers designed for advanced tasks, suitable for ML.
+3. **Standard PC**: Suitable for general tasks, but may not be powerful enough for intensive ML workloads.
+4. **Workstation PC**: Specifically designed for graphics and professional tasks, using both CPU and GPU power, ideal for ML research.
+
+Could you please confirm which type of PC you are interested in and your budget range? 🖥️💻🔍
+2024-10-09 18:14:38 info: summaryResponse Success load.
+2024-10-09 18:15:31 info: Events received: [{"type":"message","message":{"type":"text","id":"529558104204640866","quoteToken":"KyZtYJvy_K9873u4nz-eNl8FqUUYdQf4n5eVGSm-pzVlR1YQ_0A_siw17Y37YUcH5Lx-j_upGi6hHbo70H9X9pUN2Y54JHZpIb1mkuPIDPPjq6XZO_RyD12eH6K6hM7PNP17d4BGn56sdm6H8SsaEw","text":"Workstation pc"},"webhookEventId":"01J9RFVG3X325BPAMZZFQ5Q2BR","deliveryContext":{"isRedelivery":false},"timestamp":1728472530909,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"38f446a19d184066b9def98026fb249a","mode":"active"}]
+2024-10-09 18:15:32 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:15:32 info: User Agent Success load.
+2024-10-09 18:15:39 info: ------------------------------------------------------
+2024-10-09 18:15:39 info: Response Agent: Could you please provide your budget range for the workstation PC? This will help me find the best options for your machine learning research needs.
+2024-10-09 18:15:39 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:15:39 info: ------------------------------------------------------
+2024-10-09 18:15:39 info: responseText Success load.
+2024-10-09 18:15:40 info: This is Total price found : 0
+2024-10-09 18:15:41 info: ________________________________________
+2024-10-09 18:15:41 info: Response summarized: Could you please provide your budget range for the workstation PC? This will help me find the best options for your machine learning research needs. 💻📊🔍
+2024-10-09 18:15:41 info: summaryResponse Success load.
+2024-10-09 18:16:00 info: Events received: [{"type":"message","message":{"type":"text","id":"529558151230652790","quoteToken":"kbnh7IZZCGWZClmQ_x7ETPew1UBBSXOfRFuPMtJMguIa1eF8eFcmg3ywr1qvE4Oi1xtKsmB5nmzYe0Q0KIqu6TqhDIb8CWxOeVMWkuZTK12MlasISMHan5RXUo1o53BaSLdlGmnvNWm-b6krS6nP2Q","text":"Budget 200,000 baht "},"webhookEventId":"01J9RFWBWTFJTN1X7T9X8PM1FB","deliveryContext":{"isRedelivery":false},"timestamp":1728472559135,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"9a7d1a33bca04ce18c3a830607e2bb25","mode":"active"}]
+2024-10-09 18:16:00 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:16:00 info: User Agent Success load.
+2024-10-09 18:16:07 info: LLM Tool Call: {"toolCall":{"id":"call_7inr1nGKKt9ZzkX2Zge5p79t","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:16:07 info: LLM Tool Call: {"toolCall":{"id":"call_7inr1nGKKt9ZzkX2Zge5p79t","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:16:26 info: ------------------------------------------------------
+2024-10-09 18:16:26 info: Response Agent: Here are some workstation PCs suitable for machine learning research, all under your budget of 200,000 baht:
+
+1. **SET Workstation 001**
+   - **Total Price:** 33,590 baht
+   - **Components:**
+     - **CPU:** Intel Core i5-14500
+     - **Motherboard:** MSI PRO B760M-P
+     - **GPU:** Galax GeForce RTX 4060
+     - **RAM:** Corsair Vengeance DDR5 32GB
+     - **SSD:** WD Blue SN580 500GB
+     - **PSU:** Thermaltake Smart BX1 650W
+     - **Case:** Galax Revolution 06
+     - **Cooler:** ID Cooling SE-224-XTS ARGB
+
+2. **SET Workstation 002**
+   - **Total Price:** 74,560 baht
+   - **Components:**
+     - **CPU:** Intel Core i5-14600K
+     - **Motherboard:** Gigabyte B760M Gaming X
+     - **GPU:** Galax GeForce RTX 4070 Ti
+     - **RAM:** Corsair Vengeance RGB DDR5 32GB
+     - **SSD:** WD Black SN770 1TB
+     - **PSU:** Antec Atom B750
+     - **Case:** NZXT H5 Flow
+     - **Cooler:** NZXT Kraken 240 RGB
+
+3. **SET Workstation 006**
+   - **Total Price:** (Price not fully provided, but based on the context, it is likely under 200,000 baht)
+   - **Components:**
+     - **CPU:** Intel Core i7-14700K
+     - **Motherboard:** Gigabyte Z790 Eagle
+
+If you need more details or want to explore additional options, please let me know!
+2024-10-09 18:16:26 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:16:26 info: ------------------------------------------------------
+2024-10-09 18:16:26 info: responseText Success load.
+2024-10-09 18:16:28 info: This is Total price found : 0
+2024-10-09 18:16:36 info: ________________________________________
+2024-10-09 18:16:36 info: Response summarized: Here are some workstation PCs suitable for machine learning research, all under your budget of 200,000 baht:
+
+1. **SET Workstation 001**
+   - **Total Price:** ฿33,590
+   - **Components:**
+     - **CPU:** Intel Core i5-14500
+     - **Motherboard:** MSI PRO B760M-P
+     - **GPU:** Galax GeForce RTX 4060
+     - **RAM:** Corsair Vengeance DDR5 32GB
+     - **SSD:** WD Blue SN580 500GB
+     - **PSU:** Thermaltake Smart BX1 650W
+     - **Case:** Galax Revolution 06
+     - **Cooler:** ID Cooling SE-224-XTS ARGB
+
+2. **SET Workstation 002**
+   - **Total Price:** ฿74,560
+   - **Components:**
+     - **CPU:** Intel Core i5-14600K
+     - **Motherboard:** Gigabyte B760M Gaming X
+     - **GPU:** Galax GeForce RTX 4070 Ti
+     - **RAM:** Corsair Vengeance RGB DDR5 32GB
+     - **SSD:** WD Black SN770 1TB
+     - **PSU:** Antec Atom B750
+     - **Case:** NZXT H5 Flow
+     - **Cooler:** NZXT Kraken 240 RGB
+
+3. **SET Workstation 006**
+   - **Total Price:** 0
+   - **Components:**
+     - **CPU:** Intel Core i7-14700K
+     - **Motherboard:** Gigabyte Z790 Eagle
+
+If you need more details or want to explore additional options, please let me know! 🖥️💻🔍
+2024-10-09 18:16:36 info: summaryResponse Success load.
+2024-10-09 18:19:15 info: Events received: [{"type":"message","message":{"type":"text","id":"529558478990606583","quoteToken":"k1ZSzxhWyyH1r5SnKE3ziycKr7MHRRFmmzNVNVQ5oUyEAiMoxYPSkKihtuFoNys3UE8Kl5H4p7eVPKJeLcshHU6JI0h3neaWTjzYTTZuDghe1x3wWEOmKb0zgu2i00r71Qk1SDtjtNIY4M9SJ9TLUA","text":"Your suggested pc price are not close to my budget. Suggest me more suitable pc set that meet my request and more close to my budget range "},"webhookEventId":"01J9RG2AJK4AP90PYXX775W3F1","deliveryContext":{"isRedelivery":false},"timestamp":1728472754403,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"4e411293574946acbc0bf5f193493640","mode":"active"}]
+2024-10-09 18:19:15 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:19:15 info: User Agent Success load.
+2024-10-09 18:19:18 info: LLM Tool Call: {"toolCall":{"id":"call_hOdLmwOExOpFWqazHq6zxQPy","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:18 info: LLM Tool Call: {"toolCall":{"id":"call_hOdLmwOExOpFWqazHq6zxQPy","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:28 info: LLM Tool Call: {"toolCall":{"id":"call_ReFYWCLCzPDV7RxzVrbTPBQv","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:28 info: LLM Tool Call: {"toolCall":{"id":"call_ReFYWCLCzPDV7RxzVrbTPBQv","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:37 info: LLM Tool Call: {"toolCall":{"id":"call_DjdtIzaOh3RZ0XaA4A1awuCL","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:37 info: LLM Tool Call: {"toolCall":{"id":"call_DjdtIzaOh3RZ0XaA4A1awuCL","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:46 info: LLM Tool Call: {"toolCall":{"id":"call_rj9TxfoGWW2MP8AaYuFUGZmG","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:46 info: LLM Tool Call: {"toolCall":{"id":"call_rj9TxfoGWW2MP8AaYuFUGZmG","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:54 info: LLM Tool Call: {"toolCall":{"id":"call_qB7qcYe2T4yXqDnziC5qD6xH","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:19:54 info: LLM Tool Call: {"toolCall":{"id":"call_qB7qcYe2T4yXqDnziC5qD6xH","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:20:03 info: LLM Tool Call: {"toolCall":{"id":"call_2XAkHzL8rUSG9BbymllJC32l","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:20:03 info: LLM Tool Call: {"toolCall":{"id":"call_2XAkHzL8rUSG9BbymllJC32l","name":"index_Workstation","input":{"query":"workstation PC under 200000 baht"}}}
+2024-10-09 18:20:19 info: ------------------------------------------------------
+2024-10-09 18:20:19 info: Response Agent: Here are some workstation PCs that are more suitable for your budget of 200,000 baht:
+
+1. **SET Workstation 001**
+   - **Total Price:** 33,590 baht
+   - **Components:**
+     - **CPU:** Intel Core i5-14500
+     - **Motherboard:** MSI PRO B760M-P
+     - **GPU:** Galax GeForce RTX 4060
+     - **RAM:** Corsair Vengeance DDR5 32GB
+     - **SSD:** WD Blue SN580 500GB
+     - **PSU:** Thermaltake Smart BX1 650W
+     - **Case:** Galax Revolution 06
+     - **Cooler:** ID Cooling SE-224-XTS ARGB
+
+2. **SET Workstation 002**
+   - **Total Price:** 74,560 baht
+   - **Components:**
+     - **CPU:** Intel Core i5-14600K
+     - **Motherboard:** Gigabyte B760M Gaming X
+     - **GPU:** Galax GeForce RTX 4070 Ti
+     - **RAM:** Corsair Vengeance RGB DDR5 32GB
+     - **SSD:** WD Black SN770 1TB
+     - **PSU:** Antec Atom B750
+     - **Case:** NZXT H5 Flow
+     - **Cooler:** NZXT Kraken 240 RGB
+
+3. **SET Workstation 006**
+   - **Total Price:** (Price not fully provided, but likely under 200,000 baht)
+   - **Components:**
+     - **CPU:** Intel Core i7-14700K
+     - **Motherboard:** Gigabyte Z790 Eagle
+
+These options are well within your budget and should be capable of handling machine learning tasks effectively. If you need more information or additional options, feel free to ask!
+2024-10-09 18:20:19 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:20:19 info: ------------------------------------------------------
+2024-10-09 18:20:19 info: responseText Success load.
+2024-10-09 18:20:23 info: This is Total price found : 0
+2024-10-09 18:20:30 info: ________________________________________
+2024-10-09 18:20:30 info: Response summarized: Here are some workstation PCs that are more suitable for your budget of 200,000 baht:
+
+1. **SET Workstation 001**
+   - **Total Price:** ฿33,590
+   - **Components:**
+     - **CPU:** Intel Core i5-14500
+     - **Motherboard:** MSI PRO B760M-P
+     - **GPU:** Galax GeForce RTX 4060
+     - **RAM:** Corsair Vengeance DDR5 32GB
+     - **SSD:** WD Blue SN580 500GB
+     - **PSU:** Thermaltake Smart BX1 650W
+     - **Case:** Galax Revolution 06
+     - **Cooler:** ID Cooling SE-224-XTS ARGB
+
+2. **SET Workstation 002**
+   - **Total Price:** ฿74,560
+   - **Components:**
+     - **CPU:** Intel Core i5-14600K
+     - **Motherboard:** Gigabyte B760M Gaming X
+     - **GPU:** Galax GeForce RTX 4070 Ti
+     - **RAM:** Corsair Vengeance RGB DDR5 32GB
+     - **SSD:** WD Black SN770 1TB
+     - **PSU:** Antec Atom B750
+     - **Case:** NZXT H5 Flow
+     - **Cooler:** NZXT Kraken 240 RGB
+
+3. **SET Workstation 006**
+   - **Total Price:** 0
+   - **Components:**
+     - **CPU:** Intel Core i7-14700K
+     - **Motherboard:** Gigabyte Z790 Eagle
+
+These options are well within your budget and should be capable of handling machine learning tasks effectively. If you need more information or additional options, feel free to ask! 💻🖥️✨
+2024-10-09 18:20:30 info: summaryResponse Success load.
+2024-10-09 18:25:21 info: Events received: [{"type":"message","message":{"type":"text","id":"529559093825503651","quoteToken":"rSwVJENx8DesJdpDm38POKg_kKyalc_lq6c4PrQhGwqdwn2zGMVmP_Q7apHjVKDfUqrrvgtjI7_uGeycJcaXnhYLoJG_0ektT_iBTKwIwsqQ9flP5mpEiq0E51ZTD0e63DPtLmOx1r8o2ai_6yY8Fg","text":"Show me full details of set 3"},"webhookEventId":"01J9RGDG5DC6PDNPA55CXMQQB8","deliveryContext":{"isRedelivery":false},"timestamp":1728473120827,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"8e13c47a20a6468a98f95d40860544c0","mode":"active"}]
+2024-10-09 18:25:22 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:25:22 info: User Agent Success load.
+2024-10-09 18:25:26 info: LLM Tool Call: {"toolCall":{"id":"call_qt5inrOd6O9g7OIpDcUK286P","name":"index_Workstation","input":{"query":"SET Workstation 006"}}}
+2024-10-09 18:25:26 info: LLM Tool Call: {"toolCall":{"id":"call_qt5inrOd6O9g7OIpDcUK286P","name":"index_Workstation","input":{"query":"SET Workstation 006"}}}
+2024-10-09 18:25:37 info: ------------------------------------------------------
+2024-10-09 18:25:37 info: Response Agent: Here are the details for **SET Workstation 006**:
+
+- **CPU**: 
+  - **Model**: Intel Core i7-14700K
+  - **Details**: 20C 28T, 2.5-5.6GHz (Intel Socket 1700)
+  - **Price**: 15,800 baht
+
+- **Motherboard**: 
+  - **Model**: GIGABYTE Z790 EAGLE (REV. 1.0)
+  - **Details**: Socket LGA 1700, DDR5, ATX
+  - **Price**: 6,790 baht
+
+- **GPU**: 
+  - **Model**: (Details not provided in the context)
+
+- **RAM**: 
+  - **Model**: (Details not provided in the context)
+
+- **SSD**: 
+  - **Model**: (Details not provided in the context)
+
+- **PSU**: 
+  - **Model**: (Details not provided in the context)
+
+- **CASE**: 
+  - **Model**: (Details not provided in the context)
+
+- **Cooler**: 
+  - **Model**: (Details not provided in the context)
+
+Unfortunately, some details for the GPU, RAM, SSD, PSU, CASE, and Cooler are missing. If you would like, I can search for additional components to complete the workstation setup. Let me know how you would like to proceed!
+2024-10-09 18:25:37 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:25:37 info: ------------------------------------------------------
+2024-10-09 18:25:37 info: responseText Success load.
+2024-10-09 18:25:39 info: This is Total price found : 22590
+2024-10-09 18:25:44 info: ________________________________________
+2024-10-09 18:25:44 info: Response summarized: Here are the details for **SET Workstation 006**:
+
+- **CPU**: 
+  - **Model**: Intel Core i7-14700K
+  - **Details**: 20C 28T, 2.5-5.6GHz (Intel Socket 1700)
+  - **Price**: ฿15,800
+
+- **Motherboard**: 
+  - **Model**: GIGABYTE Z790 EAGLE (REV. 1.0)
+  - **Details**: Socket LGA 1700, DDR5, ATX
+  - **Price**: ฿6,790
+
+- **GPU**: 
+  - **Model**: (Details not provided in the context)
+
+- **RAM**: 
+  - **Model**: (Details not provided in the context)
+
+- **SSD**: 
+  - **Model**: (Details not provided in the context)
+
+- **PSU**: 
+  - **Model**: (Details not provided in the context)
+
+- **CASE**: 
+  - **Model**: (Details not provided in the context)
+
+- **Cooler**: 
+  - **Model**: (Details not provided in the context)
+
+Unfortunately, some details for the GPU, RAM, SSD, PSU, CASE, and Cooler are missing. If you would like, I can search for additional components to complete the workstation setup. Let me know how you would like to proceed! 🖥️🔧💻
+2024-10-09 18:25:44 info: summaryResponse Success load.
+2024-10-09 18:26:51 info: Events received: [{"type":"message","message":{"type":"text","id":"529559244601557394","quoteToken":"hUr-mmmzVryWsgrS7DhopoA8Un-r1lHtlT_n3_vweS2o_4fsLYARLghbc98TbLq9KkRkz1UTVB60pNzUMxwoo7VxLDD3tmMlk6dV9_lw-nnpKOPoIoFHEUITXLIieiLAdUqmRgpzPNp23KJRhY4ElA","text":"Let focus on set 002"},"webhookEventId":"01J9RGG8505G3GR2H832RX54T3","deliveryContext":{"isRedelivery":false},"timestamp":1728473210638,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"b664f48d5d1143b4bc5a85692e3b2cb1","mode":"active"}]
+2024-10-09 18:26:52 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:26:52 info: User Agent Success load.
+2024-10-09 18:26:55 info: LLM Tool Call: {"toolCall":{"id":"call_mIYOHZrzUvOUE3CVFvuyEkPr","name":"index_Workstation","input":{"query":"SET Workstation 002"}}}
+2024-10-09 18:26:55 info: LLM Tool Call: {"toolCall":{"id":"call_mIYOHZrzUvOUE3CVFvuyEkPr","name":"index_Workstation","input":{"query":"SET Workstation 002"}}}
+2024-10-09 18:27:58 info: Events received: [{"type":"message","message":{"type":"text","id":"529559356506374273","quoteToken":"4NqmtuhOSOhzBcxdidDytE58DZBD1FmxdxoziZigTTsLBVNa25XzeAjaJUgu-StYtkxtiYFZwOpwQl_c24yhgV6jOMJ5_pAOivb4n6d_NF8QfbTbTgZqnvx_TzP2sg2dU5CMu5QG58FrBYMRtMETdA","text":"Let change CPU to the highest spec that fit to set 002"},"webhookEventId":"01J9RGJ9BJVPCTFYWAM13RGRGJ","deliveryContext":{"isRedelivery":false},"timestamp":1728473277331,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"d1f39664920f45dd922d69a2be2bbdc3","mode":"active"}]
+2024-10-09 18:27:58 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:27:58 info: User Agent Success load.
+2024-10-09 18:28:01 error: Error getting response: Error: 400 An assistant message with 'tool_calls' must be followed by tool messages responding to each 'tool_call_id'. The following tool_call_ids did not have response messages: call_mIYOHZrzUvOUE3CVFvuyEkPr
+2024-10-09 18:28:01 error: Error getting or processing response for userId: U918cade0c40af17c365511154b830f22, error: 400 An assistant message with 'tool_calls' must be followed by tool messages responding to each 'tool_call_id'. The following tool_call_ids did not have response messages: call_mIYOHZrzUvOUE3CVFvuyEkPr
+2024-10-09 18:28:16 info: ------------------------------------------------------
+2024-10-09 18:28:16 info: Response Agent: Here are the full details for **SET Workstation 002**:
+
+- **CPU**: 
+  - **Model**: Intel Core i5-14600K
+  - **Details**: 14C, 20T, 2.6-5.3GHz (Intel Socket 1700) 
+  - **Price**: 12,000 baht
+
+- **Motherboard**: 
+  - **Model**: GIGABYTE B760M GAMING X (REV. 1.0)
+  - **Details**: DDR5, Socket LGA 1700, Micro-ATX
+  - **Price**: 4,590 baht
+
+- **GPU**: 
+  - **Model**: GALAX GEFORCE RTX 4060 TI 8GB 1-CLICK OC
+  - **Details**: 8GB GDDR6
+  - **Price**: 14,500 baht
+
+- **RAM**: 
+  - **Model**: CORSAIR VENGEANCE RGB DDR5
+  - **Details**: Intel XMP, Black, CMH32GX5M2B5600C40K, 32GB (16GBx2) DDR5 5600MHz
+  - **Price**: 4,490 baht
+
+- **SSD**: 
+  - **Model**: WD BLUE SN580
+  - **Details**: PCIe 4x4/NVMe M.2 2280, 500 GB
+  - **Price**: 1,690 baht
+
+- **PSU**: 
+  - **Model**: ANTEC ATOM B650
+  - **Details**: 650W, 80 PLUS BRONZE, Black, ATX
+  - **Price**: 1,750 baht
+
+- **CASE**: 
+  - **Model**: MONTECH X3 GLASS
+  - **Details**: Black, ATX
+  - **Price**: 1,750 baht
+
+- **Cooler**: 
+  - **Model**: ASUS TUF GAMING LC II 240 ARGB (Black)
+  - **Details**: Compatibility with LGA 1700, 1200, 115x, AM5, AM4
+  - **Price**: 2,390 baht
+
+- **Total Workstation Price**: 43,160 baht
+
+This workstation is designed for high-performance tasks, featuring a powerful CPU, ample RAM, and a capable GPU, making it suitable for machine learning and other demanding applications. If you have any further questions or need assistance, feel free to ask!
+2024-10-09 18:28:16 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:28:16 info: ------------------------------------------------------
+2024-10-09 18:28:16 info: responseText Success load.
+2024-10-09 18:28:17 info: This is Total price found : 43160
+2024-10-09 18:28:25 info: ________________________________________
+2024-10-09 18:28:25 info: Response summarized: Here are the full details for **SET Workstation 002**:
+
+- **CPU**: 
+  - **Model**: Intel Core i5-14600K
+  - **Details**: 14C, 20T, 2.6-5.3GHz (Intel Socket 1700) 
+  - **Price**: ฿12,000
+
+- **Motherboard**: 
+  - **Model**: GIGABYTE B760M GAMING X (REV. 1.0)
+  - **Details**: DDR5, Socket LGA 1700, Micro-ATX
+  - **Price**: ฿4,590
+
+- **GPU**: 
+  - **Model**: GALAX GEFORCE RTX 4060 TI 8GB 1-CLICK OC
+  - **Details**: 8GB GDDR6
+  - **Price**: ฿14,500
+
+- **RAM**: 
+  - **Model**: CORSAIR VENGEANCE RGB DDR5
+  - **Details**: Intel XMP, Black, CMH32GX5M2B5600C40K, 32GB (16GBx2) DDR5 5600MHz
+  - **Price**: ฿4,490
+
+- **SSD**: 
+  - **Model**: WD BLUE SN580
+  - **Details**: PCIe 4x4/NVMe M.2 2280, 500 GB
+  - **Price**: ฿1,690
+
+- **PSU**: 
+  - **Model**: ANTEC ATOM B650
+  - **Details**: 650W, 80 PLUS BRONZE, Black, ATX
+  - **Price**: ฿1,750
+
+- **CASE**: 
+  - **Model**: MONTECH X3 GLASS
+  - **Details**: Black, ATX
+  - **Price**: ฿1,750
+
+- **43160**: ฿43,160
+
+This workstation is designed for high-performance tasks, featuring a powerful CPU, ample RAM, and a capable GPU, making it suitable for machine learning and other demanding applications. If you have any further questions or need assistance, feel free to ask! 🚀💻✨
+2024-10-09 18:28:25 info: summaryResponse Success load.
+2024-10-09 18:29:01 info: Events received: [{"type":"message","message":{"type":"text","id":"529559462051053990","quoteToken":"ui5qCvl9r95sBD3bg2gYccsyukACQN8X3czLqtZQOruSgZO-c8mp0gJncqtAXaxar_QMtWizuwVo4XiOjIZXYfEeKfe3NU-DOQkPKsFiL6uRF8c9YCmPqSBxHh_8i85W9ddd1OeEFn20pcs3-j0IfQ","text":"Let change CPU to the highest spec that fit to set 002"},"webhookEventId":"01J9RGM6R76NDPYRA193VKXKGF","deliveryContext":{"isRedelivery":false},"timestamp":1728473340399,"source":{"type":"user","userId":"U918cade0c40af17c365511154b830f22"},"replyToken":"853182d77e3540d394878f4231801265","mode":"active"}]
+2024-10-09 18:29:01 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:29:01 info: User Agent Success load.
+2024-10-09 18:29:05 info: LLM Tool Call: {"toolCall":{"id":"call_dPYrlVBWxzU6DbzxWWscZ6sr","name":"index_CPU","input":{"query":"Intel Core i9 compatible with LGA 1700"}}}
+2024-10-09 18:29:05 info: LLM Tool Call: {"toolCall":{"id":"call_dPYrlVBWxzU6DbzxWWscZ6sr","name":"index_CPU","input":{"query":"Intel Core i9 compatible with LGA 1700"}}}
+2024-10-09 18:30:22 info: ------------------------------------------------------
+2024-10-09 18:30:22 info: Response Agent: Here are the highest-spec Intel Core i9 CPUs compatible with the LGA 1700 socket that can fit into **SET Workstation 002**:
+
+1. **INTEL CORE I9-14900**
+   - **Price:** 22,900 baht
+   - **Integrated Graphics:** Intel UHD Graphics 770
+   - **TDP:** 65 W
+   - **CPU Cooler:** Yes
+
+2. **INTEL CORE I9-14900F**
+   - **Price:** 21,800 baht
+   - **Integrated Graphics:** No
+   - **TDP:** 65 W
+   - **CPU Cooler:** Yes
+
+3. **INTEL CORE I9-14900K**
+   - **Price:** 22,900 baht
+   - **Integrated Graphics:** Intel UHD Graphics 770
+   - **TDP:** 125 W
+   - **CPU Cooler:** No
+
+4. **INTEL CORE I9-14900KF**
+   - **Price:** 22,200 baht
+   - **Integrated Graphics:** No
+   - **TDP:** 125 W
+   - **CPU Cooler:** No
+
+5. **INTEL CORE I9-12900K**
+   - **Price:** 17,800 baht
+   - **Integrated Graphics:** Intel UHD Graphics 770
+   - **TDP:** 125 W
+   - **CPU Cooler:** No
+
+6. **INTEL CORE I9-12900KF**
+   - **Price:** 14,900 baht
+   - **Integrated Graphics:** No
+   - **TDP:** 125 W
+   - **CPU Cooler:** No
+
+7. **INTEL CORE I9-14900KS**
+   - **Price:** 27,900 baht
+   - **Integrated Graphics:** Intel UHD Graphics 770
+   - **TDP:** 150 W
+   - **CPU Cooler:** No
+
+You can choose any of these CPUs to upgrade **SET Workstation 002**. The **I9-14900** or **I9-14900K** would be the highest specifications available. Would you like to proceed with one of these options?
+2024-10-09 18:30:22 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:30:22 info: ------------------------------------------------------
+2024-10-09 18:30:22 info: responseText Success load.
+2024-10-09 18:30:24 info: This is Total price found : 22900
+2024-10-09 18:30:31 info: ________________________________________
+2024-10-09 18:30:31 info: Response summarized: Here are the highest-spec Intel Core i9 CPUs compatible with the LGA 1700 socket that can fit into **SET Workstation 002**:
+
+1. **INTEL CORE I9-14900**
+   - **Price:** ฿22,900
+   - **Integrated Graphics:** Intel UHD Graphics 770
+   - **TDP:** 65 W
+   - **CPU Cooler:** Yes
+
+2. **INTEL CORE I9-14900F**
+   - **Price:** ฿21,800
+   - **Integrated Graphics:** No
+   - **TDP:** 65 W
+   - **CPU Cooler:** Yes
+
+3. **INTEL CORE I9-14900K**
+   - **Price:** ฿22,900
+   - **Integrated Graphics:** Intel UHD Graphics 770
+   - **TDP:** 125 W
+   - **CPU Cooler:** No
+
+4. **INTEL CORE I9-14900KF**
+   - **Price:** ฿22,200
+   - **Integrated Graphics:** No
+   - **TDP:** 125 W
+   - **CPU Cooler:** No
+
+5. **INTEL CORE I9-12900K**
+   - **Price:** ฿17,800
+   - **Integrated Graphics:** Intel UHD Graphics 770
+   - **TDP:** 125 W
+   - **CPU Cooler:** No
+
+6. **INTEL CORE I9-12900KF**
+   - **Price:** ฿14,900
+   - **Integrated Graphics:** No
+   - **TDP:** 125 W
+   - **CPU Cooler:** No
+
+7. **INTEL CORE I9-14900KS**
+   - **Price:** ฿27,900
+   - **Integrated Graphics:** Intel UHD Graphics 770
+   - **TDP:** 150 W
+   - **CPU Cooler:** No
+
+You can choose any of these CPUs to upgrade **SET Workstation 002**. The **I9-14900** or **I9-14900K** would be the highest specifications available. Would you like to proceed with one of these options? 💻🔧✨
+2024-10-09 18:30:31 info: summaryResponse Success load.
+2024-10-09 18:35:16 info: Events received: [{"type":"message","message":{"type":"text","id":"529560091062698130","quoteToken":"ra1Ub35LD1C-C0-2t2Vbj34kQYAtfZet8OevlK5CDgpAxTE1qEGUW3tB9Oi50POlQ285prVvkhwWLGbEMDTiq8j9UoZdW6VrreP0v0iAK7DSk41T5fCoIvqXEyRFCYeLont_z2E1HUFyDLpIy9pchg","text":"I want info Workstation Set 006"},"webhookEventId":"01J9RGZN20AJCBF9N6EZQP0V6N","deliveryContext":{"isRedelivery":false},"timestamp":1728473715267,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9f4f1b4386ff4bd688e82907b23cf190","mode":"active"}]
+2024-10-09 18:35:17 info: Loading animation request accepted. Waiting for processing.
+2024-10-09 18:35:17 info: User Agent Success load.
+2024-10-09 18:35:19 info: LLM Tool Call: {"toolCall":{"id":"call_fdd4F5flpsYCraHRjVICQyzm","name":"index_Workstation","input":{"query":"Workstation Set 006"}}}
+2024-10-09 18:35:19 info: LLM Tool Call: {"toolCall":{"id":"call_fdd4F5flpsYCraHRjVICQyzm","name":"index_Workstation","input":{"query":"Workstation Set 006"}}}
+2024-10-09 18:35:30 info: ------------------------------------------------------
+2024-10-09 18:35:30 info: Response Agent: Here are the available details for **Workstation Set 006**:
+
+- **CPU**: 
+  - **Model**: Intel Core i7-14700K
+  - **Details**: 20C 28T, 2.5-5.6GHz (Intel Socket 1700) (Cooling system is not included in the product)
+  - **Price**: 15,800 baht
+
+- **Motherboard**: 
+  - **Model**: GIGABYTE Z790 EAGLE (REV. 1.0)
+  - **Details**: Socket LGA 1700, DDR5, ATX
+  - **Price**: 6,790 baht
+
+Unfortunately, the details for the GPU, RAM, SSD, PSU, CASE, and Cooler are not provided in the context. If you need more specific information or details about the missing components, please let me know!
+2024-10-09 18:35:30 info: Model: gpt-4o-mini-2024-07-18
+2024-10-09 18:35:30 info: ------------------------------------------------------
+2024-10-09 18:35:30 info: responseText Success load.
+2024-10-09 18:35:31 info: This is Total price found : 22590
+2024-10-09 18:35:34 info: ________________________________________
+2024-10-09 18:35:34 info: Response summarized: Here are the available details for **Workstation Set 006**:
+
+- **CPU**: 
+  - **Model**: Intel Core i7-14700K
+  - **Details**: 20C 28T, 2.5-5.6GHz (Intel Socket 1700) (Cooling system is not included in the product)
+  - **Price**: ฿15,800
+
+- **Motherboard**: 
+  - **Model**: GIGABYTE Z790 EAGLE (REV. 1.0)
+  - **Details**: Socket LGA 1700, DDR5, ATX
+  - **Price**: ฿6,790
+
+Unfortunately, the details for the GPU, RAM, SSD, PSU, CASE, and Cooler are not provided in the context. If you need more specific information or details about the missing components, please let me know! 🖥️💻🔧
+2024-10-09 18:35:34 info: summaryResponse Success load.

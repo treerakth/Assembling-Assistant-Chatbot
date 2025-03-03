@@ -1,0 +1,40 @@
+2024-10-01 10:24:12 error: Error initializing agent: Error: ENOENT: no such file or directory, mkdir 'C:\Users\treer\Desktop\Project\TestLinechat\storage\Gaming\PC_SET'
+2024-10-01 10:25:18 error: Error initializing agent: Error: ENOENT: no such file or directory, mkdir 'C:\Users\treer\Desktop\Project\TestLinechat\storage\Gaming\PC_SET'
+2024-10-01 10:27:03 error: Error initializing agent: Error: ENOENT: no such file or directory, mkdir 'C:\Users\treer\Desktop\Project\TestLinechat\storage\Type_PC\Gaming\PC_SET'
+2024-10-01 10:27:15 info: Agent Initialized
+2024-10-01 10:27:27 info: Agent Initialized
+2024-10-01 10:28:12 info: LLM Tool Call: {"toolCall":{"id":"call_8tVTKfwSRipRZDsbhQJEHHXw","name":"index_Gaming","input":{"query":"gaming PC under $1000"}}}
+2024-10-01 10:36:59 info: Agent Initialized
+2024-10-01 10:37:06 info: Agent Initialized
+2024-10-01 10:38:03 info: LLM Tool Call: {"toolCall":{"id":"call_uhAOfAXJgXJLxDKOIpPshS1n","name":"index_Workstation","input":{"query":"workstation PC 30000 baht"}}}
+2024-10-01 10:38:23 info: LLM Tool Call: {"toolCall":{"id":"call_gy0w7ITsuT1sedoBtBM489sM","name":"index_Workstation","input":{"query":"SET Workstation 001"}}}
+2024-10-01 10:39:39 info: LLM Tool Call: {"toolCall":{"id":"call_Ge3Jxom1ul2eo6JKTEHVvF5s","name":"index_AEROCOOL","input":{"query":"case 5000 baht compatible with workstation hardware"}}}
+2024-10-01 10:39:45 info: LLM Tool Call: {"toolCall":{"id":"call_WnyYFlTbQUFaa6N62CVcdM8L","name":"index_ANTEC","input":{"query":"case 5000 baht compatible with workstation hardware"}}}
+2024-10-01 10:39:54 info: LLM Tool Call: {"toolCall":{"id":"call_472gyDrScLMMtKKulqzrlFTP","name":"index_APNX","input":{"query":"case 5000 baht compatible with workstation hardware"}}}
+2024-10-01 12:29:50 error: Error initializing agent: Error: Cannot initialize VectorStoreIndex without nodes or indexStruct
+2024-10-01 12:30:31 info: Agent Initialized
+2024-10-01 12:30:51 info: LLM Tool Call: {"toolCall":{"id":"call_v4g3p3Fi2eRBLJ7YMD2YQ2v3","name":"index_Gaming","input":{"query":"30,000 baht"}}}
+2024-10-01 12:31:13 info: LLM Tool Call: {"toolCall":{"id":"call_6wpfdFCjmjwiCKQKN47vAvnE","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-01 12:32:28 info: LLM Tool Call: {"toolCall":{"id":"call_nsn4XkbqPOQFXXJOkBHW3vrF","name":"index_Case_ANTEC","input":{"query":"compatible case for gaming PC"}}}
+2024-10-01 12:37:44 info: Agent Initialized
+2024-10-01 12:38:03 info: Agent Initialized
+2024-10-01 12:39:50 info: LLM Tool Call: {"toolCall":{"id":"call_uYJXgfhZ1AYRF1ag0pWEFlSu","name":"index_Gaming","input":{"query":"30000 baht"}}}
+2024-10-01 12:40:03 info: LLM Tool Call: {"toolCall":{"id":"call_cWAJTMMy9ORtRjYgrhTmprBU","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-01 12:47:57 info: Agent Initialized
+2024-10-01 12:48:32 info: LLM Tool Call: {"toolCall":{"id":"call_VR8nnusT3Q9N5TKeInmo3YlI","name":"index_Gaming","input":{"query":"30000 baht"}}}
+2024-10-01 12:48:49 info: LLM Tool Call: {"toolCall":{"id":"call_MuhGlz7MmScspT51az8wXiZf","name":"index_Gaming","input":{"query":"SET Gaming 003"}}}
+2024-10-01 12:49:56 info: LLM Tool Call: {"toolCall":{"id":"call_jDU6ttx0Qh8K5gnVnKBFsZn2","name":"index_CPU","input":{"query":"LGA 1700"}}}
+2024-10-01 12:51:11 info: LLM Tool Call: {"toolCall":{"id":"call_K8tAdHpe7Ge5YuYg74JFvn32","name":"index_CPU","input":{"query":"INTEL CORE I9 13900K"}}}
+2024-10-01 19:12:59 info: Agent Initialized
+2024-10-01 19:14:20 info: LLM Tool Call: {"toolCall":{"id":"call_wDd8BKpBBwUobb3YxjTZftaR","name":"index_Gaming","input":{"query":"Gaming PC under 25000 baht"}}}
+2024-10-01 19:16:41 info: LLM Tool Call: {"toolCall":{"id":"call_825ikrDUrQUZWxNVLd8NBpCK","name":"index_CPU","input":{"query":"Intel Core i7-12700K"}}}
+2024-10-01 19:27:25 info: Agent Initialized
+2024-10-01 19:28:11 info: LLM Tool Call: {"toolCall":{"id":"call_1PktP4opMDXdjLTH7pndvs5F","name":"index_Standard","input":{"query":"12000"}}}
+2024-10-01 19:28:29 info: LLM Tool Call: {"toolCall":{"id":"call_cZHxBCnr69SdreynINvTJtVl","name":"index_Standard","input":{"query":"SET Standard 007"}}}
+2024-10-01 19:51:56 info: LLM Tool Call: {"toolCall":{"id":"call_MCiTosVKJXoQlmO1KSREbcCc","name":"index_GPU_GIGABYTE","input":{"query":"recommended"}}}
+2024-10-01 19:52:45 info: Agent Initialized
+2024-10-01 19:55:05 info: LLM Tool Call: {"toolCall":{"id":"call_NMftwiuVHnfNHX7qPLJ98m4l","name":"index_Standard","input":{"query":"Standard PC under 12000 baht"}}}
+2024-10-01 19:57:57 info: Agent Initialized
+2024-10-01 19:58:39 info: LLM Tool Call: {"toolCall":{"id":"call_WWXD8ndxdtvkd1PBlvnBvx5v","name":"index_Standard","input":{"query":"12000"}}}
+2024-10-01 19:59:00 info: LLM Tool Call: {"toolCall":{"id":"call_1wiuQj9eQZ9WeQv6FtFFvra6","name":"index_Standard","input":{"query":"SET Standard 007"}}}
+2024-10-01 20:00:02 info: LLM Tool Call: {"toolCall":{"id":"call_gk4rrIYw06qIKTn52vPLByct","name":"index_GPU_GIGABYTE","input":{"query":"recommended"}}}

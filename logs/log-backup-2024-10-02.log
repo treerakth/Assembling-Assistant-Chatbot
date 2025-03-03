@@ -1,0 +1,1044 @@
+2024-10-02 12:21:25 info: ----------------------------------------
+2024-10-02 12:21:25 info: Server started and listening on port 8000
+2024-10-02 12:21:25 info: ----------------------------------------
+2024-10-02 12:24:57 info: Events received: []
+2024-10-02 12:25:38 info: Events received: [{"type":"message","message":{"type":"text","id":"528508198996148273","quoteToken":"LiAePsa8XL8bfNGc8wAiNmaf9RUbEkp7uU5NVKZTyKmj_GkU2UDE_qsBHYxgF3B5ub_dlkO6qJQQZGaSi8j0gwiTHzh6sFettHfTOvLtE_11MmDWCipv5tkMEFocxrjVgg_D2zZmE0NT4jthZZPU6w","text":"I want PC"},"webhookEventId":"01J95V1TZRH3M48MDM88WMAGE6","deliveryContext":{"isRedelivery":false},"timestamp":1727846738632,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"412db462a98844d09820aa193e21c50e","mode":"active"}]
+2024-10-02 12:25:38 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:25:43 info: Agent Initialized
+2024-10-02 12:25:43 info: User Agent Success load.
+2024-10-02 12:25:47 info: ------------------------------------------------------
+2024-10-02 12:25:47 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC** - For playing games with high performance.
+2. **Premium PC** - High-end PC with top-tier components.
+3. **Standard PC** - General use for tasks like browsing, office work, etc.
+4. **Workstation PC** - For professional tasks like graphic design, video editing, etc.
+
+Let me know your preference and any budget range you have in mind!
+2024-10-02 12:25:47 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:25:47 info: ------------------------------------------------------
+2024-10-02 12:25:47 info: responseText Success load.
+2024-10-02 12:25:48 info: This is Total price found : 0
+2024-10-02 12:25:48 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: ResultQuery is not a function
+2024-10-02 12:26:21 info: 
+2024-10-02 12:26:23 info: ----------------------------------------
+2024-10-02 12:26:23 info: Server started and listening on port 8000
+2024-10-02 12:26:23 info: ----------------------------------------
+2024-10-02 12:26:34 info: Events received: [{"type":"message","message":{"type":"text","id":"528508292931256871","quoteToken":"cUigmpiYM4si3plTCFhG4lxwkVuHZTmhEXF6YY0JCUGMXhYBU7sThv4RLZmMzZ7mkeemDZgmwszc_yhYVZ1u1wMKoOfgaZEloLPU6n76EziLs8sEhsuAUaVgLrq-QDWSj85WhB0oWm3YplrpXLYlqw","text":"I want PC"},"webhookEventId":"01J95V3J0RGXT0VS62X108ECQQ","deliveryContext":{"isRedelivery":false},"timestamp":1727846794780,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2f1b52ca2cb242819c919b3fa3ca01f2","mode":"active"}]
+2024-10-02 12:26:34 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:26:34 info: Agent Initialized
+2024-10-02 12:26:34 info: User Agent Success load.
+2024-10-02 12:26:38 info: ------------------------------------------------------
+2024-10-02 12:26:38 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC** - For playing games with high performance.
+2. **Premium PC** - High-end PC with top-tier components.
+3. **Standard PC** - General use PC for everyday tasks.
+4. **Workstation PC** - For professional work, especially in graphics or heavy computing tasks.
+
+Let me know which type you are interested in and your budget range!
+2024-10-02 12:26:38 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:26:38 info: ------------------------------------------------------
+2024-10-02 12:26:38 info: responseText Success load.
+2024-10-02 12:26:41 info: This is Total price found : 0
+2024-10-02 12:26:41 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: ResultQuery is not defined
+2024-10-02 12:27:04 info: 
+2024-10-02 12:27:08 info: ----------------------------------------
+2024-10-02 12:27:08 info: Server started and listening on port 8000
+2024-10-02 12:27:08 info: ----------------------------------------
+2024-10-02 12:27:44 info: Events received: [{"type":"message","message":{"type":"text","id":"528508411462025368","quoteToken":"hW7YJwl4_qws1r_AhEJ-0l9oMmSLgGjxWqlRqiiBzr8J8znTEkoFIYSSVBESjEx47XsFZ51hbrXL86A78SGSqrqWyJRVQz1eVP6uNIhEbka_8NZr4yPvzdDWi3PZpOnqPRfuckMG5_gFP2bcTKp1GQ","text":"I want PC"},"webhookEventId":"01J95V5PKP6HM7MKSNQGEQ5AEN","deliveryContext":{"isRedelivery":false},"timestamp":1727846865411,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"1083570c1b604f41b7ad92278a1ec4f7","mode":"active"}]
+2024-10-02 12:27:45 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:27:45 info: Agent Initialized
+2024-10-02 12:27:45 info: User Agent Success load.
+2024-10-02 12:27:47 info: ------------------------------------------------------
+2024-10-02 12:27:47 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. Gaming PC
+2. Premium PC
+3. Standard PC
+4. Workstation PC
+
+Additionally, please let me know your budget range.
+2024-10-02 12:27:47 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:27:47 info: ------------------------------------------------------
+2024-10-02 12:27:47 info: responseText Success load.
+2024-10-02 12:27:49 info: This is Total price found : 0
+2024-10-02 12:27:49 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: my_context is not defined
+2024-10-02 12:28:38 info: 
+2024-10-02 12:28:40 info: ----------------------------------------
+2024-10-02 12:28:40 info: Server started and listening on port 8000
+2024-10-02 12:28:40 info: ----------------------------------------
+2024-10-02 12:28:46 info: Events received: [{"type":"message","message":{"type":"text","id":"528508514558017929","quoteToken":"78pU5A-R5vJz5haegUyO4kUGOZYYxHiukAW2Old1T45CFVU8bQwD9pHvf1FQxc4C02uQJaUY1D2Hlu7qOAb438iVmqv2XIGeQFYc023wQMzWSVaPkYxOLKbZJYfgzYi7ru0fxSahzW2nkGVY0sUlAQ","text":"I want PC"},"webhookEventId":"01J95V7JZ2XAF6FVT17MXXWFMT","deliveryContext":{"isRedelivery":false},"timestamp":1727846926881,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"e60837baabfe4d10a5e18ca86a9c20ba","mode":"active"}]
+2024-10-02 12:28:46 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:28:46 info: Agent Initialized
+2024-10-02 12:28:46 info: User Agent Success load.
+2024-10-02 12:28:49 info: ------------------------------------------------------
+2024-10-02 12:28:49 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. Gaming PC
+2. Premium PC
+3. Standard PC
+4. Workstation PC
+
+Additionally, please let me know your budget range.
+2024-10-02 12:28:49 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:28:49 info: ------------------------------------------------------
+2024-10-02 12:28:49 info: responseText Success load.
+2024-10-02 12:28:50 info: This is Total price found : 0
+2024-10-02 12:28:51 info: ________________________________________
+2024-10-02 12:28:51 info: Response summarized: The response asks for clarification on the type of PC the user is interested in, providing four options: Gaming PC, Premium PC, Standard PC, and Workstation PC. It also requests information about the user's budget range.
+2024-10-02 12:28:51 info: summaryResponse Success load.
+2024-10-02 12:29:58 info: 
+2024-10-02 12:32:17 info: ----------------------------------------
+2024-10-02 12:32:17 info: Server started and listening on port 8000
+2024-10-02 12:32:17 info: ----------------------------------------
+2024-10-02 12:32:23 info: Events received: [{"type":"message","message":{"type":"text","id":"528508879664578609","quoteToken":"oz9PqVzz4iQYRaXyl6tfCYvRjU8zSPZLBz4gJ_gJNaeFEHlgBj2ZZ1wfOLp3j30tZpWzsXj5aBoDDqu7rVHiF1wMPGMPgbkPUGeubJugqzHpok_d2YeWh3xlOMeNSPoF_QbTosrnkS84gm4U2zEF8Q","text":"I want PC"},"webhookEventId":"01J95VE78QQ5BRH1HS05RRE686","deliveryContext":{"isRedelivery":false},"timestamp":1727847144340,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2f96762c775a41d28996380fd72ae208","mode":"active"}]
+2024-10-02 12:32:24 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:32:24 info: Agent Initialized
+2024-10-02 12:32:24 info: User Agent Success load.
+2024-10-02 12:32:27 info: ------------------------------------------------------
+2024-10-02 12:32:27 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC** - For playing games with high performance.
+2. **Premium PC** - High-end PC with top-tier components.
+3. **Standard PC** - General use for browsing, streaming, and light tasks.
+4. **Workstation PC** - For professional tasks like graphic design, video editing, etc.
+
+Let me know your preference and any budget range you have in mind!
+2024-10-02 12:32:27 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:32:27 info: ------------------------------------------------------
+2024-10-02 12:32:27 info: responseText Success load.
+2024-10-02 12:32:29 info: This is Total price found : 0
+2024-10-02 12:32:30 info: ________________________________________
+2024-10-02 12:32:30 info: Response summarized: The response provides options for different types of PCs: Gaming PC, Premium PC, Standard PC, and Workstation PC, and asks for the user's preference and budget.
+2024-10-02 12:32:30 info: summaryResponse Success load.
+2024-10-02 12:34:17 info: 
+2024-10-02 12:34:19 info: ----------------------------------------
+2024-10-02 12:34:19 info: Server started and listening on port 8000
+2024-10-02 12:34:19 info: ----------------------------------------
+2024-10-02 12:34:28 info: Events received: [{"type":"message","message":{"type":"text","id":"528509088305512731","quoteToken":"f5Lrai0RTOe6ltLCb_G5TrNrJctbxSEwbMrjpsOjdK5Rm2_tS3sOROFFJDSs_h6QEJTFW9YuCCMy0gUEejCytg9-pXpNY9Ppsh_YW_TO--rWkFwvbV2uPg7zJZOMRt_uNJntzsMRmv09_2vpWtCGCw","text":"I want PC"},"webhookEventId":"01J95VJ0WRMXZHJCY242PTYHG4","deliveryContext":{"isRedelivery":false},"timestamp":1727847268766,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6a5d50f3975d4b2b892fdc7bd1ed353c","mode":"active"}]
+2024-10-02 12:34:28 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:34:28 info: Agent Initialized
+2024-10-02 12:34:28 info: User Agent Success load.
+2024-10-02 12:34:31 info: ------------------------------------------------------
+2024-10-02 12:34:31 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC** - For playing games with high performance.
+2. **Premium PC** - High-end PC with top-tier components.
+3. **Standard PC** - General use for browsing, streaming, and light tasks.
+4. **Workstation PC** - For professional tasks like graphic design, video editing, etc.
+
+Let me know your preference and your budget range!
+2024-10-02 12:34:31 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:34:31 info: ------------------------------------------------------
+2024-10-02 12:34:31 info: responseText Success load.
+2024-10-02 12:34:33 info: This is Total price found : 0
+2024-10-02 12:34:34 info: ________________________________________
+2024-10-02 12:34:34 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. **Gaming PC** - For playing games with high performance.
+2. **Premium PC** - High-end PC with top-tier components.
+3. **Standard PC** - General use for browsing, streaming, and light tasks.
+4. **Workstation PC** - For professional tasks like graphic design, video editing, etc.
+
+Let me know your preference and your budget range!
+2024-10-02 12:34:34 info: summaryResponse Success load.
+2024-10-02 12:36:13 info: Events received: [{"type":"message","message":{"type":"text","id":"528509264416473185","quoteToken":"tojG-XbrqMpVlzDDUYkD_oAd80Z62CGquzXcGH0HfCLtW2S5Xq9Wu6EhCrQfMpKzP6L3j5K3SGxzUXIkEAaIzc0NwWdChaNk892aKBnrq2uzaFATi4p36qspy9jn7SY0UIl6pY4j6BXXA7Hs44KxpQ","text":"Standard"},"webhookEventId":"01J95VN7B4NSSB0WE9R934N37A","deliveryContext":{"isRedelivery":false},"timestamp":1727847373672,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ba383f78c1fe4bfd90786a325f27819b","mode":"active"}]
+2024-10-02 12:36:13 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:36:13 info: User Agent Success load.
+2024-10-02 12:36:16 info: ------------------------------------------------------
+2024-10-02 12:36:16 info: Response Agent: What is your budget range for the Standard PC? Please provide a specific amount or a range (e.g., 8,000 - 20,000 baht).
+2024-10-02 12:36:16 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:36:16 info: ------------------------------------------------------
+2024-10-02 12:36:16 info: responseText Success load.
+2024-10-02 12:36:17 info: This is Total price found : 0
+2024-10-02 12:36:18 info: ________________________________________
+2024-10-02 12:36:18 info: Response summarized: What is your budget range for the Standard PC? Please provide a specific amount or a range (e.g., 8,000 - 20,000 baht).
+2024-10-02 12:36:18 info: summaryResponse Success load.
+2024-10-02 12:36:34 info: Events received: [{"type":"message","message":{"type":"text","id":"528509300252606994","quoteToken":"O4dQGZD50SEYAkxdYfYoCJ7myPTJkz-xxQyGEEIgA52UGga9JyMp2W8nIj-SRXoaFHV_UzBaw76D4XqmeOAib4HdzEGQCGf3QqH1DHz5beSUWfjIf4AeC3qu3GCVqNgreNtbxwgvA4G7U4BIlp2oLg","text":"12000"},"webhookEventId":"01J95VNW48FSD9KW30AEPB5B4V","deliveryContext":{"isRedelivery":false},"timestamp":1727847395071,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2320162509204b38bec2a1fa355dcbe5","mode":"active"}]
+2024-10-02 12:36:34 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:36:34 info: User Agent Success load.
+2024-10-02 12:36:36 info: LLM Tool Call: {"toolCall":{"id":"call_8dwtoJFZiHx7oHwIYbcM3qtc","name":"index_Standard","input":{"query":"12000"}}}
+2024-10-02 12:36:41 info: ------------------------------------------------------
+2024-10-02 12:36:41 info: Response Agent: Here are two Standard PC options close to your budget of 12,000 baht:
+
+1. **SET Standard 005**
+   - **Price**: 11,400 baht
+
+2. **SET Standard 007**
+   - **Price**: 12,200 baht
+
+Would you like more details on these options or assistance with something else?
+2024-10-02 12:36:41 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:36:41 info: ------------------------------------------------------
+2024-10-02 12:36:41 info: responseText Success load.
+2024-10-02 12:36:44 info: This is Total price found : 0
+2024-10-02 12:36:46 info: ________________________________________
+2024-10-02 12:36:46 info: Response summarized: Here are two Standard PC options close to your budget of 12,000 baht:
+
+1. **SET Standard 005**
+   - **Price**: 11,400 baht
+
+2. **SET Standard 007**
+   - **Price**: 12,200 baht
+
+Would you like more details on these options or assistance with something else?
+2024-10-02 12:36:46 info: summaryResponse Success load.
+2024-10-02 12:37:01 info: Events received: [{"type":"message","message":{"type":"text","id":"528509344812892689","quoteToken":"MvMU-YWpqoDRn24RXajXYsoGo1ecJmUFHwGsefnn4mKKX0RFr0MQUo7dJb5Yo7xs4Eu80TtYMcgOWQtuME0jlvdBBUP3aBmqheXntNqjRoUQsN15DVXudHnx_m3OprOIN6YyEiNDTVeI-k8z1nWM2g","text":"ok show me set 5"},"webhookEventId":"01J95VPP4T6W1E54FG9EC62VYP","deliveryContext":{"isRedelivery":false},"timestamp":1727847421599,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9e9f258b00a146659f5e633f769f3a08","mode":"active"}]
+2024-10-02 12:37:01 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 12:37:01 info: User Agent Success load.
+2024-10-02 12:37:03 info: LLM Tool Call: {"toolCall":{"id":"call_hfewEQtsuPdbKcdkSs2im5CP","name":"index_Standard","input":{"query":"SET Standard 005"}}}
+2024-10-02 12:37:17 info: ------------------------------------------------------
+2024-10-02 12:37:17 info: Response Agent: Here are the details for **SET Standard 005**:
+
+- **CPU**: 
+  - **Model**: INTEL CORE I3-13100
+  - **Speed**: 3.4 GHz (SOCKET LGA 1700)
+  - **Price**: 5,290 baht
+
+- **Motherboard**: 
+  - **Model**: ASUS PRIME H610M-K D4 (DDR4)
+  - **Type**: (SOCKET LGA 1700) (MICRO-ATX)
+  - **Price**: 2,290 baht
+
+- **RAM**: 
+  - **Model**: KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BBK2/16)
+  - **Capacity**: 16GB (8GBx2) DDR4 3200MHz
+  - **Price**: 1,550 baht
+
+- **SSD**: 
+  - **Model**: KINGSTON NV2 - PCIe 4/NVMe M.2 2280 (SNV2S/500G)
+  - **Capacity**: 500 GB
+  - **Price**: 1,490 baht
+
+- **PSU**: 
+  - **Model**: GAMDIAS AURA GP550
+  - **Wattage**: 550W (BLACK) (ATX)
+  - **Price**: 990 baht
+
+- **CASE**: 
+  - **Model**: GAMDIAS ARGUS E2 ELITE (BLACK) (ATX)
+  - **Price**: 1,190 baht
+
+- **Total Price**: 11,400 baht
+
+Would you like to proceed with this option or need any further assistance?
+2024-10-02 12:37:17 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 12:37:17 info: ------------------------------------------------------
+2024-10-02 12:37:17 info: responseText Success load.
+2024-10-02 12:37:18 info: This is Total price found : 12800
+2024-10-02 12:37:22 info: ________________________________________
+2024-10-02 12:37:22 info: Response summarized: Here are the details for **SET Standard 005**:
+
+- **CPU**: 
+  - **Model**: INTEL CORE I3-13100
+  - **Speed**: 3.4 GHz (SOCKET LGA 1700)
+  - **Price**: 5,290 baht
+
+- **Motherboard**: 
+  - **Model**: ASUS PRIME H610M-K D4 (DDR4)
+  - **Type**: (SOCKET LGA 1700) (MICRO-ATX)
+  - **Price**: 2,290 baht
+
+- **RAM**: 
+  - **Model**: KINGSTON FURY BEAST DDR4 (BLACK) (KF432C16BBK2/16)
+  - **Capacity**: 16GB (8GBx2) DDR4 3200MHz
+  - **Price**: 1,550 baht
+
+- **SSD**: 
+  - **Model**: KINGSTON NV2 - PCIe 4/NVMe M.2 2280 (SNV2S/500G)
+  - **Capacity**: 500 GB
+  - **Price**: 1,490 baht
+
+- **PSU**: 
+  - **Model**: GAMDIAS AURA GP550
+  - **Wattage**: 550W (BLACK) (ATX)
+  - **Price**: 990 baht
+
+- **CASE**: 
+  - **Model**: GAMDIAS ARGUS E2 ELITE (BLACK) (ATX)
+  - **Price**: 1,190 baht
+
+- **Total Price**: 11,400 baht
+
+Would you like to proceed with this option or need any further assistance?
+2024-10-02 12:37:22 info: summaryResponse Success load.
+2024-10-02 12:58:09 info: 
+2024-10-02 13:03:27 info: ----------------------------------------
+2024-10-02 13:03:27 info: Server started and listening on port 8000
+2024-10-02 13:03:27 info: ----------------------------------------
+2024-10-02 13:03:33 info: Events received: [{"type":"message","message":{"type":"text","id":"528512017137402191","quoteToken":"E1ZdQ9LwMVaFlFNlNbdWeHRgS458_Zk09y3mYwiOKbXIVo6O0ZwhD-2mHYeqho6Ob46wsCY6INi59d7a5MUzYaWqTKkNyIN37HgxqTVbpwcDD27c8Evk_7wQE6kw7uHMf3TsNJvyJHvkf2BiNg5Qxw","text":"I want PC"},"webhookEventId":"01J95X79J55XZBB0K52119C9GZ","deliveryContext":{"isRedelivery":false},"timestamp":1727849014615,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"cebc948f85fb4607981dd326dde4c671","mode":"active"}]
+2024-10-02 13:03:34 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:03:34 info: Agent Initialized
+2024-10-02 13:03:34 info: User Agent Success load.
+2024-10-02 13:03:37 info: ------------------------------------------------------
+2024-10-02 13:03:37 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. Gaming PC
+2. Premium PC
+3. Standard PC
+4. Workstation PC
+
+Additionally, please let me know your budget range.
+2024-10-02 13:03:37 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 13:03:37 info: ------------------------------------------------------
+2024-10-02 13:03:37 info: responseText Success load.
+2024-10-02 13:03:38 info: This is Total price found : 0
+2024-10-02 13:03:39 info: ________________________________________
+2024-10-02 13:03:39 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. Gaming PC
+2. Premium PC
+3. Standard PC
+4. Workstation PC
+
+Additionally, please let me know your budget range.
+2024-10-02 13:03:39 info: summaryResponse Success load.
+2024-10-02 13:14:26 info: Events received: [{"type":"message","message":{"type":"text","id":"528513111314661506","quoteToken":"52TPn9XZz2mPe1gMVY3Dz1twiz8m_MMqdkekk8yOtfctpzvoQW8Pv0Zt3WwDynRxcAM0i-V9FaQmERURoMY9qT1aQt9jNxcf8ry9TOEhnCmc7_bNQsbeNH12SJMw0Us5vvU2i7908-LcQJZdKBIAyw","text":"Standard"},"webhookEventId":"01J95XV6HHD0SS8MGNVYSWXEG6","deliveryContext":{"isRedelivery":false},"timestamp":1727849666614,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"0dfc9207a9574c96b3fd82cbb260f565","mode":"active"}]
+2024-10-02 13:14:26 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:14:26 info: User Agent Success load.
+2024-10-02 13:14:29 info: ------------------------------------------------------
+2024-10-02 13:14:29 info: Response Agent: Great! You're looking for a Standard PC. Could you please provide your budget range? The typical budget for a Standard PC is around 8,000 - 20,000 baht.
+2024-10-02 13:14:29 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 13:14:29 info: ------------------------------------------------------
+2024-10-02 13:14:29 info: responseText Success load.
+2024-10-02 13:14:30 info: This is Total price found : 0
+2024-10-02 13:14:31 info: ________________________________________
+2024-10-02 13:14:31 info: Response summarized: Great! You're looking for a Standard PC. Could you please provide your budget range? The typical budget for a Standard PC is around 8,000 - 20,000 baht.
+2024-10-02 13:14:31 info: summaryResponse Success load.
+2024-10-02 13:14:38 info: Events received: [{"type":"message","message":{"type":"text","id":"528513131581276195","quoteToken":"Nc57iYq98E99GDGJLmZ-lsEmFOVXCzQ2KagM96c7x6Uook589jvphbB--HNbVJNs864zSfgPG5kECmBJp37cSN_oPugkZ3AonJHNkzcPusGp0vppN9ChB4cXIEdGcnkS5rU9kZU8-5rNVzCo8UD70A","text":"12000"},"webhookEventId":"01J95XVJC44VMFS6DHNZTN582B","deliveryContext":{"isRedelivery":false},"timestamp":1727849678754,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c05b0b2ec88a45ad8fb1745381e949dc","mode":"active"}]
+2024-10-02 13:14:38 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:14:38 info: User Agent Success load.
+2024-10-02 13:14:40 info: LLM Tool Call: {"toolCall":{"id":"call_Q8aH2nstJRiXpyL9wnTNkGrS","name":"index_Standard","input":{"query":"12000"}}}
+2024-10-02 13:14:46 info: ------------------------------------------------------
+2024-10-02 13:14:46 info: Response Agent: Here are two Standard PC options around your budget of 12,000 baht:
+
+1. **SET Standard 005**
+   - **Price:** 11,400 baht
+
+2. **SET Standard 007**
+   - **Price:** 12,200 baht
+
+SET Standard 005 is the closest option below your budget, while SET Standard 007 is slightly above your budget. Would you like more details on either of these options?
+2024-10-02 13:14:46 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 13:14:46 info: ------------------------------------------------------
+2024-10-02 13:14:46 info: responseText Success load.
+2024-10-02 13:14:48 info: This is Total price found : 0
+2024-10-02 13:14:50 info: ________________________________________
+2024-10-02 13:14:50 info: Response summarized: Here are two Standard PC options around your budget of 12,000 baht:
+
+1. **SET Standard 005**
+   - **Price:** 11,400 baht
+
+2. **SET Standard 007**
+   - **Price:** 12,200 baht
+
+SET Standard 005 is the closest option below your budget, while SET Standard 007 is slightly above your budget. Would you like more details on either of these options?
+2024-10-02 13:14:50 info: summaryResponse Success load.
+2024-10-02 13:15:00 info: Events received: [{"type":"message","message":{"type":"text","id":"528513168088236242","quoteToken":"8tWMApCM7urV8n25dxmWH1kBsHouuSAg9j9PoBNapG29ZQP7iPYnORMvx2jANFubfCZkJGHOYImEedTwVE_tFjA4vjkDHdek9RwMDwixu1xkghJt1SYIAM9dh7-SrveqPk0wwBJAHK6oazJmxYd82w","text":"more detail set 5"},"webhookEventId":"01J95XW7JD7PD0X1N6F2AZBRMC","deliveryContext":{"isRedelivery":false},"timestamp":1727849700636,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d0a69f966d67460a80952c44b90a31ce","mode":"active"}]
+2024-10-02 13:15:00 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:15:00 info: User Agent Success load.
+2024-10-02 13:15:02 info: LLM Tool Call: {"toolCall":{"id":"call_u0JCs2rmQhRlk8172Gxwg3Vz","name":"index_Standard","input":{"query":"SET Standard 005"}}}
+2024-10-02 13:15:16 info: ------------------------------------------------------
+2024-10-02 13:15:16 info: Response Agent: Here are the detailed specifications for **SET Standard 005**:
+
+- **CPU**: 
+  - **Model**: Intel Core i3-13100
+  - **Speed**: 3.4 GHz
+  - **Socket**: LGA 1700
+  - **Price**: 5,290 baht
+
+- **Motherboard**: 
+  - **Model**: ASUS PRIME H610M-K D4
+  - **Socket**: LGA 1700
+  - **Form Factor**: Micro-ATX
+  - **Price**: 2,290 baht
+
+- **RAM**: 
+  - **Model**: Kingston Fury Beast DDR4 (KF432C16BBK2/16)
+  - **Capacity**: 16GB (8GBx2)
+  - **Speed**: 3200MHz
+  - **Price**: 1,550 baht
+
+- **SSD**: 
+  - **Model**: Kingston NV2 (SNV2S/500G)
+  - **Capacity**: 500 GB
+  - **Type**: PCIe 4/NVMe M.2 2280
+  - **Price**: 1,490 baht
+
+- **Power Supply (PSU)**: 
+  - **Model**: Gamdias Aura GP550
+  - **Wattage**: 550W
+  - **Type**: ATX
+  - **Price**: 990 baht
+
+- **Case**: 
+  - **Model**: Gamdias Argus E2 Elite
+  - **Color**: Black
+  - **Type**: ATX
+  - **Price**: 1,190 baht
+
+- **Total Price for SET Standard 005**: 11,400 baht
+
+This set is designed for users looking for balanced performance, suitable for general computing tasks, and light gaming. Would you like to proceed with this option or need more information?
+2024-10-02 13:15:16 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 13:15:16 info: ------------------------------------------------------
+2024-10-02 13:15:16 info: responseText Success load.
+2024-10-02 13:15:17 info: This is Total price found : 12800
+2024-10-02 13:15:24 info: ________________________________________
+2024-10-02 13:15:24 info: Response summarized: Here are the detailed specifications for **SET Standard 005**:
+
+- **CPU**: 
+  - **Model**: Intel Core i3-13100
+  - **Speed**: 3.4 GHz
+  - **Socket**: LGA 1700
+  - **Price**: 5,290 baht
+
+- **Motherboard**: 
+  - **Model**: ASUS PRIME H610M-K D4
+  - **Socket**: LGA 1700
+  - **Form Factor**: Micro-ATX
+  - **Price**: 2,290 baht
+
+- **RAM**: 
+  - **Model**: Kingston Fury Beast DDR4 (KF432C16BBK2/16)
+  - **Capacity**: 16GB (8GBx2)
+  - **Speed**: 3200MHz
+  - **Price**: 1,550 baht
+
+- **SSD**: 
+  - **Model**: Kingston NV2 (SNV2S/500G)
+  - **Capacity**: 500 GB
+  - **Type**: PCIe 4/NVMe M.2 2280
+  - **Price**: 1,490 baht
+
+- **Power Supply (PSU)**: 
+  - **Model**: Gamdias Aura GP550
+  - **Wattage**: 550W
+  - **Type**: ATX
+  - **Price**: 990 baht
+
+- **Case**: 
+  - **Model**: Gamdias Argus E2 Elite
+  - **Color**: Black
+  - **Type**: ATX
+  - **Price**: 1,190 baht
+
+- **Total Price for SET Standard 005**: 11,400 baht
+
+This set is designed for users looking for balanced performance, suitable for general computing tasks, and light gaming. Would you like to proceed with this option or need more information?
+2024-10-02 13:15:24 info: summaryResponse Success load.
+2024-10-02 13:15:51 info: Events received: [{"type":"message","message":{"type":"text","id":"528513254508200018","quoteToken":"EChPzc7_stn1mcSOj0TTmv4Uhjb1P0CAgl8LIhYB-Qk815RlMWeY1OnlrX96KrVHgdVr739UlNOJ4_LzbbVmcTTjdxddvwCxCwi7_tJDmy5MncJiJBZVZ6qGuTnmU8Kfz3SUiCGMr5x0TFqoRRn_Iw","text":"I can add GPU?"},"webhookEventId":"01J95XXSH06ZCC7ZQ3Q9EGKM5V","deliveryContext":{"isRedelivery":false},"timestamp":1727849751993,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d176a450184c497aaf26ff1c5f0d5819","mode":"active"}]
+2024-10-02 13:15:51 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:15:51 info: User Agent Success load.
+2024-10-02 13:15:54 info: ------------------------------------------------------
+2024-10-02 13:15:54 info: Response Agent: Yes, you can add a GPU (Graphics Processing Unit) to enhance the gaming and graphical performance of your PC. Please let me know your budget for the GPU, and I can recommend compatible options for you!
+2024-10-02 13:15:54 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 13:15:54 info: ------------------------------------------------------
+2024-10-02 13:15:54 info: responseText Success load.
+2024-10-02 13:15:55 info: This is Total price found : 0
+2024-10-02 13:16:00 info: ________________________________________
+2024-10-02 13:16:00 info: Response summarized: Yes, you can add a GPU (Graphics Processing Unit) to enhance the gaming and graphical performance of your PC. Please let me know your budget for the GPU, and I can recommend compatible options for you!
+2024-10-02 13:16:00 info: summaryResponse Success load.
+2024-10-02 13:16:13 info: Events received: [{"type":"message","message":{"type":"text","id":"528513291619401809","quoteToken":"WwcfUQwzYaVW5oJ_kMzNSkQltbXFA_G-8TrJZO2zf_sqWFlb5tUxlacUklrA5MnKYf2MqZ05X9oGg_OlCXK-hr-OXt19F5vQSGLYwLcjtJ80G7k26cPl8X1Ok-CpJl5nIhZu0diT3TBMkj0FLo5V2A","text":"can recommend to me"},"webhookEventId":"01J95XYFFPBPX5REDPTDJX2K5B","deliveryContext":{"isRedelivery":false},"timestamp":1727849774072,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"96cdd0ac51c049d992c704471cc2e1e4","mode":"active"}]
+2024-10-02 13:16:13 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:16:13 info: User Agent Success load.
+2024-10-02 13:16:16 info: LLM Tool Call: {"toolCall":{"id":"call_iveJ4Yc1puEjuOTOtyuWkbnv","name":"index_GPU_GIGABYTE","input":{"query":"recommended"}}}
+2024-10-02 13:16:30 info: ------------------------------------------------------
+2024-10-02 13:16:30 info: Response Agent: Here are some GPU recommendations based on different performance levels and budgets:
+
+1. **Budget-Friendly Option**:
+   - **GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G**
+     - **Memory**: 8GB GDDR6
+     - **Price**: 10,900 baht
+     - **Use**: Good for casual gaming and general use.
+
+2. **Mid-Range Gaming**:
+   - **GIGABYTE AORUS GEFORCE RTX 4060 TI ELITE 8G**
+     - **Memory**: 8GB GDDR6
+     - **Price**: 17,200 baht
+     - **Use**: Offers better performance for gaming at 1080p and some 1440p titles.
+
+3. **High-End Gaming**:
+   - **GIGABYTE AORUS GEFORCE RTX 4070 MASTER 12G**
+     - **Memory**: 12GB GDDR6X
+     - **Price**: 24,900 baht
+     - **Use**: Excellent for high-performance gaming and future-proofing.
+
+4. **Top-Tier Performance**:
+   - **GIGABYTE GEFORCE RTX 4090 GAMING OC 24G**
+     - **Memory**: 24GB GDDR6X
+     - **Price**: 78,900 baht
+     - **Use**: Best for 4K gaming and demanding applications, but requires a significant investment.
+
+Please let me know your budget for the GPU, and I can help you narrow down the options further!
+2024-10-02 13:16:30 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 13:16:30 info: ------------------------------------------------------
+2024-10-02 13:16:30 info: responseText Success load.
+2024-10-02 13:16:32 info: This is Total price found : 10900
+2024-10-02 13:16:38 info: ________________________________________
+2024-10-02 13:16:38 info: Response summarized: Here are some GPU recommendations based on different performance levels and budgets:
+
+1. **Budget-Friendly Option**:
+   - **GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G**
+     - **Memory**: 8GB GDDR6
+     - **Price**: Total Price baht
+     - **Use**: Good for casual gaming and general use.
+
+2. **Mid-Range Gaming**:
+   - **GIGABYTE AORUS GEFORCE RTX 4060 TI ELITE 8G**
+     - **Memory**: 8GB GDDR6
+     - **Price**: 17,200 baht
+     - **Use**: Offers better performance for gaming at 1080p and some 1440p titles.
+
+3. **High-End Gaming**:
+   - **GIGABYTE AORUS GEFORCE RTX 4070 MASTER 12G**
+     - **Memory**: 12GB GDDR6X
+     - **Price**: 24,900 baht
+     - **Use**: Excellent for high-performance gaming and future-proofing.
+
+4. **Top-Tier Performance**:
+   - **GIGABYTE GEFORCE RTX 4090 GAMING OC 24G**
+     - **Memory**: 24GB GDDR6X
+     - **Price**: 78,900 baht
+     - **Use**: Best for 4K gaming and demanding applications, but requires a significant investment.
+
+Please let me know your budget for the GPU, and I can help you narrow down the options further!
+2024-10-02 13:16:38 info: summaryResponse Success load.
+2024-10-02 13:17:05 info: Events received: [{"type":"message","message":{"type":"text","id":"528513379129360513","quoteToken":"v0iuCL96Mj-gdy5Uqc8zLFgI7rdNwpO5e11D7vvkDDJeReXbcMsQTL6Fdlw8rgxMBeXbg02xXlUoXsWz4ocDJ3PfWKnVKI5H1xGVyV2DadHo3UFsavQ1LjMtVY8Ep8dPI4j_6TRUTwd2pUXok-2uFQ","text":"another brand?"},"webhookEventId":"01J95Y0206B73MT6BT9BCB4TDV","deliveryContext":{"isRedelivery":false},"timestamp":1727849826232,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b5f13b7d32994ca496311e865c1baee5","mode":"active"}]
+2024-10-02 13:17:05 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:17:05 info: User Agent Success load.
+2024-10-02 13:17:10 info: LLM Tool Call: {"toolCall":{"id":"call_LZiLSlbn2VGH5RdXr1glAEcO","name":"index_GPU_AMD","input":{"query":"recommended"}}}
+2024-10-02 13:17:13 info: LLM Tool Call: {"toolCall":{"id":"call_SRAzZSOGbqt1XLftBUwUjfq1","name":"index_GPU_ASROCK","input":{"query":"recommended"}}}
+2024-10-02 13:17:16 info: LLM Tool Call: {"toolCall":{"id":"call_YRtomkrO7hoWo3lq477BaTQb","name":"index_GPU_ASUS","input":{"query":"recommended"}}}
+2024-10-02 13:17:24 info: LLM Tool Call: {"toolCall":{"id":"call_rym6gve6BCig63rnVGwLGhDi","name":"index_GPU_INNO3D","input":{"query":"recommended"}}}
+2024-10-02 13:17:29 info: LLM Tool Call: {"toolCall":{"id":"call_LZBUsbGQvDwPdZSvFcRghhWy","name":"index_GPU_LEADTEK","input":{"query":"recommended"}}}
+2024-10-02 13:17:36 info: LLM Tool Call: {"toolCall":{"id":"call_T2CA11j3GgXFVkufRrzgxYz2","name":"index_GPU_MSI","input":{"query":"recommended"}}}
+2024-10-02 13:17:43 info: LLM Tool Call: {"toolCall":{"id":"call_i95YLBg6Ob9KLJUfZUW8C8ZK","name":"index_GPU_PNY","input":{"query":"recommended"}}}
+2024-10-02 13:17:50 info: LLM Tool Call: {"toolCall":{"id":"call_pZNwjvRaXj4RQkZAHRVDpWjl","name":"index_GPU_POWER_COLOR","input":{"query":"recommended"}}}
+2024-10-02 13:17:56 info: LLM Tool Call: {"toolCall":{"id":"call_coweYQ8ZhGxgZsFbqR0RmgWa","name":"index_GPU_SAPPHIRE","input":{"query":"recommended"}}}
+2024-10-02 13:18:01 info: LLM Tool Call: {"toolCall":{"id":"call_iBURiF8jIFA2y4jm9t6L5tpJ","name":"index_GPU_ZOTAC","input":{"query":"recommended"}}}
+2024-10-02 13:18:21 info: ------------------------------------------------------
+2024-10-02 13:18:21 info: Response Agent: Here are some GPU recommendations from various brands:
+
+### AMD
+- **AMD Radeon Pro W5700**
+  - **Memory**: 8GB GDDR6
+  - **Use**: Great for professionals and content creators (3D rendering, video editing).
+  - **Price**: Approx. 20,000 baht (check local pricing).
+
+### ASROCK
+- **ASROCK INTEL ARC A750 CHALLENGER D**
+  - **Memory**: 8GB GDDR6
+  - **Use**: Good for mid-range gaming and content creation.
+  - **Price**: Approx. 10,000 baht (check local pricing).
+
+### ASUS
+- **ASUS DUAL GEFORCE GTX 1650 OC EDITION**
+  - **Memory**: 4GB GDDR6
+  - **Price**: 4,890 baht
+  - **Use**: Budget-friendly for casual gaming.
+
+- **ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION**
+  - **Memory**: 8GB GDDR6
+  - **Price**: 11,200 baht
+  - **Use**: Good for gaming at higher settings.
+
+### INNO3D
+- **INNO3D GEFORCE RTX 3050**
+  - **Memory**: 6GB GDDR6
+  - **Price**: 6,590 baht
+  - **Use**: Entry-level gaming.
+
+- **INNO3D GEFORCE RTX 4060 TWIN X2**
+  - **Memory**: 8GB GDDR6
+  - **Price**: 10,700 baht
+  - **Use**: Good balance for 1080p gaming.
+
+### LEADTEK
+- **LEADTEK NVIDIA RTX A400**
+  - **Memory**: 4GB GDDR6
+  - **Price**: 6,490 baht
+  - **Use**: Basic tasks and light gaming.
+
+- **LEADTEK NVIDIA A2000**
+  - **Memory**: 12GB GDDR6
+  - **Price**: 22,800 baht
+  - **Use**: Professional applications and moderate gaming.
+
+### MSI
+- **MSI GEFORCE GTX 1650 D6 VENTUS XS OCV3**
+  - **Memory**: 4GB GDDR6
+  - **Price**: 4,890 baht
+  - **Use**: Casual gaming.
+
+- **MSI GEFORCE RTX 4060 GAMING X NV EDITION**
+  - **Memory**: 8GB GDDR6
+  - **Price**: 12,600 baht
+  - **Use**: Great for gaming at higher settings.
+
+### PNY
+- **PNY GEFORCE RTX 4060 8GB VERTO DUAL FAN**
+  - **Price**: 10,600 baht
+  - **Use**: Good for 1080p gaming.
+
+### POWER COLOR
+- **POWER COLOR FIGHTER AMD RADEON RX 6500 XT**
+  - **Memory**: 4GB GDDR6
+  - **Price**: 5,190 baht
+  - **Use**: Casual gaming.
+
+- **POWER COLOR RED DRAGON RX 6800XT**
+  - **Memory**: 16GB GDDR6
+  - **Price**: 26,900 baht
+  - **Use**: Excellent for 1440p gaming.
+
+### ZOTAC
+- **ZOTAC GAMING GEFORCE RTX 3050**
+  - **Memory**: 6GB GDDR6
+  - **Price**: 6,690 baht
+  - **Use**: Entry-level gaming.
+
+- **ZOTAC GAMING GEFORCE RTX 4070 SUPER**
+  - **Memory**: 12GB GDDR6X
+  - **Price**: 24,200 baht
+  - **Use**: High-resolution gaming.
+
+Please let me know if you need more information on any specific GPU or if you have a particular budget in mind!
+2024-10-02 13:18:21 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 13:18:21 info: ------------------------------------------------------
+2024-10-02 13:18:21 info: responseText Success load.
+2024-10-02 13:18:23 info: This is Total price found : 0
+2024-10-02 13:18:34 info: ________________________________________
+2024-10-02 13:18:34 info: Response summarized: Here are some GPU recommendations from various brands:
+
+### AMD
+- **AMD Radeon Pro W5700**
+  - **Memory**: 8GB GDDR6
+  - **Use**: Great for professionals and content creators (3D rendering, video editing).
+  - **Price**: Approx. 20,000 baht (check local pricing).
+
+### ASROCK
+- **ASROCK INTEL ARC A750 CHALLENGER D**
+  - **Memory**: 8GB GDDR6
+  - **Use**: Good for mid-range gaming and content creation.
+  - **Price**: Approx. 10,000 baht (check local pricing).
+
+### ASUS
+- **ASUS DUAL GEFORCE GTX 1650 OC EDITION**
+  - **Memory**: 4GB GDDR6
+  - **Price**: 4,890 baht
+  - **Use**: Budget-friendly for casual gaming.
+
+- **ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION**
+  - **Memory**: 8GB GDDR6
+  - **Price**: 11,200 baht
+  - **Use**: Good for gaming at higher settings.
+
+### INNO3D
+- **INNO3D GEFORCE RTX 3050**
+  - **Memory**: 6GB GDDR6
+  - **Price**: 6,590 baht
+  - **Use**: Entry-level gaming.
+
+- **INNO3D GEFORCE RTX 4060 TWIN X2**
+  - **Memory**: 8GB GDDR6
+  - **Price**: 10,700 baht
+  - **Use**: Good balance for 1080p gaming.
+
+### LEADTEK
+- **LEADTEK NVIDIA RTX A400**
+  - **Memory**: 4GB GDDR6
+  - **Price**: 6,490 baht
+  - **Use**: Basic tasks and light gaming.
+
+- **LEADTEK NVIDIA A2000**
+  - **Memory**: 12GB GDDR6
+  - **Price**: 22,800 baht
+  - **Use**: Professional applications and moderate gaming.
+
+### MSI
+- **MSI GEFORCE GTX 1650 D6 VENTUS XS OCV3**
+  - **Memory**: 4GB GDDR6
+  - **Price**: 4,890 baht
+  - **Use**: Casual gaming.
+
+- **MSI GEFORCE RTX 4060 GAMING X NV EDITION**
+  - **Memory**: 8GB GDDR6
+  - **Price**: 12,600 baht
+  - **Use**: Great for gaming at higher settings.
+
+### PNY
+- **PNY GEFORCE RTX 4060 8GB VERTO DUAL FAN**
+  - **Price**: 10,600 baht
+  - **Use**: Good for 1080p gaming.
+
+### POWER COLOR
+- **POWER COLOR FIGHTER AMD RADEON RX 6500 XT**
+  - **Memory**: 4GB GDDR6
+  - **Price**: 5,190 baht
+  - **Use**: Casual gaming.
+
+- **POWER COLOR RED DRAGON RX 6800XT**
+  - **Memory**: 16GB GDDR6
+  - **Price**: 26,900 baht
+  - **Use**: Excellent for 1440p gaming.
+
+### ZOTAC
+- **ZOTAC GAMING GEFORCE RTX 3050**
+  - **Memory**: 6GB GDDR6
+  - **Price**: 6,690 baht
+  - **Use**: Entry-level gaming.
+
+- **ZOTAC GAMING GEFORCE RTX 4070 SUPER**
+  - **Memory**: 12GB GDDR6X
+  - **Price**: 24,200 baht
+  - **Use**: High-resolution gaming.
+
+Please let me know if you need more information on any specific GPU or if you have a particular budget in mind!
+2024-10-02 13:18:34 info: summaryResponse Success load.
+2024-10-02 13:18:47 info: Events received: [{"type":"message","message":{"type":"text","id":"528513550122745889","quoteToken":"eLQsZ5-YIeEDENJmeIo_r2JGEDqIm_zltU-BuWZsXO6tQVbMhiLqLif-ko5n_tvtFu1DIp3k1WcghMQage5RS0UsEqv3hShzH2BMYDfu72R-ssaG71otMgdxLdzARHGWWPFnPKohauvG3I3Rfn0n3Q","text":"check this compatible on my pc?"},"webhookEventId":"01J95Y35NVCRW2XEDVS2NWYZE2","deliveryContext":{"isRedelivery":false},"timestamp":1727849928149,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"53f16da53fa94503b08f6ad360587e69","mode":"active"}]
+2024-10-02 13:18:47 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:18:47 info: User Agent Success load.
+2024-10-02 13:18:51 info: ------------------------------------------------------
+2024-10-02 13:18:51 info: Response Agent: To check compatibility, I need to know the following:
+
+1. **Power Supply (PSU)**: What is the wattage of your power supply? (e.g., 550W, 650W)
+2. **Physical Space**: Do you have enough space in your case for the GPU? (Some GPUs can be quite large)
+3. **Motherboard**: What is the model of your motherboard? (This helps to ensure the GPU will fit and work with your system)
+
+Once I have this information, I can help you determine which GPUs are compatible with your PC!
+2024-10-02 13:18:51 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 13:18:51 info: ------------------------------------------------------
+2024-10-02 13:18:51 info: responseText Success load.
+2024-10-02 13:18:55 info: This is Total price found : 0
+2024-10-02 13:18:57 info: ________________________________________
+2024-10-02 13:18:57 info: Response summarized: To check compatibility, I need to know the following:
+
+1. **Power Supply (PSU)**: What is the wattage of your power supply? (e.g., 550W, 650W)
+2. **Physical Space**: Do you have enough space in your case for the GPU? (Some GPUs can be quite large)
+3. **Motherboard**: What is the model of your motherboard? (This helps to ensure the GPU will fit and work with your system)
+
+Once I have this information, I can help you determine which GPUs are compatible with your PC!
+2024-10-02 13:18:57 info: summaryResponse Success load.
+2024-10-02 13:19:35 info: Events received: [{"type":"message","message":{"type":"text","id":"528513630368170022","quoteToken":"va1NUyrKfW8JU__rtsdzMZCTvOKak3gnPppckmxYTSD1_6m0DkgyCb9rIm3yBWmnFvxKARtC3SrEUh7COULFH_iNHdJdwLpjPwc5fX1kFhvQplo4Q7WkMNSotlRfqD4Zj4a9WI-HCILM6DsaHXAIXg","text":"list gpu compatible to me "},"webhookEventId":"01J95Y4MT1T4Q796C4P9DSAYSR","deliveryContext":{"isRedelivery":false},"timestamp":1727849976132,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"cc73c2385f814c38a8db471b1b344060","mode":"active"}]
+2024-10-02 13:19:36 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 13:19:36 info: User Agent Success load.
+2024-10-02 13:19:38 info: LLM Tool Call: {"toolCall":{"id":"call_7MR1u5UouLJRW5y3F1S9fpZo","name":"index_GPU_AMD","input":{"query":"compatible"}}}
+2024-10-02 13:19:45 info: LLM Tool Call: {"toolCall":{"id":"call_SeR8dHotUmYSHBcMcQtydUZT","name":"index_GPU_ASROCK","input":{"query":"compatible"}}}
+2024-10-02 13:19:47 info: LLM Tool Call: {"toolCall":{"id":"call_Kjh67z3793kpTD7XoAe4xt4m","name":"index_GPU_ASUS","input":{"query":"compatible"}}}
+2024-10-02 13:19:51 info: 
+2024-10-02 14:01:18 info: ----------------------------------------
+2024-10-02 14:01:18 info: Server started and listening on port 8000
+2024-10-02 14:01:18 info: ----------------------------------------
+2024-10-02 14:03:03 info: Events received: []
+2024-10-02 14:03:20 info: Events received: [{"type":"message","message":{"type":"text","id":"528518034991349793","quoteToken":"91jOn334uM3Eq8Yt4684o6YaeFVjflcuEcHfn7B525im73IbWPBfHlc8JMmy1n2fFtkeQUezdP0uwAkr8Xt8CbA_Kps5A13eLHMd1qeOrbi-OJY4RzViCGFzLR8zoWDwgFz1C-ZAAY2m0Q2NGq458A","text":"I want PC"},"webhookEventId":"01J960MRFQPQRY8N1E11EBSJET","deliveryContext":{"isRedelivery":false},"timestamp":1727852601340,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"fceaa28243aa440496148a9d2473f829","mode":"active"}]
+2024-10-02 14:03:21 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 14:03:22 info: Agent Initialized
+2024-10-02 14:03:22 info: User Agent Success load.
+2024-10-02 14:03:25 info: ------------------------------------------------------
+2024-10-02 14:03:25 info: Response Agent: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. Gaming PC
+2. Premium PC
+3. Standard PC
+4. Workstation PC
+
+Additionally, please let me know your budget range.
+2024-10-02 14:03:25 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 14:03:25 info: ------------------------------------------------------
+2024-10-02 14:03:25 info: responseText Success load.
+2024-10-02 14:03:27 info: This is Total price found : 0
+2024-10-02 14:03:28 info: ________________________________________
+2024-10-02 14:03:28 info: Response summarized: Could you please specify what type of PC you are looking for? Here are some options:
+
+1. Gaming PC
+2. Premium PC
+3. Standard PC
+4. Workstation PC
+
+Additionally, please let me know your budget range.
+2024-10-02 14:03:28 info: summaryResponse Success load.
+2024-10-02 14:03:40 info: Events received: [{"type":"message","message":{"type":"text","id":"528518067857653907","quoteToken":"CXY7lpSpYfUJMv-knqEPMUqZ-Wam8q9u0cglDIKcSD_vxM067XD8IbyZiWbNznw9Ipvlpz3zOj7ckL3Ev8wnR7MC-F3nxkMUzsb_JtM8XSd30Ou606PfIchCqZZYQ3TGt8x0yaz_NrQQTtQtejtwaQ","text":"3"},"webhookEventId":"01J960NBEPC2ZNKS6JQ5GP1RXZ","deliveryContext":{"isRedelivery":false},"timestamp":1727852620962,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"3581097e21684926b968389e794fe8c8","mode":"active"}]
+2024-10-02 14:03:40 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 14:03:40 info: User Agent Success load.
+2024-10-02 14:03:43 info: ------------------------------------------------------
+2024-10-02 14:03:43 info: Response Agent: You've selected a Standard PC. Could you please provide your budget range for the Standard PC? The typical range is around 8,000 - 20,000 baht.
+2024-10-02 14:03:43 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 14:03:43 info: ------------------------------------------------------
+2024-10-02 14:03:43 info: responseText Success load.
+2024-10-02 14:03:45 info: This is Total price found : 0
+2024-10-02 14:03:46 info: ________________________________________
+2024-10-02 14:03:46 info: Response summarized: You've selected a Standard PC. Could you please provide your budget range for the Standard PC? The typical range is around 8,000 - 20,000 baht.
+2024-10-02 14:03:46 info: summaryResponse Success load.
+2024-10-02 14:03:56 info: Events received: [{"type":"message","message":{"type":"text","id":"528518094332362913","quoteToken":"S1R07PQMcXvEUMW3UEH1IRF7mEXlLtkgWOAuLc33nK4vz44zfixG96IG50-jmaBOcBkQsyZVDS8gCoNQ010RQgm5z9WqT5hPKjSwPTRqDfI6TBdOcp6e-bEMn_ZkyVO0tfMS-LT8zqpACl-cSDHcow","text":"12000"},"webhookEventId":"01J960NTYT06K8MEM82YWKMDBS","deliveryContext":{"isRedelivery":false},"timestamp":1727852636713,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"0c7a0e57e5b44abb97cf1943becb5e51","mode":"active"}]
+2024-10-02 14:03:56 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 14:03:56 info: User Agent Success load.
+2024-10-02 14:03:59 info: LLM Tool Call: {"toolCall":{"id":"call_6OXxXN2opDJk9hoo6nD8Wev6","name":"index_Standard","input":{"query":"12000"}}}
+2024-10-02 14:04:04 info: ------------------------------------------------------
+2024-10-02 14:04:04 info: Response Agent: Here are two options for a Standard PC close to your budget of 12,000 baht:
+
+1. **SET Standard 005**
+   - Price: 11,400 baht
+
+2. **SET Standard 007**
+   - Price: 12,200 baht
+
+If you would like more details about the specifications or features of these sets, please let me know!
+2024-10-02 14:04:04 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 14:04:04 info: ------------------------------------------------------
+2024-10-02 14:04:04 info: responseText Success load.
+2024-10-02 14:04:06 info: This is Total price found : 0
+2024-10-02 14:04:08 info: ________________________________________
+2024-10-02 14:04:08 info: Response summarized: Here are two options for a Standard PC close to your budget of 12,000 baht:
+
+1. **SET Standard 005**
+   - Price: 11,400 baht
+
+2. **SET Standard 007**
+   - Price: 12,200 baht
+
+If you would like more details about the specifications or features of these sets, please let me know!
+2024-10-02 14:04:08 info: summaryResponse Success load.
+2024-10-02 14:04:25 info: Events received: [{"type":"message","message":{"type":"text","id":"528518143875481649","quoteToken":"0bewohqFAUOjhWmITzuzBNaAHnFscYMuionJswRqWhSGolEmuQqIJ7HZk7TpzGQGZDumKnV2De1J8ntgOM5X-XOw7GAD9A8m7VFeOE-c84mm47rDsUhIhY9aocVcfHPMDqtqJYNf25FQaE2uaswOJA","text":"i choose set 7"},"webhookEventId":"01J960PQVZZB1A08ME007Z977R","deliveryContext":{"isRedelivery":false},"timestamp":1727852666241,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b73069272b4e40b4a540b6b4f5e7e84e","mode":"active"}]
+2024-10-02 14:04:26 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 14:04:26 info: User Agent Success load.
+2024-10-02 14:04:28 info: LLM Tool Call: {"toolCall":{"id":"call_P97oBquy3ejFhCTipzKXkWOE","name":"index_Standard","input":{"query":"SET Standard 007"}}}
+2024-10-02 14:04:44 info: ------------------------------------------------------
+2024-10-02 14:04:44 info: Response Agent: You've chosen **SET Standard 007**. Here are the details of the components included in this set:
+
+- **CPU**: 
+  - Model: Intel Core i5-10400
+  - Speed: 2.9 GHz (Socket LGA 1200)
+  - Price: 4,890 baht
+
+- **Motherboard**: 
+  - Model: ASUS PRIME H510M-K R2.0 (Micro-ATX)
+  - Price: 2,190 baht
+
+- **RAM**: 
+  - Model: Kingston Fury Beast DDR4 (16GB, 8GBx2, 3200MHz)
+  - Price: 1,550 baht
+
+- **SSD**: 
+  - Model: Kingston NV2 - PCIe 4/NVMe M.2 2280 (500 GB)
+  - Price: 1,490 baht
+
+- **PSU**: 
+  - Model: Gamdias Aura GP550 - 550W (ATX)
+  - Price: 990 baht
+
+- **Case**: 
+  - Model: Plenty G15 (Black, ATX)
+  - Price: 1,090 baht
+
+- **Total Price**: 12,200 baht
+
+This set is designed for users looking for balanced performance with a focus on Intel's i5 processor. If you have any further questions or need assistance with the purchase, feel free to ask!
+2024-10-02 14:04:44 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 14:04:44 info: ------------------------------------------------------
+2024-10-02 14:04:44 info: responseText Success load.
+2024-10-02 14:04:45 info: This is Total price found : 12200
+2024-10-02 14:04:53 info: ________________________________________
+2024-10-02 14:04:53 info: Response summarized: You've chosen **SET Standard 007**. Here are the details of the components included in this set:
+
+- **CPU**: 
+  - Model: Intel Core i5-10400
+  - Speed: 2.9 GHz (Socket LGA 1200)
+  - Price: 4,890 baht
+
+- **Motherboard**: 
+  - Model: ASUS PRIME H510M-K R2.0 (Micro-ATX)
+  - Price: 2,190 baht
+
+- **RAM**: 
+  - Model: Kingston Fury Beast DDR4 (16GB, 8GBx2, 3200MHz)
+  - Price: 1,550 baht
+
+- **SSD**: 
+  - Model: Kingston NV2 - PCIe 4/NVMe M.2 2280 (500 GB)
+  - Price: 1,490 baht
+
+- **PSU**: 
+  - Model: Gamdias Aura GP550 - 550W (ATX)
+  - Price: 990 baht
+
+- **Case**: 
+  - Model: Plenty G15 (Black, ATX)
+  - Price: 1,090 baht
+
+- **Total Price**: Total Price
+
+This set is designed for users looking for balanced performance with a focus on Intel's i5 processor. If you have any further questions or need assistance with the purchase, feel free to ask!
+2024-10-02 14:04:53 info: summaryResponse Success load.
+2024-10-02 14:05:24 info: Events received: [{"type":"message","message":{"type":"text","id":"528518241720205761","quoteToken":"d6x83y20t7XYczlnrG-EjGiDgC_2Jr37MCwgZ5aNO7b2kC0EYbqLrJ8XeqflfVVPPmipDa3GHw3CeLvEp5h9O0FjnJN-QD5VOQwmyaBqYz-pmbTJNnAySXbA_DP32TaMnY_xQrZr18LDNNcuaYrQvg","text":"I want to add GPU"},"webhookEventId":"01J960RGTK1VBDY0EAR72EQ137","deliveryContext":{"isRedelivery":false},"timestamp":1727852724566,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b5d6723ba59f4c0195e519a8ea7c8d9f","mode":"active"}]
+2024-10-02 14:05:24 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 14:05:24 info: User Agent Success load.
+2024-10-02 14:05:27 info: ------------------------------------------------------
+2024-10-02 14:05:27 info: Response Agent: Could you please specify which GPU brand or model you are interested in, or if you have a specific budget for the GPU? This will help me provide you with the best options.
+2024-10-02 14:05:27 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 14:05:27 info: ------------------------------------------------------
+2024-10-02 14:05:27 info: responseText Success load.
+2024-10-02 14:05:28 info: This is Total price found : 0
+2024-10-02 14:05:30 info: ________________________________________
+2024-10-02 14:05:30 info: Response summarized: Could you please specify which GPU brand or model you are interested in, or if you have a specific budget for the GPU? This will help me provide you with the best options.
+2024-10-02 14:05:30 info: summaryResponse Success load.
+2024-10-02 14:05:45 info: Events received: [{"type":"message","message":{"type":"text","id":"528518277120131153","quoteToken":"YCKtrFQg7g2a-I90EYKxp6jKn9WQvxYoxMpsHj0vuTmnwTexbXGqFCFBe0poyaZUayDT3yc5vHj-a_3LZ8KM9GRoeDlb7-LXcqFQGl91I78bhVF80TjGlm8hAPvkQVtz3EvOt8uTOFYOpKcPx9zwQg","text":"can recommend to me ."},"webhookEventId":"01J960S5DSAS19FSXCZV6RT0DZ","deliveryContext":{"isRedelivery":false},"timestamp":1727852745661,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9989972052a04feb867423054aec1ab4","mode":"active"}]
+2024-10-02 14:05:45 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 14:05:45 info: User Agent Success load.
+2024-10-02 14:05:48 info: LLM Tool Call: {"toolCall":{"id":"call_Q0Bt8dgWO1SqXpF6KvTAdfg0","name":"index_GPU_GIGABYTE","input":{"query":"recommended"}}}
+2024-10-02 14:06:03 info: ------------------------------------------------------
+2024-10-02 14:06:03 info: Response Agent: Here are some GPU recommendations based on different performance levels and budgets:
+
+1. **Budget-Friendly Option**:
+   - **GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G**
+     - Memory: 8GB GDDR6
+     - Price: 10,900 baht
+     - Good for 1080p gaming at a reasonable price.
+
+2. **Mid-Range Option**:
+   - **GIGABYTE AORUS GEFORCE RTX 4060 TI ELITE 8G**
+     - Memory: 8GB GDDR6
+     - Price: 17,200 baht
+     - Excellent performance for 1440p gaming.
+
+3. **High-End Option**:
+   - **GIGABYTE AORUS GEFORCE RTX 4070 TI ELITE 12G**
+     - Memory: 12GB GDDR6X
+     - Price: 33,800 baht
+     - Suitable for high-performance gaming and content creation, capable of handling 4K gaming.
+
+4. **Top-Tier Option**:
+   - **GIGABYTE GEFORCE RTX 4090 GAMING OC 24G**
+     - Memory: 24GB GDDR6X
+     - Price: 78,900 baht
+     - One of the most powerful consumer graphics cards available, ideal for extreme gaming and professional workloads.
+
+Please let me know your budget and intended use for the GPU, and I can help narrow down the options further!
+2024-10-02 14:06:03 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 14:06:03 info: ------------------------------------------------------
+2024-10-02 14:06:03 info: responseText Success load.
+2024-10-02 14:06:04 info: This is Total price found : 10900
+2024-10-02 14:06:09 info: ________________________________________
+2024-10-02 14:06:09 info: Response summarized: Here are some GPU recommendations based on different performance levels and budgets:
+
+1. **Budget-Friendly Option**:
+   - **GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G**
+     - Memory: 8GB GDDR6
+     - Price: Total Price baht
+     - Good for 1080p gaming at a reasonable price.
+
+2. **Mid-Range Option**:
+   - **GIGABYTE AORUS GEFORCE RTX 4060 TI ELITE 8G**
+     - Memory: 8GB GDDR6
+     - Price: 17,200 baht
+     - Excellent performance for 1440p gaming.
+
+3. **High-End Option**:
+   - **GIGABYTE AORUS GEFORCE RTX 4070 TI ELITE 12G**
+     - Memory: 12GB GDDR6X
+     - Price: 33,800 baht
+     - Suitable for high-performance gaming and content creation, capable of handling 4K gaming.
+
+4. **Top-Tier Option**:
+   - **GIGABYTE GEFORCE RTX 4090 GAMING OC 24G**
+     - Memory: 24GB GDDR6X
+     - Price: 78,900 baht
+     - One of the most powerful consumer graphics cards available, ideal for extreme gaming and professional workloads.
+
+Please let me know your budget and intended use for the GPU, and I can help narrow down the options further!
+2024-10-02 14:06:09 info: summaryResponse Success load.
+2024-10-02 14:06:29 info: Events received: [{"type":"message","message":{"type":"text","id":"528518351275426034","quoteToken":"K00VsDcJAE6yPFSpNgxiRJvuNBX-hk1ROOM4DVyiyvbZFmViAHnl6ZXG9c42IGDav8CnfButaDZxbmZhP-Xlp2MlB2cUqxhbcDleeAL2OA5ifL9jkua9qCIho2KP7SL4g0GhX68Ufc51s5EvFPg4yQ","text":"this compatible on my pc?"},"webhookEventId":"01J960TG9K71S6GCGZZXS0SA0V","deliveryContext":{"isRedelivery":false},"timestamp":1727852789890,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"bcb55015261b4725a35afbdabb04ba76","mode":"active"}]
+2024-10-02 14:06:29 info: Loading animation request accepted. Waiting for processing.
+2024-10-02 14:06:29 info: User Agent Success load.
+2024-10-02 14:06:34 info: LLM Tool Call: {"toolCall":{"id":"call_5ZTt1DisO3HhxBC1Am9hJay4","name":"index_GPU_GIGABYTE","input":{"query":"GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G"}}}
+2024-10-02 14:06:37 info: LLM Tool Call: {"toolCall":{"id":"call_ecpYKYt9WzVEatRlvwNUGt96","name":"index_GPU_GIGABYTE","input":{"query":"GIGABYTE AORUS GEFORCE RTX 4060 TI ELITE 8G"}}}
+2024-10-02 14:06:41 info: LLM Tool Call: {"toolCall":{"id":"call_42Db8FzGioJALODbHmxZWG6a","name":"index_GPU_GIGABYTE","input":{"query":"GIGABYTE AORUS GEFORCE RTX 4070 TI ELITE 12G"}}}
+2024-10-02 14:06:44 info: LLM Tool Call: {"toolCall":{"id":"call_bv69EIC0k3dLdTAJyJ4mWWua","name":"index_GPU_GIGABYTE","input":{"query":"GIGABYTE GEFORCE RTX 4090 GAMING OC 24G"}}}
+2024-10-02 14:07:02 info: ------------------------------------------------------
+2024-10-02 14:07:02 info: Response Agent: Here are the compatibility details for the recommended GPUs with your PC:
+
+1. **GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G**
+   - **Price:** 10,900 THB
+   - **Slot:** 1 x PCIe 4.0 x16 Slot
+   - **Video Memory:** 8 GB GDDR6
+   - **Power Supply Requirement:** 450 W
+   - **Power Connectors:** 1 x 8 Pin
+   - **Dimensions:** 192 x 120 x 41 mm
+
+2. **GIGABYTE AORUS GEFORCE RTX 4060 TI ELITE 8G**
+   - **Price:** 17,200 THB
+   - **Slot:** 1 x PCIe 4.0 x16 Slot
+   - **Video Memory:** 8 GB GDDR6
+   - **Power Supply Requirement:** 500 W
+   - **Power Connectors:** 1 x 8 Pin
+   - **Dimensions:** 301 x 128 x 56 mm
+
+3. **GIGABYTE AORUS GEFORCE RTX 4070 TI ELITE 12G**
+   - **Price:** 33,800 THB
+   - **Slot:** 1 x PCIe 4.0 x16 Slot
+   - **Video Memory:** 12 GB GDDR6X
+   - **Power Supply Requirement:** 750 W
+   - **Power Connectors:** 1 x 16 Pin
+   - **Dimensions:** 342 x 153 x 71 mm
+
+4. **GIGABYTE GEFORCE RTX 4090 GAMING OC 24G** (or similar)
+   - **Price:** 78,400 THB
+   - **Slot:** 1 x PCIe 4.0 x16 Slot
+   - **Video Memory:** 24 GB GDDR6X
+   - **Power Supply Requirement:** 1000 W
+   - **Power Connectors:** 1 x 16 Pin
+   - **Dimensions:** 342 x 150 x 75 mm
+
+### Compatibility Considerations:
+- **Motherboard Slot**: All GPUs require a PCIe x16 slot, which is standard in most motherboards, including yours.
+- **Power Supply**: Ensure your power supply unit (PSU) meets the wattage requirements for the GPU you choose.
+- **Physical Space**: Check if your PC case has enough space to accommodate the dimensions of the GPU.
+
+If you confirm your PSU wattage and case dimensions, I can help you further with the compatibility!
+2024-10-02 14:07:02 info: Model: gpt-4o-mini-2024-07-18
+2024-10-02 14:07:02 info: ------------------------------------------------------
+2024-10-02 14:07:02 info: responseText Success load.
+2024-10-02 14:07:04 info: This is Total price found : 78400
+2024-10-02 14:07:14 info: ________________________________________
+2024-10-02 14:07:14 info: Response summarized: Here are the compatibility details for the recommended GPUs with your PC:
+
+1. **GIGABYTE GEFORCE RTX 4060 WINDFORCE OC 8G**
+   - **Price:** 10,900 THB
+   - **Slot:** 1 x PCIe 4.0 x16 Slot
+   - **Video Memory:** 8 GB GDDR6
+   - **Power Supply Requirement:** 450 W
+   - **Power Connectors:** 1 x 8 Pin
+   - **Dimensions:** 192 x 120 x 41 mm
+
+2. **GIGABYTE AORUS GEFORCE RTX 4060 TI ELITE 8G**
+   - **Price:** 17,200 THB
+   - **Slot:** 1 x PCIe 4.0 x16 Slot
+   - **Video Memory:** 8 GB GDDR6
+   - **Power Supply Requirement:** 500 W
+   - **Power Connectors:** 1 x 8 Pin
+   - **Dimensions:** 301 x 128 x 56 mm
+
+3. **GIGABYTE AORUS GEFORCE RTX 4070 TI ELITE 12G**
+   - **Price:** 33,800 THB
+   - **Slot:** 1 x PCIe 4.0 x16 Slot
+   - **Video Memory:** 12 GB GDDR6X
+   - **Power Supply Requirement:** 750 W
+   - **Power Connectors:** 1 x 16 Pin
+   - **Dimensions:** 342 x 153 x 71 mm
+
+4. **GIGABYTE GEFORCE RTX 4090 GAMING OC 24G** (or similar)
+   - **Price:** Total Price
+   - **Slot:** 1 x PCIe 4.0 x16 Slot
+   - **Video Memory:** 24 GB GDDR6X
+   - **Power Supply Requirement:** 1000 W
+   - **Power Connectors:** 1 x 16 Pin
+   - **Dimensions:** 342 x 150 x 75 mm
+
+### Compatibility Considerations:
+- **Motherboard Slot**: All GPUs require a PCIe x16 slot, which is standard in most motherboards, including yours.
+- **Power Supply**: Ensure your power supply unit (PSU) meets the wattage requirements for the GPU you choose.
+- **Physical Space**: Check if your PC case has enough space to accommodate the dimensions of the GPU.
+
+If you confirm your PSU wattage and case dimensions, I can help you further with the compatibility!
+2024-10-02 14:07:14 info: summaryResponse Success load.

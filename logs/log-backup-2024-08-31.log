@@ -1,0 +1,153 @@
+2024-08-31 15:51:54 info: ----------------------------------------
+2024-08-31 15:51:54 info: Server started and listening on port 8000
+2024-08-31 15:51:54 info: ----------------------------------------
+2024-08-31 15:51:59 info: Events received: []
+2024-08-31 15:52:45 info: Events received: [{"type":"message","message":{"type":"text","id":"523890480762323089","quoteToken":"S1LCBL7jl7o6YKggl6jf_kcwcaOCt7c9g8jjVpIVuVMqHzT1r0lKDQxy_aXKgGfj9iuhkpBl7ewr2IAbCWUT5z3cUD5PRo_Ot_gQ2O2cSO_tyVur6YhzsKLH9rg-2LPZBsPezxWt0q5HwWMkaghhKA","text":"Hi"},"webhookEventId":"01J6KT61DDH1DJJB1C5HH9GB0V","deliveryContext":{"isRedelivery":false},"timestamp":1725094364082,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ebce54cd14aa483c9cc609852d22c605","mode":"active"}]
+2024-08-31 15:52:45 info: Loading animation request accepted. Waiting for processing.
+2024-08-31 15:52:46 info: Agent initialized successfully
+2024-08-31 15:52:48 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:52:48 info: User input: Hi
+2024-08-31 15:52:48 info: Response: Hello! How can I assist you today? Are you looking to assemble a desktop PC or need help with something else? kubpom!
+2024-08-31 15:52:48 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:52:49 info: ________________________________________
+2024-08-31 15:52:49 info: Response summarized: Hello! How can I assist you today? Are you looking to assemble a desktop PC or need help with something else? kubpom!
+2024-08-31 15:53:01 info: Events received: [{"type":"message","message":{"type":"text","id":"523890508629278978","quoteToken":"_1Pp0Jyb7Tpo1Ux2wrG-NRWerX0kNF6E260X2nGZ5IBqbypVOOFlCPclRHdBx3KidtdxVt0GYZlPBTYpITlvVqeNclRgBFukIsEo82vvmQYOlYt7911PjySzKlNhUuUtq8Y_3iJOpefQbXHFblk0HA","text":"Desktop PC"},"webhookEventId":"01J6KT6HH4A2RDBCFS5CTN4948","deliveryContext":{"isRedelivery":false},"timestamp":1725094380747,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"52460c4c5a4344b2a0bfcfe66bed9fdd","mode":"active"}]
+2024-08-31 15:53:01 info: Loading animation request accepted. Waiting for processing.
+2024-08-31 15:53:04 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:53:04 info: User input: Desktop PC
+2024-08-31 15:53:04 info: Response: Would you like a recommended PC spec based on your needs, or do you prefer to choose all the components yourself? If you want a recommendation, please let me know the type of PC you're looking for (Work PC, Gaming PC, General PC, or Hi-end PC) and your budget. kubpom!
+2024-08-31 15:53:04 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:53:05 info: ________________________________________
+2024-08-31 15:53:05 info: Response summarized: Would you like a recommended PC spec based on your needs, or do you prefer to choose all the components yourself? If you want a recommendation, please let me know the type of PC you're looking for (Work PC, Gaming PC, General PC, or Hi-end PC) and your budget. kubpom!
+2024-08-31 15:53:32 info: Events received: [{"type":"message","message":{"type":"text","id":"523890560705495058","quoteToken":"13kcTZw19ycUhto0xuD-kDiq0KkGmKZvs8F1vMu6DRhCC3M3zyTicm3qndJlr8qblWqau3eqlci-4qY8GJqQHfEayc9GmtNZMLm0GPYkdh_jfj1jIeShD2HPwK0HGi8H03BNKs9oezCePJFlcx9gyw","text":"Recomend please"},"webhookEventId":"01J6KT7FRA1QR3C7S9NQCQ9HJ0","deliveryContext":{"isRedelivery":false},"timestamp":1725094411790,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"1a997ea903c74e70a3ad31942c362470","mode":"active"}]
+2024-08-31 15:53:32 info: Loading animation request accepted. Waiting for processing.
+2024-08-31 15:53:34 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:53:34 info: User input: Recomend please
+2024-08-31 15:53:34 info: Response: Great! Please let me know what type of PC you're looking for and your budget:
+
+1. Work PC
+2. Gaming PC
+3. General PC
+4. Hi-end PC
+
+What would you like? kubpom!
+2024-08-31 15:53:34 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:53:35 info: ________________________________________
+2024-08-31 15:53:35 info: Response summarized: Great! Please let me know what type of PC you're looking for and your budget:
+
+1. Work PC
+2. Gaming PC
+3. General PC
+4. Hi-end PC
+
+What would you like? kubpom!
+2024-08-31 15:53:51 info: Events received: [{"type":"message","message":{"type":"text","id":"523890591223513090","quoteToken":"04ArV0WNKmj8q7pX7Zs50gHzPCrTyrGP5Nrkv1oacIvUZvxxR-cw_dOrlaxuNPOY7wCNF2YuktO6lub4XRuEe0eDdOiDwgPsY3VnPz43uNIP6YZlUuiW-u3HLlwOZYWZ7R8jj_V0cVxb6O_90MMlSw","text":"2"},"webhookEventId":"01J6KT81S5032BY05CKCNCP0PE","deliveryContext":{"isRedelivery":false},"timestamp":1725094429993,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"e84b10806c7344808665e27159d0934f","mode":"active"}]
+2024-08-31 15:53:51 info: Loading animation request accepted. Waiting for processing.
+2024-08-31 15:53:53 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:53:53 info: User input: 2
+2024-08-31 15:53:53 info: Response: What is your budget for the gaming PC? This will help me recommend the best components for you. kubpom!
+2024-08-31 15:53:53 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:53:53 info: ________________________________________
+2024-08-31 15:53:53 info: Response summarized: What is your budget for the gaming PC? This will help me recommend the best components for you. kubpom!
+2024-08-31 15:54:05 info: Events received: [{"type":"message","message":{"type":"text","id":"523890615785357377","quoteToken":"wcRCkJDwYwI6cDH1MTKZY6kuOr0Qnoz3O_SgTIXmMuH5ZdixaFErbwHSTCuXhq-JI8DUIc_D70EmB6frxDUvxg5uMMMPfhaRZAFO_vA0FPGteVxfse3M5p7oizjdn9LCsFJ9BRXdJDAP8-78Ci9xzw","text":"20000"},"webhookEventId":"01J6KT8FY8HF9NTS7DQ50PXWVQ","deliveryContext":{"isRedelivery":false},"timestamp":1725094444560,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c7e71f266d424ab1a9dd602e31413b3e","mode":"active"}]
+2024-08-31 15:54:05 info: Loading animation request accepted. Waiting for processing.
+2024-08-31 15:54:07 info: ****************************************
+2024-08-31 15:54:07 info: Query Detection: 20000
+2024-08-31 15:54:07 info: Tool Call: {
+  "id": "call_abSsIdPXMagbLM4QSWpvFvjO",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "20000"
+  }
+}
+2024-08-31 15:54:07 info: ****************************************
+2024-08-31 15:54:12 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:54:12 info: User input: 20000
+2024-08-31 15:54:12 info: Response: I found a gaming PC set that is close to your budget of 20,000 THB. Here are the details:
+
+**Computer Set: JIB MARU-2407006**
+- **Total Price:** 24,000 THB
+
+Unfortunately, there are no computer sets listed with a total price of exactly 20,000 THB. Would you like to proceed with this option, or would you prefer to adjust your budget or choose individual components? kubpom!
+2024-08-31 15:54:12 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:54:13 info: ________________________________________
+2024-08-31 15:54:13 info: Response summarized: I found a gaming PC set that is close to your budget of 20,000 THB. Here are the details:
+
+**Computer Set: JIB MARU-2407006**
+- **Total Price:** 24,000 THB
+
+Unfortunately, there are no computer sets listed with a total price of exactly 20,000 THB. Would you like to proceed with this option, or would you prefer to adjust your budget or choose individual components? kubpom!
+2024-08-31 15:54:30 info: Events received: [{"type":"message","message":{"type":"text","id":"523890656805650849","quoteToken":"iNJZUhkRUypPTtzV_ReiAuUkd272ODdJuPqB6TxMsQ-iWXzeGL92bA_BFf6uGXe8_YQswgGb0rioGJWoFgfWfR-xq422gQyF6qHi4BaQEOIt5grZCfV7dCR08imjEgLLJfyExa3EAdWbcH4_unlzgQ","text":"moredetail"},"webhookEventId":"01J6KT97S9QGAG9R71VR0CXX4D","deliveryContext":{"isRedelivery":false},"timestamp":1725094469016,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"8b3587a38eb9460192ff36dcb1ed10d9","mode":"active"}]
+2024-08-31 15:54:30 info: Loading animation request accepted. Waiting for processing.
+2024-08-31 15:54:31 info: ****************************************
+2024-08-31 15:54:31 info: Query Detection: JIB MARU-2407006
+2024-08-31 15:54:31 info: Tool Call: {
+  "id": "call_kezgQJ9qyZKvLnIlw5vCb38p",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "JIB MARU-2407006"
+  }
+}
+2024-08-31 15:54:31 info: ****************************************
+2024-08-31 15:54:45 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:54:45 info: User input: moredetail
+2024-08-31 15:54:45 info: Response: Here are the detailed specifications for the **JIB MARU-2407006 Gaming PC Set**:
+
+- **CPU**: INTEL CORE I5-12400F 2.5 GHz (SOCKET LGA 1700)  
+  - **Price**: 4,350 THB
+
+- **Motherboard**: MSI PRO H610M-E DDR4 (SOCKET LGA 1700) (MICRO-ATX)  
+  - **Price**: 2,150 THB
+
+- **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6  
+  - **Price**: 10,800 THB
+
+- **RAM**: CORSAIR VENGEANCE LPX (BLACK) (CMK16GX4M2E3200C16) 16GB (8GBx2) DDR4 3200MHz  
+  - **Price**: 1,530 THB
+
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB  
+  - **Price**: 1,890 THB
+
+- **PSU**: THERMALTAKE SMART BX1 650W (DC TO DC VERSION) - 650W 80 PLUS BRONZE (BLACK) (ATX)  
+  - **Price**: 1,990 THB
+
+- **CASE**: MONTECH X2 MESH (BLACK) (ATX)  
+  - **Price**: 1,290 THB
+
+- **Cooler**: (No cooler included)  
+  - **Price**: 0 THB
+
+- **Total Price**: 24,000 THB
+
+This setup provides a solid gaming experience with a powerful CPU and GPU. Would you like to proceed with this option, or do you want to explore other alternatives? kubpom!
+2024-08-31 15:54:45 info: ++++++++++++++++++++++++++++++++++++++++
+2024-08-31 15:54:49 info: ________________________________________
+2024-08-31 15:54:49 info: Response summarized: Here are the detailed specifications for the **JIB MARU-2407006 Gaming PC Set**:
+
+- **CPU**: INTEL CORE I5-12400F 2.5 GHz (SOCKET LGA 1700)  
+  - **Price**: 4,350 THB
+
+- **Motherboard**: MSI PRO H610M-E DDR4 (SOCKET LGA 1700) (MICRO-ATX)  
+  - **Price**: 2,150 THB
+
+- **GPU**: GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2 - 8GB GDDR6  
+  - **Price**: 10,800 THB
+
+- **RAM**: CORSAIR VENGEANCE LPX (BLACK) (CMK16GX4M2E3200C16) 16GB (8GBx2) DDR4 3200MHz  
+  - **Price**: 1,530 THB
+
+- **SSD**: WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E) 500 GB  
+  - **Price**: 1,890 THB
+
+- **PSU**: THERMALTAKE SMART BX1 650W (DC TO DC VERSION) - 650W 80 PLUS BRONZE (BLACK) (ATX)  
+  - **Price**: 1,990 THB
+
+- **CASE**: MONTECH X2 MESH (BLACK) (ATX)  
+  - **Price**: 1,290 THB
+
+- **Cooler**: (No cooler included)  
+  - **Price**: 0 THB
+
+- **Total Price**: 24,000 THB
+
+This setup provides a solid gaming experience with a powerful CPU and GPU. Would you like to proceed with this option, or do you want to explore other alternatives? kubpom!

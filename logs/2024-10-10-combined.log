@@ -1,0 +1,70 @@
+2024-10-10 17:19:22 info: Agent Initialized
+2024-10-10 17:20:07 info: LLM Tool Call: {"toolCall":{"id":"call_hkTjYbRD1VuOGfiNTNDbgT26","name":"index_Workstation","input":{"query":"Workstation Set 006"}}}
+2024-10-10 17:21:03 info: LLM Tool Call: {"toolCall":{"id":"call_VHPztdl6W3y1DFJ2UAh2wrIf","name":"index_Workstation","input":{"query":"Workstation Set 007"}}}
+2024-10-10 17:21:17 info: LLM Tool Call: {"toolCall":{"id":"call_gAdQznK2CNYmjuMyXbNxVySv","name":"index_Workstation","input":{"query":"Workstation Set 005"}}}
+2024-10-10 17:21:34 info: LLM Tool Call: {"toolCall":{"id":"call_X6xLLMnGklNmMGkbH8rpeLTu","name":"index_Workstation","input":{"query":"Workstation Set 001"}}}
+2024-10-10 17:22:04 info: LLM Tool Call: {"toolCall":{"id":"call_VzYvk29IEX13dPNDH7SeXnoJ","name":"index_Workstation","input":{"query":"Workstation Set 002"}}}
+2024-10-10 17:22:43 info: LLM Tool Call: {"toolCall":{"id":"call_WRsjbvo3DZ7UH8M9QLfLDcjh","name":"index_Workstation","input":{"query":"Workstation Set 003"}}}
+2024-10-10 17:23:26 info: LLM Tool Call: {"toolCall":{"id":"call_ptzQapIkoQo0HSqNNEeFRRw2","name":"index_Workstation","input":{"query":"Workstation Set 004"}}}
+2024-10-10 17:24:02 info: LLM Tool Call: {"toolCall":{"id":"call_XwxG6MCR65TsMOmcNqG4As8K","name":"index_Gaming","input":{"query":"SET Gaming 010"}}}
+2024-10-10 17:24:49 info: LLM Tool Call: {"toolCall":{"id":"call_hqBFpYd0daz1ttXCFGjrFwGh","name":"index_Premium","input":{"query":"SET Premium 003"}}}
+2024-10-10 17:25:55 info: LLM Tool Call: {"toolCall":{"id":"call_MOXv8fRMsElw8jCUmFHQnsdk","name":"index_Workstation","input":{"query":"SET Workstation 010"}}}
+2024-10-10 17:28:34 info: LLM Tool Call: {"toolCall":{"id":"call_Wf9IslD4IBcViVPD1r8op03t","name":"index_Standard","input":{"query":"SET Standard 008"}}}
+2024-10-10 17:39:46 info: Agent Initialized
+2024-10-10 17:40:41 info: LLM Tool Call: {"toolCall":{"id":"call_xIkcakmpYrqBeYrvsdeMt7zW","name":"index_Workstation","input":{"query":"Workstation 006"}}}
+2024-10-10 17:41:20 info: LLM Tool Call: {"toolCall":{"id":"call_WwLv3iHMvX2Ez0YivpwcfSQ5","name":"index_Workstation","input":{"query":"Workstation 005"}}}
+2024-10-10 17:47:15 info: LLM Tool Call: {"toolCall":{"id":"call_5cv8k4GZNxLpnxwmlOz6Ipbq","name":"index_Case_AEROCOOL","input":{"query":"TRINITY MINI WHITE (TRINITY MINI-G-BK-V3)"}}}
+2024-10-10 17:47:34 info: LLM Tool Call: {"toolCall":{"id":"call_IS2F1q9os20vzx5ibiRS6IRH","name":"index_Case_ANTEC","input":{"query":"TORQUE BLACK-WHITE"}}}
+2024-10-10 17:47:50 info: LLM Tool Call: {"toolCall":{"id":"call_7pq4cxKqOsTLke5sNdr4LY9X","name":"index_Case_APNX","input":{"query":"C1 (WHITE)"}}}
+2024-10-10 17:48:16 info: Agent Initialized
+2024-10-10 17:48:19 info: LLM Tool Call: {"toolCall":{"id":"call_PjyVObjUJIaLzRJ36O89JL4B","name":"index_Case_ASUS","input":{"query":"TUF GAMING GT501 (WHITE)"}}}
+2024-10-10 17:48:48 info: LLM Tool Call: {"toolCall":{"id":"call_Bm8pfnn7r6JVL3Hsi8O0z3gO","name":"index_Case_BE_QUIET","input":{"query":"SILENT BASE 802 WINDOW (WHITE) (E-ATX)"}}}
+2024-10-10 17:49:44 info: LLM Tool Call: {"toolCall":{"id":"call_otwK2aiebKaxgrFBMxrZ7Zh9","name":"index_Case_COOLER_MASTER","input":{"query":"TD300 MESH (WHITE) (MICRO-ATX)"}}}
+2024-10-10 17:50:13 info: LLM Tool Call: {"toolCall":{"id":"call_7E4G1VmRlENCKqCGkiLjrnjb","name":"index_Case_CORSAIR","input":{"query":"OBSIDIAN SERIES 1000D (BLACK) (E-ATX / SSI-EEB) (CC-9011148-WW)"}}}
+2024-10-10 17:50:43 info: LLM Tool Call: {"toolCall":{"id":"call_vLpH14blQv84Pe3KjcqvuHOK","name":"index_Case_CORSAIR","input":{"query":"ICUE LINK 6500X RGB (WHITE) (E-ATX)"}}}
+2024-10-10 17:51:10 info: LLM Tool Call: {"toolCall":{"id":"call_xlmYuAl5qubVaKYu0FZfW1Ig","name":"index_Case_CORSAIR","input":{"query":"OBSIDIAN SERIES 1000D"}}}
+2024-10-10 17:51:51 info: LLM Tool Call: {"toolCall":{"id":"call_6pnphzIFhKiKEoLU57x8OALj","name":"index_Case_COUGAR","input":{"query":"UNIFACE RGB (WHITE) (E-ATX)"}}}
+2024-10-10 17:52:03 info: LLM Tool Call: {"toolCall":{"id":"call_t2RprRCkPcRdkqrBhaiSH0g1","name":"index_Case_DARKFLASH","input":{"query":"DK352 PLUS WHITE (E-ATX)"}}}
+2024-10-10 17:52:18 info: LLM Tool Call: {"toolCall":{"id":"call_8OH5KAViMUAl4qNdEP0BE0Wy","name":"index_Case_COUGAR","input":{"query":"UNIFACE RGB (BLACK) (E-ATX)"}}}
+2024-10-10 17:52:36 info: LLM Tool Call: {"toolCall":{"id":"call_S87uLzuWu9FbiEEDU8vOCWjg","name":"index_Case_COUGAR","input":{"query":"QBX"}}}
+2024-10-10 17:52:57 info: LLM Tool Call: {"toolCall":{"id":"call_7SlO8TPiXiOsn4u5nl5qogjQ","name":"index_Case_COUGAR","input":{"query":"UNIFACE RGB White"}}}
+2024-10-10 17:54:29 info: LLM Tool Call: {"toolCall":{"id":"call_utqMTwr7UXyrpwhm3wDfThQ4","name":"index_Case_DEEPCOOL","input":{"query":"QUADSTELLAR INFINITY"}}}
+2024-10-10 17:54:59 info: LLM Tool Call: {"toolCall":{"id":"call_D0CFd9FyCInr0s1Dj9eUC0vv","name":"index_Case_GALAX","input":{"query":"REVOLUTION-06 ALLSYNC"}}}
+2024-10-10 17:59:57 info: LLM Tool Call: {"toolCall":{"id":"call_tv7weUCObaAFAJYv1eGkoYWM","name":"index_Case_GAMDIAS","input":{"query":"TALOS M1 LITE"}}}
+2024-10-10 18:01:05 info: LLM Tool Call: {"toolCall":{"id":"call_Bm8pfnn7r6JVL3Hsi8O0z3gO","name":"index_Case_GAMDIAS","input":{"query":"TALOS M1 LITE (BLACK) (ATX)"}}}
+2024-10-10 18:01:31 info: LLM Tool Call: {"toolCall":{"id":"call_PGnWOna6m7ML3zF5sxZPqYTm","name":"index_Case_GAMDIAS","input":{"query":"TALOS M1 LITE (BLACK)"}}}
+2024-10-10 18:02:28 info: LLM Tool Call: {"toolCall":{"id":"call_D0H7NmQhwM9GRNdTungO22nO","name":"index_Case_HYTE","input":{"query":"Y40 (WHITE) (ATX)"}}}
+2024-10-10 18:03:31 info: LLM Tool Call: {"toolCall":{"id":"call_xaoVvdT96SK2kyrpVNJtekH8","name":"index_Case_LIAN","input":{"query":"SUP01 (WHITE) (ATX)"}}}
+2024-10-10 18:03:53 info: LLM Tool Call: {"toolCall":{"id":"call_eyo9gBR3fjejmCzJCRDe1O7J","name":"index_Case_MONTECH","input":{"query":"XR (WHITE) (ATX)"}}}
+2024-10-10 18:04:09 info: LLM Tool Call: {"toolCall":{"id":"call_WEXcgOZUV1b09KFrNdn9qLtq","name":"index_Case_MONTECH","input":{"query":"XR (BLACK) (ATX)"}}}
+2024-10-10 18:05:02 info: LLM Tool Call: {"toolCall":{"id":"call_vAl10C0vLpxx8Nxr4VJZpZ3T","name":"index_Case_NZXT","input":{"query":"H9 FLOW"}}}
+2024-10-10 18:05:52 info: LLM Tool Call: {"toolCall":{"id":"call_uxRtOkXm6l8hvRV5m9SDwHLr","name":"index_Case_SAMA","input":{"query":"V PLAY (WHITE) (ATX)"}}}
+2024-10-10 18:06:51 info: LLM Tool Call: {"toolCall":{"id":"call_XzvujynbB96wlavxCsK99UKR","name":"index_Case_THERMALTAKE","input":{"query":"VIEW 270 TG ARGB SNOW (WHITE) (E-ATX)"}}}
+2024-10-10 18:07:24 info: LLM Tool Call: {"toolCall":{"id":"call_Y7b0zgfgTBjoXGrm38fy8Aok","name":"index_Case_ZALMAN","input":{"query":"S4 PLUS (BLACK) (ATX)"}}}
+2024-10-10 18:07:58 info: LLM Tool Call: {"toolCall":{"id":"call_pFS6poJh6a2zQkAkAPJTxeSR","name":"index_Cooler","input":{"query":"ASUS TUF GAMING LC II 240 ARGB (BLACK)"}}}
+2024-10-10 18:08:22 info: LLM Tool Call: {"toolCall":{"id":"call_tofb8gFJytmVXL1l7x7y7cFe","name":"index_CPU","input":{"query":"INTEL CORE I5-14400F"}}}
+2024-10-10 18:08:41 info: LLM Tool Call: {"toolCall":{"id":"call_vAl10C0vLpxx8Nxr4VJZpZ3T","name":"index_Harddisk","input":{"query":"WD BLACK - 7200RPM SATA3 (WD8002FZWX) 8 TB 3.5\" HDD"}}}
+2024-10-10 18:09:08 info: LLM Tool Call: {"toolCall":{"id":"call_ZOytBGDEb5C0KTXU8bIpsUvI","name":"index_PSU","input":{"query":"ZALMAN MEGAMAX 700W V2 - 700W 80 PLUS (ZM700-TXII)"}}}
+2024-10-10 18:10:03 info: LLM Tool Call: {"toolCall":{"id":"call_mqYJmAanZzOAalWCiER2sxFq","name":"index_PSU","input":{"query":"ZALMAN GIGAMAX III 850W - 850W 80 PLUS BRONZE (ZM850-GV3)"}}}
+2024-10-10 18:11:18 info: LLM Tool Call: {"toolCall":{"id":"call_6pnphzIFhKiKEoLU57x8OALj","name":"index_RAM","input":{"query":"CORSAIR VENGEANCE RGB DDR5 (INTEL XMP) (BLACK) (CMH32GX5M2B5600C40W) 32GB (16GBx2) DDR5 5600MHz"}}}
+2024-10-10 18:11:52 info: LLM Tool Call: {"toolCall":{"id":"call_ExhnnYEZ1RwLw3OsJBCl0RaG","name":"index_SSD","input":{"query":"TRANSCEND MTE220S M.2 2280 PCIe GEN3 x4 3D TLC DRAM (TS512GMTE220S) 512 GB SSD"}}}
+2024-10-10 18:12:36 info: LLM Tool Call: {"toolCall":{"id":"call_TXhCwdhBdwdPQdSBnXxnzIZK","name":"index_GPU_ASUS","input":{"query":"TUF GAMING RADEON RX 7900 XTX OC EDITION 24GB GDDR6"}}}
+2024-10-10 18:12:59 info: LLM Tool Call: {"toolCall":{"id":"call_pFS6poJh6a2zQkAkAPJTxeSR","name":"index_GPU_GALAX","input":{"query":"GEFORCE RTX 4080 SUPER SG 1-CLICK OC - 16GB GDDR6X"}}}
+2024-10-10 18:13:27 info: LLM Tool Call: {"toolCall":{"id":"call_26k4EyqhjuSkFaBEnsZT3m1y","name":"index_GPU_GIGABYTE","input":{"query":"RADEON RX 7600 XT GAMING OC 16G - 16GB GDDR6 (GV-R76XTGAMING OC-16GD)"}}}
+2024-10-10 18:13:54 info: LLM Tool Call: {"toolCall":{"id":"call_EesCmgBfXtBCJ1d3Fpvp9YiC","name":"index_GPU_INNO3D","input":{"query":"GEFORCE RTX 4080 SUPER X3 OC - 16GB GDDR6X (N408S3-166XX-187049N)"}}}
+2024-10-10 18:14:10 info: LLM Tool Call: {"toolCall":{"id":"call_PjyVObjUJIaLzRJ36O89JL4B","name":"index_GPU_LEADTEK","input":{"query":"NVIDIA T400 4GB"}}}
+2024-10-10 18:14:27 info: LLM Tool Call: {"toolCall":{"id":"call_H0c74Gs4IY7mex8SJcCngUuk","name":"index_GPU_MSI","input":{"query":"GEFORCE RTX 4090 GAMING X SLIM 24G - 24GB GDDR6X"}}}
+2024-10-10 18:14:42 info: LLM Tool Call: {"toolCall":{"id":"call_gShdCVutgJxl8HK0q6dQLUJx","name":"index_GPU_PNY","input":{"query":"GEFORCE RTX 4080 SUPER 16GB VERTO OVERCLOCKED TRIPLE FAN DLSS 3 - 16GB GDDR6X (VCG4080S16TFXPB1-O)"}}}
+2024-10-10 18:16:07 info: LLM Tool Call: {"toolCall":{"id":"call_AJtkIZUozzk2w23fVonz7LjN","name":"index_GPU_POWER_COLOR","input":{"query":"HELLHOUND AMD RADEON RX 7900 XT 20GB GDDR6 (RX 7900 XT 20G-L/OC)"}}}
+2024-10-10 18:16:31 info: LLM Tool Call: {"toolCall":{"id":"call_1LApArh4dtxJVve6or2bd1lk","name":"index_GPU_SPARKLE","input":{"query":"INTEL ARC A770 ROC OC EDITION 16GB GDDR6"}}}
+2024-10-10 18:16:46 info: LLM Tool Call: {"toolCall":{"id":"call_jOlVJjXjlE5g5l50Umu5Vmq3","name":"index_GPU_ZOTAC","input":{"query":"GAMING GEFORCE RTX 4080 SUPER TRINITY BLACK EDITION 16GB GDDR6X (ZT-D40820D-10P)"}}}
+2024-10-10 18:17:00 info: LLM Tool Call: {"toolCall":{"id":"call_PLd0jRWuL5FP5t2IssEFiawN","name":"index_Motherboard_ASROCK","input":{"query":"X570 PHANTOM GAMING 4"}}}
+2024-10-10 18:17:17 info: LLM Tool Call: {"toolCall":{"id":"call_0RUMDR8S2RRI4HTHu4xFDgUs","name":"index_Motherboard_ASUS_PRIME","input":{"query":"B450M-K II"}}}
+2024-10-10 18:19:06 info: LLM Tool Call: {"toolCall":{"id":"call_r35rHtnnrWe0u06IoAWqQ7jd","name":"index_Motherboard_ASUS_PRIME","input":{"query":"TRX40-PRO S"}}}
+2024-10-10 18:20:15 info: LLM Tool Call: {"toolCall":{"id":"call_61RJiLzCEXinmgVBNibr14E1","name":"index_Motherboard_ASUS_PROART","input":{"query":"Z790-CREATOR WIFI"}}}
+2024-10-10 18:20:58 info: LLM Tool Call: {"toolCall":{"id":"call_WfZt1cLnVEq86lBTL5iEzokU","name":"index_Motherboard_ASUS_ROG","input":{"query":"Z790-I GAMING WIFI"}}}
+2024-10-10 18:21:28 info: LLM Tool Call: {"toolCall":{"id":"call_55ATxucAG30QakS40Mf28k0p","name":"index_Motherboard_ASUS_TUF","input":{"query":"Z790-PLUS WIFI"}}}
+2024-10-10 18:21:51 info: LLM Tool Call: {"toolCall":{"id":"call_FUSoQ977ZG4rHafND2eXfCKs","name":"index_Motherboard_GIGABYTE","input":{"query":"Z690 AORUS XTREME"}}}
+2024-10-10 18:23:38 info: LLM Tool Call: {"toolCall":{"id":"call_xaoVvdT96SK2kyrpVNJtekH8","name":"index_Motherboard_GIGABYTE","input":{"query":"Z790 UD"}}}
+2024-10-10 18:27:36 info: LLM Tool Call: {"toolCall":{"id":"call_n4epyjPZfGQOwcyXzuTX0e0L","name":"index_Motherboard_MSI","input":{"query":"B450M-A PRO MAX"}}}
+2024-10-10 18:29:15 info: LLM Tool Call: {"toolCall":{"id":"call_wVV3miyOBa8LJ09vzMzcQnmd","name":"index_Motherboard_NZXT","input":{"query":"N7 Z790"}}}

@@ -1,0 +1,3 @@
+Error: category.files is not iterable
+Stack: TypeError: category.files is not iterable
+    at main (C:\Users\treer\Desktop\Project\TestLinechat\preparedata.js:115:41)

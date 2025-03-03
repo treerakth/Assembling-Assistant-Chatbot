@@ -1,0 +1,462 @@
+2024-09-02 17:43:25 info: ----------------------------------------
+2024-09-02 17:43:25 info: Server started and listening on port 8000
+2024-09-02 17:43:25 info: ----------------------------------------
+2024-09-02 17:43:27 info: Events received: []
+2024-09-02 17:44:34 info: Events received: [{"type":"message","message":{"type":"text","id":"524191645613424646","quoteToken":"hshHbHwrea_CIaSfMLwJaz7z_N9-8BFENtX9vHbPV6mjDDU9J_Q3iaNeEjKibwcbHN3hloLTzt_bvWyvGSfiW8h7cir34YE9NFXPZevXOjN06__04b4O0oNXVk7OTk7g82kzqWVPBX1XHCM1XIQygQ","text":"Hi"},"webhookEventId":"01J6S5C6EEKJPEH4Q2SPEB4SG2","deliveryContext":{"isRedelivery":false},"timestamp":1725273872489,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"3b6a8d125e7747e19d6c9786ade19287","mode":"active"}]
+2024-09-02 17:44:34 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:44:34 info: Agent initialized successfully
+2024-09-02 17:44:35 error: Error in agent chat: 400 Invalid 'tools[0].function.description': string too long. Expected a string with maximum length 1024, but got a string with length 1227 instead.
+2024-09-02 17:44:35 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: 400 Invalid 'tools[0].function.description': string too long. Expected a string with maximum length 1024, but got a string with length 1227 instead.
+2024-09-02 17:45:24 info: 
+2024-09-02 17:45:26 info: ----------------------------------------
+2024-09-02 17:45:26 info: Server started and listening on port 8000
+2024-09-02 17:45:26 info: ----------------------------------------
+2024-09-02 17:45:30 info: Events received: [{"type":"message","message":{"type":"text","id":"524191741193486628","quoteToken":"GLy_ma6RpRMA6zcS8z_AAGMWklkcnP8gBfdAXhEciMZZUm7MLf0jnbJkbSsj-vOH1TSiVKo6XbWEZJTcIYFWHkKKAfd6CPo4QJ-drytf5XMFDDRL8B07-JaCfj8LzGzvrVBUq7I-mBGNpLWsMu6wjg","text":"Hi"},"webhookEventId":"01J6S5DY5WFGX7KK6E49NSQWJR","deliveryContext":{"isRedelivery":false},"timestamp":1725273929423,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"85c1477ad70a4085ad89c7bcfe0304d0","mode":"active"}]
+2024-09-02 17:45:30 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:45:30 info: Agent initialized successfully
+2024-09-02 17:45:31 error: Error in agent chat: 400 Invalid 'tools[0].function.description': string too long. Expected a string with maximum length 1024, but got a string with length 1031 instead.
+2024-09-02 17:45:31 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: 400 Invalid 'tools[0].function.description': string too long. Expected a string with maximum length 1024, but got a string with length 1031 instead.
+2024-09-02 17:47:40 info: 
+2024-09-02 17:47:42 info: ----------------------------------------
+2024-09-02 17:47:42 info: Server started and listening on port 8000
+2024-09-02 17:47:42 info: ----------------------------------------
+2024-09-02 17:47:47 info: Events received: [{"type":"message","message":{"type":"text","id":"524191972031463698","quoteToken":"eY1AnFY-SZ45c_RsWSo5-QpCX9cGk7p3XjuLfr51gcB_t_YdZwU6l37h7eZ6gEcLfvGOhhv424OPSRfGtNfTJrIyr3-GEcxRUBMRCdaEcSExL_K7Eg6uFQv4EjJidQpyy01Tt4bncZVPeuioWDvGdQ","text":"Hi"},"webhookEventId":"01J6S5J4GEG0G48M1Q3RBDVQ6Y","deliveryContext":{"isRedelivery":false},"timestamp":1725274066962,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b19b8dfe066a4caea430c9ca117e31f9","mode":"active"}]
+2024-09-02 17:47:48 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:47:48 info: Agent initialized successfully
+2024-09-02 17:47:50 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:47:50 info: User input: Hi
+2024-09-02 17:47:50 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-02 17:47:50 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:47:51 info: ________________________________________
+2024-09-02 17:47:51 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-02 17:47:55 info: Events received: [{"type":"message","message":{"type":"text","id":"524191984916365491","quoteToken":"LjuXxHQ7ZofYUkY6UWSNy5QqDMwhpwXLekCmYyhLAGa3RaHTbrHFnvuRTkBFpwyVfReFwZEia7Tju_DYDJBf2yTOP2OItfcbEUS4vIfVX5Yc45F-iny-RIqHw-JvAMdjVpAORnSZxOmAzSh-QNiq0Q","text":"I want PC"},"webhookEventId":"01J6S5JBZ6G2W5DWNGZR35327C","deliveryContext":{"isRedelivery":false},"timestamp":1725274074602,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9e44c592391a4adfa7a214a34eb6fe99","mode":"active"}]
+2024-09-02 17:47:55 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:47:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:47:58 info: User input: I want PC
+2024-09-02 17:47:58 info: Response: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-02 17:47:58 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:47:59 info: ________________________________________
+2024-09-02 17:47:59 info: Response summarized: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-02 17:48:29 info: Events received: [{"type":"message","message":{"type":"text","id":"524192042848092657","quoteToken":"8TTYf7CJcPbOKFA8eXeU8FtBhW4oRgA2vcNczg54W50CeKkDQ0c3kgATSdpOxMGj0YPwzhjdTbPE4Cy7davmPIsGPmvKBxEspltVvPOedcRSvYSEcihFizbAKgMcqrYu83-9bLm7Qjnws1ixVf3Zyg","text":"Can recommend for me?"},"webhookEventId":"01J6S5KDMSSY2N66R5BDNE8T06","deliveryContext":{"isRedelivery":false},"timestamp":1725274109096,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"0d3138483dd94840abc4236992713e7d","mode":"active"}]
+2024-09-02 17:48:30 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:48:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:48:32 info: User input: Can recommend for me?
+2024-09-02 17:48:32 info: Response: Could you please let me know what type of PC you are interested in? Here are some options:
+
+1. **Gaming PC** - For gaming and high-performance tasks.
+2. **General Use PC** - For everyday tasks like browsing, office work, etc.
+3. **Work PC** - For professional tasks, possibly with specific software requirements.
+4. **High-End PC** - For advanced gaming, video editing, or other intensive tasks.
+
+Let me know your preference, and I'll provide recommendations! kubpom!
+2024-09-02 17:48:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:48:33 info: ________________________________________
+2024-09-02 17:48:33 info: Response summarized: Could you please let me know what type of PC you are interested in? Here are some options:
+
+1. **Gaming PC** - For gaming and high-performance tasks.
+2. **General Use PC** - For everyday tasks like browsing, office work, etc.
+3. **Work PC** - For professional tasks, possibly with specific software requirements.
+4. **High-End PC** - For advanced gaming, video editing, or other intensive tasks.
+
+Let me know your preference, and I'll provide recommendations! kubpom!
+2024-09-02 17:48:45 info: Events received: [{"type":"message","message":{"type":"text","id":"524192068332683395","quoteToken":"w4WPoaFNI7xthSOSkfOhp2qN4nG43JAm37OEta4CM6tn2QfpkgdcRmw0aW7jzwLmniyW2h6iUW7OnoUohFgWM1qeYW9zP3zjTSY3oP9tdJTxNRI2NH-Y_isoCIgT6rxKyknxCM6kaVNwEnBMoMKzlQ","text":"Gaming PC"},"webhookEventId":"01J6S5KWEZVFDK2XP5MMBZPPAZ","deliveryContext":{"isRedelivery":false},"timestamp":1725274124337,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7801579ed85f4114bc71b2fcff2b2880","mode":"active"}]
+2024-09-02 17:48:45 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:48:46 info: ****************************************
+2024-09-02 17:48:46 info: Query Detection: recommend gaming PC
+2024-09-02 17:48:46 info: Tool Call: {
+  "id": "call_9ybwI7FHQjfje4Kx6bgtytlQ",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "recommend gaming PC"
+  }
+}
+2024-09-02 17:48:46 info: ****************************************
+2024-09-02 17:49:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:49:00 info: User input: Gaming PC
+2024-09-02 17:49:00 info: Response: Here are some recommended gaming PC builds for you:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU:** INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard:** MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU:** GALAX GEFORCE RTX 4060 TI 8GB
+   - **RAM:** CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD:** HIKSEMI FUTURE 512GB NVMe M.2
+   - **PSU:** THERMALTAKE SMART BX1 650W
+   - **CASE:** GALAX REVOLUTION 06 (BLACK)
+   - **Total Price:** 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU:** INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard:** ASUS PRIME H610M-K D4 (DDR4)
+   - **GPU:** ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **RAM:** CORSAIR VENGEANCE LPX 16GB (8GBx2) 3200MHz
+   - **SSD:** WD BLUE SN580 500GB NVMe M.2
+   - **PSU:** THERMALTAKE SMART BX1 650W
+   - **CASE:** THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price:** 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU:** INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard:** MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU:** MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **RAM:** CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD:** WD BLACK SN770 500GB NVMe M.2
+   - **PSU:** CORSAIR CX650 - 650W
+   - **CASE:** ANTEC NX292 (BLACK)
+   - **Total Price:** 29,700 THB
+
+These builds offer a good balance of performance and price, making them suitable for gaming. Let me know if you need more information or assistance! kubpom!
+2024-09-02 17:49:00 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:49:04 info: ________________________________________
+2024-09-02 17:49:04 info: Response summarized: Here are some recommended gaming PC builds for you:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU:** INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard:** MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU:** GALAX GEFORCE RTX 4060 TI 8GB
+   - **RAM:** CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD:** HIKSEMI FUTURE 512GB NVMe M.2
+   - **PSU:** THERMALTAKE SMART BX1 650W
+   - **CASE:** GALAX REVOLUTION 06 (BLACK)
+   - **Total Price:** 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU:** INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard:** ASUS PRIME H610M-K D4 (DDR4)
+   - **GPU:** ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **RAM:** CORSAIR VENGEANCE LPX 16GB (8GBx2) 3200MHz
+   - **SSD:** WD BLUE SN580 500GB NVMe M.2
+   - **PSU:** THERMALTAKE SMART BX1 650W
+   - **CASE:** THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price:** 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU:** INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard:** MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU:** MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **RAM:** CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD:** WD BLACK SN770 500GB NVMe M.2
+   - **PSU:** CORSAIR CX650 - 650W
+   - **CASE:** ANTEC NX292 (BLACK)
+   - **Total Price:** 29,700 THB
+
+These builds offer a good balance of performance and price, making them suitable for gaming. Let me know if you need more information or assistance! kubpom!
+2024-09-02 17:49:13 info: Events received: [{"type":"message","message":{"type":"text","id":"524192115610878097","quoteToken":"st0u0N3YOuhUhS1xiBl5UXzEa_X8tx2rQFFCB6YDOtkdhZom11lUX-vGUesM0-B8ntArQ1s6Go1_6RoshlSfAuQAe6NN0Yn1-cq2O1h1GahfSEz9ea-WeSny8_1aIWcdGOe_Rvi0LiaX8MseKfjwFQ","text":"choose first choice"},"webhookEventId":"01J6S5MR0AGB0WFMD36H0DZ415","deliveryContext":{"isRedelivery":false},"timestamp":1725274152462,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"767f2ba1bcc34d92af2a33663d6bede7","mode":"active"}]
+2024-09-02 17:49:13 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:49:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:49:18 info: User input: choose first choice
+2024-09-02 17:49:18 info: Response: Great choice! Here are the details for your selected gaming PC build:
+
+### **COMPUTERSET JIB MARU-2407013**
+- **CPU:** INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+- **Motherboard:** MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU:** GALAX GEFORCE RTX 4060 TI 8GB
+- **RAM:** CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+- **SSD:** HIKSEMI FUTURE 512GB NVMe M.2
+- **PSU:** THERMALTAKE SMART BX1 650W
+- **CASE:** GALAX REVOLUTION 06 (BLACK)
+- **Total Price:** 35,600 THB
+
+Would you like to proceed with purchasing this build, or do you need any additional components or accessories? Let me know how I can assist you further! kubpom!
+2024-09-02 17:49:18 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:49:20 info: ________________________________________
+2024-09-02 17:49:20 info: Response summarized: Great choice! Here are the details for your selected gaming PC build:
+
+### **COMPUTERSET JIB MARU-2407013**
+- **CPU:** INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+- **Motherboard:** MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU:** GALAX GEFORCE RTX 4060 TI 8GB
+- **RAM:** CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+- **SSD:** HIKSEMI FUTURE 512GB NVMe M.2
+- **PSU:** THERMALTAKE SMART BX1 650W
+- **CASE:** GALAX REVOLUTION 06 (BLACK)
+- **Total Price:** 35,600 THB
+
+Would you like to proceed with purchasing this build, or do you need any additional components or accessories? Let me know how I can assist you further! kubpom!
+2024-09-02 17:50:03 info: Events received: [{"type":"message","message":{"type":"text","id":"524192200621031905","quoteToken":"hRk1sdxpjcjkCeFh6pdZQEPFBa460RzoCSE-XGMXqexPPKShIXTvEfIPel9dh26MMkoi0t5DwYQZ7n-7xEZ6jWhprNdVMlWA_3hRuFHOTpGtAPIr3v0g3uZPAzp4o9fuzSp66iYyNn5cy5OgpfhXRw","text":"more detail"},"webhookEventId":"01J6S5P9DWMWEKSJV812AA9TS4","deliveryContext":{"isRedelivery":false},"timestamp":1725274203138,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"75d4dee27bac4212bc9ad7582ab2f6bc","mode":"active"}]
+2024-09-02 17:50:04 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:50:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:50:11 info: User input: more detail
+2024-09-02 17:50:11 info: Response: Here are more detailed specifications and features for the selected gaming PC build:
+
+### **COMPUTERSET JIB MARU-2407013**
+
+1. **CPU: INTEL CORE I5-14400F**
+   - **Cores/Threads:** 10 Cores, 16 Threads
+   - **Base Clock:** 1.8 GHz
+   - **Boost Clock:** Up to 4.7 GHz
+   - **Socket Type:** LGA 1700
+   - **Integrated Graphics:** No (requires a dedicated GPU)
+
+2. **Motherboard: MSI B760M GAMING PLUS WIFI**
+   - **Form Factor:** Micro-ATX
+   - **Chipset:** Intel B760
+   - **Memory Support:** DDR5
+   - **Expansion Slots:** PCIe 4.0 slots for GPU and other devices
+   - **Connectivity:** Built-in Wi-Fi, USB 3.2, HDMI, and more
+
+3. **GPU: GALAX GEFORCE RTX 4060 TI 8GB**
+   - **Memory:** 8GB GDDR6
+   - **Ray Tracing:** Supports real-time ray tracing for enhanced graphics
+   - **DLSS:** NVIDIA's Deep Learning Super Sampling for improved performance
+   - **Cooling:** Dual-fan design for efficient cooling
+
+4. **RAM: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz**
+   - **Capacity:** 16GB (2 x 8GB modules)
+   - **Speed:** 5200 MHz
+   - **Type:** DDR5
+   - **Features:** Optimized for high-performance gaming
+
+5. **SSD: HIKSEMI FUTURE 512GB NVMe M.2**
+   - **Capacity:** 512GB
+   - **Interface:** NVMe M.2 for fast data transfer speeds
+   - **Read/Write Speeds:** High-speed performance for quick loading times
+
+6. **PSU: THERMALTAKE SMART BX1 650W**
+   - **Wattage:** 650W
+   - **Efficiency:** 80 PLUS certified for energy efficiency
+   - **Modular:** Non-modular design
+
+7. **CASE: GALAX REVOLUTION 06 (BLACK)**
+   - **Type:** Mid Tower
+   - **Design:** Sleek black finish with tempered glass side panel
+   - **Cooling Support:** Space for multiple fans and radiators for cooling
+
+### **Total Price:** 35,600 THB
+
+This build is designed to provide excellent gaming performance, capable of handling modern games at high settings. It also offers future upgrade potential with its compatible components.
+
+If you have any specific questions about any of the components or if you need assistance with purchasing, feel free to ask! kubpom!
+2024-09-02 17:50:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:50:17 info: ________________________________________
+2024-09-02 17:50:17 info: Response summarized: Here are more detailed specifications and features for the selected gaming PC build:
+
+### **COMPUTERSET JIB MARU-2407013**
+
+1. **CPU: INTEL CORE I5-14400F**
+   - **Cores/Threads:** 10 Cores, 16 Threads
+   - **Base Clock:** 1.8 GHz
+   - **Boost Clock:** Up to 4.7 GHz
+   - **Socket Type:** LGA 1700
+   - **Integrated Graphics:** No (requires a dedicated GPU)
+
+2. **Motherboard: MSI B760M GAMING PLUS WIFI**
+   - **Form Factor:** Micro-ATX
+   - **Chipset:** Intel B760
+   - **Memory Support:** DDR5
+   - **Expansion Slots:** PCIe 4.0 slots for GPU and other devices
+   - **Connectivity:** Built-in Wi-Fi, USB 3.2, HDMI, and more
+
+3. **GPU: GALAX GEFORCE RTX 4060 TI 8GB**
+   - **Memory:** 8GB GDDR6
+   - **Ray Tracing:** Supports real-time ray tracing for enhanced graphics
+   - **DLSS:** NVIDIA's Deep Learning Super Sampling for improved performance
+   - **Cooling:** Dual-fan design for efficient cooling
+
+4. **RAM: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz**
+   - **Capacity:** 16GB (2 x 8GB modules)
+   - **Speed:** 5200 MHz
+   - **Type:** DDR5
+   - **Features:** Optimized for high-performance gaming
+
+5. **SSD: HIKSEMI FUTURE 512GB NVMe M.2**
+   - **Capacity:** 512GB
+   - **Interface:** NVMe M.2 for fast data transfer speeds
+   - **Read/Write Speeds:** High-speed performance for quick loading times
+
+6. **PSU: THERMALTAKE SMART BX1 650W**
+   - **Wattage:** 650W
+   - **Efficiency:** 80 PLUS certified for energy efficiency
+   - **Modular:** Non-modular design
+
+7. **CASE: GALAX REVOLUTION 06 (BLACK)**
+   - **Type:** Mid Tower
+   - **Design:** Sleek black finish with tempered glass side panel
+   - **Cooling Support:** Space for multiple fans and radiators for cooling
+
+### **Total Price:** 35,600 THB
+
+This build is designed to provide excellent gaming performance, capable of handling modern games at high settings. It also offers future upgrade potential with its compatible components.
+
+If you have any specific questions about any of the components or if you need assistance with purchasing, feel free to ask! kubpom!
+2024-09-02 17:50:55 info: 
+2024-09-02 17:50:58 info: ----------------------------------------
+2024-09-02 17:50:58 info: Server started and listening on port 8000
+2024-09-02 17:50:58 info: ----------------------------------------
+2024-09-02 17:51:01 info: Events received: [{"type":"message","message":{"type":"text","id":"524192297475375208","quoteToken":"sW0nONTxc3sEAxTKWL4eNJ5pm6kSIWpMngjNFpjPQ4vvyZNUBeT0Qo9S5ctCEpgQ_8bqsEY65z3Lohu_DlNUYvRNf1s9SyZOGeDW5DBGpsEwKfIQ1QwrrGdgJJWbvpW49A5-Rmr53C7fZ-2FgC6pmg","text":"Hi"},"webhookEventId":"01J6S5R1ZW298VKCJVKS3DTZQ3","deliveryContext":{"isRedelivery":false},"timestamp":1725274261037,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"8d23aecdba7b4b9380589e8c60cd6c40","mode":"active"}]
+2024-09-02 17:51:02 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:51:02 info: Agent initialized successfully
+2024-09-02 17:51:04 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:51:04 info: User input: Hi
+2024-09-02 17:51:04 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-02 17:51:04 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:51:04 info: ________________________________________
+2024-09-02 17:51:04 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-02 17:51:09 info: Events received: [{"type":"message","message":{"type":"text","id":"524192310058287204","quoteToken":"beGV5UGqP8EnA8hTIiGeTjtmc16UCACEYt92ILQITF_lm88-9glH_1D0EbsfqfirrA1gm7VbwZ3Hgt7UYxx-nUArzdnIcDQmEwgv3Y4pIquoASoSkEVY63dw0FkdZOuVXGetORCKXH5EKn7Iu4AWYg","text":"I want PC"},"webhookEventId":"01J6S5R9AA5XK473NP25EVVJ7K","deliveryContext":{"isRedelivery":false},"timestamp":1725274268494,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"edbba1cd3ad1409b89c14a27deefb90a","mode":"active"}]
+2024-09-02 17:51:09 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:51:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:51:11 info: User input: I want PC
+2024-09-02 17:51:11 info: Response: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-02 17:51:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:51:12 info: ________________________________________
+2024-09-02 17:51:12 info: Response summarized: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-02 17:51:36 info: Events received: [{"type":"message","message":{"type":"text","id":"524192356732502227","quoteToken":"_WVh2eWLq034XZFsdjKJ1okgBSJSGJ01-Z5Se5gDWIabNUKmC0K5UONRCeYpyf995msd6X6-K_2IiVdGHiBg8Sh0KkRmrO4a98EjUQB8Kg5cXq8nJWNSwoqjGjqCmVTbLcvOnHa16ZU8VcAfoQakrw","text":"I want select component"},"webhookEventId":"01J6S5S49B429V0XF59G0RQAFK","deliveryContext":{"isRedelivery":false},"timestamp":1725274296374,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ed53905f09684283a9fdd38b03b0b2c3","mode":"active"}]
+2024-09-02 17:51:37 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:51:39 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:51:39 info: User input: I want select component
+2024-09-02 17:51:39 info: Response: Great! Let's start with selecting the components for your PC. We'll begin with the CPU (processor). 
+
+Please let me know if you have any specific preferences for the CPU brand (Intel or AMD) or if you have a particular budget in mind. After that, we can move on to the other components. kubpom!
+2024-09-02 17:51:39 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:51:40 info: ________________________________________
+2024-09-02 17:51:40 info: Response summarized: Great! Let's start with selecting the components for your PC. We'll begin with the CPU (processor). 
+
+Please let me know if you have any specific preferences for the CPU brand (Intel or AMD) or if you have a particular budget in mind. After that, we can move on to the other components. kubpom!
+2024-09-02 17:54:36 info: Events received: [{"type":"message","message":{"type":"text","id":"524192657917346226","quoteToken":"Lxb-wHEadrjWdnXY9aZ6FMOORTz2kWRsiYPoGX3UPkqhnzHjXIrB15CF0LyAjTbfGV2NY69T3V0EZ5DWNlIh5fbqPWcjVC8KaxT7WrA4yJ7N8fHX4SyMi966xqC60ytOj3XJqX5VLcOrlQUKtMLviw","text":"I5 gen 14"},"webhookEventId":"01J6S5YKQ2396VBSAGGMKAV0MF","deliveryContext":{"isRedelivery":false},"timestamp":1725274475749,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ad052f6a51b54a3f9f6988997defb143","mode":"active"}]
+2024-09-02 17:54:36 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:54:38 info: ****************************************
+2024-09-02 17:54:38 info: Query Detection: i5 gen 14
+2024-09-02 17:54:38 info: Tool Call: {
+  "id": "call_8dFycWh1WFchL3jb32MU9O3I",
+  "name": "vector_index_Hardware_-_CPU_-_CPU",
+  "input": {
+    "query": "i5 gen 14"
+  }
+}
+2024-09-02 17:54:38 info: ****************************************
+2024-09-02 17:54:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:54:47 info: User input: I5 gen 14
+2024-09-02 17:54:47 info: Response: Here are the Intel Core i5 processors from the 14th generation (Raptor Lake Refresh):
+
+1. **INTEL CORE I5-14400**
+   - Price: 8,990 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: Intel UHD Graphics 730
+   - TDP: 65 W
+   - CPU Cooler: Yes
+
+2. **INTEL CORE I5-14400F**
+   - Price: 7,890 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: No
+   - TDP: 65 W
+   - CPU Cooler: Yes
+
+3. **INTEL CORE I5-14500**
+   - Price: 9,490 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: Intel UHD Graphics 770
+   - TDP: 65 W
+   - CPU Cooler: Yes
+
+4. **INTEL CORE I5-14600K**
+   - Price: 12,000 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: Intel UHD Graphics 770
+   - TDP: 125 W
+   - CPU Cooler: No
+
+5. **INTEL CORE I5-14600KF**
+   - Price: 11,290 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: No
+   - TDP: 125 W
+   - CPU Cooler: No
+
+Please let me know which CPU you would like to choose, and we can move on to the next component! kubpom!
+2024-09-02 17:54:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:54:51 info: ________________________________________
+2024-09-02 17:54:51 info: Response summarized: Here are the Intel Core i5 processors from the 14th generation (Raptor Lake Refresh):
+
+1. **INTEL CORE I5-14400**
+   - Price: 8,990 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: Intel UHD Graphics 730
+   - TDP: 65 W
+   - CPU Cooler: Yes
+
+2. **INTEL CORE I5-14400F**
+   - Price: 7,890 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: No
+   - TDP: 65 W
+   - CPU Cooler: Yes
+
+3. **INTEL CORE I5-14500**
+   - Price: 9,490 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: Intel UHD Graphics 770
+   - TDP: 65 W
+   - CPU Cooler: Yes
+
+4. **INTEL CORE I5-14600K**
+   - Price: 12,000 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: Intel UHD Graphics 770
+   - TDP: 125 W
+   - CPU Cooler: No
+
+5. **INTEL CORE I5-14600KF**
+   - Price: 11,290 THB
+   - Socket: LGA 1700
+   - Integrated Graphics: No
+   - TDP: 125 W
+   - CPU Cooler: No
+
+Please let me know which CPU you would like to choose, and we can move on to the next component! kubpom!
+2024-09-02 17:56:06 info: Events received: [{"type":"message","message":{"type":"text","id":"524192809449161042","quoteToken":"mbJYrv-GMT0PXLW58LUcPKtHRYyLTfULeyPwmn1cjrVqWqqjcK5QoI9T3F5SPwNETY4Sz88_my1IH0BjZKlvY71dGkwEMAcStTvWeXSHeyYFGpmQPfbmqGja-WLgxoh2LlJwaxSb2MEJMP6FAYq-VQ","text":"ok i choose first choice."},"webhookEventId":"01J6S61C162GVV7N2NV1M9ZG59","deliveryContext":{"isRedelivery":false},"timestamp":1725274566186,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c6f508dfe58b4737b39b182b56f104ff","mode":"active"}]
+2024-09-02 17:56:07 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:56:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:56:11 info: User input: ok i choose first choice.
+2024-09-02 17:56:11 info: Response: You've selected the **INTEL CORE I5-14400**. 
+
+Now, let's move on to the next component: the motherboard. Since the i5-14400 uses the LGA 1700 socket, we need to find a compatible motherboard.
+
+Do you have any preferences for the motherboard brand (like ASUS, MSI, Gigabyte, etc.) or specific features (like Wi-Fi, RGB lighting, etc.)? Let me know, and I'll provide some options! kubpom!
+2024-09-02 17:56:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:56:13 info: ________________________________________
+2024-09-02 17:56:13 info: Response summarized: You've selected the **INTEL CORE I5-14400**. Now, let's move on to the next component: the motherboard. Since the i5-14400 uses the LGA 1700 socket, we need to find a compatible motherboard. Do you have any preferences for the motherboard brand (like ASUS, MSI, Gigabyte, etc.) or specific features (like Wi-Fi, RGB lighting, etc.)? Let me know, and I'll provide some options! kubpom!
+2024-09-02 17:58:02 info: Events received: [{"type":"message","message":{"type":"text","id":"524193004350341123","quoteToken":"YHSwPAA5KByQ7u5lBoWH5JbSp7Od-o1X_0lb60wpfnVnGppLdse3DqpqSY9tO27Yf6ehmrkQMQz_aLrcxlYoujNLTGLByfiMrKUdhCVpyXt6HX7kw8gNT212LbAm9vWOJr6UsIfZnfUcUXxsHLmqrQ","text":"ok can list mother board to me"},"webhookEventId":"01J6S64X0QX5XF7XV0XQT425JV","deliveryContext":{"isRedelivery":false},"timestamp":1725274682371,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9697db312a47474bb3f5277519810010","mode":"active"}]
+2024-09-02 17:58:02 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:58:04 info: ****************************************
+2024-09-02 17:58:04 info: Query Detection: LGA 1700
+2024-09-02 17:58:04 info: Tool Call: {
+  "id": "call_OMSbRCAy84hecH2TyXd6FhOR",
+  "name": "vector_index_Hardware_-_Motherboard_-_ASUS_PRIME",
+  "input": {
+    "query": "LGA 1700"
+  }
+}
+2024-09-02 17:58:04 info: ****************************************
+2024-09-02 17:58:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:58:13 info: User input: ok can list mother board to me
+2024-09-02 17:58:13 info: Response: Here are some compatible motherboards for the Intel Core i5-14400 (LGA 1700 socket):
+
+1. **ASUS PRIME H610M-K ARGB (DDR5)**
+2. **ASUS PRIME H610M-K D4 (DDR4)**
+3. **ASUS PRIME H610M-K D4-CSM (DDR4)**
+4. **ASUS PRIME Z790-A WIFI-CSM (DDR5)**
+5. **ASUS PRIME Z790M-PLUS D4-CSM (DDR4)**
+6. **ASUS PRIME Z790M-PLUS-CSM (DDR5)**
+
+These motherboards vary in features such as memory type (DDR4 or DDR5), maximum memory capacity, and expansion slots.
+
+Please let me know which motherboard you would like to choose, or if you have any specific preferences! kubpom!
+2024-09-02 17:58:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-02 17:58:16 info: ________________________________________
+2024-09-02 17:58:16 info: Response summarized: Here are some compatible motherboards for the Intel Core i5-14400 (LGA 1700 socket):
+
+1. **ASUS PRIME H610M-K ARGB (DDR5)**
+2. **ASUS PRIME H610M-K D4 (DDR4)**
+3. **ASUS PRIME H610M-K D4-CSM (DDR4)**
+4. **ASUS PRIME Z790-A WIFI-CSM (DDR5)**
+5. **ASUS PRIME Z790M-PLUS D4-CSM (DDR4)**
+6. **ASUS PRIME Z790M-PLUS-CSM (DDR5)**
+
+These motherboards vary in features such as memory type (DDR4 or DDR5), maximum memory capacity, and expansion slots.
+
+Please let me know which motherboard you would like to choose, or if you have any specific preferences! kubpom!
+2024-09-02 17:58:30 info: Events received: [{"type":"message","message":{"type":"text","id":"524193050219249921","quoteToken":"4pxe43lzgLqCN66QkjZOI9S_0qQB5_dfhSBKYoL6fS-Ead0-8wZZhalXE6v3jMo279ulXcIJAyBTFXnhXODBSHiWxGDQifDXE7cNzlDvWhrMKTv7cQ6QNmb6SGuRiI0WlxoYaJYn6wJ743M8siiq3A","text":"more detail it?"},"webhookEventId":"01J6S65R0RBBQX56QE9RVWN2K9","deliveryContext":{"isRedelivery":false},"timestamp":1725274709534,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c4c017a03c13489399edf8c14ab637b7","mode":"active"}]
+2024-09-02 17:58:30 info: Loading animation request accepted. Waiting for processing.
+2024-09-02 17:58:35 error: Error in agent chat: 400 Invalid 'messages[17].tool_calls[4].function.name': string too long. Expected a string with maximum length 64, but got a string with length 66 instead.
+2024-09-02 17:58:35 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: 400 Invalid 'messages[17].tool_calls[4].function.name': string too long. Expected a string with maximum length 64, but got a string with length 66 instead.

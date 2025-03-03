@@ -1,0 +1,25 @@
+2024-10-08 16:43:01 info: Agent Initialized
+2024-10-08 16:43:25 info: LLM Tool Call: {"toolCall":{"id":"call_OgP24VF4swqX9AMDMnWyymWj","name":"index_Gaming","input":{"query":"Gaming PC under 30000"}}}
+2024-10-08 16:44:48 info: LLM Tool Call: {"toolCall":{"id":"call_OCPJtFRxWL3dYtD5oXA34LvG","name":"index_CPU","input":{"query":"INTEL CORE I5-12400F"}}}
+2024-10-08 16:44:51 info: LLM Tool Call: {"toolCall":{"id":"call_rg9SzOZlSQbYMBSyFNeWt92t","name":"index_GPU_GALAX","input":{"query":"GALAX GEFORCE RTX 4060 1-CLICK OC 2X V2"}}}
+2024-10-08 16:44:56 info: LLM Tool Call: {"toolCall":{"id":"call_jN0fr3kkCkLxy2PZkerzY2pd","name":"index_RAM","input":{"query":"CORSAIR VENGEANCE LPX 16GB DDR4 3200MHz"}}}
+2024-10-08 16:45:05 info: LLM Tool Call: {"toolCall":{"id":"call_FurQ4RglE9pt8qz12wESUtEK","name":"index_SSD","input":{"query":"WD BLACK SN770 500 GB SSD"}}}
+2024-10-08 16:45:10 info: LLM Tool Call: {"toolCall":{"id":"call_pNEXXAJwu43zgKHZGL8iNJoH","name":"index_PSU","input":{"query":"THERMALTAKE SMART BX1 650W"}}}
+2024-10-08 16:45:18 info: LLM Tool Call: {"toolCall":{"id":"call_EBWYoraWmDKPQs58EAEFiVBa","name":"index_Case_COOLER_MASTER","input":{"query":"MONTECH X2 MESH"}}}
+2024-10-08 16:46:31 info: LLM Tool Call: {"toolCall":{"id":"call_lsWnBVxciwtHPjW8eSVC8iMO","name":"index_Motherboard_GIGABYTE","input":{"query":"MSI PRO H610M-E DDR4"}}}
+2024-10-08 16:46:37 info: LLM Tool Call: {"toolCall":{"id":"call_MQFyGLpO4nNEg2MQwxuGSmTC","name":"index_Motherboard_ASROCK","input":{"query":"MSI PRO H610M-E DDR4"}}}
+2024-10-08 16:51:06 info: LLM Tool Call: {"toolCall":{"id":"call_wEhTluL6m8TopKleBupR6QTl","name":"index_PSU","input":{"query":"THERMALTAKE SMART BX1 650W"}}}
+2024-10-08 16:51:32 info: LLM Tool Call: {"toolCall":{"id":"call_Lx09CdgLNlDlY6ogjFpvMjac","name":"index_PSU","input":{"query":"THERMALTAKE SMART BX1 650W"}}}
+2024-10-08 16:52:44 info: LLM Tool Call: {"toolCall":{"id":"call_AUZQItqrTL599OqG4XC4UcaO","name":"index_Case_MONTECH","input":{"query":"MONTECH X2 MESH"}}}
+2024-10-08 16:54:14 info: Agent Initialized
+2024-10-08 16:56:23 info: Agent Initialized
+2024-10-08 16:56:44 info: LLM Tool Call: {"toolCall":{"id":"call_xSBBlxgPqp4F1b2C3S2BrYsW","name":"index_Gaming","input":{"query":"Gaming PC under 25000"}}}
+2024-10-08 16:57:34 info: LLM Tool Call: {"toolCall":{"id":"call_Rtl8XMMCSjAPRbccoOwSugTH","name":"index_CPU","input":{"query":"INTEL CORE I5-12400F"}}}
+2024-10-08 16:57:37 info: LLM Tool Call: {"toolCall":{"id":"call_DQNq9R232rqv6Qu0ahGWtwt1","name":"index_RAM","input":{"query":"CORSAIR VENGEANCE LPX 16GB DDR4 3200MHz"}}}
+2024-10-08 16:57:45 info: LLM Tool Call: {"toolCall":{"id":"call_yKaKb7HAhB8pRgU1dIVtXL3k","name":"index_SSD","input":{"query":"WD BLUE SN580 500GB"}}}
+2024-10-08 16:57:49 info: LLM Tool Call: {"toolCall":{"id":"call_k4zEtRm1imKwWAKPed3dxDvj","name":"index_PSU","input":{"query":"THERMALTAKE SMART BX1 650W"}}}
+2024-10-08 16:57:57 info: LLM Tool Call: {"toolCall":{"id":"call_F30SmFRzlHPi5ORnLa4JaqbT","name":"index_Case_THERMALTAKE","input":{"query":"THERMALTAKE S100 TEMPERED GLASS"}}}
+2024-10-08 16:59:06 info: LLM Tool Call: {"toolCall":{"id":"call_cA8F8vNevcUGHfDQtlJlPvHI","name":"index_GPU_ASUS","input":{"query":"ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION"}}}
+2024-10-08 16:59:11 info: LLM Tool Call: {"toolCall":{"id":"call_xkMoiy5UidrBaO9s0qoXMC4r","name":"index_Motherboard_ASUS_PRIME","input":{"query":"ASUS PRIME H610M-K D4"}}}
+2024-10-08 17:01:53 info: LLM Tool Call: {"toolCall":{"id":"call_rwf2MAlfqwPT6YgzeRcLmirB","name":"index_GPU_ASUS","input":{"query":"ASUS DUAL GEFORCE RTX 4060"}}}
+2024-10-08 17:02:27 info: LLM Tool Call: {"toolCall":{"id":"call_yrFUI1PJHD2NGaGsUvsfk9WP","name":"index_GPU_ASUS","input":{"query":"ASUS DUAL GEFORCE RTX 4070"}}}

@@ -1,0 +1,1610 @@
+2024-09-05 13:09:30 info: ----------------------------------------
+2024-09-05 13:09:30 info: Server started and listening on port 8000
+2024-09-05 13:09:30 info: ----------------------------------------
+2024-09-05 13:09:32 info: 
+2024-09-05 13:09:54 info: ----------------------------------------
+2024-09-05 13:09:54 info: Server started and listening on port 8000
+2024-09-05 13:09:54 info: ----------------------------------------
+2024-09-05 13:13:25 info: Events received: []
+2024-09-05 13:14:08 info: Events received: [{"type":"message","message":{"type":"text","id":"524599290321174562","quoteToken":"OjoAI3EtO-9chLVBZC4ElU-_OoIbYbKFxCSVkw3n5e9nMQK3FLlZtashj5D6vj5RikJsjI0KshJ_wOJaxuVdnllZK0BWD38wcJs53QHZbwICs3g-N8t_SAnFilHqq138YKkApycHv0kMEfYNAABkKQ","text":"Hi"},"webhookEventId":"01J70D36RX26PPAFM5J94N71CA","deliveryContext":{"isRedelivery":false},"timestamp":1725516847626,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"4b4feaff9c004651864dae7b1d4ceea7","mode":"active"}]
+2024-09-05 13:14:09 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:14:09 info: Agent initialized successfully
+2024-09-05 13:14:09 info: agent Sussess load.
+2024-09-05 13:14:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:14:13 info: User input: Hi
+2024-09-05 13:14:13 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:14:13 info: Check ToolCall : null
+2024-09-05 13:14:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:14:13 info: responseText Sussess load.
+2024-09-05 13:14:13 info: ________________________________________
+2024-09-05 13:14:13 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 13:14:13 info: summaryResponse Sussess load.
+2024-09-05 13:14:14 info: Tool call check result: null
+2024-09-05 13:14:18 info: Events received: [{"type":"message","message":{"type":"text","id":"524599308122063475","quoteToken":"4cWVCnfF29e-IItOf8tMuGSQzmf68i_2AQgyIGHgdgU1hDHFIckjDGjfTf4IazPocr9UVZQRNmN0KxMMFK8ZW43kTZj1lw7dx38FPC2iaVz3kHA9A4-cq4ltYgbCBXNBAOVHpHKygUPfxkePCgV9GQ","text":"I want PC"},"webhookEventId":"01J70D3H8YE8YVGS0GRWGF58BZ","deliveryContext":{"isRedelivery":false},"timestamp":1725516858148,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d7fda2c57a5f4200be279e745642d33c","mode":"active"}]
+2024-09-05 13:14:19 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:14:19 info: agent Sussess load.
+2024-09-05 13:14:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:14:21 info: User input: I want PC
+2024-09-05 13:14:21 info: Response: Could you please specify what type of PC you're looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-05 13:14:21 info: Check ToolCall : null
+2024-09-05 13:14:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:14:21 info: responseText Sussess load.
+2024-09-05 13:14:23 info: ________________________________________
+2024-09-05 13:14:23 info: Response summarized: Could you please specify what type of PC you're looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom! 💻🖥️🔧
+2024-09-05 13:14:23 info: summaryResponse Sussess load.
+2024-09-05 13:14:23 info: Tool call check result: null
+2024-09-05 13:14:32 info: Events received: [{"type":"message","message":{"type":"text","id":"524599329999552548","quoteToken":"sCj_uvNyiKjfLz2kTgA8Nq3Ob3UGgYNqeUmAqNV7dGEQhu_hGCCyG5NRGuWl8mkF2pYvtg3tTSzqHWJSPfXFKN-WjRJkyE64lOxfQ6DY04jDvJWMhS4vBtMtfVvJqm6harT0heW4sw0Y6Yt4-iqzhA","text":"Can Recommend"},"webhookEventId":"01J70D3XYQWZCHMC7EWYVT0YZE","deliveryContext":{"isRedelivery":false},"timestamp":1725516871338,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"3eba1453dab24d509ea65849df6e759b","mode":"active"}]
+2024-09-05 13:14:32 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:14:32 info: agent Sussess load.
+2024-09-05 13:14:34 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:14:34 info: User input: Can Recommend
+2024-09-05 13:14:34 info: Response: Could you please specify the type of PC you would like me to recommend? Here are some options:
+
+1. Gaming PC
+2. General Use PC
+3. Work PC
+4. High-End PC
+
+Let me know your preference, and I'll provide you with a suitable recommendation! kubpom!
+2024-09-05 13:14:34 info: Check ToolCall : null
+2024-09-05 13:14:34 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:14:34 info: responseText Sussess load.
+2024-09-05 13:14:35 info: ________________________________________
+2024-09-05 13:14:35 info: Response summarized: Could you please specify the type of PC you would like me to recommend? Here are some options:
+
+1. Gaming PC
+2. General Use PC
+3. Work PC
+4. High-End PC
+
+Let me know your preference, and I'll provide you with a suitable recommendation! kubpom! 💻🖥️🔧
+2024-09-05 13:14:35 info: summaryResponse Sussess load.
+2024-09-05 13:14:35 info: Tool call check result: null
+2024-09-05 13:16:28 info: 
+2024-09-05 13:16:30 info: ----------------------------------------
+2024-09-05 13:16:30 info: Server started and listening on port 8000
+2024-09-05 13:16:30 info: ----------------------------------------
+2024-09-05 13:16:34 info: Events received: [{"type":"message","message":{"type":"text","id":"524599535973433620","quoteToken":"lzjcu4TI-40AeNgpcuM6YLZV1_TiN16jdkidfxsTdzr4U3kZI_9rPmLeVoALLNshj20-Xbt4rl41je0hJWdu193vFFCHTCnnMBdHCSzUsqz2cYSbXQU8O4-YRpJamgidtqMsZ6T1OWWnu5gwKsYjCw","text":"Hi"},"webhookEventId":"01J70D7NX72AFQ65C7AYD71HY8","deliveryContext":{"isRedelivery":false},"timestamp":1725516993964,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b5772e5e6c34456baaba10b76ed424a5","mode":"active"}]
+2024-09-05 13:16:35 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:16:35 info: Agent initialized successfully
+2024-09-05 13:16:35 info: agent Sussess load.
+2024-09-05 13:16:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:16:37 info: User input: Hi
+2024-09-05 13:16:37 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:16:37 info: Check ToolCall : null
+2024-09-05 13:16:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:16:37 info: responseText Sussess load.
+2024-09-05 13:16:38 info: ________________________________________
+2024-09-05 13:16:38 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 13:16:38 info: summaryResponse Sussess load.
+2024-09-05 13:16:38 info: Check LastToolCall in Function CheckToolCall : null
+2024-09-05 13:16:38 info: Tool call check result: null
+2024-09-05 13:16:45 info: Events received: [{"type":"message","message":{"type":"text","id":"524599554511733000","quoteToken":"kL5cWybh5ZorJPj9QQJH2P5Uo8P0j2UojGTtMKTHfWNAvHXo_fuWrvSf_XG0GRl9Gjkz3Zx77DMAREh9BgGXMdWltouIoJScH_t-ipn5ayV9so2IHfuI0Jw-6DywLyaxQMS0EJO8YLz7E8buaFi8Yg","text":"I want PC"},"webhookEventId":"01J70D80QFZHTKQ3SQ484GBNBQ","deliveryContext":{"isRedelivery":false},"timestamp":1725517005149,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d54fb18dee154aa3a2c48eb6a2c1a681","mode":"active"}]
+2024-09-05 13:16:46 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:16:46 info: agent Sussess load.
+2024-09-05 13:16:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:16:47 info: User input: I want PC
+2024-09-05 13:16:47 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-05 13:16:47 info: Check ToolCall : null
+2024-09-05 13:16:47 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:16:47 info: responseText Sussess load.
+2024-09-05 13:16:48 info: ________________________________________
+2024-09-05 13:16:48 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom! 💻🖥️🔧
+2024-09-05 13:16:48 info: summaryResponse Sussess load.
+2024-09-05 13:16:48 info: Check LastToolCall in Function CheckToolCall : null
+2024-09-05 13:16:48 info: Tool call check result: null
+2024-09-05 13:16:58 info: Events received: [{"type":"message","message":{"type":"text","id":"524599575836098978","quoteToken":"WaBytqdeCfeZvscc1K0YjIzVXLAp_iEwQAIiPZR4nocE1gYkEdPYLspCqGTmv4cI7NC-DM9p4ZgRKHLdtTGvTDr486ghWyeOKclmByKnvs4wGcVWjLTXimV9HEr5Ass3StlmGp0SZP6noy1YuFNikg","text":"Can recommend PC to me?"},"webhookEventId":"01J70D8D0E4RYA7F7R6AYGAETN","deliveryContext":{"isRedelivery":false},"timestamp":1725517017706,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2716018cd0b942eea12affc516fbaa9a","mode":"active"}]
+2024-09-05 13:16:58 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:16:58 info: agent Sussess load.
+2024-09-05 13:17:01 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:17:01 info: User input: Can recommend PC to me?
+2024-09-05 13:17:01 info: Response: Could you please specify what type of PC you need? For example, are you looking for a gaming PC, a general-use PC, a work PC, or a high-end PC? Additionally, if you have any specific requirements or budget in mind, please share that as well! kubpom!
+2024-09-05 13:17:01 info: Check ToolCall : null
+2024-09-05 13:17:01 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:17:01 info: responseText Sussess load.
+2024-09-05 13:17:02 info: ________________________________________
+2024-09-05 13:17:02 info: Response summarized: Could you please specify what type of PC you need? For example, are you looking for a gaming PC, a general-use PC, a work PC, or a high-end PC? Additionally, if you have any specific requirements or budget in mind, please share that as well! kubpom! 💻🖥️🔧
+2024-09-05 13:17:02 info: summaryResponse Sussess load.
+2024-09-05 13:17:02 info: Check LastToolCall in Function CheckToolCall : null
+2024-09-05 13:17:02 info: Tool call check result: null
+2024-09-05 13:17:11 info: Events received: [{"type":"message","message":{"type":"text","id":"524599597965508913","quoteToken":"EcOjvadpdz2MUq0AK_wY9TecWHbtT2I7vFeMZ6CGOclNVF4CJEX18Kkfg2e2-JE5JPYht2sZUB-Br9A2ERVkr29AWfR5HEQvP0Tkmrm2D6mBzzwnyf5BUyko_dT9piclPNOJR28OjtIlkrNxdDTQMg","text":"can recommend"},"webhookEventId":"01J70D8SYSBF5YK8W1WECR6QAY","deliveryContext":{"isRedelivery":false},"timestamp":1725517030877,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"e71d61c2508447ba97860315a96b3d5c","mode":"active"}]
+2024-09-05 13:17:12 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:17:12 info: agent Sussess load.
+2024-09-05 13:17:14 info: ****************************************
+2024-09-05 13:17:14 info: Query Detection: recommend gaming PC
+2024-09-05 13:17:14 info: Tool Call: {
+  "id": "call_31MAzI02LBx1D7MhAnA4t8ny",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "recommend gaming PC"
+  }
+}
+2024-09-05 13:17:14 info: ****************************************
+2024-09-05 13:17:14 info: This is a LastToolCall but used CallbackManager : recommend gaming PC
+2024-09-05 13:17:20 info: ****************************************
+2024-09-05 13:17:20 info: Query Detection: recommend general use PC
+2024-09-05 13:17:20 info: Tool Call: {
+  "id": "call_45SoQ5ByOentaL9pZPy1cysC",
+  "name": "vector_index_Type_PC_-_Type_General_Use_-_Computer_Set",
+  "input": {
+    "query": "recommend general use PC"
+  }
+}
+2024-09-05 13:17:20 info: ****************************************
+2024-09-05 13:17:20 info: This is a LastToolCall but used CallbackManager : recommend general use PC
+2024-09-05 13:17:24 info: ****************************************
+2024-09-05 13:17:24 info: Query Detection: recommend work PC
+2024-09-05 13:17:24 info: Tool Call: {
+  "id": "call_ADJf8CpjnBIwJFWBrDlTT5Yv",
+  "name": "vector_index_Type_PC_-_Type_Work_-_Computer_Set",
+  "input": {
+    "query": "recommend work PC"
+  }
+}
+2024-09-05 13:17:24 info: ****************************************
+2024-09-05 13:17:24 info: This is a LastToolCall but used CallbackManager : recommend work PC
+2024-09-05 13:17:27 info: ****************************************
+2024-09-05 13:17:27 info: Query Detection: recommend high-end PC
+2024-09-05 13:17:27 info: Tool Call: {
+  "id": "call_NrqRQmTXPrnr0hKo42NTXRVq",
+  "name": "vector_index_Type_PC_-_Type_Hi-End_-_Computer_Set",
+  "input": {
+    "query": "recommend high-end PC"
+  }
+}
+2024-09-05 13:17:27 info: ****************************************
+2024-09-05 13:17:27 info: This is a LastToolCall but used CallbackManager : recommend high-end PC
+2024-09-05 13:17:43 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:17:43 info: User input: can recommend
+2024-09-05 13:17:43 info: Response: Here are some recommended PC builds based on different needs:
+
+### Gaming PC Recommendations:
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB NVMe M.2 SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB NVMe M.2 SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+### General Use PC Recommendation:
+- **COMPUTERSET JIB MARU-2408001**
+   - **CPU**: AMD RYZEN 5 4600G 3.7 GHz (SOCKET AM4)
+   - **Motherboard**: ASROCK A520M-HVS (DDR4) (SOCKET AM4) (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 250 GB SSD
+   - **PSU**: GAMDIAS AURA GP550 - 550W (BLACK) (ATX)
+   - **CASE**: AEROCOOL CS-111 (BLACK) (MICRO-ATX)
+   - **Total Price**: 10,200 THB
+
+### Work PC Recommendation:
+- **COMPUTERSET JIB MARU-2408066**
+   - **CPU**: INTEL CORE I5-14500 - 14C 20T
+   - **RAM**: 32GB DDR5
+   - **SSD**: 500GB NVMe SSD
+   - **GPU**: GALAX GeForce RTX 4060
+   - **Total Price**: 33,590 THB
+
+### High-End PC Recommendation:
+- **COMPUTERSET JIB MARU-2408100**
+   - **CPU**: INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 FORMULA (DDR5)
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090 24GB GDDR6X WHITE OC EDITION
+   - **RAM**: CORSAIR VENGEANCE RGB DDR5 96GB (48GBx2) DDR5 5600MHz
+   - **SSD**: WD BLACK SN770 2 TB NVMe SSD
+   - **PSU**: ASUS ROG-THOR-1200P2-GAMING 1200W 80 PLUS PLATINUM
+   - **CASE**: NZXT H9 ELITE (WHITE)
+   - **Cooler**: ASUS ROG RYUJIN III 360 ARGB WHITE
+   - **Total Price**: 203,270 THB
+
+Feel free to ask if you need more details or have specific preferences! kubpom!
+2024-09-05 13:17:43 info: Check ToolCall : recommend high-end PC
+2024-09-05 13:17:43 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:17:43 info: responseText Sussess load.
+2024-09-05 13:17:52 info: ________________________________________
+2024-09-05 13:17:52 info: Response summarized: Here are some recommended PC builds based on different needs:
+
+### Gaming PC Recommendations:
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB EX - 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: HIKSEMI FUTURE - 512 GB NVMe M.2 SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4) (SOCKET LGA 1700)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB GDDR6
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 500 GB NVMe M.2 SSD
+   - **PSU**: THERMALTAKE SMART BX1 650W 80 PLUS BRONZE
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+### General Use PC Recommendation:
+- **COMPUTERSET JIB MARU-2408001**
+   - **CPU**: AMD RYZEN 5 4600G 3.7 GHz (SOCKET AM4)
+   - **Motherboard**: ASROCK A520M-HVS (DDR4) (SOCKET AM4) (MICRO-ATX)
+   - **RAM**: KINGSTON FURY BEAST DDR4 16GB (8GBx2) DDR4 3200MHz
+   - **SSD**: WD BLUE SN580 - 250 GB SSD
+   - **PSU**: GAMDIAS AURA GP550 - 550W (BLACK) (ATX)
+   - **CASE**: AEROCOOL CS-111 (BLACK) (MICRO-ATX)
+   - **Total Price**: 10,200 THB
+
+### Work PC Recommendation:
+- **COMPUTERSET JIB MARU-2408066**
+   - **CPU**: INTEL CORE I5-14500 - 14C 20T
+   - **RAM**: 32GB DDR5
+   - **SSD**: 500GB NVMe SSD
+   - **GPU**: GALAX GeForce RTX 4060
+   - **Total Price**: 33,590 THB
+
+### High-End PC Recommendation:
+- **COMPUTERSET JIB MARU-2408100**
+   - **CPU**: INTEL CORE I9-14900K - 24C 32T 2.4-6.0GHz
+   - **Motherboard**: ASUS ROG MAXIMUS Z790 FORMULA (DDR5)
+   - **GPU**: ASUS ROG STRIX GEFORCE RTX 4090 24GB GDDR6X WHITE OC EDITION
+   - **RAM**: CORSAIR VENGEANCE RGB DDR5 96GB (48GBx2) DDR5 5600MHz
+   - **SSD**: WD BLACK SN770 2 TB NVMe SSD
+   - **PSU**: ASUS ROG-THOR-1200P2-GAMING 1200W 80 PLUS PLATINUM
+   - **CASE**: NZXT H9 ELITE (WHITE)
+   - **Cooler**: ASUS ROG RYUJIN III 360 ARGB WHITE
+   - **Total Price**: 203,270 THB
+
+Feel free to ask if you need more details or have specific preferences! kubpom! 💻🖥️🎮
+2024-09-05 13:17:52 info: summaryResponse Sussess load.
+2024-09-05 13:17:52 info: Check LastToolCall in Function CheckToolCall : null
+2024-09-05 13:17:52 info: Tool call check result: null
+2024-09-05 13:18:19 info: 
+2024-09-05 13:27:48 info: ----------------------------------------
+2024-09-05 13:27:48 info: Server started and listening on port 8000
+2024-09-05 13:27:48 info: ----------------------------------------
+2024-09-05 13:28:18 info: Events received: [{"type":"message","message":{"type":"text","id":"524600717340573783","quoteToken":"oHPZG220OUn-EjIqZXjnPaC9RRajiFI4zYqDK57lr5tDjzy56MnEVO-xwE1jGP66xtsQ4DzdKza0Tqv3lF8wisYDHWwkRIk5cpImcpTZwitV4nZX6WU3LX0GWut5tXI4noyuMWSSz2L389Pl72wo7w","text":"Hi"},"webhookEventId":"01J70DX582X6GAJ93EXP87ZW49","deliveryContext":{"isRedelivery":false},"timestamp":1725517698135,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"5f80a5cd89b14061b3105bccd8ecf930","mode":"active"}]
+2024-09-05 13:28:19 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:28:19 info: Agent initialized successfully
+2024-09-05 13:28:19 info: agent Sucess load.
+2024-09-05 13:28:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:28:21 info: User input: Hi
+2024-09-05 13:28:21 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:28:21 info: Check ToolCall : null
+2024-09-05 13:28:21 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:28:21 info: responseText Sucess load.
+2024-09-05 13:28:21 info: ________________________________________
+2024-09-05 13:28:21 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 13:28:21 info: summaryResponse Sucess load.
+2024-09-05 13:28:21 info: Check LastToolCall in Function CheckToolCall : undefined
+2024-09-05 13:28:21 info: Tool call check result: undefined
+2024-09-05 13:29:26 info: Events received: [{"type":"message","message":{"type":"text","id":"524600830990221729","quoteToken":"0wZKrEFGaSvCWP_tvaSh7cZr6LeLkzHxrv1IVGi_lt75N94OEeBYH1JxkQfm0-DQ7ETD3pnpIBjQOhrVpPC6H1xBmIzKKAog0frHn76vlQi9_fgACjJbAZcmGl9EVa5kFpY-vcBEMB7wV9eZQazf1A","text":"I want Select all hardware."},"webhookEventId":"01J70DZ7BHR1RQZ15GC7HZNVTN","deliveryContext":{"isRedelivery":false},"timestamp":1725517765815,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2b6b145dbda5420fb6cdf379ab1d82fe","mode":"active"}]
+2024-09-05 13:29:26 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:29:26 info: agent Sucess load.
+2024-09-05 13:29:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:29:28 info: User input: I want Select all hardware.
+2024-09-05 13:29:28 info: Response: Could you please specify what type of hardware you are looking for? For example, are you interested in components for a gaming PC, general use, workstations, or something else? Let me know so I can assist you better! kubpom!
+2024-09-05 13:29:28 info: Check ToolCall : null
+2024-09-05 13:29:28 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:29:28 info: responseText Sucess load.
+2024-09-05 13:29:29 info: ________________________________________
+2024-09-05 13:29:29 info: Response summarized: Could you please specify what type of hardware you are looking for? For example, are you interested in components for a gaming PC, general use, workstations, or something else? Let me know so I can assist you better! kubpom! 💻🖥️🔧
+2024-09-05 13:29:29 info: summaryResponse Sucess load.
+2024-09-05 13:29:29 info: Check LastToolCall in Function CheckToolCall : undefined
+2024-09-05 13:29:29 info: Tool call check result: undefined
+2024-09-05 13:29:36 info: Events received: [{"type":"message","message":{"type":"text","id":"524600847834546658","quoteToken":"JuUxpeGOiwj2NlR2W3xYGDcjDKMcS6-Wznytz6DZi6zs1RgMkF0WFNYouuNOrRUHxZchm4qcDja44W-BSvnRttGFFJK0q6kkY5kakET0FIrSDy51M8lbE-v2pw_lG2lMLjkU2DZBtb5KJ30QV5zobA","text":"Can recommend PC type to me."},"webhookEventId":"01J70DZHB76A1RKQXH9VSJA7WD","deliveryContext":{"isRedelivery":false},"timestamp":1725517775984,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6f8b914d38fc42afabc4451b422072aa","mode":"active"}]
+2024-09-05 13:29:36 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:29:36 info: agent Sucess load.
+2024-09-05 13:29:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:29:38 info: User input: Can recommend PC type to me.
+2024-09-05 13:29:38 info: Response: Could you please specify what you plan to use the PC for? For example, are you looking for a gaming PC, a general-use PC, a workstation for professional tasks, or something else? This will help me recommend the best type for your needs! kubpom!
+2024-09-05 13:29:38 info: Check ToolCall : null
+2024-09-05 13:29:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:29:38 info: responseText Sucess load.
+2024-09-05 13:29:40 info: ________________________________________
+2024-09-05 13:29:40 info: Response summarized: Could you please specify what you plan to use the PC for? For example, are you looking for a gaming PC, a general-use PC, a workstation for professional tasks, or something else? This will help me recommend the best type for your needs! kubpom! 💻🖥️🔧
+2024-09-05 13:29:40 info: summaryResponse Sucess load.
+2024-09-05 13:29:40 info: Check LastToolCall in Function CheckToolCall : undefined
+2024-09-05 13:29:40 info: Tool call check result: undefined
+2024-09-05 13:29:45 info: Events received: [{"type":"message","message":{"type":"text","id":"524600864225886547","quoteToken":"SOfueYDL2GHwFcS3eWyg-6JGQC8PAFrFTdj-8nJuagNRHA2C_IIaCUyO6HtWJxHddaACOL5UDmywU48OgmrmDVxIeI3ARhBiNgSL4MwMzhAYErKBlSbqSaqWWuFDFyYAoKvBJcURMhMuavACq1q1Rg","text":"Gaming"},"webhookEventId":"01J70DZTN2S6E676NGVW7M2J84","deliveryContext":{"isRedelivery":false},"timestamp":1725517785669,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"55cdcee3ad0244aeb36fc8a5321919fb","mode":"active"}]
+2024-09-05 13:29:46 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:29:46 info: agent Sucess load.
+2024-09-05 13:29:48 info: ****************************************
+2024-09-05 13:29:48 info: Query Detection: gaming
+2024-09-05 13:29:48 info: Tool Call: {
+  "id": "call_pULkhi8TeoKf0P1psrwfoI1m",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-09-05 13:29:48 info: ****************************************
+2024-09-05 13:29:48 info: This is a LastToolCall but used CallbackManager : gaming
+2024-09-05 13:29:56 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:29:56 info: User input: Gaming
+2024-09-05 13:29:56 info: Response: Here are some recommended gaming PC sets:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: Intel Core i5-14400F
+   - **GPU**: Galax GeForce RTX 4060 Ti 8GB
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: Intel Core i5-12400F
+   - **GPU**: ASUS Dual GeForce RTX 4060 EVO OC Edition 8GB
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: Intel Core i5-13400F
+   - **GPU**: MSI GeForce RTX 4060 Ventus 2X Black 8G OC
+   - **Total Price**: 29,700 THB
+
+4. **COMPUTERSET JIB MARU-2408033**
+   - **CPU**: AMD Ryzen 5 5500
+   - **GPU**: Inno3D GeForce RTX 3050 6GB
+   - **Total Price**: 16,470 THB
+
+These sets are equipped with modern GPUs that can handle gaming at various settings, making them suitable for gaming enthusiasts. Let me know if you need more information or assistance with anything else! kubpom!
+2024-09-05 13:29:56 info: Check ToolCall : gaming
+2024-09-05 13:29:56 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:29:56 info: responseText Sucess load.
+2024-09-05 13:30:02 info: ________________________________________
+2024-09-05 13:30:02 info: Response summarized: Here are some recommended gaming PC sets:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: Intel Core i5-14400F
+   - **GPU**: Galax GeForce RTX 4060 Ti 8GB
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: Intel Core i5-12400F
+   - **GPU**: ASUS Dual GeForce RTX 4060 EVO OC Edition 8GB
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: Intel Core i5-13400F
+   - **GPU**: MSI GeForce RTX 4060 Ventus 2X Black 8G OC
+   - **Total Price**: 29,700 THB
+
+4. **COMPUTERSET JIB MARU-2408033**
+   - **CPU**: AMD Ryzen 5 5500
+   - **GPU**: Inno3D GeForce RTX 3050 6GB
+   - **Total Price**: 16,470 THB
+
+These sets are equipped with modern GPUs that can handle gaming at various settings, making them suitable for gaming enthusiasts. Let me know if you need more information or assistance with anything else! kubpom! 💻🎮🖥️
+2024-09-05 13:30:02 info: summaryResponse Sucess load.
+2024-09-05 13:30:02 info: Check LastToolCall in Function CheckToolCall : undefined
+2024-09-05 13:30:02 info: Tool call check result: undefined
+2024-09-05 13:33:49 info: 
+2024-09-05 13:33:52 info: ----------------------------------------
+2024-09-05 13:33:52 info: Server started and listening on port 8000
+2024-09-05 13:33:52 info: ----------------------------------------
+2024-09-05 13:33:56 info: Events received: [{"type":"message","message":{"type":"text","id":"524601282817425478","quoteToken":"DKIu2gXu63GQiSMdV4-KLWqm7DTj5oH-NqB-MllxPH2x6PkXluyriiafvYiqTyWUxH2oo6EEiG7tfxheIIUtdcuI8QYNh2wTV3MsRtHsND6d82EEcVmkfYxX0CF9riOMhwlEDKgglspOZsU4ndYU6A","text":"Hi"},"webhookEventId":"01J70E7EPPFA2V5AEX033BSZGP","deliveryContext":{"isRedelivery":false},"timestamp":1725518035162,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d3eb76f2738b405996f5d1f01a98aeff","mode":"active"}]
+2024-09-05 13:33:56 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:33:56 info: Agent initialized successfully
+2024-09-05 13:33:56 info: agent Sucess load.
+2024-09-05 13:33:59 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:33:59 info: User input: Hi
+2024-09-05 13:33:59 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:33:59 error: Error in agent chat: LastToolCall is not defined
+2024-09-05 13:33:59 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: LastToolCall is not defined
+2024-09-05 13:37:14 info: 
+2024-09-05 13:37:17 info: ----------------------------------------
+2024-09-05 13:37:17 info: Server started and listening on port 8000
+2024-09-05 13:37:17 info: ----------------------------------------
+2024-09-05 13:37:19 info: Events received: [{"type":"message","message":{"type":"text","id":"524601624703533411","quoteToken":"p3Cn7t-AHYLxmp0uDyYLl1RF7-MNz4wVPX84UyXgZh2VyqaUtIL1goEHqZ1LoaT7yKGwp3IaoKgkoAKCwbgsVTvzh4VCTDr4SO2JUv4BDidXnDEyzYB5t0UNLZV36R6hGOeRNHQRUKIVeR-EA6Zr4Q","text":"Hi"},"webhookEventId":"01J70EDNV3ZB0461SWYG5P2DJ1","deliveryContext":{"isRedelivery":false},"timestamp":1725518239079,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"eb3bf427cd45472f982bc5f42dc67974","mode":"active"}]
+2024-09-05 13:37:20 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:37:20 info: Agent initialized successfully
+2024-09-05 13:37:20 info: agent Sucess load.
+2024-09-05 13:37:22 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:37:22 info: User input: Hi
+2024-09-05 13:37:22 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:37:22 info: Check ToolCall : null
+2024-09-05 13:37:22 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:37:22 info: responseText Sucess load.
+2024-09-05 13:37:23 info: ________________________________________
+2024-09-05 13:37:23 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 13:37:23 info: summaryResponse Sucess load.
+2024-09-05 13:37:23 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: Checks is not defined
+2024-09-05 13:37:48 info: 
+2024-09-05 13:37:50 info: ----------------------------------------
+2024-09-05 13:37:50 info: Server started and listening on port 8000
+2024-09-05 13:37:50 info: ----------------------------------------
+2024-09-05 13:37:53 info: Events received: [{"type":"message","message":{"type":"text","id":"524601680587653284","quoteToken":"yeRHB5siiL3WYplsz3H03kWc40CImlfcEf49NXqXijx9HufvIJLHgTyUpXOic6CBAj9lNZQclpy2QZ0Nhf2ceII4qleHIkGtWBLq8-k-vlbURO2W9zWrBZV1O6PVapCAATDKHSDAHEHBrgEF0SG2og","text":"Hi"},"webhookEventId":"01J70EEP881B9CP8DR35F02B7Z","deliveryContext":{"isRedelivery":false},"timestamp":1725518272268,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f5d26f22c9be4954ac7e6347fbe2a657","mode":"active"}]
+2024-09-05 13:37:53 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:37:53 info: Agent initialized successfully
+2024-09-05 13:37:53 info: agent Sucess load.
+2024-09-05 13:37:55 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:37:55 info: User input: Hi
+2024-09-05 13:37:55 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:37:55 info: Check ToolCall : null
+2024-09-05 13:37:55 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:37:55 info: responseText Sucess load.
+2024-09-05 13:37:56 info: ________________________________________
+2024-09-05 13:37:56 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 13:37:56 info: summaryResponse Sucess load.
+2024-09-05 13:38:02 info: Events received: [{"type":"message","message":{"type":"text","id":"524601696022954121","quoteToken":"zPtQ9x6cnUfdJiuhOz0iHrlaFZUXFKuLtWRVbmDvSe2mVFg7LcJih02wVVqePi1BvGlj2L_A5MxD-o59mbQSPod1kswVe1T90SaubEvsMrRpbmpJanilWJG56pED_y8Esa1wCFrHxolJSVz41W0rTA","text":"Can recommend PC type to me."},"webhookEventId":"01J70EEZ2AK8G8KK7H0SMSR88F","deliveryContext":{"isRedelivery":false},"timestamp":1725518281514,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"85d21b8da6634a1fbf6f8ada2e05a99d","mode":"active"}]
+2024-09-05 13:38:02 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:38:02 info: agent Sucess load.
+2024-09-05 13:38:04 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:38:04 info: User input: Can recommend PC type to me.
+2024-09-05 13:38:04 info: Response: Could you please specify what you'll primarily use the PC for? For example, gaming, general use, work, or high-end tasks? This will help me recommend the best type for your needs. kubpom!
+2024-09-05 13:38:04 info: Check ToolCall : null
+2024-09-05 13:38:04 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:38:04 info: responseText Sucess load.
+2024-09-05 13:38:06 info: ________________________________________
+2024-09-05 13:38:06 info: Response summarized: Could you please specify what you'll primarily use the PC for? For example, gaming, general use, work, or high-end tasks? This will help me recommend the best type for your needs. kubpom! 💻🖥️⚙️
+2024-09-05 13:38:06 info: summaryResponse Sucess load.
+2024-09-05 13:38:11 info: Events received: [{"type":"message","message":{"type":"text","id":"524601712363962468","quoteToken":"l5LFT6mKdB28Rk60E5IGqqZZ1DpifXO0geYij5BnJMhcnbMX5t9OsfTVsJaqp9OA_5hU3zGIZKVTJO-iMxrtFpcGiUxDIaEjCxhfBhYhuKgYok5JPFWff7ybVz0hr-XF_QTJDMz_jB2AFyFTEvGztg","text":"Gaming PC"},"webhookEventId":"01J70EF8J1SAMGGR972PFXNMKC","deliveryContext":{"isRedelivery":false},"timestamp":1725518291220,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b8af9b70fb814fc98177b123a86e3bf9","mode":"active"}]
+2024-09-05 13:38:12 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:38:12 info: agent Sucess load.
+2024-09-05 13:38:14 info: ****************************************
+2024-09-05 13:38:14 info: Query Detection: Gaming PC
+2024-09-05 13:38:14 info: Tool Call: {
+  "id": "call_pustdw7vCxcbXPwZQvmXzvyj",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "Gaming PC"
+  }
+}
+2024-09-05 13:38:14 info: ****************************************
+2024-09-05 13:38:14 info: This is a LastToolCall but used CallbackManager : Gaming PC
+2024-09-05 13:38:30 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:38:30 info: User input: Gaming PC
+2024-09-05 13:38:30 info: Response: Here are some recommended gaming PC configurations:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) 3200MHz
+   - **SSD**: WD BLUE SN580 500GB NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: WD BLACK SN770 500GB NVMe M.2
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+These configurations are well-suited for gaming, featuring powerful CPUs and GPUs, sufficient RAM, and fast SSD storage. Let me know if you need more information or assistance! kubpom!
+2024-09-05 13:38:30 info: Check ToolCall : Gaming PC
+2024-09-05 13:38:30 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:38:30 info: responseText Sucess load.
+2024-09-05 13:38:36 info: ________________________________________
+2024-09-05 13:38:36 info: Response summarized: Here are some recommended gaming PC configurations:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) 3200MHz
+   - **SSD**: WD BLUE SN580 500GB NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: WD BLACK SN770 500GB NVMe M.2
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+These configurations are well-suited for gaming, featuring powerful CPUs and GPUs, sufficient RAM, and fast SSD storage. Let me know if you need more information or assistance! 💻🎮🖥️
+2024-09-05 13:38:36 info: summaryResponse Sucess load.
+2024-09-05 13:39:23 info: 
+2024-09-05 13:39:25 info: ----------------------------------------
+2024-09-05 13:39:25 info: Server started and listening on port 8000
+2024-09-05 13:39:25 info: ----------------------------------------
+2024-09-05 13:39:29 info: Events received: [{"type":"message","message":{"type":"text","id":"524601843142885841","quoteToken":"VjGP0VIFn6c3QITr50NTtwkR_wvlBJhtH5Si7eC0RPvsQCh36krbwvcjyIm4dl1Ij_y8nEA0nRUf_5u29cOidM7vhBtXzUNB9eQTvGOSNIzDEZjpfOI7mNSUcMD2Fit5K4mfLKFr3T8gWxD2XRDU6Q","text":"Hi"},"webhookEventId":"01J70EHMTGMZRMK54G5DWY5079","deliveryContext":{"isRedelivery":false},"timestamp":1725518369108,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2022c79bda34468ab2c6908b98216f5d","mode":"active"}]
+2024-09-05 13:39:30 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:39:30 info: Agent initialized successfully
+2024-09-05 13:39:30 info: agent Sucess load.
+2024-09-05 13:39:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:39:32 info: User input: Hi
+2024-09-05 13:39:32 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:39:32 info: Check ToolCall : null
+2024-09-05 13:39:32 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:39:32 info: responseText Sucess load.
+2024-09-05 13:39:32 info: Tool call check result: null
+2024-09-05 13:39:33 info: ________________________________________
+2024-09-05 13:39:33 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 13:39:33 info: summaryResponse Sucess load.
+2024-09-05 13:39:36 info: Events received: [{"type":"message","message":{"type":"text","id":"524601854668833105","quoteToken":"na9VmafR05-uemL4HLdbqHrvEVXQXksxGODRlLiIke8UkMbjyZx3u-xSlU2eS7nhnkkNkWXAflBkXcdsU-0t0gYpwEifc6bw4iuhjJtdxooG4mBvGIVMObn6N2fPXUCuwSHcg6NRrHhZF-dqarsiiA","text":"Can recommend PC type to me."},"webhookEventId":"01J70EHVFK7CN7BR1Z21WZPH1N","deliveryContext":{"isRedelivery":false},"timestamp":1725518375976,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a545964dfeb14340b82496b448eda013","mode":"active"}]
+2024-09-05 13:39:36 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:39:36 info: agent Sucess load.
+2024-09-05 13:39:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:39:38 info: User input: Can recommend PC type to me.
+2024-09-05 13:39:38 info: Response: Could you please specify what you'll primarily use the PC for? For example, gaming, general use, work, or high-end tasks? This will help me recommend the best type for your needs. kubpom!
+2024-09-05 13:39:38 info: Check ToolCall : null
+2024-09-05 13:39:38 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:39:38 info: responseText Sucess load.
+2024-09-05 13:39:38 info: Tool call check result: null
+2024-09-05 13:39:39 info: ________________________________________
+2024-09-05 13:39:39 info: Response summarized: Could you please specify what you'll primarily use the PC for? For example, gaming, general use, work, or high-end tasks? This will help me recommend the best type for your needs. kubpom! 💻🖥️⚙️
+2024-09-05 13:39:39 info: summaryResponse Sucess load.
+2024-09-05 13:39:44 info: Events received: [{"type":"message","message":{"type":"text","id":"524601867335369191","quoteToken":"xvKj5tPhoLWnbokmocGrezNpibo7VaGbBZXBVP4Zv_jP3-2maMLbvgg7Ex1wI1gN82SO30ZrtWjjZeQOd_DR7TlB_kfYO3pWply6gNU_lfiFm47SnFOsmEkYqmbgcvKUBjJ1SwVWfs4ZEewhv4BAlw","text":"Gaming"},"webhookEventId":"01J70EJ2WB23C0NKN4FZPV6S7T","deliveryContext":{"isRedelivery":false},"timestamp":1725518383706,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"722fd6c0dcfd417dab036cfbe4c8026d","mode":"active"}]
+2024-09-05 13:39:44 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:39:44 info: agent Sucess load.
+2024-09-05 13:39:46 info: ****************************************
+2024-09-05 13:39:46 info: Query Detection: gaming
+2024-09-05 13:39:46 info: Tool Call: {
+  "id": "call_ZL3MhoSxGnbw2FrBpieODpEk",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "gaming"
+  }
+}
+2024-09-05 13:39:46 info: ****************************************
+2024-09-05 13:39:46 info: This is a LastToolCall but used CallbackManager : gaming
+2024-09-05 13:39:54 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:39:54 info: User input: Gaming
+2024-09-05 13:39:54 info: Response: Here are some recommended gaming PC sets:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **Total Price**: 29,700 THB
+
+4. **COMPUTERSET JIB MARU-2408033**
+   - **CPU**: AMD RYZEN 5 5500 3.6 GHz
+   - **GPU**: INNO3D GEFORCE RTX 3050 6GB
+   - **Total Price**: 16,470 THB
+
+These sets feature powerful CPUs and GPUs that are well-suited for gaming, providing a good balance of performance and price. Let me know if you need more information or assistance! kubpom!
+2024-09-05 13:39:54 info: Check ToolCall : gaming
+2024-09-05 13:39:54 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:39:54 info: responseText Sucess load.
+2024-09-05 13:39:54 info: Tool call check result: null
+2024-09-05 13:39:59 info: ________________________________________
+2024-09-05 13:39:59 info: Response summarized: Here are some recommended gaming PC sets:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **Total Price**: 29,700 THB
+
+4. **COMPUTERSET JIB MARU-2408033**
+   - **CPU**: AMD RYZEN 5 5500 3.6 GHz
+   - **GPU**: INNO3D GEFORCE RTX 3050 6GB
+   - **Total Price**: 16,470 THB
+
+These sets feature powerful CPUs and GPUs that are well-suited for gaming, providing a good balance of performance and price. Let me know if you need more information or assistance! 💻🎮🖥️
+2024-09-05 13:39:59 info: summaryResponse Sucess load.
+2024-09-05 13:55:44 info: 
+2024-09-05 13:55:46 info: ----------------------------------------
+2024-09-05 13:55:46 info: Server started and listening on port 8000
+2024-09-05 13:55:46 info: ----------------------------------------
+2024-09-05 13:55:53 info: Events received: [{"type":"message","message":{"type":"text","id":"524603493684871506","quoteToken":"PTDazmTG7iKByVAVH5f26SycM5Ll_pGIBdfs2b71i05gZ_0bomm_QjN57uJ05GudIWr-yWRa-KFAC0c5MapNH6q0-urJjyHXP_EPiUVtLMUXwOPNjrC3dPhqngcaEKPuqJMzV77qiK_tyYLRqHiddQ","text":"hi"},"webhookEventId":"01J70FFN95CXJS1HAT138N62DN","deliveryContext":{"isRedelivery":false},"timestamp":1725519352927,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6a7f00f3cf784b1b9dfe61d4ab27b333","mode":"active"}]
+2024-09-05 13:55:53 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:55:54 info: Agent initialized successfully
+2024-09-05 13:55:54 info: agent Sucess load.
+2024-09-05 13:55:55 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:55:55 info: User input: hi
+2024-09-05 13:55:55 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:55:55 info: Check ToolCall : 
+2024-09-05 13:55:55 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:55:55 info: my context is : [object Promise]
+2024-09-05 13:55:55 info: responseText Sucess load.
+2024-09-05 13:55:55 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: LastToolCall is not defined
+2024-09-05 13:56:11 info: Events received: [{"type":"message","message":{"type":"text","id":"524603522625568820","quoteToken":"GGOqweNnYGeM1aMROM7JJOdbMDs3wLavFtv00R9mqAsI1ku7eYIDoAr0lpZprS9mcYwihKCX1WlncWq-3jp8rizWyFTmDQuZCpjWXLUDV4gaKkE8hK3VDgPRnqDyLM4kqOQxi5l56oY4Sbm_tpKM6w","text":"hi"},"webhookEventId":"01J70FG6DG9N3AS7QNT7F6P3XC","deliveryContext":{"isRedelivery":false},"timestamp":1725519370164,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7334237c2bcb46af83dc0c3200447420","mode":"active"}]
+2024-09-05 13:56:11 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:56:11 info: agent Sucess load.
+2024-09-05 13:56:15 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:56:15 info: User input: hi
+2024-09-05 13:56:15 info: Response: Hello again! How can I help you today? kubpom!
+2024-09-05 13:56:15 info: Check ToolCall : 
+2024-09-05 13:56:15 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:56:15 info: my context is : [object Promise]
+2024-09-05 13:56:15 info: responseText Sucess load.
+2024-09-05 13:56:15 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: LastToolCall is not defined
+2024-09-05 13:57:56 info: 
+2024-09-05 13:57:59 info: ----------------------------------------
+2024-09-05 13:57:59 info: Server started and listening on port 8000
+2024-09-05 13:57:59 info: ----------------------------------------
+2024-09-05 13:58:06 info: Events received: [{"type":"message","message":{"type":"text","id":"524603714825879682","quoteToken":"AZw5jq6vxp7hpn9ibRcUj4PzUGsPNDFY5IimlF5TgAErg1y5CUNcUQyTyfXKrFYLbex3Bm6FIvxwSljzDzDa7VYlHRR4ZOuddmtdw6oIXie6cEe0Dgw_XGlwrx2ISE-ZkBCL1050crN__QwVl6YyGg","text":"hi"},"webhookEventId":"01J70FKP1ECG158T1491WSS3H6","deliveryContext":{"isRedelivery":false},"timestamp":1725519484757,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"de69fcb87716462bb74a04ce287b8f8f","mode":"active"}]
+2024-09-05 13:58:06 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:58:07 info: Agent initialized successfully
+2024-09-05 13:58:07 info: agent Sucess load.
+2024-09-05 13:58:09 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:58:09 info: User input: hi
+2024-09-05 13:58:09 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:58:09 info: Check ToolCall : 
+2024-09-05 13:58:09 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:58:09 info: my context is : [object Promise]
+2024-09-05 13:58:09 info: responseText Sucess load.
+2024-09-05 13:58:09 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: LastToolCall is not defined
+2024-09-05 13:58:36 info: 
+2024-09-05 13:58:39 info: ----------------------------------------
+2024-09-05 13:58:39 info: Server started and listening on port 8000
+2024-09-05 13:58:39 info: ----------------------------------------
+2024-09-05 13:58:42 info: Events received: [{"type":"message","message":{"type":"text","id":"524603777437925838","quoteToken":"QLlEPkpzxBJLOYg9N-AIFLdEa6T154PoSUOcdXsqla1-9rru1s275e3zM73AHm-7Va0ldAPccwcaP2CIef5yfLsasemEp8USDDWrbT5NZ1tLW6wU0o5n3soXKBbUEmeL7fYjYhd2xNsA6zmBEVQEXg","text":"hi"},"webhookEventId":"01J70FMTS698BPRBY7G5R3Q93M","deliveryContext":{"isRedelivery":false},"timestamp":1725519522166,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7571399d208848edabb55eff71722f41","mode":"active"}]
+2024-09-05 13:58:43 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:58:43 info: Agent initialized successfully
+2024-09-05 13:58:43 info: agent Sucess load.
+2024-09-05 13:58:44 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:58:44 info: User input: hi
+2024-09-05 13:58:44 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:58:44 info: Check ToolCall : 
+2024-09-05 13:58:44 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:58:44 info: my context is : [object Promise]
+2024-09-05 13:58:44 info: responseText Sucess load.
+2024-09-05 13:58:44 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: LastToolCall is not defined
+2024-09-05 13:59:29 info: 
+2024-09-05 13:59:31 info: ----------------------------------------
+2024-09-05 13:59:31 info: Server started and listening on port 8000
+2024-09-05 13:59:31 info: ----------------------------------------
+2024-09-05 13:59:35 info: Events received: [{"type":"message","message":{"type":"text","id":"524603866709753922","quoteToken":"ITA-pakUyNQe7HP8pWFaraw-rU3VuCzlRdTWjDL2z7uQ8N-9IL4z4WQwWZ8Q5MtKdQazZnQyGIghSUh_aXp-u1YrUV4YQpZ3iddtcD06lbinjSu3PdLfpC_HE1QBVCmsoIad6yDsdkYMv0d1Pl8Kiw","text":"hi"},"webhookEventId":"01J70FPE9G21S48R1XDRFWRBK1","deliveryContext":{"isRedelivery":false},"timestamp":1725519575243,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"c2a91583f1a4431c89696c5f92b76e13","mode":"active"}]
+2024-09-05 13:59:35 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 13:59:35 info: Agent initialized successfully
+2024-09-05 13:59:35 info: agent Sucess load.
+2024-09-05 13:59:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:59:37 info: User input: hi
+2024-09-05 13:59:37 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 13:59:37 info: Check ToolCall : 
+2024-09-05 13:59:37 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 13:59:37 info: my context is : [object Promise]
+2024-09-05 13:59:37 info: responseText Sucess load.
+2024-09-05 13:59:37 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: LastToolCall is not defined
+2024-09-05 13:59:56 info: 
+2024-09-05 13:59:59 info: ----------------------------------------
+2024-09-05 13:59:59 info: Server started and listening on port 8000
+2024-09-05 13:59:59 info: ----------------------------------------
+2024-09-05 14:00:02 info: Events received: [{"type":"message","message":{"type":"text","id":"524603911438074209","quoteToken":"TqY4aFvaWtc20f9epDi0TyPhRI2ThxYkRFSjfl9MMWu24diQhGPADvbeRPCev6kF1FWMpFGIf6YZRTMrDGHU3lkFkScio9od5HXNgypzLIk350kHtUJAhGmK2oUU1JlLvN8FASfFk-x9o_EbrBGIyw","text":"hi"},"webhookEventId":"01J70FQ8M07QYPRFE6YPGK8QQ9","deliveryContext":{"isRedelivery":false},"timestamp":1725519601905,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7a1ecc7d749e4e769b803f07860e4961","mode":"active"}]
+2024-09-05 14:00:03 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:00:03 info: Agent initialized successfully
+2024-09-05 14:00:03 info: agent Sucess load.
+2024-09-05 14:00:04 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:00:04 info: User input: hi
+2024-09-05 14:00:04 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 14:00:04 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:00:04 info: my context is : [object Promise]
+2024-09-05 14:00:04 info: responseText Sucess load.
+2024-09-05 14:00:04 error: Error getting or processing response for userId: U0bfc5d4a8094604989d2a42a407db1f1, error: LastToolCall is not defined
+2024-09-05 14:01:05 info: 
+2024-09-05 14:01:08 info: ----------------------------------------
+2024-09-05 14:01:08 info: Server started and listening on port 8000
+2024-09-05 14:01:08 info: ----------------------------------------
+2024-09-05 14:01:11 info: Events received: [{"type":"message","message":{"type":"text","id":"524604026949206407","quoteToken":"0b7-FwVMT2ZX7AWCw3m-z2asgZWCYmOJNYTRFg7gOd3SNbt1etOiiINmSsAcV0JO0n-RFsdE0lGmZcw-wrUiVjLLqXtsFPoWHWNzCpmGOi3OPuA3TgnuwXuQYlkTaKamPsqIY2KsUdhTq5ijDXfa5w","text":"hi"},"webhookEventId":"01J70FSBRZX45MBMS949PXT3TM","deliveryContext":{"isRedelivery":false},"timestamp":1725519670841,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"da3a92b7b4664beb9c05a3be3723b148","mode":"active"}]
+2024-09-05 14:01:11 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:01:12 info: Agent initialized successfully
+2024-09-05 14:01:12 info: agent Sucess load.
+2024-09-05 14:01:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:01:13 info: User input: hi
+2024-09-05 14:01:13 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 14:01:13 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:01:13 info: my context is : [object Promise]
+2024-09-05 14:01:13 info: responseText Sucess load.
+2024-09-05 14:01:14 info: ________________________________________
+2024-09-05 14:01:14 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 14:01:14 info: summaryResponse Sucess load.
+2024-09-05 14:01:25 info: Events received: [{"type":"message","message":{"type":"text","id":"524604050051433076","quoteToken":"AutFbdMwGtExrMhxLvudT3EPtVVlu52-dQl50un8rhkzq0DXNHq_LgE2H-B64QEVx-xEtCxRlEwq8sAi3UbdswXpg-Qv3ec5s3kSIPHmLUMsT4uY5xXEjQVYcxzRlnxxRJeOzXwlKWrnmEU3PbDLEA","text":"i want pc"},"webhookEventId":"01J70FSSCB78FRCMX4KGRY561J","deliveryContext":{"isRedelivery":false},"timestamp":1725519684707,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ae2b7a30aa944877bd54b12cd43253e7","mode":"active"}]
+2024-09-05 14:01:25 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:01:25 info: agent Sucess load.
+2024-09-05 14:01:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:01:27 info: User input: i want pc
+2024-09-05 14:01:27 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specs! kubpom!
+2024-09-05 14:01:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:01:27 info: my context is : [object Promise]
+2024-09-05 14:01:27 info: responseText Sucess load.
+2024-09-05 14:01:29 info: ________________________________________
+2024-09-05 14:01:29 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specs! kubpom! 💻🖥️🔧
+2024-09-05 14:01:29 info: summaryResponse Sucess load.
+2024-09-05 14:01:42 info: Events received: [{"type":"message","message":{"type":"text","id":"524604078488813905","quoteToken":"T6eX-7h8Z1ZZHPWW_hklYyZffFGjF8u1Ol3tWafxhNJJJ5bj8Ep5dJYzewuwyX9W36LIA8f2_py_Se2cDXxyfv7mX-CWHyGMwV-Vok-3vl0n_jCIaHO303w1sVpeNDWtMrLLaWMJrbX-FqMKAxc5hQ","text":"general-use PC"},"webhookEventId":"01J70FT9PP0J1SDTKVJCRKJW16","deliveryContext":{"isRedelivery":false},"timestamp":1725519701478,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"fc9404ee2a614edbbae8cf63ebb90461","mode":"active"}]
+2024-09-05 14:01:42 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:01:42 info: agent Sucess load.
+2024-09-05 14:01:44 info: ****************************************
+2024-09-05 14:01:44 info: Query Detection: general-use PC
+2024-09-05 14:01:44 info: Tool Call: {
+  "id": "call_ZM1L6LzitMcbClMQRrgckkxN",
+  "name": "vector_index_Type_PC_-_Type_General_Use_-_Computer_Set",
+  "input": {
+    "query": "general-use PC"
+  }
+}
+2024-09-05 14:01:44 info: ****************************************
+2024-09-05 14:01:54 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:01:54 info: User input: general-use PC
+2024-09-05 14:01:54 info: Response: Here are some options for a general-use PC:
+
+1. **COMPUTERSET JIB MARU-2408009**
+   - **CPU:** AMD RYZEN 3 3200G 3.6 GHz
+   - **RAM:** 8GB DDR4
+   - **SSD:** 250 GB
+   - **Total Price:** 8,200 THB
+
+2. **COMPUTERSET JIB MARU-2408001**
+   - **CPU:** AMD RYZEN 5 4600G 3.7 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 250 GB
+   - **Total Price:** 10,200 THB
+
+3. **COMPUTERSET JIB MARU-2408006**
+   - **CPU:** INTEL CORE I3-12100 3.3 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 500 GB
+   - **Total Price:** 11,410 THB
+
+4. **COMPUTERSET JIB MARU-2408010**
+   - **CPU:** AMD RYZEN 5 5600G 3.9 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 500 GB
+   - **Total Price:** 12,230 THB
+
+These options provide a good balance of performance for tasks like web browsing, office applications, and media consumption. You can choose based on your budget and specific needs! Let me know if you need more information or assistance! kubpom!
+2024-09-05 14:01:54 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:01:54 info: my context is : [object Promise]
+2024-09-05 14:01:54 info: responseText Sucess load.
+2024-09-05 14:02:01 info: ________________________________________
+2024-09-05 14:02:01 info: Response summarized: Here are some options for a general-use PC:
+
+1. **COMPUTERSET JIB MARU-2408009**
+   - **CPU:** AMD RYZEN 3 3200G 3.6 GHz
+   - **RAM:** 8GB DDR4
+   - **SSD:** 250 GB
+   - **Total Price:** 8,200 THB
+
+2. **COMPUTERSET JIB MARU-2408001**
+   - **CPU:** AMD RYZEN 5 4600G 3.7 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 250 GB
+   - **Total Price:** 10,200 THB
+
+3. **COMPUTERSET JIB MARU-2408006**
+   - **CPU:** INTEL CORE I3-12100 3.3 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 500 GB
+   - **Total Price:** 11,410 THB
+
+4. **COMPUTERSET JIB MARU-2408010**
+   - **CPU:** AMD RYZEN 5 5600G 3.9 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 500 GB
+   - **Total Price:** 12,230 THB
+
+These options provide a good balance of performance for tasks like web browsing, office applications, and media consumption. You can choose based on your budget and specific needs! Let me know if you need more information or assistance! kubpom! 💻🖥️🔧
+2024-09-05 14:02:01 info: summaryResponse Sucess load.
+2024-09-05 14:04:52 info: 
+2024-09-05 14:04:55 info: ----------------------------------------
+2024-09-05 14:04:55 info: Server started and listening on port 8000
+2024-09-05 14:04:55 info: ----------------------------------------
+2024-09-05 14:05:01 info: Events received: [{"type":"message","message":{"type":"text","id":"524604413278158965","quoteToken":"rYUfaz3Jj4OfdZVaIJ37ZaMOn0gj2Si8LJ2WAgmWVT4oG4IZgqGScKeallCaghVuj1JB04sItlUx3nSwp_E1-H8FByv4C8_XSKB2mvdOQJt-0KiXNZjbeun13awvCfsox1d3xKJTYMj5XhmD_vcmIw","text":"hi"},"webhookEventId":"01J70G0CH702NKPHNJ287SGSY4","deliveryContext":{"isRedelivery":false},"timestamp":1725519901061,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"b492dffcd1ba498fab85fb5faad1be0a","mode":"active"}]
+2024-09-05 14:05:01 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:05:02 info: Agent initialized successfully
+2024-09-05 14:05:02 info: agent Sucess load.
+2024-09-05 14:05:03 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:05:03 info: User input: hi
+2024-09-05 14:05:03 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 14:05:03 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:05:03 info: my context is : 
+2024-09-05 14:05:03 info: responseText Sucess load.
+2024-09-05 14:05:03 info: ________________________________________
+2024-09-05 14:05:03 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 14:05:03 info: summaryResponse Sucess load.
+2024-09-05 14:05:10 info: Events received: [{"type":"message","message":{"type":"text","id":"524604427387797601","quoteToken":"F5SmLVJeYjkJFSisKGLXP7xmofZnJdMAVQfLP-h22wxICx--dyX-w8xfGmPf1Q49-IgzvBs84vN47f2wcJBcSUHT_Q6fbZIGK-kg-aidIKWFWIgyZEbRq6etrScXqcCX0TteLXk2Jdi_eP-lqndQjg","text":"i want pc"},"webhookEventId":"01J70G0N1H7H3VGYW9N07WYZF2","deliveryContext":{"isRedelivery":false},"timestamp":1725519909431,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"4116a5bd3d9941e09fe17d9a80573e40","mode":"active"}]
+2024-09-05 14:05:13 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:05:13 info: agent Sucess load.
+2024-09-05 14:05:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:05:17 info: User input: i want pc
+2024-09-05 14:05:17 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-05 14:05:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:05:17 info: my context is : 
+2024-09-05 14:05:17 info: responseText Sucess load.
+2024-09-05 14:05:18 info: ________________________________________
+2024-09-05 14:05:18 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom! 💻🖥️🔧
+2024-09-05 14:05:18 info: summaryResponse Sucess load.
+2024-09-05 14:05:24 info: Events received: [{"type":"message","message":{"type":"text","id":"524604451094004114","quoteToken":"TPQl64Vf02rz7gucgNzqbycI2IWu9RM46eAuaHsoXeDVyuOskL9T3ULqyployRT14iKzKn_gsXdSYqUTwsYEl0sWtY70Ch4lLH0MZ6SAk4mbsxlPH8IhHDFOGoCDJsZZ4oeeQ0XWmGh4g8FuGhB5zQ","text":"general-use PC"},"webhookEventId":"01J70G12K7SJQPGNA1WJ7FRSXE","deliveryContext":{"isRedelivery":false},"timestamp":1725519923594,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"4984006dba364707bff67daa4c5572ab","mode":"active"}]
+2024-09-05 14:05:24 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:05:24 info: agent Sucess load.
+2024-09-05 14:05:25 info: ****************************************
+2024-09-05 14:05:25 info: Query Detection: general-use PC
+2024-09-05 14:05:25 info: Tool Call: {
+  "id": "call_jELN9aGulrD3y4rVz7DCe56O",
+  "name": "vector_index_Type_PC_-_Type_General_Use_-_Computer_Set",
+  "input": {
+    "query": "general-use PC"
+  }
+}
+2024-09-05 14:05:25 info: ****************************************
+2024-09-05 14:05:34 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:05:34 info: User input: general-use PC
+2024-09-05 14:05:34 info: Response: Here are some options for a general-use PC:
+
+1. **COMPUTERSET JIB MARU-2408001**
+   - **CPU:** AMD RYZEN 5 4600G 3.7 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 250 GB
+   - **Total Price:** 10,200 THB
+
+2. **COMPUTERSET JIB MARU-2408006**
+   - **CPU:** INTEL CORE I3-12100 3.3 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 500 GB
+   - **Total Price:** 11,410 THB
+
+3. **COMPUTERSET JIB MARU-2408053**
+   - **CPU:** AMD RYZEN 5 8500G
+   - **RAM:** 16GB DDR5
+   - **SSD:** 500 GB
+   - **Total Price:** 17,700 THB
+
+4. **COMPUTERSET JIB MARU-2408005**
+   - **CPU:** INTEL CORE I5-10400 2.9 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 500 GB
+   - **Total Price:** 12,140 THB
+
+These options provide a good balance of performance for tasks like web browsing, office applications, and media consumption. You can choose based on your budget and preferences! Let me know if you need more information or assistance! kubpom!
+2024-09-05 14:05:34 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:05:34 info: my context is : general-use PC
+2024-09-05 14:05:34 info: responseText Sucess load.
+2024-09-05 14:05:37 info: ________________________________________
+2024-09-05 14:05:37 info: Response summarized: Here are some options for a general-use PC:
+
+1. **COMPUTERSET JIB MARU-2408001**
+   - **CPU:** AMD RYZEN 5 4600G 3.7 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 250 GB
+   - **Total Price:** 10,200 THB
+
+2. **COMPUTERSET JIB MARU-2408006**
+   - **CPU:** INTEL CORE I3-12100 3.3 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 500 GB
+   - **Total Price:** 11,410 THB
+
+3. **COMPUTERSET JIB MARU-2408053**
+   - **CPU:** AMD RYZEN 5 8500G
+   - **RAM:** 16GB DDR5
+   - **SSD:** 500 GB
+   - **Total Price:** 17,700 THB
+
+4. **COMPUTERSET JIB MARU-2408005**
+   - **CPU:** INTEL CORE I5-10400 2.9 GHz
+   - **RAM:** 16GB DDR4
+   - **SSD:** 500 GB
+   - **Total Price:** 12,140 THB
+
+These options provide a good balance of performance for tasks like web browsing, office applications, and media consumption. You can choose based on your budget and preferences! Let me know if you need more information or assistance! 💻🖥️🔧
+2024-09-05 14:05:37 info: summaryResponse Sucess load.
+2024-09-05 14:10:31 info: 
+2024-09-05 14:10:34 info: ----------------------------------------
+2024-09-05 14:10:34 info: Server started and listening on port 8000
+2024-09-05 14:10:34 info: ----------------------------------------
+2024-09-05 14:10:41 info: Events received: [{"type":"message","message":{"type":"text","id":"524604983032414693","quoteToken":"pl9XwKFoQP-suSK1Cb3WQ_twJfoj60CqhiFsOy-7Rhh2rJRySsUss0GFByy7SO5I54D71NBZsQeB1e9wq_PoTHpKrecY3f49wMIDmBSa4ISH_qXsQJq3EllLIInjW472TuEDUOKI3wX3DJ8ezNvIKw","text":"hi"},"webhookEventId":"01J70GARKZCKPS6E4DBTBD83J4","deliveryContext":{"isRedelivery":false},"timestamp":1725520240773,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7f3ff0db5e7549de8c3024c54522017a","mode":"active"}]
+2024-09-05 14:10:42 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:10:42 info: Agent initialized successfully
+2024-09-05 14:10:42 info: agent Sucess load.
+2024-09-05 14:10:44 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:10:44 info: User input: hi
+2024-09-05 14:10:44 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 14:10:44 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:10:44 info: my context is : no mention
+2024-09-05 14:10:44 info: responseText Sucess load.
+2024-09-05 14:10:44 info: ________________________________________
+2024-09-05 14:10:44 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 14:10:44 info: summaryResponse Sucess load.
+2024-09-05 14:10:50 info: Events received: [{"type":"message","message":{"type":"text","id":"524604998668517412","quoteToken":"Wn8iXkBrUz_4LLIwKhNyqoM6mq7tUL8DX_Gvnjuee0CfdN2D3Wyb0nsVJqEufiqN1wyuqG1byQy2sA8zDXPM00249uAefyX6kjRr2CEPt6a52nVWKkkeUzr5jW4gbrrgEAQv15lYMT-nVQpCvKTpbw","text":"i want pc"},"webhookEventId":"01J70GB1R61KXZ0AMYKSZ76MQ1","deliveryContext":{"isRedelivery":false},"timestamp":1725520250104,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f4ac5d3efb6844f7ab9dd6cdb51b7749","mode":"active"}]
+2024-09-05 14:10:51 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:10:51 info: agent Sucess load.
+2024-09-05 14:10:53 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:10:53 info: User input: i want pc
+2024-09-05 14:10:53 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I can help you assemble the specs! kubpom!
+2024-09-05 14:10:53 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:10:53 info: my context is : no mention
+2024-09-05 14:10:53 info: responseText Sucess load.
+2024-09-05 14:10:54 info: ________________________________________
+2024-09-05 14:10:54 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I can help you assemble the specs! kubpom! 💻🖥️🔧
+2024-09-05 14:10:54 info: summaryResponse Sucess load.
+2024-09-05 14:11:03 info: Events received: [{"type":"message","message":{"type":"text","id":"524605020244017266","quoteToken":"TNT2SWGEUrB_HREdXDXkASGgHtBlQiM1bGWd35GJT1gjrLSUQfxAqDPUbgehmDfqcZBS3ih13q3K28RgSupRBa7iNh2V_KiVthiQffTxMGQRbb0oUGYkOqurp7HGii6JSjXhTpvcZC23e228FkEa-Q","text":"a general-use PC"},"webhookEventId":"01J70GBE6498QWA48JSGY8BGQZ","deliveryContext":{"isRedelivery":false},"timestamp":1725520262854,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"3ae09d7824bc439db51af06a6a730f9a","mode":"active"}]
+2024-09-05 14:11:04 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:11:04 info: agent Sucess load.
+2024-09-05 14:11:06 info: ****************************************
+2024-09-05 14:11:06 info: Query Detection: general-use PC
+2024-09-05 14:11:06 info: Tool Call: {
+  "id": "call_wJEtJ0WfPQMGoov6WQVlyrid",
+  "name": "vector_index_Type_PC_-_Type_General_Use_-_Computer_Set",
+  "input": {
+    "query": "general-use PC"
+  }
+}
+2024-09-05 14:11:06 info: ****************************************
+2024-09-05 14:11:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:11:17 info: User input: a general-use PC
+2024-09-05 14:11:17 info: Response: Here are some options for a general-use PC:
+
+1. **COMPUTERSET JIB MARU-2408009**
+   - **CPU**: AMD RYZEN 3 3200G 3.6 GHz
+   - **RAM**: 8GB DDR4
+   - **SSD**: 250 GB
+   - **Total Price**: 8,200 THB
+
+2. **COMPUTERSET JIB MARU-2408001**
+   - **CPU**: AMD RYZEN 5 4600G 3.7 GHz
+   - **RAM**: 16GB DDR4
+   - **SSD**: 250 GB
+   - **Total Price**: 10,200 THB
+
+3. **COMPUTERSET JIB MARU-2408006**
+   - **CPU**: INTEL CORE I3-12100 3.3 GHz
+   - **RAM**: 16GB DDR4
+   - **SSD**: 500 GB
+   - **Total Price**: 11,410 THB
+
+4. **COMPUTERSET JIB MARU-2408010**
+   - **CPU**: AMD RYZEN 5 5600G 3.9 GHz
+   - **RAM**: 16GB DDR4
+   - **SSD**: 500 GB
+   - **Total Price**: 12,230 THB
+
+5. **COMPUTERSET JIB MARU-2408053**
+   - **CPU**: AMD RYZEN 5 8500G
+   - **RAM**: 16GB DDR5
+   - **SSD**: 500 GB
+   - **Total Price**: 17,700 THB
+
+These options provide a good balance of performance for tasks like web browsing, office applications, and media consumption. You can choose based on your budget and performance needs! Let me know if you need more information or assistance! kubpom!
+2024-09-05 14:11:17 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:11:17 info: my context is : general-use PC
+2024-09-05 14:11:17 info: responseText Sucess load.
+2024-09-05 14:11:22 info: ________________________________________
+2024-09-05 14:11:22 info: Response summarized: Here are some options for a general-use PC:
+
+1. **COMPUTERSET JIB MARU-2408009**
+   - **CPU**: AMD RYZEN 3 3200G 3.6 GHz
+   - **RAM**: 8GB DDR4
+   - **SSD**: 250 GB
+   - **Total Price**: 8,200 THB
+
+2. **COMPUTERSET JIB MARU-2408001**
+   - **CPU**: AMD RYZEN 5 4600G 3.7 GHz
+   - **RAM**: 16GB DDR4
+   - **SSD**: 250 GB
+   - **Total Price**: 10,200 THB
+
+3. **COMPUTERSET JIB MARU-2408006**
+   - **CPU**: INTEL CORE I3-12100 3.3 GHz
+   - **RAM**: 16GB DDR4
+   - **SSD**: 500 GB
+   - **Total Price**: 11,410 THB
+
+4. **COMPUTERSET JIB MARU-2408010**
+   - **CPU**: AMD RYZEN 5 5600G 3.9 GHz
+   - **RAM**: 16GB DDR4
+   - **SSD**: 500 GB
+   - **Total Price**: 12,230 THB
+
+5. **COMPUTERSET JIB MARU-2408053**
+   - **CPU**: AMD RYZEN 5 8500G
+   - **RAM**: 16GB DDR5
+   - **SSD**: 500 GB
+   - **Total Price**: 17,700 THB
+
+These options provide a good balance of performance for tasks like web browsing, office applications, and media consumption. You can choose based on your budget and performance needs! Let me know if you need more information or assistance! kubpom! 💻🖥️🔧
+2024-09-05 14:11:22 info: summaryResponse Sucess load.
+2024-09-05 14:13:30 info: 
+2024-09-05 14:13:34 info: ----------------------------------------
+2024-09-05 14:13:34 info: Server started and listening on port 8000
+2024-09-05 14:13:34 info: ----------------------------------------
+2024-09-05 14:13:45 info: Events received: [{"type":"message","message":{"type":"text","id":"524605291078877457","quoteToken":"wXmlONopfEjPPR6MH-EH6U50DFkCiD2BNnRLJFE3FeKabQwENBmoDnkE2_zO7RSLe1y9xcNrR7HpbapgyhTfTRuwNeX5LZrg9icURvzmEWpawdK1NZ7azENWCIqf3AuwuOcAAWXiA3mMCGdi0Gt-2g","text":"Hi"},"webhookEventId":"01J70GGBSA8QZRRS127W7NSYJ5","deliveryContext":{"isRedelivery":false},"timestamp":1725520424235,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"869d7c749a94408aaeab8ba956c22362","mode":"active"}]
+2024-09-05 14:13:45 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:13:45 info: Agent initialized successfully
+2024-09-05 14:13:45 info: agent Sucess load.
+2024-09-05 14:13:46 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:13:46 info: User input: Hi
+2024-09-05 14:13:46 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 14:13:46 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:13:46 info: my context is : no mention
+2024-09-05 14:13:46 info: responseText Sucess load.
+2024-09-05 14:13:48 info: ________________________________________
+2024-09-05 14:13:48 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 14:13:48 info: summaryResponse Sucess load.
+2024-09-05 14:13:54 info: Events received: [{"type":"message","message":{"type":"text","id":"524605308090188274","quoteToken":"BT6NlTkHNzmePdf_h3x2XcfZXw8-Co-2SzWAuw3Zog9LCQpVcB11zhspcur73CNEwQeNVEMwCU7ZQeIgYC27mgV7OL7YJybz6CDltjmYnPeKUUkK1SuWXx_2eIu0SuNZJu5OixRnTYXZSW1MPxQEHQ","text":"I want PC"},"webhookEventId":"01J70GGNEP6DTHMN7A6584RQ8S","deliveryContext":{"isRedelivery":false},"timestamp":1725520434406,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"20d9cceab98146f28acacfc441e89a9c","mode":"active"}]
+2024-09-05 14:13:55 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:13:55 info: agent Sucess load.
+2024-09-05 14:13:57 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:13:57 info: User input: I want PC
+2024-09-05 14:13:57 info: Response: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-05 14:13:57 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:13:57 info: my context is : no mention
+2024-09-05 14:13:57 info: responseText Sucess load.
+2024-09-05 14:13:58 info: ________________________________________
+2024-09-05 14:13:58 info: Response summarized: Could you please specify what type of PC you are looking for? For example, are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom! 💻🖥️🔧
+2024-09-05 14:13:58 info: summaryResponse Sucess load.
+2024-09-05 14:14:59 info: 
+2024-09-05 14:15:01 info: ----------------------------------------
+2024-09-05 14:15:01 info: Server started and listening on port 8000
+2024-09-05 14:15:01 info: ----------------------------------------
+2024-09-05 14:15:12 info: Events received: [{"type":"message","message":{"type":"text","id":"524605437460087157","quoteToken":"0XOUZ398nijJBSALjggwPKHRRFah7FhemgalpWxKVlcfHGLjiWMJh-NHOL54rp8fNWUMpUoNweSbJqH1dBUrAVb2o7XA0ETb7k7xO9EEFG9CVpdeh7AMwqnt3J7uwcBjbUFA2wq7IzHxvul6ZDVMrg","text":"Hi"},"webhookEventId":"01J70GK1818MYN243C77WGGZHT","deliveryContext":{"isRedelivery":false},"timestamp":1725520511685,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"ecc0845d049e4e38861aa63fbfb12d8c","mode":"active"}]
+2024-09-05 14:15:13 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:15:13 info: Agent initialized successfully
+2024-09-05 14:15:13 info: agent Sucess load.
+2024-09-05 14:15:15 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:15:15 info: User input: Hi
+2024-09-05 14:15:15 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 14:15:15 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:15:15 info: my context is : no mention
+2024-09-05 14:15:15 info: responseText Sucess load.
+2024-09-05 14:15:16 info: ________________________________________
+2024-09-05 14:15:16 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 14:15:16 info: summaryResponse Sucess load.
+2024-09-05 14:15:20 info: Events received: [{"type":"message","message":{"type":"text","id":"524605451585978997","quoteToken":"Xnr7MsC3aKPGI-jPW0wBQQn38W9zG95ZfZxDOVLWlTNHKYl4gRKl16s-acA8WDNoRF-sa47Wj5Gct7IBXjiGTrWXXNx9LtoSPaxfj41ta6uKhRmA2lDgut49YVx451xnwGzoyfwfPl1wFLrbCURfVQ","text":"I want PC"},"webhookEventId":"01J70GK91PXHPJS02Q3P8SPCHM","deliveryContext":{"isRedelivery":false},"timestamp":1725520519990,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"418ce35228ad4ef7a9395badf4057302","mode":"active"}]
+2024-09-05 14:15:20 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:15:20 info: agent Sucess load.
+2024-09-05 14:15:23 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:15:23 info: User input: I want PC
+2024-09-05 14:15:23 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom!
+2024-09-05 14:15:23 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:15:23 info: my context is : no mention
+2024-09-05 14:15:23 info: responseText Sucess load.
+2024-09-05 14:15:24 info: ________________________________________
+2024-09-05 14:15:24 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the specs! kubpom! 💻🖥️🔧
+2024-09-05 14:15:24 info: summaryResponse Sucess load.
+2024-09-05 14:15:36 info: Events received: [{"type":"message","message":{"type":"text","id":"524605477272158595","quoteToken":"1OGMnFbI7NXiWwoLHFFOs-EZNogHdfj8aOYbYDXuhzJ81WLngOPizLDyFM6qoOsMlNGfEo_gUtM1F7RYrQhkOQ_XnO_3CplgGEUWWXAlYaBgpCmEC6WM83MuM9Kum1RzXKwVh85Iyc9YanG3TpiaSQ","text":"Can recommend to me."},"webhookEventId":"01J70GKR108TSNR5H82S15ZQH1","deliveryContext":{"isRedelivery":false},"timestamp":1725520535395,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"d2217c53018f4c3aa99f761e607d1023","mode":"active"}]
+2024-09-05 14:15:38 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:15:38 info: agent Sucess load.
+2024-09-05 14:15:40 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:15:40 info: User input: Can recommend to me.
+2024-09-05 14:15:40 info: Response: Could you please specify what you'll primarily use the PC for? For example, gaming, general use, work, or something else? This will help me recommend the best components for your needs. kubpom!
+2024-09-05 14:15:40 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:15:40 info: my context is : no mention
+2024-09-05 14:15:40 info: responseText Sucess load.
+2024-09-05 14:15:41 info: ________________________________________
+2024-09-05 14:15:41 info: Response summarized: Could you please specify what you'll primarily use the PC for? For example, gaming, general use, work, or something else? This will help me recommend the best components for your needs. kubpom! 💻🖥️🔧
+2024-09-05 14:15:41 info: summaryResponse Sucess load.
+2024-09-05 14:26:47 info: 
+2024-09-05 14:26:49 info: ----------------------------------------
+2024-09-05 14:26:49 info: Server started and listening on port 8000
+2024-09-05 14:26:49 info: ----------------------------------------
+2024-09-05 14:27:03 info: Events received: [{"type":"message","message":{"type":"text","id":"524606629732680147","quoteToken":"UJNQbLUuzgsrew241affwih7lMeI3mZTG6B5uE-VLuolJvjUtF-_BdNEIfy9TaamqI92ZcfOayvXPVYu0DCOuFLpoS4W5IfwhJi2906AP_dZJROjjKEGB5vpKQXv3xCeLNegWPSdDcrejFnJ-u1QiQ","text":" Hi"},"webhookEventId":"01J70H8PYWYRGTBK148BPX4JZM","deliveryContext":{"isRedelivery":false},"timestamp":1725521222177,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"4810af353a7c4856879781d548accd6c","mode":"active"}]
+2024-09-05 14:27:03 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:27:04 info: Agent initialized successfully
+2024-09-05 14:27:04 info: agent Success load.
+2024-09-05 14:27:05 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:27:05 info: User input:  Hi
+2024-09-05 14:27:05 info: Response: Hello! How can I assist you today? kubpom!
+2024-09-05 14:27:05 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:27:05 info: responseText Success load.
+2024-09-05 14:27:05 info: my context is : no mention
+2024-09-05 14:27:06 info: ________________________________________
+2024-09-05 14:27:06 info: Response summarized: Hello! How can I assist you today? kubpom!
+2024-09-05 14:27:06 info: summaryResponse Success load.
+2024-09-05 14:27:09 info: Events received: [{"type":"message","message":{"type":"text","id":"524606641258889556","quoteToken":"BnRrMLJzwA0rCOmKU9D0tEIDQgK6O_coGp5xigZ8vPk26SkQXf8xoNpHGEJUa-EMzsJ85XD1b6kA4wW2s4g9J2ttDSedsWR5ehTj0nT70oWO8PEzkupfAYoQu1GAHGCwORrDX1RNJNCG0q2T1IZ14g","text":"I want PC"},"webhookEventId":"01J70H8XFQK8T0NVJDV44G0G7J","deliveryContext":{"isRedelivery":false},"timestamp":1725521229101,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6bbbad33ad664aeeb6b47c125ddb1607","mode":"active"}]
+2024-09-05 14:27:09 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:27:09 info: agent Success load.
+2024-09-05 14:27:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:27:11 info: User input: I want PC
+2024-09-05 14:27:11 info: Response: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom!
+2024-09-05 14:27:11 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:27:11 info: responseText Success load.
+2024-09-05 14:27:11 info: my context is : no mention
+2024-09-05 14:27:12 info: ________________________________________
+2024-09-05 14:27:12 info: Response summarized: What type of PC are you looking for? Are you interested in a gaming PC, a general-use PC, a work PC, or a high-end PC? Let me know your preferences, and I'll help you assemble the right specifications! kubpom! 💻🖥️🔧
+2024-09-05 14:27:12 info: summaryResponse Success load.
+2024-09-05 14:27:40 info: Events received: [{"type":"message","message":{"type":"text","id":"524606692731126276","quoteToken":"vK60rDKMlX-leLahYKolqk6zBK-iEZ1E_ioRjBxAYXMpi1o58YkNObvMz6tJKJqxPfKZZbPMSZ2Abbzh4KTZXgDdk4g0iHm0dqjIfMy6ocU1tXUo6C041dEaRxQtyP0sLNRNH5wGT0hQ_LmIXaqDjA","text":"gaming PC"},"webhookEventId":"01J70H9VQGTRX412SBVMBJEH63","deliveryContext":{"isRedelivery":false},"timestamp":1725521259763,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"2224fc3e385744ddaa54e4e4c9b43f7c","mode":"active"}]
+2024-09-05 14:27:41 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:27:41 info: agent Success load.
+2024-09-05 14:27:42 info: ****************************************
+2024-09-05 14:27:42 info: Query Detection: gaming PC
+2024-09-05 14:27:42 info: Tool Call: {
+  "id": "call_6eDCDE4DcvX2agiVY1LklBYK",
+  "name": "vector_index_Type_PC_-_Type_Gaming_-_Computer_Set",
+  "input": {
+    "query": "gaming PC"
+  }
+}
+2024-09-05 14:27:42 info: ****************************************
+2024-09-05 14:27:56 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:27:56 info: User input: gaming PC
+2024-09-05 14:27:56 info: Response: Here are some gaming PC options for you:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) 3200MHz
+   - **SSD**: WD BLUE SN580 500GB NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: WD BLACK SN770 500GB NVMe M.2
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+These configurations are suitable for gaming, featuring powerful CPUs and GPUs, sufficient RAM, and fast SSD storage. Let me know if you need more information or assistance! kubpom!
+2024-09-05 14:27:56 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:27:56 info: responseText Success load.
+2024-09-05 14:27:56 info: my context is : gaming PC
+2024-09-05 14:28:05 info: ________________________________________
+2024-09-05 14:28:05 info: Response summarized: Here are some gaming PC options for you:
+
+1. **COMPUTERSET JIB MARU-2407013**
+   - **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W
+   - **CASE**: GALAX REVOLUTION 06 (BLACK)
+   - **Total Price**: 35,600 THB
+
+2. **COMPUTERSET JIB MARU-2407004**
+   - **CPU**: INTEL CORE I5-12400F 2.5 GHz
+   - **Motherboard**: ASUS PRIME H610M-K D4 (DDR4)
+   - **GPU**: ASUS DUAL GEFORCE RTX 4060 EVO OC EDITION 8GB
+   - **RAM**: CORSAIR VENGEANCE LPX 16GB (8GBx2) 3200MHz
+   - **SSD**: WD BLUE SN580 500GB NVMe M.2
+   - **PSU**: THERMALTAKE SMART BX1 650W
+   - **CASE**: THERMALTAKE S100 TEMPERED GLASS (BLACK)
+   - **Total Price**: 24,540 THB
+
+3. **COMPUTERSET JIB MARU-2407008**
+   - **CPU**: INTEL CORE I5-13400F 2.5 GHz
+   - **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+   - **GPU**: MSI GEFORCE RTX 4060 VENTUS 2X BLACK 8G OC
+   - **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+   - **SSD**: WD BLACK SN770 500GB NVMe M.2
+   - **PSU**: CORSAIR CX650 - 650W 80 PLUS BRONZE
+   - **CASE**: ANTEC NX292 (BLACK)
+   - **Total Price**: 29,700 THB
+
+These configurations are suitable for gaming, featuring powerful CPUs and GPUs, sufficient RAM, and fast SSD storage. Let me know if you need more information or assistance! 💻🎮🖥️
+2024-09-05 14:28:05 info: summaryResponse Success load.
+2024-09-05 14:28:19 info: Events received: [{"type":"message","message":{"type":"text","id":"524606757910610674","quoteToken":"hUYnvGhNSrTbRr5wHz7ZC-5sJloaJrj3wOQaIgmGVHlh5rubn-_IXooNYVCjUSVeoCcK3ADSI1pEsRx2qrWO9TBYR5hwYdznAn0DVFJ0BUprDR7mJ70h4g0LKSyuPZgktpcwcCtCbZrlemgjn23ojg","text":"First Choice."},"webhookEventId":"01J70HB1ATFRDRJKK2Q853CFNX","deliveryContext":{"isRedelivery":false},"timestamp":1725521298602,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"f8eabc5af0304accb64a126dcc2947d9","mode":"active"}]
+2024-09-05 14:28:19 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:28:19 info: agent Success load.
+2024-09-05 14:28:23 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:28:23 info: User input: First Choice.
+2024-09-05 14:28:23 info: Response: Great choice! Here are the details for your selected gaming PC:
+
+### **COMPUTERSET JIB MARU-2407013**
+- **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+- **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+- **PSU**: THERMALTAKE SMART BX1 650W
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 35,600 THB
+
+Would you like to proceed with the purchase, or do you need any additional components or accessories? Let me know how I can assist you further! kubpom!
+2024-09-05 14:28:23 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:28:23 info: responseText Success load.
+2024-09-05 14:28:23 info: my context is : no mention
+2024-09-05 14:28:26 info: ________________________________________
+2024-09-05 14:28:26 info: Response summarized: Great choice! Here are the details for your selected gaming PC:
+
+### **COMPUTERSET JIB MARU-2407013**
+- **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+- **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+- **PSU**: THERMALTAKE SMART BX1 650W
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 35,600 THB
+
+Would you like to proceed with the purchase, or do you need any additional components or accessories? Let me know how I can assist you further! kubpom! 💻🖥️🎮
+2024-09-05 14:28:26 info: summaryResponse Success load.
+2024-09-05 14:28:41 info: Events received: [{"type":"message","message":{"type":"text","id":"524606794736861506","quoteToken":"CEIVaqCM_8EwcJtJqu8X40SaLZ7QUNusXq2okKmoMGdlVY-GwsJXmuDej5W7BHgMVRNzW-CPMAr32LsI6UvPxSKBqV0CrEDYUksn03jHdMm6dZoNqv45ib9F_pYRuib7el-CuRTZJUSUP0xtOtsSdw","text":"Can change CPU?"},"webhookEventId":"01J70HBQ2GX4ETZJWXQX8TCRTP","deliveryContext":{"isRedelivery":false},"timestamp":1725521320527,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"7f7bbeda083b4ae38af6356f84251dd3","mode":"active"}]
+2024-09-05 14:28:41 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:28:41 info: agent Success load.
+2024-09-05 14:28:43 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:28:43 info: User input: Can change CPU?
+2024-09-05 14:28:43 info: Response: What CPU would you like to change to? Please provide the specific model or specifications you're interested in, and I'll check for compatibility with the rest of the components! kubpom!
+2024-09-05 14:28:43 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:28:43 info: responseText Success load.
+2024-09-05 14:28:43 info: my context is : no mention
+2024-09-05 14:28:44 info: ________________________________________
+2024-09-05 14:28:44 info: Response summarized: What CPU would you like to change to? Please provide the specific model or specifications you're interested in, and I'll check for compatibility with the rest of the components! kubpom! 💻🔧⚙️
+2024-09-05 14:28:44 info: summaryResponse Success load.
+2024-09-05 14:29:24 info: Events received: [{"type":"message","message":{"type":"text","id":"524606867616825637","quoteToken":"zHU5-3Q5RWbHW1KtKMDfJPdZnvgjPwF1DV9cw2k7a_b3YUR4cTY7vvPQNf6EoFvsG68IKWkC5vWiQlWLmQuHVOp3GbR-DSijJ5PdmbuTIgMy4S5nJLqtTto4tjkNlKWJ_OI6AkJ2SQEd6zDw0Qrfrw","text":"can list cpu but have compatible another hardware."},"webhookEventId":"01J70HD1EZVHGY5NHWHX08VSZN","deliveryContext":{"isRedelivery":false},"timestamp":1725521364005,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"a5a6b334c9c24689893e0611306a1f5f","mode":"active"}]
+2024-09-05 14:29:25 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:29:25 info: agent Success load.
+2024-09-05 14:29:26 info: ****************************************
+2024-09-05 14:29:26 info: Query Detection: compatible CPUs for gaming
+2024-09-05 14:29:26 info: Tool Call: {
+  "id": "call_NSUB50zQRKscM2IRmFoqWjx4",
+  "name": "vector_index_Hardware_-_CPU_-_CPU",
+  "input": {
+    "query": "compatible CPUs for gaming"
+  }
+}
+2024-09-05 14:29:26 info: ****************************************
+2024-09-05 14:29:41 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:29:41 info: User input: can list cpu but have compatible another hardware.
+2024-09-05 14:29:41 info: Response: Here are some compatible CPU options for your gaming PC, along with their prices and specifications:
+
+### **AMD CPUs:**
+1. **AMD RYZEN 5 5600G**
+   - **Price**: 4,880 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+
+2. **AMD RYZEN 5 4600G**
+   - **Price**: 3,590 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+
+3. **AMD RYZEN 5 5500**
+   - **Price**: 3,390 THB
+   - **Integrated Graphics**: No (requires a dedicated GPU)
+   - **TDP**: 65 W
+
+4. **AMD RYZEN 7 5700G**
+   - **Price**: 6,290 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+
+5. **AMD RYZEN 7 7700**
+   - **Price**: 9,900 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+
+### **Intel CPUs:**
+1. **INTEL CORE I3-14100**
+   - **Price**: 5,690 THB
+   - **Integrated Graphics**: Intel UHD Graphics 730
+   - **TDP**: 60 W
+
+2. **INTEL CORE I3-12100**
+   - **Price**: 4,050 THB
+   - **Integrated Graphics**: Intel UHD Graphics 730
+   - **TDP**: 60 W
+
+3. **INTEL CORE I5-14400**
+   - **Price**: 8,990 THB
+   - **Integrated Graphics**: Intel UHD Graphics 730
+   - **TDP**: 65 W
+
+4. **INTEL CORE I5-12400**
+   - **Price**: 5,290 THB
+   - **Integrated Graphics**: Intel UHD Graphics 730
+   - **TDP**: 65 W
+
+5. **INTEL CORE I7-12700**
+   - **Price**: 10,500 THB
+   - **Integrated Graphics**: Intel UHD Graphics 770
+   - **TDP**: 65 W
+
+### Summary
+For gaming, CPUs with integrated graphics like the AMD Ryzen 5 5600G and Intel Core i3/i5 models are great choices if you don't have a dedicated GPU. If you plan to use a dedicated graphics card, the Ryzen 5 5500, Ryzen 7 5700, and Intel Core i5/i7 models will provide excellent performance.
+
+Let me know which CPU you'd like to choose, or if you need more information! kubpom!
+2024-09-05 14:29:41 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:29:41 info: responseText Success load.
+2024-09-05 14:29:41 info: my context is : compatible CPUs for gaming
+2024-09-05 14:29:49 info: ________________________________________
+2024-09-05 14:29:49 info: Response summarized: Here are some compatible CPU options for your gaming PC, along with their prices and specifications:
+
+### **AMD CPUs:**
+1. **AMD RYZEN 5 5600G**
+   - **Price**: 4,880 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+
+2. **AMD RYZEN 5 4600G**
+   - **Price**: 3,590 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+
+3. **AMD RYZEN 5 5500**
+   - **Price**: 3,390 THB
+   - **Integrated Graphics**: No (requires a dedicated GPU)
+   - **TDP**: 65 W
+
+4. **AMD RYZEN 7 5700G**
+   - **Price**: 6,290 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+
+5. **AMD RYZEN 7 7700**
+   - **Price**: 9,900 THB
+   - **Integrated Graphics**: AMD Radeon Graphics
+   - **TDP**: 65 W
+
+### **Intel CPUs:**
+1. **INTEL CORE I3-14100**
+   - **Price**: 5,690 THB
+   - **Integrated Graphics**: Intel UHD Graphics 730
+   - **TDP**: 60 W
+
+2. **INTEL CORE I3-12100**
+   - **Price**: 4,050 THB
+   - **Integrated Graphics**: Intel UHD Graphics 730
+   - **TDP**: 60 W
+
+3. **INTEL CORE I5-14400**
+   - **Price**: 8,990 THB
+   - **Integrated Graphics**: Intel UHD Graphics 730
+   - **TDP**: 65 W
+
+4. **INTEL CORE I5-12400**
+   - **Price**: 5,290 THB
+   - **Integrated Graphics**: Intel UHD Graphics 730
+   - **TDP**: 65 W
+
+5. **INTEL CORE I7-12700**
+   - **Price**: 10,500 THB
+   - **Integrated Graphics**: Intel UHD Graphics 770
+   - **TDP**: 65 W
+
+### Summary
+For gaming, CPUs with integrated graphics like the AMD Ryzen 5 5600G and Intel Core i3/i5 models are great choices if you don't have a dedicated GPU. If you plan to use a dedicated graphics card, the Ryzen 5 5500, Ryzen 7 5700, and Intel Core i5/i7 models will provide excellent performance.
+
+Let me know which CPU you'd like to choose, or if you need more information! kubpom! 💻🖥️🎮
+2024-09-05 14:29:49 info: summaryResponse Success load.
+2024-09-05 14:30:21 info: Events received: [{"type":"message","message":{"type":"text","id":"524606962726600823","quoteToken":"Mt4GpSW-NMIQcgcoJjQgm2xMXfJMctK7FWzgd5yY6meWfCFVncStmG1-BkLJMUQHF2JEWY8-dmGmKiJDKMNKRdDMzyBYrHY9LtzOUM9TNURk7gwT3kfeHawKyjSFms1UcvKVT1OUQbHCdj9_D61_6A","text":"I choose 5th."},"webhookEventId":"01J70HERKYC27MD1DA4QMRP97Z","deliveryContext":{"isRedelivery":false},"timestamp":1725521420806,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"43f9bf2cc53e459aa9835f2aac57f407","mode":"active"}]
+2024-09-05 14:30:21 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:30:21 info: agent Success load.
+2024-09-05 14:30:25 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:30:25 info: User input: I choose 5th.
+2024-09-05 14:30:25 info: Response: You've chosen the **INTEL CORE I7-12700** CPU. Here are the details:
+
+### **Selected CPU: INTEL CORE I7-12700**
+- **Price**: 10,500 THB
+- **Integrated Graphics**: Intel UHD Graphics 770
+- **TDP**: 65 W
+
+### Updated Gaming PC Configuration:
+- **CPU**: INTEL CORE I7-12700
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+- **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+- **PSU**: THERMALTAKE SMART BX1 650W
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 46,100 THB (35,600 THB + 10,500 THB for the CPU)
+
+Would you like to proceed with this configuration, or do you need any further adjustments or additional components? Let me know how I can assist you! kubpom!
+2024-09-05 14:30:25 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:30:25 info: responseText Success load.
+2024-09-05 14:30:25 info: my context is : no mention
+2024-09-05 14:30:29 info: ________________________________________
+2024-09-05 14:30:29 info: Response summarized: You've chosen the **INTEL CORE I7-12700** CPU. Here are the details:
+
+### **Selected CPU: INTEL CORE I7-12700**
+- **Price**: 10,500 THB
+- **Integrated Graphics**: Intel UHD Graphics 770
+- **TDP**: 65 W
+
+### Updated Gaming PC Configuration:
+- **CPU**: INTEL CORE I7-12700
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+- **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+- **PSU**: THERMALTAKE SMART BX1 650W
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 46,100 THB (35,600 THB + 10,500 THB for the CPU)
+
+Would you like to proceed with this configuration, or do you need any further adjustments or additional components? Let me know how I can assist you! 💻🖥️🔧
+2024-09-05 14:30:29 info: summaryResponse Success load.
+2024-09-05 14:31:24 info: Events received: [{"type":"message","message":{"type":"text","id":"524607067802829010","quoteToken":"br5ZTtvUugOblZncQ07tMTLYV0ZlEVTvIeVzEmhxg7XtAcwOR_7kB_JYYrkLlmie7cryo2xA5mNRT9iBqo7FlB5-vxE2o23UOjdfyj2n3Hif7DlynhX1UEzN_uh24oPiehCm53JzUEUD2Ur0PLT_mQ","text":"Total price correct?"},"webhookEventId":"01J70HGNTZF4EJ9Z38P5HMPH24","deliveryContext":{"isRedelivery":false},"timestamp":1725521483275,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"9b34f38d68c14f97bf832d2d63b58928","mode":"active"}]
+2024-09-05 14:31:24 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:31:24 info: agent Success load.
+2024-09-05 14:31:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:31:27 info: User input: Total price correct?
+2024-09-05 14:31:27 info: Response: Let's break down the total price step-by-step:
+
+1. **Original Price of the Gaming PC**: 35,600 THB
+2. **Price of the INTEL CORE I7-12700 CPU**: 10,500 THB
+
+### Total Price Calculation:
+- **Total Price** = Original Price + CPU Price
+- **Total Price** = 35,600 THB + 10,500 THB = 46,100 THB
+
+So, the total price of the updated gaming PC configuration is indeed **46,100 THB**. 
+
+If everything looks good, would you like to proceed with the purchase, or do you have any other questions? kubpom!
+2024-09-05 14:31:27 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:31:27 info: responseText Success load.
+2024-09-05 14:31:27 info: my context is : no mention
+2024-09-05 14:31:28 info: ________________________________________
+2024-09-05 14:31:28 info: Response summarized: Let's break down the total price step-by-step:
+
+1. **Original Price of the Gaming PC**: 35,600 THB
+2. **Price of the INTEL CORE I7-12700 CPU**: 10,500 THB
+
+### Total Price Calculation:
+- **Total Price** = Original Price + CPU Price
+- **Total Price** = 35,600 THB + 10,500 THB = 46,100 THB
+
+So, the total price of the updated gaming PC configuration is indeed **46,100 THB**. 
+
+If everything looks good, would you like to proceed with the purchase, or do you have any other questions? kubpom! 💻🖥️⚙️
+2024-09-05 14:31:28 info: summaryResponse Success load.
+2024-09-05 14:31:43 info: Events received: [{"type":"message","message":{"type":"text","id":"524607100937830615","quoteToken":"SQgutW0CZ0iuDqlNtgluzzmIi3Gik0R6VBomEI1VqK5nVMUzGw0qQGX9V3RgI5m9-8bSx7E38vX2L-VwVPklhpFlTGZglj0pjZbUU454DTUXQ3omsTN7AYeUclMXbt5ySA412EoIARIkSXb63xxVcg","text":"you remove old cpu price?"},"webhookEventId":"01J70HH95BZRY5FWHP0CHZJPKQ","deliveryContext":{"isRedelivery":false},"timestamp":1725521503129,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6e95355a5d0a412ca85503a07e6deb43","mode":"active"}]
+2024-09-05 14:31:44 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:31:44 info: agent Success load.
+2024-09-05 14:31:48 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:31:48 info: User input: you remove old cpu price?
+2024-09-05 14:31:48 info: Response: You're correct! I should have removed the price of the old CPU from the original total. Let's clarify the pricing:
+
+### Updated Gaming PC Configuration:
+- **Original Price of the Gaming PC (without CPU)**: 35,600 THB
+- **Price of the Old CPU**: (not specified, but we need to remove it)
+- **Price of the INTEL CORE I7-12700 CPU**: 10,500 THB
+
+### Correct Total Price Calculation:
+1. **Original Price of the Gaming PC**: 35,600 THB
+2. **Remove the price of the old CPU**: (Assuming the old CPU was included in the original price)
+3. **Add the price of the new CPU**: 10,500 THB
+
+Since the original price already included the old CPU, we need to adjust it accordingly. 
+
+### Final Total Price:
+- **Total Price** = (Original Price - Old CPU Price) + New CPU Price
+- **Total Price** = (35,600 THB - Old CPU Price) + 10,500 THB
+
+Unfortunately, I don't have the exact price of the old CPU to make the final calculation. 
+
+If you want, I can look up the price of the old CPU for you, or you can let me know if you have that information. Please confirm how you'd like to proceed! kubpom!
+2024-09-05 14:31:48 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:31:48 info: responseText Success load.
+2024-09-05 14:31:48 info: my context is : no mention
+2024-09-05 14:31:54 info: ________________________________________
+2024-09-05 14:31:54 info: Response summarized: You're correct! I should have removed the price of the old CPU from the original total. Let's clarify the pricing:
+
+### Updated Gaming PC Configuration:
+- **Original Price of the Gaming PC (without CPU)**: 35,600 THB
+- **Price of the Old CPU**: (not specified, but we need to remove it)
+- **Price of the INTEL CORE I7-12700 CPU**: 10,500 THB
+
+### Correct Total Price Calculation:
+1. **Original Price of the Gaming PC**: 35,600 THB
+2. **Remove the price of the old CPU**: (Assuming the old CPU was included in the original price)
+3. **Add the price of the new CPU**: 10,500 THB
+
+Since the original price already included the old CPU, we need to adjust it accordingly. 
+
+### Final Total Price:
+- **Total Price** = (Original Price - Old CPU Price) + New CPU Price
+- **Total Price** = (35,600 THB - Old CPU Price) + 10,500 THB
+
+Unfortunately, I don't have the exact price of the old CPU to make the final calculation. 
+
+If you want, I can look up the price of the old CPU for you, or you can let me know if you have that information. Please confirm how you'd like to proceed! 💻🖥️🔧
+2024-09-05 14:31:54 info: summaryResponse Success load.
+2024-09-05 14:32:24 info: Events received: [{"type":"message","message":{"type":"text","id":"524607168985694741","quoteToken":"ivrTlZCXIV5Xa8WoVxjBcwRPS4rzsw2q9CUlfUvPncFMGtPxaLeytccLBBTnhaEQmL2ytExzzI7GK6cAlu332jIMu_24Ucx_fs7LXg7AxZsEWYB6_M7QnNQ9_8DaJwW7hEtMbyRyuQBS82qporlCBw","text":"### **COMPUTERSET JIB MARU-2407013**\n- **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz\n- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)\n- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB\n- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz\n- **SSD**: HIKSEMI FUTURE 512GB NVMe M.2\n- **PSU**: THERMALTAKE SMART BX1 650W\n- **CASE**: GALAX REVOLUTION 06 (BLACK)\n- **Total Price**: 35,600 THB\n\nis you message."},"webhookEventId":"01J70HJGX6X0VYY9A89BE2M6WG","deliveryContext":{"isRedelivery":false},"timestamp":1725521543690,"source":{"type":"user","userId":"U0bfc5d4a8094604989d2a42a407db1f1"},"replyToken":"6b23ca86cfc24526ad36a51bd5ff3d1b","mode":"active"}]
+2024-09-05 14:32:24 info: Loading animation request accepted. Waiting for processing.
+2024-09-05 14:32:24 info: agent Success load.
+2024-09-05 14:32:31 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:32:31 info: User input: ### **COMPUTERSET JIB MARU-2407013**
+- **CPU**: INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz
+- **Motherboard**: MSI B760M GAMING PLUS WIFI (SOCKET LGA 1700 DDR5 MICRO-ATX)
+- **GPU**: GALAX GEFORCE RTX 4060 TI 8GB
+- **RAM**: CORSAIR VENGEANCE DDR5 16GB (8GBx2) 5200MHz
+- **SSD**: HIKSEMI FUTURE 512GB NVMe M.2
+- **PSU**: THERMALTAKE SMART BX1 650W
+- **CASE**: GALAX REVOLUTION 06 (BLACK)
+- **Total Price**: 35,600 THB
+
+is you message.
+2024-09-05 14:32:31 info: Response: Thank you for your patience! Based on the original configuration you provided, the total price of **35,600 THB** includes the **INTEL CORE I5-14400F** CPU.
+
+### Here's the breakdown:
+1. **Original Price of the Gaming PC**: 35,600 THB (includes the I5-14400F CPU)
+2. **Price of the New CPU (I7-12700)**: 10,500 THB
+
+### Correct Total Price Calculation:
+- **Total Price** = (Original Price - Price of Old CPU) + Price of New CPU
+- **Total Price** = (35,600 THB - Price of I5-14400F) + 10,500 THB
+
+Since the price of the I5-14400F is included in the original total, we need to remove it from the total price.
+
+### Final Calculation:
+- **Total Price** = 35,600 THB - (Price of I5-14400F) + 10,500 THB
+
+To finalize the total price, I need the price of the **I5-14400F** CPU. Since it was included in the original total, we can assume it was part of the 35,600 THB.
+
+If we assume the I5-14400F is priced at around 8,000 THB (for example), the calculation would be:
+- **Total Price** = 35,600 THB - 8,000 THB + 10,500 THB = 38,100 THB
+
+Please confirm the price of the I5-14400F or let me know how you'd like to proceed! kubpom!
+2024-09-05 14:32:31 info: ++++++++++++++++++++++++++++++++++++++++
+2024-09-05 14:32:31 info: responseText Success load.
+2024-09-05 14:32:31 info: my context is : no mention
+2024-09-05 14:32:37 info: ________________________________________
+2024-09-05 14:32:37 info: Response summarized: Thank you for your patience! Based on the original configuration you provided, the total price of **35,600 THB** includes the **INTEL CORE I5-14400F** CPU.
+
+### Here's the breakdown:
+1. **Original Price of the Gaming PC**: 35,600 THB (includes the I5-14400F CPU)
+2. **Price of the New CPU (I7-12700)**: 10,500 THB
+
+### Correct Total Price Calculation:
+- **Total Price** = (Original Price - Price of Old CPU) + Price of New CPU
+- **Total Price** = (35,600 THB - Price of I5-14400F) + 10,500 THB
+
+Since the price of the I5-14400F is included in the original total, we need to remove it from the total price.
+
+### Final Calculation:
+- **Total Price** = 35,600 THB - (Price of I5-14400F) + 10,500 THB
+
+To finalize the total price, I need the price of the **I5-14400F** CPU. Since it was included in the original total, we can assume it was part of the 35,600 THB.
+
+If we assume the I5-14400F is priced at around 8,000 THB (for example), the calculation would be:
+- **Total Price** = 35,600 THB - 8,000 THB + 10,500 THB = 38,100 THB
+
+Please confirm the price of the I5-14400F or let me know how you'd like to proceed! kubpom! 💻🖥️🔧
+2024-09-05 14:32:37 info: summaryResponse Success load.
+2024-09-05 14:33:07 info: 
