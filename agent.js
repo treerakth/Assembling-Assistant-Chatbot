@@ -144,8 +144,13 @@ function GeneralTools() {
     });
 }
 async function initializeAgent() {
+    console.log('Initializing agent...');
+    console.log('apiKey: ' + process.env.OPENAI_API_KEY);
     try {
-        Settings.llm = new OpenAI({ model: "gpt-4o-mini" });
+        Settings.llm = new OpenAI({
+            model: "gpt-4.5-preview",
+            apiKey: process.env.OPENAI_API_KEY
+        });
         Settings.callbackManager.on("llm-tool-call", (event) => {
             logger.info(`LLM Tool Call: ${JSON.stringify(event.detail.payload)}`);
             tool_name = event.detail.payload.toolCall.name;
